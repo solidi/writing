@@ -88,7 +88,7 @@ When the session closed I became so compelled to say something as an engineering
 
 > > How does the developer community push Google to make Android Studio’s new Android project setup to default include… Kotlin support?
 
-Lets remember Google is actively fixing the wrongs that they have caused and now Java 8 is actually here. Java continues to be the default and Google is standing behind it prominently.
+Let's remember Google is actively fixing the wrongs that they have caused and now Java 8 is actually here. Java continues to be the default and Google is standing behind it prominently.
 
 Christina ended at the forty minute mark and there was no time for Q&A.
 
@@ -100,23 +100,23 @@ I repeated that same question to the engineer sitting next to me. He looked at m
 
 My compulsion of this unanswered question and Christina’s focus had driven me so much to write and share this experience here. Outside of business dealing and internal communication, I rarely do write.
 
-I have, in the twelve years developing software and somewhere in the middle started to manage engineering teams, have never seen anything quite like it. I can’t remember a meeting, one on one, stakeholder meeting or whatever… and felt like I did. I’ve experienced a lot of things over the years in business. I’ve employed the usual management tactics of suppressing and letting it “soak”. Other times I’d just let it go.
+I have, in the twelve years developing software and somewhere in the middle started to manage engineering teams, have never seen anything quite like it. I can’t remember a meeting, one on one, stakeholder meetings or whatever… and felt like I did. I’ve experienced a lot of things over the years in business. I’ve employed the usual management tactics of suppressing and letting it “soak”. Other times I’d just let it go.
 
 I’m still learning.
 
-But this was just an odd feeling, as if I wronged every team that I’ve lead. Did I wrong the team that asked about Kotlin?
+But this was just an odd feeling, as if I wronged every team that I lead. Did I wrong the team that asked about Kotlin?
 
 ## Adoption?
 
-The question — to default include Kotlin support — is one that needs to continued to be asked. I believe it is the only question to be answered. It could be the definitive answer of Kotlin adoption.
+The question — to default include Kotlin support — is one that needs to continue to be asked. I believe it is the only question to be answered. It could be the definitive answer of Kotlin adoption.
 
-Remember, Google chose Java because there were more fish in the sea for initial adoption. Just think of all those Java examples that Google would need to update.
+Remember, Google choose Java because there were more fish in the sea for initial adoption. Just think of all those Java examples that Google would need to update.
 
 So now that Christina had equipped engineers with fundamentals, and Google had green-lit Kotlin, how does the application of those fundamentals translate to the above to answer the question?
 
 > > More adoption?
 
-If the answer is yes, this has many more questions than answers. The fundamental problem is always the following. What is the problem you are trying to solve? Is it the right problem? Why? Yeah, boiler plate is a problem but what else?
+If the answer is yes, this has many more questions than answers. The fundamental problem is always the following. What is the problem you are trying to solve? Is it the right problem? Why? Yeah, boilerplate is a problem but what else?
 
 From what I heard from many conversations is that a main driver of Kotlin is developer happiness. Google even drops words like enjoyable and fun in their decision to make it official. Hell, even the method keywords in Kotlin are fun.
 
@@ -170,9 +170,9 @@ In my brief review of the Kotlin language, there is some blazing fast support in
 
 There are magical wires that are optimized.
 
-The argument I’ve heard is that engineers should only be optimizing the “hard” parts. The “efficiency-must” parts. This is a very strong argument. But with the many coding exercises I’ve been in… Google included, the ask “What is the time/complexity of this code you wrote. Can you do better?”. On Kotlin code, what is the answer? “shrugs, depends. I don’t know.”. That could be an acceptable answer.
+The argument I’ve heard is that engineers should only be optimizing the “hard” parts. The “efficiency-must” parts. This is a very strong argument. But with the many coding exercises I’ve been in… Google included, ask “What is the time/complexity of this code you wrote. Can you do better?”. On Kotlin code, what is the answer? “shrugs, depends. I don’t know.”. That could be an acceptable answer.
 
-Is it acceptable? “Okay, lets switch back to Java [style] for a second to answer…”
+Is it acceptable? “Okay, let's switch back to Java [style] for a second to answer…”
 
 This is a tough one to answer. Maybe I cannot see it. Maybe I’ve read Programming Pearls and Code Complete too many times and have been brainwashed that engineers who cannot answer these types of rigor questions are immediately worthy for management.
 
@@ -198,7 +198,7 @@ Do you have a testing culture?
 
 I do agree that Kotlin may be able to help catch things sooner, but in a sense what is the cost of that “catch sooner” and how much sooner?
 
-Whether its Java or Kotlin, your code reviews, pair programmings, linting, unit tests, integration tests, end-to-end tests, and other items should be able to check items as far upstream as possible.
+Whether its Java or Kotlin, your code reviews, pair programming, linting, unit tests, integration tests, end-to-end tests, and other items should be able to check items as far upstream as possible.
 
 Kotlin may decrement one to the risk, but again at what cost?
 
@@ -206,7 +206,7 @@ Kotlin may decrement one to the risk, but again at what cost?
 
 Christina’s presentation is one that challenges everyone to the maximum. I really do believe it deserves more attention and that everyone should share it broadly.
 
-I too also like to challenge engineers to the maximum with what we have. But in a meaningful way that is doable. This is why this session resonated so deeply.
+I too also like to challenge engineers to the maximum with what we have. But in a meaningful way that is doable. This is why this session resonate so deeply.
 
 With all this being said, I want to revisit the original question.
 
@@ -240,7 +240,7 @@ It’s the truth. Both languages have their strengths and there will be no clear
 
 Google will have to set a course of direction for Kotlin in some way, and with continued heavy investments in Java and winning battles, the only sure bet is that a course is unclear.
 
-A Kotlin selection for production apps maybe the same as using !!. It is a risk. Perhaps calculated if knowing the costs. However, we should encourage engineers to debate and to set the tone of the future… of Android development.
+A Kotlin selection for production apps may be the same as using !!. It is a risk. Perhaps calculated if knowing the costs. However, we should encourage engineers to debate and to set the tone of the future… of Android development.
 
 > > Management usually holds the stick in the middle. Instead, encourage management to support and raise both ends.
 
