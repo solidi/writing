@@ -7,7 +7,7 @@ Our integrated development environment has introduced user interface improvement
 
 As I was chatting on Workplace with our SVP of Engineering about his new post on Kotlin, our conversation shifted from his trials as a young engineer to how terrifyingly awesome the recent integrated development environment (IDE) experience has become. With thirty plus years under his belt, he had seen many IDE environments from visual to textual and back again.
 
-It goes without saying that the IDE has been and still is the extension of the developer’s hands. The IDE and its tooling are what make developers productive. From the individual to the collective, IDEs have the power to cradle and support larger team efforts. One of the many great examples is what transpired over at Uber. The IDE played a key role to that success.
+It goes without saying that the IDE has been and still is the extension of the developer’s hands. The IDE and its tooling are what make developers productive. From the individual to the collective, IDEs have the power to cradle and support larger team efforts. One of the many great examples is what transpired over at Uber. The IDE played a key role in that success.
 
 While there are many environments to choose from, my focus will revolve around JetBrains’ IntelliJ. I chose IntelliJ because there is an interesting improvement trend unfolding that I’d like to explore in its user interface. We will discuss three recent additions added to IntelliJ 2016.2, 2016.3 and 2018.1. There could be more to come in the 2018 version series.
 
@@ -37,7 +37,7 @@ Their terrifying advanced hotkeys are also true to that pleasure. This is a high
 
 One of my earlier experiences with IntelliJ’s pleasure was in the refactoring tooling. I was a witness to those like Robert Martin (Uncle Bob) and his blazingly fast refactors in such videos as the bowling game kata. The IDE was essentially doing all the work. Extracting, rearranging, and abstracting, all with keyed shortcuts. Simply memorize the shortcuts and where to place the cursor and let the tooling refactor with pleasure.
 
-As with all tools in the IDE, the refactoring tooling changes code that we commit for the better, as long as it is steered with engineering principles. Couple that with great lint tooling, code analysis, and now flow control, and it gives you the power to modify code intelligently and quickly.
+As with all the tools in the IDE, the refactoring tooling changes code that we commit for the better, as long as it is steered with engineering principles. Couple that with great lint tooling, code analysis, and now flow control, and it gives you the power to modify code intelligently and quickly.
 
 In the past few iterations of IntelliJ, JetBrains had introduced new under-the-radar improvements to further the pleasure. JetBrains has labeled them under their “User Interface” improvements section, but I’ll label these as serial code transformations. The first few have been added within the past six to nine months.
 
@@ -53,7 +53,7 @@ It can be difficult to understand the usage of a primitive boolean type. As the 
 
 The decision to disallow a boolean parameter could be dogmatic if the codebase already has other methods using a similar pattern. Also, it depends on the usage. A method that uses a boolean without splitting fundamental two paths way could be acceptable.
 
-Lets say we agreed to add the boolean. How do we fix the developer visibility through the method calls? The answer here is that we do not. IntelliJ solves this problem with a SECTA.
+Let's say we agreed to add the boolean. How do we fix the developer visibility through the method calls? The answer here is that we do not. IntelliJ solves this problem with a SECTA.
 
 Our first SECTA is called a parameter hint. IntelliJ adds visible labeled metadata that doesn’t exist in code. However it appears to be inline code.
 
@@ -73,7 +73,7 @@ Now there is. A recent example was introduced at Google I/O this year at the Int
 
 Hadi Hariri, the host of the I/O session, had introduced the use of code ligatures at previous Kotlin demos. He had now done so at a major developer conference.
 
-Code ligatures have been around for a few years with many IDEs supporting them in some way. Many require the use of plugins. However, none have adopted the ligature to the point of mass popularity, and few have direct support for them. This trend is changing, and it’s coming to a IDE near you.
+Code ligatures have been around for a few years with many IDEs supporting them in some way. Many require the use of plugins. However, none have adopted the ligature to the point of mass popularity, and few have direct support for them. This trend is changing, and it’s coming to an IDE near you.
 
 Code ligatures are different and radical — this new tool transforms code while the developer types the code.
 
@@ -102,7 +102,7 @@ For example, annotations were introduced to help call out and reduce the amount 
 However, IntelliJ improved this concept by taking the next step with automatic inline inference of nullity. Instead of running the tool and committing the annotations in code, it is now dynamic and happening in real time.
 
 
-@NotNull is both inlined and inferred. It does not exist in the code, but is a construct that is handled by the IDE.
+@NotNull is both inline and inferred. It does not exist in the code, but is a construct that is handled by the IDE.
 As seen above, the @NotNull annotation does not exist in code. It appears with an IDE option turned on. As a developer types code, these annotations appear. Nullity checking is now constantly vigilant about changing code.
 
 These are beautiful automatic orchestrations of code analysis. The appearance of the annotation is fascinating.
@@ -133,7 +133,7 @@ What is so wonderful about SECTAs is that there is a possibility to build upon t
 
 ## The Cons Of SECTAs
 
-SECTAs can have very impactful cons. Lets discuss them.
+SECTAs can have very impactful cons. Let's discuss them.
 
 ### Visual noise and clutter
 Having parameter hints throughout the code may make concentration difficult for authors who already have a mental model of the areas of code that they are currently working in. It may visually clutter the workspace and make development less pleasurable.
@@ -160,7 +160,7 @@ With the cons in mind, are serial code transformations a slippery slope to somet
 
 I’m not sure. In many ways, we are moving into the world of “mixed reality” in our code editors, and this is the start. Metadata is laid over text to help us navigate and read transformative and expressive code that may not have been on it’s own or because of a language limitation.
 
-What’s more, it’s not breakpoints, bread crumbing, or code folding that we should question. What we should question is direct assistance on the visual readability and understandability of what we write in real time.
+What’s more, it’s not breakpoints, breadcrumbing, or code folding that we should question. What we should question is direct assistance on the visual readability and understandability of what we write in real time.
 
 We may be fine with serial code transformations if IDEs standardize.
 
