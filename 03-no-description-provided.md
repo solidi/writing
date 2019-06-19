@@ -1,6 +1,6 @@
 # No Description Provided
 
-Some months ago one of my colleagues suggested a book. Out of curiosity I read and completed Sapiens: A Brief History Of Human Kind.
+Some months ago, one of my colleagues suggested a book. Out of curiosity I read and completed Sapiens: A Brief History Of HumanKind.
 
 It was a fascinating read with many points to consider. With themes interweaving throughout the chapters, one theme continued to bubble up that was thought provocative but easy to understand.
 
@@ -16,7 +16,7 @@ As Yuval described free market systems, money and other constructs that are beli
 
 Or do we?
 
-With travels to many other code reviews, something is not quite right. There are no descriptions that cleanly point out the intent of change. For those that do describe the change, they appear messy and inconsistent.
+With travels to many other code reviews, something's not quite right. There are no descriptions that cleanly point out the intent of change. For those that do describe the change, they appear messy and inconsistent.
 
 The value, the glue, is diluted and does not bind well. What’s the value of a pull request when the problem is not described?
 
@@ -62,7 +62,7 @@ Commits lack value if subject titles and descriptions are unclear.
 https://xkcd.com/1296/
 Indeed, there have been numerous posts written about these problems over the years. The most direct solution to non-descriptive commits is to follow the 50/72 rule. This rule encourages subject and body messaging delivered in a specific way.
 
-However most engineers do not follow 50/72. Some engineers think its okay to place periods at the end of subject titles. Their commits are riddled with ticket systems and for some seasoned engineers these commits lie outright without malicious intent. Commit messages are almost too hard to get right. Writing the code was easier.
+However most engineers do not follow 50/72. Some engineers think it's okay to place periods at the end of subject titles. Their commits are riddled with ticket systems and for some seasoned engineers these commits lie outright without malicious intent. Commit messages are almost too hard to get right. Writing the code was easier.
 
 There is a philosophical argument that questions the value of the commit even if written cleanly. Should we care for the steps or should we care only for the pull request merge, as long as it is well shaped and not overbearing for any one engineer to understand?
 
