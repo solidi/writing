@@ -16,7 +16,7 @@ The springboard pattern is known as a visual design pattern. Mobile operating sy
 
 
 > The springboard visual design pattern used on app launchers.
-Our introductory story and its animation board also fits this model. We can think of the animation board as the contained screen launcher and each animation as an contained app with its configurations.
+Our introductory story and its animation board also fits this model. We can think of the animation board as the contained screen launcher and each animation as a contained app with its configurations.
 
 When applied to software development, the springboard pattern acts as a guardrail to develop features in isolated pieces that are easily demonstrable on the platform. There are many benefits to engineering and product. The pattern is a way to operationally execute both iteratively and incrementally.
 
@@ -53,7 +53,7 @@ Finally, a natural phenomenon of the springboard pattern can reveal and produce 
 ## Product Ideation And Engineer Efficiency
 Opportunities happen when products are deconstructed into independent pieces. In the case of the introduction example, there appeared to be an unrealized product value in the use of an animation board.
 
-Stakeholders refer to the features of their products as cohesive constructs and use vocabulary to describe them. Wouldn’t it be powerful to immedaitely find the feature without friction? The springboard gives us a learning library and allows for cross pollination between engineers and gives us a tool to quickly locate how each feature was built.
+Stakeholders refer to the features of their products as cohesive constructs and use vocabulary to describe them. Wouldn’t it be powerful to immediately find the feature without friction? The springboard gives us a learning library and allows for cross pollination between engineers and gives us a tool to quickly locate how each feature was built.
 
 
 A simple springboard example with domain language.
@@ -68,7 +68,7 @@ Recently in the Android ecosystem, Google has launched Instant Apps and discusse
 
 Another example on Android is the concept of isolated activities. Each activity should be able to launched in isolation taking only what it needs to survive an experience. If features are built in isolated activities, the software acquire pieces of an application that can be easily reconfigured to taste.
 
-Finally with the latest versions of the Android, its tooling have significantly improved. Independent modules allow for building abilities which significantly decrease build time. Setups that use flavored code organization may cause building delays especially if the product dimensions are extensive.
+Finally with the latest versions of Android, its tooling have significantly improved. Independent modules allow for building abilities which significantly decrease build time. Setups that use flavored code organization may cause building delays especially if the product dimensions are extensive.
 
 Before we conclude, there are drawbacks to consider.
 
@@ -78,14 +78,14 @@ There are possible drawbacks to this mode of execution. The team will have to ma
 The springboard approach may…
 
 1. Violate YAGNI — “You ain’t gonna need it”. The team should build only what they need, and not a single line more.
-1. Accelerate decisions — the best architectural decisions are ones that are deferred. Operating this way may force harder code decisions sooner.
+1. Accelerate decisions — the best architectural decisions are the ones that are deferred. Operating this way may force harder code decisions sooner.
 1. Increase complexity — additional logic to support layering and modularization may increase time to contribute and slightly longer development time.
 However, keep in mind that the cost paid will most certainly provide a cost benefit for code that is consistent and adaptable. Adaptability needs room to breathe and the code and products deserve that breathing room.
 
 Now let’s wrap this up.
 
 ## Spring Into Action
-Developing for isolation and modularity is a practice all engineers should strive for. However there had not been a pragmatic approach to these concepts and a way to describe how to execute on them. It is assumed engineers simply build this way but the reality is that they simply do not.
+Developing for isolation and modularity is a practice all engineers should strive for. However, there had not been a pragmatic approach to these concepts and a way to describe how to execute on them. It is assumed engineers simply build this way but the reality is that they simply do not.
 
 The springboard pattern in software development finally gives us a word to use to communicate our intention both in software execution. When adhering to this pattern, we manage complexity and increase optionality. As described above, the benefits are plenty, but be aware of the cost of drawbacks.
 
