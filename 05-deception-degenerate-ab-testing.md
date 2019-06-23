@@ -38,7 +38,7 @@ Imagine if we push a badge with a deceptive count to represent subjective or vag
 It happened to a group of users. The users repeatedly engaged with the application to understand what was happening in an app. They engaged many additional times since the notifications where loosely linked to the indicator.
 
 ### Motto: “Urgent Notification”
-On mobile platforms, that notification badge is one of many routes to execute an interesting A/B test. The platform tools will vary, but each platform have high level indicators for engagement that users are comfortable and knowledgeable with. The users are wired to respond and engage.
+On mobile platforms, that notification badge is one of many routes to execute an interesting A/B test. The platform tools will vary, but each platform has high level indicators for engagement that users are comfortable and knowledgeable with. The users are wired to respond and engage.
 
 Next, we will fake things.
 
@@ -52,7 +52,7 @@ Recently a group of users were navigating a site by actively looking to watch a 
 The users engaged further with similar content.
 
 ### Motto: “Canned Search Results”
-Developing the final polished product is something we can fake in many ways, and this includes search results. Instead of investing heavy in the act of the perfect feature, we assemble the results to simple categories based on previous research.
+Developing the final polished product is something we can fake in many ways, and this includes search results. Instead of investing heavily in the act of the perfect feature, we assemble the results to simple categories based on previous research.
 
 
 > Results when the user searches on a subjective statement that is not quantifiable.
@@ -79,7 +79,7 @@ Next, let’s test by giving away.
 Sometimes if we give or take away major items of the platform it may manipulate the engagement.
 
 ### Example
-A group of users were recently on an application that offered paid content behind a pay wall. This app was freemium in nature.
+A group of users were recently on an application that offered paid content behind a paywall. This app was freemium in nature.
 
 Access became “unlocked” and a group of users were able to view more content for free without the paid subscription. Then time passed and it was gone.
 
@@ -98,7 +98,7 @@ Finally, we can hide things.
 One final example is the creative use of information. Here, we conduct an A/B test that manipulates information that may be relevant to the users at the proper time and context. We either shift the information upstream or manipulate it so that it is diluted. We reduce the friction of information to obtain a result. Sometimes lack of information is that friction.
 
 ### Example
-An example is if a service relies on the live location of the available liveries in the area — maybe those that are parked or on break, increasing that information to the user may deliver more engagement.
+An example is if a service relies on the live location of the available livery in the area — maybe those that are parked or on break, increasing that information to the user may deliver more engagement.
 
 
 > Plenty of levels of information to reduce friction.
@@ -131,7 +131,7 @@ Are the tests ethical? It’s inconclusive as the debate rages on. However, let 
 
 While most of the industry is attempting to figure out how to roll out and scale A/B testing to their advantage, I’d like to define how we can avoid these types of C/D tests. Here are a few ideas that are centered around communicating the use of live user testing.
 
-1. Clearly specifying an A/B testing section in a Terms of Service.
+1. Clearly specifying an A/B testing section in the Terms of Service.
 2. Publish an ethical statement and guiding principles of A/B testing.
 3. Visually indicating an A/B test is being performed with opt-out.
 The messaging would be up to the team or company to decide, but it must be clear and simple to the user. The boundaries of testing must be clear.
@@ -148,6 +148,6 @@ Many may ask what would be the consequence of being deceptive? At this time, the
 
 
 > Impactful wisdom by Daniel Weber.
-As always, time will tell how this shakes out. Data, tooling, and their alignment will continue to increase testing power. Public awareness will engage by asking hard questions. If there is one lasting advice, try not to deceive… too much.
+As always, time will tell how this shakes out. Data, tooling, and their alignment will continue to increase testing power. Public awareness will engage by asking the hard questions. If there is one lasting advice, try not to deceive… too much.
 
 If you are interested in more information on the subject of dark patterns, check out https://darkpatterns.org/.
