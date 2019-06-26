@@ -3,9 +3,9 @@
 
 > My father and I at the Kenwood TS-530S transceiver.
 
-Software engineering is my passion and profession. My focus is to improve at the craft and build great teams. But from time to time, I explore the skill of learning by leveraging engineering thinking. My goal is to find ways to improve at communication, mentorship and leadership. One way to discover techniques is through hobbies. What follows is my personal view on how hobbies lead to self improvement.
+Software engineering is my passion and profession. My focus is to improve at the craft and build great teams. But from time to time, I explore the skill of learning by leveraging engineering thinking. My goal is to find ways to improve communication, mentorship and leadership. One way to discover techniques is through hobbies. What follows is my personal view on how hobbies lead to self improvement.
 
-For me, it is a good moment to communicate a logical deduction since I have started a new hobby of amateur radio. The why is difficult to place in words, but what I can say is that it gives access to a certain and distinct communication style. It requires technical effort to reach people without multi-billion dollar infrastructure. And it, like many hobbies, contain rich vocabularies of understanding.
+For me, it is a good moment to communicate a logical deduction since I have started a new hobby of amateur radio. Why is difficult to place in words, but what I can say is that it gives access to a certain and distinct communication style. It requires technical effort to reach people without multi-billion dollar infrastructure. And it, like many hobbies, contain rich vocabularies of understanding.
 
 > The same transceiver above.
 
@@ -23,13 +23,13 @@ Amateur radio is very deep with history, electronics, applied theory, bizarre ph
 
 Now that we know what amateur radio is, I want to pose a short formula. The key is personal mastery through a deduction. How these axioms improve ourself and our mastery of things.
 
-First, we start with personal mastery. Personal mastery is the attempt to execute a vision of yourself in the future. It has to start with discipline from within to see through your goal. It is a series of practices of principles laid out and applied through the journey of reaching those goals. That is personal mastery. It is a quest to seek the truth of a matter, like in a hobby.
+First, we start with personal mastery. Personal mastery is the attempt to execute a vision of yourself in the future. It has to start with discipline from within to see through your goal. It is a series of practices of principles laid out and applied through the journey of reaching those goals. That is personal mastery. It is a quest to seek the truth of the matter, like in a hobby.
 
-Next, as we seek those truths, let’s examine what an axiom is. An axiom is short hand for a kernel of truth. A poster sign. It is a spoken reduction of events and their goals that are self evident. Personal mastery and their axioms feed on one another. And the axioms contain vocabularies which allow us to understand skill and culture.
+Next, as we seek those truths, let’s examine what an axiom is. An axiom is shorthand for a kernel of truth. A poster sign. It is a spoken reduction of events and their goals that are self evident. Personal mastery and their axioms feed on one another. And the axioms contain words which allow us to understand skills and culture.
 
 > An analog transmitter tuner.
 
-But how do personal mastery and axioms interrelate to one another? This would be way by of successive approximation. This is the ability to course correct our personal mastery and zone back in on the axioms so that we check, apply, correct, and repeat. It is a relative comparison of what was done last and what we can do better next.
+But how do personal mastery and axioms interrelate to one another? This would be way by of successive approximation. This is the ability to course correct our personal mastery and zone back in on the axioms so that we check, apply, correct, and repeat. It is a relative comparison of what was done last and what we can do better next time.
 
 With personal mastery, their axioms, and successive approximation, one finds and attempts to achieve the goal. The goal requires the examination of successive approximation saddled around constraints. Constraints are simply challenges to our axioms, and limit validation on how we can achieve maximum personal mastery.
 
