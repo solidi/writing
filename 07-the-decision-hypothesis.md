@@ -1,9 +1,9 @@
 # The Decision Hypothesis
-## The Mythical Man-Month Hinted At Software Decision Documents Decades Ago
+## The Mythical Man-Month Hinted at Software Decision Documents Decades Ago
 
 > A Qumran Cave Scroll (iStock)
 
-Some weeks ago, I completed a re-read of the Mythical Man Month (MM-M) by Frederick P. Brooks, Jr. This was my third sitting with the book over the course of years in software development.
+Some weeks ago, I completed a reread of the Mythical Man Month (MM-M) by Frederick P. Brooks, Jr. This was my third sitting with the book over the course of years in software development.
 
 MM-M is a dramatic piece of authoring excellence in our young craft. I consider it a constitution that continues to hide delightful discoveries. Anyone who practices software development will benefit if they read. However, to read once is not enough! Much pleasure and wisdom will come when reading numerous times. The work highlights forty five year old observations that hold true to this today.
 
@@ -19,7 +19,7 @@ Fred goes on to describe neatly in three sections the required documents for com
 
 He concludes with the topic of why.
 
-> First, writing the decisions down is essential… Second, the documents will communicate the decisions to others... Finally, … documents give … a data base and checklist.
+> First, writing the decisions down is essential… Second, the documents will communicate the decisions to others... Finally, … documents give … a database and checklist.
 
 From the quotes, Fred sets up the thinking and fundamentals of documentation that a developer should strive for. While he may have targeted documents such as schedule and requirements, how does this apply to a software project in terms of code?
 
@@ -86,7 +86,7 @@ Fred finally breaks down and writes a chapter on marrying documentation to code.
 The results in fact confirm our teachings about the folly of separate files. Program documentation is notoriously poor, and its maintenance is worse. Changes made in the program do not promptly, accurately, and invariably appear in the paper.
 The solution, I think, is to merge the files, to incorporate the documentation in the source program. This is at once a powerful incentive toward proper maintenance, and an insurance that the documentation will always be handy to the program user. Such programs are called self-documenting.
 
-Fred was close to a solution, but he did not accomplish the follow through with code as documentation. It appears that human language and machine language repeal each other, just as if two magnets are forced together at the same pole. More energy is required to keep the connection as they move closer.
+Fred was close to a solution, but he did not accomplish the follow through with code as documentation. It appears that human language and machine language repel each other, just as if two magnets are forced together at the same pole. More energy is required to keep the connection as they move closer.
 
 Forty five years later, tests are the documentation on specification. However they too cannot explain why code exists as it does. There is a high value to keep that why, to allow the system to pivot and survive. Therefore, some documentation has its place in the workspace.
 
@@ -98,14 +98,14 @@ This document could serve the team by encouraging new debate and focusing the re
 
 > Decreasing code complexity and increasing code consistency appears to be the whys.
 
-Finally, we must explain the why of our software decisions because the code has a daft ability to poorly communicate its origins. Tribal knowledge, hallway conversations, team dynamics change and fade. Version controls are changed and history is broken. All that remain are the many contributors that graphed the pieces together over short periods of time.
+Finally, we must explain the why of our software decisions because the code has a daft ability to poorly communicate its origins. Tribal knowledge, hallway conversations, team dynamics change and fade. Version controls are changed and history is broken. All that remains are the many contributors that graphed the pieces together over short periods of time.
 
 > The decision hypothesis:
 > Amid constant software decisions, those of complexity and consistency become the critical pivots around which every software system survives. The decision document is a key to its revelation.
 
 ## References
 
-[ 1 ] Daniel Graziotin, Fabian Fagerholm, Xiaofeng Wang, and Pekka Abrahamsson. On the Unhappiness of Software Developers.
+[ 1 ] Daniel Graziotin, Fabian Fagerholm, Xiaofeng Wang, and Pekka Abrahamsson. On the Unhappiness of Software Developers.
 
 ## Author’s Notes
 
