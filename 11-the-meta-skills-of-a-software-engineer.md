@@ -25,7 +25,7 @@ Correctness is seen in engineering as how correct the how is so that the solutio
 
 Pattern recognition is strongly tied to the organization of that correctness by creating the necessary abstractions and component boundaries. Pattern recognition leads to concepts of reuse to modularize and isolate code. We monitor duplication, find areas that can be reused, and refactor complicated parts of code. It is what software engineers do well. Our attention to that detail is vigilant. We recognize knowledge as it is created over and over again. Then we simplify.
 
-Pattern recognition is discussed at length in the community and there are many sources to read up on their techniques. The origins where I learned about this skill reside in chapter two of The Pragmatic Programmer — The Evils Of Duplication.
+Pattern recognition is discussed at length in the community and there are many sources to read up on their techniques. The origins where I learned about this skill resides in chapter two of The Pragmatic Programmer — The Evils Of Duplication.
 
 > Make it easy to reuse. DRY — Don’t Repeat Yourself.
 > — Andrew Hunt & Dave Thomas
