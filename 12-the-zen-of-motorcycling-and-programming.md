@@ -1,7 +1,7 @@
 # The Zen of Motorcycling and Programming
 ## An Inquiry into Values of Software Engineering
 
-I headed down the parkway parallel to the ocean through a hot summer breeze. My engine slowly revving by keeping a legal speed limit. I was taking it all in on my motorcycle, with thoughts of inspiration and some doubt of a nagging preservation. “Should I have checked that thing? What about this detail? Ah, whatever it is, enjoy this ride.” Unfazed, I looked over to my right, nothing but sand dunes. On the left, the Great South Bay. There were wispy clouds in a blue sky and a bridge in the distance. I was making my way down to OBI, a parking lot in the middle of no where abut against the Atlantic ocean.
+I headed down the parkway parallel to the ocean through a hot summer breeze. My engine slowly revving by keeping a legal speed limit. I was taking it all in on my motorcycle, with thoughts of inspiration and some doubt of a nagging preservation. “Should I have checked that thing? What about this detail? Ah, whatever it is, enjoy this ride.” Unfazed, I looked over to my right, nothing but sand dunes. On the left, the Great South Bay. There were wispy clouds in a blue sky and a bridge in the distance. I was making my way down to OBI, a parking lot in the middle of nowhere abut against the Atlantic ocean.
 
 Once I parked, I removed my immediate gear… my helmet, gloves and jacket. The sweat from my padded kevlar jeans ran down my legs to my riding boots. I sat by my bike, on the shaded side. I wanted to just think, but instead I flipped out my phone and stared lonely at the emails and social posts.
 
@@ -17,7 +17,7 @@ We chatted about bikes and philosophies of riding. She had much more riding expe
 
 **Me:** “First, of course we have T-CLOCS (tires/wheels/brakes, controls, lights/electrics, oil/fluids, chassis, and stands). Before we write, we read to understand if it makes sense to add to what we are reading. We may have to wrench through issues first. Once we have something we can add, and this can take some time, we can jump on safely.”
 
-**Me:** “But before we jump on we must wear gear. ATGATT (All the gear, all the time). In our writing, we wear gear to help protect us. Let’s call them tests that check our writing. Tests won’t protect us from everything but it places us in a mindset that we could get hurt and are taking precaution to avoid future injury.”
+**Me:** “But before we jump on we must wear gear. ATGATT (All the gear, all the time). In our writing, we wear gear to help protect us. Let’s call them tests that check our writing. Tests won’t protect us from everything but it places us in a mindset that we could get hurt and are taking precautions to avoid future injury.”
 
 **Me:** “From there, we are worried about visibility of that writing. We want high-vis on our code. We have others review and check it before it is added to our system.”
 
