@@ -3,7 +3,7 @@
 
 > A tree in the neighborhood.
 
-Trees in my neighborhood seem to grow unnaturally. They appear as sick twisted living creatures. The reason for their ugliness is related to their proximity to electric utility lines. This is common in northeast of the United States, a place where trees exist in the right-of-way and extreme weather patterns are present.
+Trees in my neighborhood seem to grow unnaturally. They appear as sick twisted living creatures. The reason for their ugliness is related to their proximity to electric utility lines. This is common in the northeast of the United States, a place where trees exist in the right-of-way and extreme weather patterns are present.
 
 Utility lines are at risk of falling tree limbs because they are vulnerable strung pole to pole. The result is the energy company must prune trees to certain distance specifications. This reduces the risk of branches touching these wires. Pruning allows for repair access. When the weather is uncooperative, pruning keeps the lines protected. However, the result is ugly looking unbalanced trees.
 
@@ -33,6 +33,6 @@ The mutilation of trees to make way for utility lines invokes conflict. An abstr
 
 > Courtesy: Google
 
-The beauty of computer science is we can invent and grow structures based on our physical observations. Perhaps ancient tree pruning technique such as Topping or more modern technique such as Drop-Crotching may apply to computer science. Utility lines that are strung or laid may also have their analogue. How they work together may be of interest of further research.
+The beauty of computer science is that we can invent and grow structures based on our physical observations. Perhaps ancient tree pruning technique such as Topping or more modern technique such as Drop-Crotching may apply to computer science. Utility lines that are strung or laid may also have their analogue. How they work together may be of interest for further research.
 
 The message is to look around outside to learn and apply what we observe, virtually. Question if it could be a chance to translate a structure or system into something that can be leveraged for beauty and efficiency. This is because in conflict, if we embrace the problem, there is a chance for opportunity of *structural invention*.
