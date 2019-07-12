@@ -4,6 +4,7 @@
 > The morning. A place for decisions.
 
 I overheard someone once say “management is hard.” Thank you for the courageous statement. You inspired me to write this short.
+
 Management is extraordinarily hard. The perception of the profession is thankless because we play the role of business. And we get it from all sides. The business takes priority. The individual playing the role of manager takes a back seat.
 
 The how of management is led by doing. Mentors are virtually distant. I know through training and experience it has many facets and methods. After some years, I have invented a style of moving ideas into action. And in my own opinion, most of management’s work is completed before core working hours.
@@ -18,7 +19,7 @@ What is management? Perhaps it could be logically reduced to a standard set of t
 
 I like to introduce a new multitool, primarily a compass. With some years into the profession I have formed a pattern call the stew. It is time before work that determines the course of the day, while simultaneously holding a vision of myself, the individuals and teams in the future.
 
-> The stew happens during a lengthly walk before work.
+> The stew happens during a lengthy walk before work.
 
 This thinking time is supported by a pen and Moleskine Cahier pocket. After the walk, I jot the most important items that are bouncing around in my head. A lot of these thoughts are replays of conversations and interesting bits that accrete into vision and direction.
 
