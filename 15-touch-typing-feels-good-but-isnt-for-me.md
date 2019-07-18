@@ -59,7 +59,7 @@ As I become more confident in touch typing, each key becomes green and typing sp
 
 > Relative miss frequency. Touch typing (green) versus float typing (purple). Lower is better.
 
-Finally, we come to errors. The review of the hit/miss ratio or relative miss frequency per key is clear. The green bar is representative of touch-typing and the purple is float typing. The lower the bar, the better. Since I am learning, it is natural there is a higher tendency of missed keys with touch typing. Twenty of the 26 keys report a higher error count.
+Finally, we come to errors. The review of the hit/miss ratio or relative miss frequency per key is clear. The green bar is representative of touch-typing and the purple is float typing. The lower the bar, the better. Since I am learning, it is natural that there is a higher tendency of missed keys with touch typing. Twenty of the 26 keys report a higher error count.
 
 ## Touch-typing takeaways
 
@@ -83,7 +83,7 @@ A very interesting result of touch-typing is it minimizes the movement of hands 
 
 ### Looking at the keys inflates numbers
 
-I had a tendency to look at the keyboard when my hands began to stray from the home keys. Words that began with B and G made me look as I typed. As noted above, it was either stop in motion to find the bumps then go for the key or look quick and readjust. Sometimes the latter felt faster. Let’s prove this.
+I had a tendency to look at the keyboard when my hands began to stray from the home keys. Words that begin with B and G made me look as I typed. As noted above, it was either stop in motion to find the bumps then go for the key or look quick and readjust. Sometimes the latter felt faster. Let’s prove this.
 
 > Planting my hands had a significant effect starting at sample 1,206.
 
