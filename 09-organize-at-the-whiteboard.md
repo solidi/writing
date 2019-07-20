@@ -7,7 +7,7 @@ Some weeks ago, a bright individual reposted on Hacker News a well-thought out a
 
 Thinking deeply about both authors’ messages, I ran through my own experiences over time. I empathize with those who experience technical interviews that are not classically trained. My last experience some years ago was disorganized.
 
-My last completed professional project was a three old year system that dealt with code complexity, and a never-ending rolling line of products. We fought bravely to organize the growing mess. Both thoughts had a common thread, as they were small and large exercises in organization. They revolved around feelings of anxiety, vulnerability, stress, and happy moments. I (we) cared deeply about outcomes.
+My last completed professional project was a three year old system that dealt with code complexity, and a never-ending rolling line of products. We fought bravely to organize the growing mess. Both thoughts had a common thread, as they were small and large exercises in organization. They revolved around feelings of anxiety, vulnerability, stress, and happy moments. I (we) cared deeply about outcomes.
 
 This motivated me to write a follow-up in my own way. This is because I was moved by the gravity of these posts. Why not answer questions posed even if my example response did not match cleanly? So I kicked the idea back and forth and hung on one question. John asked:
 
@@ -65,7 +65,7 @@ At the absolute minimum, this will happen a few times as you recognize the avera
 
 Once enough assumptions and approach material are generated, this means that you are now ready to write through your implementation code with confidence. You will be supported by both sides. Highlight and point to each step as you write the code. Carefully step through the approach, listed to your left. As you write your implementation, go back and forth double-checking the assumptions.
 
-Even if you struggle with the solve, you are the wizard of organization.
+Even if you struggle with the solve, you are a wizard of organization.
 
 > The main event is centered so it can be supported from all sides.
 
@@ -88,7 +88,7 @@ There you go. That was a few minutes of pure organization without much theory. I
 **Sectioning** — slicing up the problem in pieces from start to finish.
 **Scaffolding** — the concept of temporary architecture or where we set up a supporting structure as we build around us.
 **Gating** — we should not proceed forward with the next step until we are comfortable and confident about the affairs of addressing the problem well. Display confidence but actively engage with “Did I miss any assumptions?” or “Does my approach have holes?” before proceeding.
-**State** — organization is handled visually to maintain the weighing complexity of the problem. Avoid using an eraser if you can.
+**State** — organization is handled visually to maintain the weighing the complexity of the problem. Avoid using an eraser if you can.
 
 > Approaching the actual organization problem with a solution. If you are left handed, try reversing the setup
 
@@ -106,7 +106,7 @@ Never underestimate this phenomenon.
 
 > Only if the disorganized mess is your responsibility, something that means more to you than a case study, can you wrap your head around it and appreciate improvements. — John
 
-We all have a story about the whiteboard. I wanted to find how I could improve and task my engineering mind at the same time. Many an engineer connects emotionally at the whiteboard. We all have the stories of damned defeat.
+We all have a story about the whiteboard. I wanted to find how I could improve and task my engineering mind at the same time. Many an engineer connects emotionally at the whiteboard. We all have stories of damned defeat.
 
 Most of our craft is an applied science. Rarely, the gifted can tinker and tamper to invent new data structures or algorithms. Ours is one of a pattern language and a craft. It is rarely art, if ever. It has a lot to do with identifying the latest organization skill and ungluing and gluing things together very well, repeatedly. Perhaps with some tools out of the toolbox. But be careful of the tools of organization that are pushed on us by an exchange or by enthusiasm.
 
