@@ -1,4 +1,5 @@
 # What is a Tech Lead Anyway?
+#leadership, #team, #career, #mentorship
 
 It's quite hard to define the tech lead role in a short post. But, here it goes.
 
