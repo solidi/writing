@@ -3,7 +3,7 @@
 
 I’ve learned a lot about my motivations while blogging over the past three years. Everything from self-reflection to clarifying intentions. I’ve also learned a lot about the process itself. While I could write a long-winded post about this meta, let me share what I’ve learned in a visual. Since the majority of the population are visual learners, this should suffice.
 
-![A sequence diagram of my blogging process.](https://miro.medium.com/max/2862/1*i9RTdTDT6_D1_vgkkKDZXA.png)
+![A sequence diagram of my blogging process.](https://miro.medium.com/max/2862/1*2mAYuNmEOyF35AuJVOHxkA.png)
 
 My blogging process after a few years. It will continue to improve.
 
