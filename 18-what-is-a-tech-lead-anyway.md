@@ -3,6 +3,8 @@
 
 It's quite hard to define the tech lead role in a short post. But, here it goes.
 
+**The lead is a role, not a title.** Any software engineer can become the tech lead. And with the part, others will look up to this leader.
+
 **The lead is the team liaison. The role shepherds change.** They focus on the future state. The rapid response. The pivots from management.
 
 **Tech leads play the role of mentor and sponsor to others.** They setup code reviews in a collaborative way. They handle [discourse](https://uvwx.github.io/hierarchy.html). They partner with the product on feasibility, on a roadmap, priority, and estimations.
