@@ -1,4 +1,4 @@
-# Be a Rockstar at Pull Requests
+# Be a Rock Star at Pull Requests
 #beginners, #tutorial, #firstyearincode, #codequality
 
 I've reviewed thousands of pull requests over my career. Here are my tips for building an inclusive learning environment while delivering value.
