@@ -30,3 +30,4 @@ Not comprehension, but clarity.
 1. [Be a Rockstar at Pull Requests](https://dev.to/solidi/be-a-rockstar-at-pull-requests-1e4f)
 1. [What is an Engineering Manager Anyway?](https://dev.to/solidi/what-is-an-engineering-manager-anyway-4and)
 1. [Do Great at Working Remotely](https://dev.to/solidi/do-great-at-working-remotely-1oh9)
+1. [In Software, Philosophy is Delegation](https://medium.com/@solidi/in-software-philosophy-is-delegation-c786dd3a16cf)
