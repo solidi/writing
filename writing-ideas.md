@@ -6,11 +6,11 @@ Not comprehension, but clarity.
 
 ## List
 1. Five engineering books on meta.
-  - Pragmatic programmer
-  - Mythical man month
-  - Refactoring
-  - Clean Code
-  - XP Explained
+    - Pragmatic programmer
+    - Mythical man month
+    - Refactoring
+    - Clean Code
+    - XP Explained
 1. What to do starting a new job.
 1. Pro tips on interviewing.
 1. Meta becomes more important.
