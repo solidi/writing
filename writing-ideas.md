@@ -5,6 +5,8 @@
 Not comprehension, but clarity.
 
 ## List
+1. The one about interviewing
+    - With this [diagram](https://github.com/solidi/learning-notes/blob/master/interviews/diagrams/interviewing-pipeline.png)
 1. Five engineering books on meta.
     - Pragmatic programmer
     - Mythical man month
