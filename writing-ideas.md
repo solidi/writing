@@ -17,6 +17,8 @@ Not comprehension, but clarity.
 1. User experience with fans.
 1. Python's EOL.
 1. Naming projects.
+    1. [Why Projects Need Codenames](https://artsy.github.io/blog/2019/05/10/why-projects-need-codenames/)
+    1. olmec tommy and blue
 1. Document as IOC.
 1. Miscommunication in writing.
 1. Finishing things.
