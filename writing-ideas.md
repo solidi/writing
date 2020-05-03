@@ -28,6 +28,8 @@ Not comprehension, but clarity.
             - Powerpoints (4 w's 1 h)
             - Talk tracks
         - Start a document of all important tools, locations, links
+        - Bookmarks
+            - Structure them with domain
     - Spend time learning the product asynchronously
     - Solve a larger granly problem
         - Mention podcast.
