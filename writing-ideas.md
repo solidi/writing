@@ -13,7 +13,28 @@ Not comprehension, but clarity.
     - Refactoring
     - Clean Code
     - XP Explained
-1. What to do starting a new job.
+1. Starting a new engineering role
+    - Guiding principle is building trust and awareness
+    - Reach out to people and get to know them
+        - People prcess, product
+    - Understand the why behind the work you do
+    - Structured knowledge learning
+        - Powerpoints (4 w's 1 h)
+    - Spend time learning the product asynchronously
+    - Listen to those that have a problem and attempt to solve it
+    - Solve a larger granly problem
+        - Mention podcast.
+    - Redraw things (learn by tracing)
+    - Meet with your manager and discuss expectations
+    - DOn't know a technology? Learn by watching
+    - Non=purposeful communication is important
+    - Books can also guide
+        - First 90 days
+    - Get in there and dont be afraid! It's a journey
+    - Take on an initiative and run with it
+    - Find an onboard partner and work together
+    - Start a document of all important tools, locations, links
+    - Deliver your first win. You got this!
 1. Pro tips on interviewing.
 1. Meta becomes more important.
 1. User experience with fans.
