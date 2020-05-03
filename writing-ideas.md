@@ -15,25 +15,31 @@ Not comprehension, but clarity.
     - XP Explained
 1. Starting a new engineering role
     - Guiding principle is building trust and awareness
+    - Add value everyday
+        - Ask questions
+        - Listen to those that have a problem and attempt to solve it
+        - Communicate intentions
+        - Recognize the help, appreciate it with a thank you
     - Reach out to people and get to know them
         - People prcess, product
     - Understand the why behind the work you do
-    - Structured knowledge learning
-        - Powerpoints (4 w's 1 h)
+    - Organize 
+        - Structured knowledge learning
+            - Powerpoints (4 w's 1 h)
+            - Talk tracks
+        - Start a document of all important tools, locations, links
     - Spend time learning the product asynchronously
-    - Listen to those that have a problem and attempt to solve it
     - Solve a larger granly problem
         - Mention podcast.
+        - Take on an initiative and run with it
     - Redraw things (learn by tracing)
     - Meet with your manager and discuss expectations
     - DOn't know a technology? Learn by watching
-    - Non=purposeful communication is important
+    - Non-purposeful communication is important
     - Books can also guide
         - First 90 days
     - Get in there and dont be afraid! It's a journey
-    - Take on an initiative and run with it
     - Find an onboard partner and work together
-    - Start a document of all important tools, locations, links
     - Deliver your first win. You got this!
 1. Pro tips on interviewing.
 1. Meta becomes more important.
