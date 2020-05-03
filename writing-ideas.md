@@ -14,15 +14,24 @@ Not comprehension, but clarity.
     - Clean Code
     - XP Explained
 1. Starting a new engineering role
+    - Impact
+    - Take a job you can fail at
     - Guiding principle is building trust and awareness
+        - Reach out to people and get to know them
+            - People prcess, product
+        - Find an onboard partner and work together
+        - Non-purposeful communication is important
+        - Recognize the help, appreciate it with a thank you
     - Add value everyday
         - Ask questions
         - Listen to those that have a problem and attempt to solve it
         - Communicate intentions
-        - Recognize the help, appreciate it with a thank you
-    - Reach out to people and get to know them
-        - People prcess, product
-    - Understand the why behind the work you do
+        - Understand the why behind the work you do
+        - Redraw things (learn by tracing)
+        - Meet with your manager and discuss expectations
+        - Don't know a technology? Learn by watching
+        - Every acronym is a chance to learn
+        - Spend time learning the product asynchronously
     - Organize 
         - Structured knowledge learning
             - Powerpoints (4 w's 1 h)
@@ -30,18 +39,12 @@ Not comprehension, but clarity.
         - Start a document of all important tools, locations, links
         - Bookmarks
             - Structure them with domain
-    - Spend time learning the product asynchronously
+        - Books can also guide
+            - First 90 days
     - Solve a larger granly problem
         - Mention podcast.
         - Take on an initiative and run with it
-    - Redraw things (learn by tracing)
-    - Meet with your manager and discuss expectations
-    - DOn't know a technology? Learn by watching
-    - Non-purposeful communication is important
-    - Books can also guide
-        - First 90 days
     - Get in there and dont be afraid! It's a journey
-    - Find an onboard partner and work together
     - Deliver your first win. You got this!
 1. Pro tips on interviewing.
 1. Meta becomes more important.
