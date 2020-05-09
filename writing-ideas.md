@@ -5,8 +5,16 @@
 Not comprehension, but clarity.
 
 ## List
-1. The one about interviewing
+1. The one about interviewing - faith in procession
     - With this [diagram](https://github.com/solidi/learning-notes/blob/master/interviews/diagrams/interviewing-pipeline.png)
+    - Point of write is to share the learnings
+        - It is a feedback loop
+        - Requires a study buddy
+        - Iterations of technical review
+            - Behavior
+            - Technical
+        - Knowing you are connecting
+    - Link to technical interview and podcast
 1. Five engineering books on meta.
     - Pragmatic programmer
     - Mythical man month
