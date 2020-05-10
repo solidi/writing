@@ -15,6 +15,9 @@ Not comprehension, but clarity.
             - Technical
         - Knowing you are connecting
     - Link to technical interview and podcast
+    - Study Buddy
+    - Kanban board
+    - Updating the resume on every interview
 1. Five engineering books on meta.
     - Pragmatic programmer
     - Mythical man month
