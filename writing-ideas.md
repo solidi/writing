@@ -18,6 +18,7 @@ Not comprehension, but clarity.
     - Study Buddy
     - Kanban board
     - Updating the resume on every interview
+    - Think of one thing to improve upon if rejected
 1. Five engineering books on meta.
     - Pragmatic programmer
     - Mythical man month
