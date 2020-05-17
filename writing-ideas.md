@@ -5,6 +5,38 @@
 Not comprehension, but clarity.
 
 ## List
+1. Secure Your Next Incredible Engineering Role
+    - Intro
+        - Reflect on past interviewing
+        - Increase signal, reduce luck factor, and learn
+    - When and where to begin
+        - Shields down?
+            - First role, or advancement
+        - Sources
+            - LinkedIn, Friends, Favorite companies 
+        - It's a continious feedback loop
+        - its about learnign in an unsafe environment
+    - Get the ball rollling
+        - Apply, one a day
+        - Kanban board
+    - Learning from feedback
+        - Improve
+            - the stories
+            - the resume
+            - linkedin
+        - Study buddy
+            - History
+            - Code
+            - Stories
+            - System Design
+    - Completing the loops
+        - Reflecting on what works
+        - Thank yous
+        - Connecting
+    - Congrats on the offer
+        - Be honest
+        - Gracefully turn down other offers
+        - Start your role (link to being great)
 1. The one about interviewing - faith in procession
     - With this [diagram](https://github.com/solidi/learning-notes/blob/master/interviews/diagrams/interviewing-pipeline.png)
     - Point of write is to share the learnings
@@ -25,7 +57,6 @@ Not comprehension, but clarity.
     - Refactoring
     - Clean Code
     - XP Explained
-1. Pro tips on interviewing.
 1. Meta becomes more important.
 1. User experience with fans.
 1. Python's EOL.
