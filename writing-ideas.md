@@ -78,3 +78,4 @@ Not comprehension, but clarity.
 1. [Do Great at Working Remotely](https://dev.to/solidi/do-great-at-working-remotely-1oh9)
 1. [In Software, Philosophy is Delegation](https://medium.com/@solidi/in-software-philosophy-is-delegation-c786dd3a16cf)
 1. [Be Amazing in Your New Engineering Role](https://dev.to/solidi/be-amazing-in-your-new-engineering-role-1klc)
+1. [On Names: A Brief Encounter with Guido van Rossum](https://medium.com/@solidi/on-names-a-brief-encounter-with-guido-van-rossum-6c4ff065e86c)
