@@ -72,7 +72,7 @@ Not comprehension, but clarity.
 ## Completed
 1. [What is a Tech Lead Anyway?](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p)
 1. [The One About Blogging](https://medium.com/@solidi/the-one-about-blogging-cd9e65a2055b)
-1. [How to CRush Your Next Team Demo](https://dev.to/solidi/how-to-crush-your-next-team-demo-2bb5)
+1. [How to Crush Your Next Team Demo](https://dev.to/solidi/how-to-crush-your-next-team-demo-2bb5)
 1. [Be a Rockstar at Pull Requests](https://dev.to/solidi/be-a-rockstar-at-pull-requests-1e4f)
 1. [What is an Engineering Manager Anyway?](https://dev.to/solidi/what-is-an-engineering-manager-anyway-4and)
 1. [Do Great at Working Remotely](https://dev.to/solidi/do-great-at-working-remotely-1oh9)
