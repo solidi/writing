@@ -5,6 +5,8 @@
 Not comprehension, but clarity.
 
 ## List
+1. What is an Software Engineer Anyway?
+    1. Developer skills document in other-docs
 1. Secure Your Next Incredible Engineering Role
     - Intro
         - Reflect on past interviewing
