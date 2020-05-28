@@ -6,6 +6,7 @@ Not comprehension, but clarity.
 
 ## List
 1. What is an Software Engineer Anyway?
+    1. are the community, internal (code reviews), external (thought, blogs, etc)
     1. writing well.
     1. Helping others.
     1. Clarifying problems before seeking help.
