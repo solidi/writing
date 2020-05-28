@@ -6,7 +6,14 @@ Not comprehension, but clarity.
 
 ## List
 1. What is an Software Engineer Anyway?
-    1. Developer skills document in other-docs
+    1. writing well.
+    1. Helping others.
+    1. Clarifying problems before seeking help.
+    1. troubleshooting, handling unknown, adding code.
+    1. having each others backs.
+    1. learning mindset.
+    1. contribute ideas and be open to feedback.
+    1. tests, performance analysis, clean code, and human readable.
 1. Secure Your Next Incredible Engineering Role
     - Intro
         - Reflect on past interviewing
