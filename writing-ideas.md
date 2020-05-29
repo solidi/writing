@@ -17,6 +17,7 @@ Not comprehension, but clarity.
     1. curious, approach, tradeoffs, and weighing options, value model, [untools](https://untools.co/).
     1. contribute ideas and be open to feedback.
     1. tests, performance analysis, clean code, and [human readable/meta](https://medium.com/@solidi/the-many-senses-of-software-engineering-aba9f289498c).
+    1. naming and taming ideas, metaphors.
 1. Secure Your Next Incredible Engineering Role
     - Intro
         - Reflect on past interviewing
