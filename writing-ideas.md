@@ -8,11 +8,10 @@ Not comprehension, but clarity.
 1. What is an Software Engineer Anyway?
     1. enjoy the craft, the detail, and the sense of getting things flowing.
     1. are the community, internal (code reviews), external (thought, blogs, etc)
-    1. writing well.
+    1. feeling unprepared, preparing, thinking, presenting ideas, symbols, direction. writing well.
     1. Helping others.
     1. Clarifying problems before seeking help.
     1. troubleshooting, handling unknown, adding code.
-    1. feeling unprepared, preparing, thinking, presenting ideas, symbols, direction.
     1. having each others backs.
     1. learning mindset, take learnings with you.
     1. curious, approach, tradeoffs, and weighing options, value model, [untools](https://untools.co/).
