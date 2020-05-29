@@ -6,6 +6,7 @@ Not comprehension, but clarity.
 
 ## List
 1. What is an Software Engineer Anyway?
+    1. enjoy the craft, the detail, and the sense of getting things flowing.
     1. are the community, internal (code reviews), external (thought, blogs, etc)
     1. writing well.
     1. Helping others.
