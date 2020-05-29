@@ -18,6 +18,7 @@ Not comprehension, but clarity.
     1. contribute ideas and be open to feedback.
     1. tests, performance analysis, clean code, and [human readable/meta](https://medium.com/@solidi/the-many-senses-of-software-engineering-aba9f289498c).
     1. naming and taming ideas, metaphors.
+    1. directed thought, stewing, [construction](https://medium.com/hackernoon/software-is-unlike-construction-c0284ee4b723) stumbling to solutions,
 1. Secure Your Next Incredible Engineering Role
     - Intro
         - Reflect on past interviewing
