@@ -7,6 +7,7 @@ Not comprehension, but clarity.
 ## List
 1. What is an Software Engineer Anyway?
     1. mentoring, teaching, and sponsoring others.
+    1. skills/tech stack?
     1. enjoy the craft, the detail, and the sense of getting things flowing.
     1. are the community, internal (code reviews), external (thought, blogs, etc)
     1. feeling unprepared, preparing, thinking, presenting ideas, symbols, direction. writing well.
