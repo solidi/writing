@@ -6,6 +6,7 @@ Not comprehension, but clarity.
 
 ## List
 1. What is an Software Engineer Anyway?
+    1. Unstuck, pruisuit of truth, insitutional knowledge
     1. mentoring, teaching, and sponsoring others.
     1. skills/tech stack?
     1. enjoy the craft, the detail, and the sense of getting things flowing.
