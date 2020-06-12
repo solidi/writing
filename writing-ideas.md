@@ -5,24 +5,6 @@
 Not comprehension, but clarity.
 
 ## List
-1. What is an Software Engineer Anyway?
-    1. Unstuck, pruisuit of truth, insitutional knowledge
-    1. mentoring, teaching, and sponsoring others.
-    1. skills/tech stack?
-    1. enjoy the craft, the detail, and the sense of getting things flowing.
-    1. are the community, internal (code reviews), external (thought, blogs, etc)
-    1. feeling unprepared, preparing, thinking, presenting ideas, symbols, direction. writing well.
-    1. Helping others, and having each others backs.
-    1. Clarifying problems before seeking help.
-    1. troubleshooting, handling unknown, adding code.
-    1. learning mindset, take learnings with you.
-    1. curious, approach, tradeoffs, and weighing options, value model, [untools](https://untools.co/).
-    1. contribute ideas and be open to feedback.
-    1. tests, performance analysis, clean code, and [human readable/meta](https://medium.com/@solidi/the-many-senses-of-software-engineering-aba9f289498c).
-    1. naming and taming ideas, metaphors.
-    1. directed thought, stewing, [construction](https://medium.com/hackernoon/software-is-unlike-construction-c0284ee4b723) stumbling to solutions,
-    1. mise en place, and forming of [a leader](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p) through their own work.
-    1. the code writen is not your value, since its build on sand and washes away. its the thought that does.
 1. Secure Your Next Incredible Engineering Role
     - Intro
         - Reflect on past interviewing
