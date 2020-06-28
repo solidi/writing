@@ -75,6 +75,7 @@ Not comprehension, but clarity.
     1. Replay all is the default
 
 ## Completed
+1. [The Many Senses of Software Engineering](https://medium.com/@solidi/the-many-senses-of-software-engineering-aba9f289498c)
 1. [What is a Tech Lead Anyway?](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p)
 1. [The One About Blogging](https://medium.com/@solidi/the-one-about-blogging-cd9e65a2055b)
 1. [How to Crush Your Next Team Demo](https://dev.to/solidi/how-to-crush-your-next-team-demo-2bb5)
