@@ -74,6 +74,11 @@ Not comprehension, but clarity.
     1. Default change?
     1. Replay all is the default
 
+## Updates
+1. Be Amazing in Your New Engineering Role
+    1. Add teach others Grinning face
+    1. Add learn even more while you teach!
+
 ## Completed
 1. [The Many Senses of Software Engineering](https://medium.com/@solidi/the-many-senses-of-software-engineering-aba9f289498c)
 1. [What is a Tech Lead Anyway?](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p)
