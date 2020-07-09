@@ -78,6 +78,9 @@ Not comprehension, but clarity.
 1. Be Amazing in Your New Engineering Role
     1. Add teach others Grinning face
     1. Add learn even more while you teach!
+1. Do Great at Working Remotely
+    1. It is a mental game
+    1. Burn in and burn out activities
 
 ## Completed
 1. [The Many Senses of Software Engineering](https://medium.com/@solidi/the-many-senses-of-software-engineering-aba9f289498c)
