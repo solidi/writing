@@ -81,6 +81,7 @@ Not comprehension, but clarity.
 1. Do Great at Working Remotely
     1. It is a mental game
     1. Burn in and burn out activities
+    1. Shared written docs to communicate
 1. How to Crush Your Next Team Demo
     1. Clarity to presentation, shut off notifications, alerts, and clear browser history
 
