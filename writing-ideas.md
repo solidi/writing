@@ -73,6 +73,12 @@ Not comprehension, but clarity.
     1. Avoid urgency, build rust
     1. Default change?
     1. Replay all is the default
+1. What is a Product Manager Anyway?
+    1. Focusing in on the problem
+    1. Ruthlessly prioritizes
+1. What is a Project Manager Anyway?
+    1. Four levers of projects
+    1. Visualizing where we are
 
 ## Updates
 1. Be Amazing in Your New Engineering Role
