@@ -79,6 +79,8 @@ Not comprehension, but clarity.
 1. What is a Project Manager Anyway?
     1. Four levers of projects
     1. Visualizing where we are
+1. What is a Principal Engineer Anyway?
+    1. Internal and external influence
 
 ## Updates
 1. Be Amazing in Your New Engineering Role
