@@ -81,6 +81,12 @@ Not comprehension, but clarity.
     1. Visualizing where we are
 1. What is a Principal Engineer Anyway?
     1. Internal and external influence
+    1. enablement of teams quarter to quarter
+    1. look outward for hazards
+    1. rapid response / swat leaders
+    1. developers experience
+    1. engineering practices
+    1. moves hardest technical initiatives
 
 ## Updates
 1. Be Amazing in Your New Engineering Role
