@@ -80,7 +80,7 @@ Not comprehension, but clarity.
     1. Four levers of projects
     1. Visualizing where we are
 1. What is a Principal Engineer Anyway?
-    1. Internal and external influence
+    1. Internal and external influence, recruiing
     1. enablement of teams quarter to quarter
     1. look outward for hazards
     1. rapid response / swat leaders
