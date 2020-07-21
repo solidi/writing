@@ -87,6 +87,7 @@ Not comprehension, but clarity.
     1. developers experience
     1. engineering practices
     1. moves hardest technical initiatives
+    1. mulitpliers without the direct lines
 
 ## Updates
 1. Be Amazing in Your New Engineering Role
