@@ -5,6 +5,7 @@
 Not comprehension, but clarity.
 
 ## List
+
 1. Secure Your Next Incredible Engineering Role
     - Intro
         - Reflect on past interviewing
@@ -87,6 +88,7 @@ Not comprehension, but clarity.
     1. Clarity to presentation, shut off notifications, alerts, and clear browser history
 
 ## Completed
+
 1. [The Many Senses of Software Engineering](https://medium.com/@solidi/the-many-senses-of-software-engineering-aba9f289498c)
 1. [What is a Tech Lead Anyway?](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p)
 1. [The One About Blogging](https://medium.com/@solidi/the-one-about-blogging-cd9e65a2055b)
@@ -98,3 +100,4 @@ Not comprehension, but clarity.
 1. [Be Amazing in Your New Engineering Role](https://dev.to/solidi/be-amazing-in-your-new-engineering-role-1klc)
 1. [On Names: A Brief Encounter with Guido van Rossum](https://medium.com/@solidi/on-names-a-brief-encounter-with-guido-van-rossum-6c4ff065e86c)
 1. [What is a Software Engineer Anyway?](https://dev.to/solidi/what-is-a-software-engineer-anyway-3fb2)
+1. [The One About Software Engineering Interviewing](https://medium.com/@solidi/the-one-about-software-engineering-interviewing-6f126e3a3171)
