@@ -39,3 +39,21 @@ Interviewing is tough because you, as a candidate, are being judged for a role. 
 ## Conclusion
 
 My approach to finding the next opportunity is to understand the system [meta](https://medium.com/@solidi/the-many-senses-of-software-engineering-aba9f289498c). The result is the diagram above. By improving how I communicated my experience concisely, I achieved offers. While there is no formula to interview well, I hope that my experience and this diagram may help with your upcoming interviews.
+
+---
+
+## Social Post
+
+My learning from my #software #interview experiences -
+
+1. Understanding the system by drawing it out.
+2. Role-playing with a friend is impactful.
+3. Partnering with #recruiting for advantages.
+4. Every question is a chance to improve.
+5. Keeping at it, no matter how tough it can be.
+
+https://medium.com/@solidi/the-one-about-software-engineering-interviewing-6f126e3a3171?sk=3a99e4a80b288bc0e0626535a3a4414a
+
+Thanks to Daniel Leonardis and Danielle Arcuri
+
+#interviewingtips #interviewprep #softwaredevelopment #career #oppurtunity 
