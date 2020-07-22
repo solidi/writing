@@ -77,6 +77,7 @@ Not comprehension, but clarity.
     1. mulitpliers without the direct lines
 
 ## Updates
+
 1. Be Amazing in Your New Engineering Role
     1. Add teach others Grinning face
     1. Add learn even more while you teach!
