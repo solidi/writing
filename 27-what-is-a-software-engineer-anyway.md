@@ -28,3 +28,20 @@ The role of a software engineer has a magnitude of dimensions. When I think of t
 **Leaders are born from engineering teams.** For those that begin to find interest in organization engineering, or simply rise due to their technical prowess and empathetic strength as an inclusive collaborator, [leaders emerge.](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p)
 
 **The code they write is not their value.** Engineers understand that formulating approaches and problem solving is their value. Not the code they write. With each line of code they produce, they are learning, which has an increasing exponential impact on their current products and future society.
+
+---
+
+## Social Post
+
+What is a software engineer?
+
+- Curious and collaborative problem solvers
+- Excellent communicators
+- Teachers and mentors to others
+- Invest in discovering and creating tools
+- Strive for correctness and open to feedback
+- Know that code isn't their value
+
+Thanks to Len Santoro, Hazem Saleh, Arhant Jain, Danielle Arcuri, and Daniel Leonardis
+
+#softwaredevelopment #code #softwareengineering #software #beginners
