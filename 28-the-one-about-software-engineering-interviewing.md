@@ -46,11 +46,11 @@ My approach to finding the next opportunity is to understand the system [meta](h
 
 My learning from my #software #interview experiences -
 
-1. Understanding the system by drawing it out.
-2. Role-playing with a friend is impactful.
-3. Partnering with #recruiting for advantages.
-4. Every question is a chance to improve.
-5. Keeping at it, no matter how tough it can be.
+- Understanding the system by drawing it out.
+- Role-playing with a friend is impactful.
+- Partnering with #recruiting for advantages.
+- Every question is a chance to improve.
+- Keeping at it, no matter how tough it can be.
 
 https://medium.com/@solidi/the-one-about-software-engineering-interviewing-6f126e3a3171?sk=3a99e4a80b288bc0e0626535a3a4414a
 
