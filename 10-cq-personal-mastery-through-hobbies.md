@@ -84,3 +84,21 @@ Hobbies ignite searching for a path to the truth inside one's self. When we focu
 And thanks, Dad, for all this equipment to learn on. I got my first license even if it took way longer than you had hoped.
 
 ![](https://miro.medium.com/max/1400/1*cOCSw4KicMU2IPlvhknb7A.png)
+
+---
+
+## Social Post
+
+Learning a new new hobby and becoming better as an individual -
+
+- Overview of Ham Radio.
+- Hobbies are an exploration of personal mastery.
+- An example of the application through successive approximation.
+- Finding mentors in these hobbies.
+- Hobbies are interdependent exercises of personal mastery and require communication with others to improve.
+
+https://medium.com/@solidi/cq-personal-mastery-through-hobbies-f25aab2e49ad
+
+Thanks to Hazem Saleh
+
+#hobby #AmateurRadio #communication #leadership #mentorship 
