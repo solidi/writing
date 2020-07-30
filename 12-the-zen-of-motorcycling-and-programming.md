@@ -5,11 +5,11 @@
 
 I headed down the parkway parallel to the ocean through a hot summer breeze. My engine is slowly revving by keeping a legal speed limit. I was taking it all in on my motorcycle, with thoughts of inspiration and some doubt of nagging preservation. "Should I have checked that thing? What about this detail? Ah, whatever it is, enjoy this ride." Unfazed, I looked over to my right, nothing but dunes, on the left, the Great South Bay. There were wispy clouds in a blue sky and a bridge in the distance. I was making my way down to OBI, a parking lot in the middle of nowhere abut against the Atlantic ocean.
 
-Once I parked, I removed my immediate get my helmet, gloves, and jacket. The sweat from my padded kevlar jeans ran down my legs to my riding boots. I sat by my bike, on the shaded side. I wanted just to think, but instead, I flipped out my phone and stared lonely at the emails and social posts.
+Once I parked, I removed my helmet, gloves, and jacket. The sweat from my padded kevlar jeans ran down my legs to my riding boots. I sat by my bike, on the shaded side. I wanted just to think, but instead, I flipped out my phone and stared lonely at the emails and social posts.
 
 Some time passed. Finally, a bike pulled up, looking and inspecting if it was safe to park close. An older woman jumped off her well-worn bike. I looked over and had a judgment. "Hmm, she's all geared up. My kind of rider." She slowly approached, admiring my bike and me admiring hers.
 
-We chatted about bikes and philosophies of riding. She had much more riding experience than I and spoke vividly about riding adventures. Then she asked about my profession.
+We chatted about bikes and philosophies of riding. The lady had more riding experience than I and spoke vividly about riding adventures. Then she asked about my profession.
 
 > But what is… software programming?
 
@@ -21,7 +21,7 @@ We chatted about bikes and philosophies of riding. She had much more riding expe
 
 **Me:** "But before we jump on, we must wear gear. *ATGATT* (All the gear, all the time). In our writing, we wear gear to help protect us. Let's call them tests that check our writing. Tests won't protect us from everything, but it places us in a mindset that we could get hurt and are taking precautions to avoid future injury."
 
-**Me:** "From there, we are worried about the visibility of that writing. We want high-vis on our code. We have others review and check it before it is added to our system."
+**Me:** "From there, we are worried about the visibility of that writing. We want high-vis on our code. We have others review and check it. Then code is bolted on safely."
 
 **Her:** "Ah, kind of like *look twice, save a life?*"
 
