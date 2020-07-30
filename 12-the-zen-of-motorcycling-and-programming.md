@@ -55,12 +55,12 @@ We chatted about bikes and philosophies of riding. The lady had more riding expe
 
 **Me:** "Just like motorcycling, programming cannot be mastered."
 
-**Her:** "So, you are teams of readers and rarely writers. The machines handle the optimizations, and quality is paramount to the profession. Mentoring is an important aspect, just like I have shown others of what I know and how to ride safely. It sounds to me that after all this, you can enjoy… the ride?"
+**Her:** "So, you are teams of readers and rarely writers. The machines handle the optimizations, and quality is paramount to the profession. Mentoring is an important aspect, just like I have shown others of what I know and how to ride safely. It sounds to me that after all this, you can enjoy the ride?"
 
 **Me:** "I do. This is just my opinion, but others may see it differently. Quality? The quality reminds me of that book, Zen and the Art of Motorcycle Maintenance."
 
 ![](https://cdn-images-1.medium.com/max/1600/1*VyMm4N0badPOW7ROvrYJkg.png)
 
-**Me:** "Whether I'm classical or a romantic, I am not sure. When I read or write code or I perform an oil change or replace a stator, I keep looking at the gauges like a manic. 'Did I do it right? How can I be sure? Research… apply and *trust*!' I am stuck looking into all the details of how to do things well."
+**Me:** "Whether I'm classical or a romantic, I am not sure. When I read or write code or I perform an oil change or replace a stator, I keep looking at the gauges like a manic. 'Did I do it right? How can I be sure? Research, apply, and *trust*!' I am stuck looking into all the details of how to do things well."
 
 **Me:** "But, I…, we must do more than *look*; *we* all must see and *be seen*."
