@@ -5,7 +5,7 @@
 
 I headed down the parkway parallel to the ocean through a hot summer breeze. My engine is slowly revving by keeping a legal speed limit. I was taking it all in on my motorcycle, with thoughts of inspiration and some doubt of nagging preservation. "Should I have checked that thing? What about this detail? Ah, whatever it is, enjoy this ride." Unfazed, I looked over to my right, nothing but dunes, on the left, the Great South Bay. There were wispy clouds in a blue sky and a bridge in the distance. I was making my way down to OBI, a parking lot in the middle of nowhere abut against the Atlantic ocean.
 
-Once I parked, I removed my helmet, gloves, and jacket. The sweat from my padded kevlar jeans ran down my legs to my riding boots. I sat by my bike, on the shaded side. I wanted just to think, but instead, I flipped out my phone and stared lonely at the emails and social posts.
+Once I parked, I removed my helmet, gloves, and jacket. The sweat from my padded kevlar jeans ran down my legs to my riding boots. I sat by my bike, on the shaded side. I wanted to think, but instead, I flipped out my phone and stared lonely at the emails and social posts.
 
 Some time passed. Finally, a bike pulled up, looking and inspecting if it was safe to park close. An older woman jumped off her well-worn bike. I looked over and had a judgment. "Hmm, she's all geared up. My kind of rider." She slowly approached, admiring my bike and me admiring hers.
 
@@ -17,7 +17,7 @@ We chatted about bikes and philosophies of riding. The lady had more riding expe
 
 **Her:** "What kind of checks?"
 
-**Me:** "First, of course, we have *T-CLOCS* (tires/wheels/brakes, controls, lights/electrics, oil/fluids, chassis, and stands). Before we write, we read to understand if it makes sense to add to what we are reading. We may have to wrench through issues first. Once we have something we can add, and this can take some time, we can jump on safely."
+**Me:** "First, of course, we have *T-CLOCS* (tires/wheels/brakes, controls, lights/electrics, oil/fluids, chassis, and stands). Before we write, we read to understand if it makes sense to add to what we are reading. We may have to *wrench* through issues first. Once we have something we can add, and this can take some time, we can jump on safely."
 
 **Me:** "But before we jump on, we must wear gear. *ATGATT* (All the gear, all the time). In our writing, we wear gear to help protect us. Let's call them tests that check our writing. Tests won't protect us from everything, but it places us in a mindset that we could get hurt and are taking precautions to avoid future injury."
 
@@ -29,11 +29,11 @@ We chatted about bikes and philosophies of riding. The lady had more riding expe
 
 **Her:** "Are there programmers out there that write code and avoid these checks?"
 
-**Me:** "Of course. Even if it's legal, they are the *lane splitters*. They go fast past others, and they win sometimes. But eventually, their odds run out, and they hurt themselves and others."
+**Me:** "Of course. Even if it's legal, these programmers are *lane splitters*. They go fast past others, and they win sometimes. But eventually, their odds run out, and they hurt themselves and others."
 
 **Me:** "My respect for the machine is of the front of mind, always. Just like I know that bike over there can hurt me and others, I know that the respect I have will keep me in check so *I can live to ride another day.*"
 
-**Her:** "You got a good head on your shoulders. But back to this software programming thing. So you are readers, and sometimes writers. Apart from these checks and tests, how do you read and write… well?"
+**Her:** "You got a good head on your shoulders. But back to this software programming thing. So you are readers, and sometimes writers. Apart from these checks and tests, how do you read and write well?"
 
 **Me:** "Just like we should practice our figure eights, stops, swerves, and our finesse, we do need to practice our reading and writing. We should do this continuously regardless of how long we've been in the game. I didn't believe this until I recently had a very close call. I was too lazy, but I learned that if I practiced the skill continuously, it would have been mundane."
 
@@ -57,10 +57,30 @@ We chatted about bikes and philosophies of riding. The lady had more riding expe
 
 **Her:** "So, you are teams of readers and rarely writers. The machines handle the optimizations, and quality is paramount to the profession. Mentoring is an important aspect, just like I have shown others of what I know and how to ride safely. It sounds to me that after all this, you can enjoy the ride?"
 
-**Me:** "I do. This is just my opinion, but others may see it differently. Quality? The quality reminds me of that book, Zen and the Art of Motorcycle Maintenance."
+**Me:** "I do. These concepts are my opinions, but others may see it differently. Quality? The quality reminds me of that book, Zen and the Art of Motorcycle Maintenance."
 
 ![](https://cdn-images-1.medium.com/max/1600/1*VyMm4N0badPOW7ROvrYJkg.png)
 
 **Me:** "Whether I'm classical or a romantic, I am not sure. When I read or write code or I perform an oil change or replace a stator, I keep looking at the gauges like a manic. 'Did I do it right? How can I be sure? Research, apply, and *trust*!' I am stuck looking into all the details of how to do things well."
 
 **Me:** "But, I…, we must do more than *look*; *we* all must see and *be seen*."
+
+---
+
+## Social Post
+
+At intersection of motorcycling, programming, and trust of eventual automation of vehicles -
+
+- The craft and disipline of coding and riding.
+- Looking twice to save a life.
+- Living to ride another day.
+- Riding your own ride.
+- Just like motorcycles, the software is everywhere!
+- Riding and programming cannot be mastered.
+- We must do more than look; we all must see and be seen.
+
+https://medium.com/hackernoon/the-zen-of-motorcycling-and-programming-620907dbab2c
+
+Thanks to Hazem Saleh, Alex Hart, and Danielle Arcuri
+
+#motorcycle #SoftwareDevelopment #programming #ProgrammingZen #RobertPirsig #safety
