@@ -63,6 +63,7 @@ Not comprehension, but clarity.
 1. What is a Product Manager Anyway?
     1. Focusing in on the problem
     1. Ruthlessly prioritizes
+    1. "Watch this" product demo
 1. What is a Project Manager Anyway?
     1. Four levers of projects
     1. Visualizing where we are
