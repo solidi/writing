@@ -66,6 +66,7 @@ Not comprehension, but clarity.
     1. "Watch this" product demo
 1. What is a Project Manager Anyway?
     1. Four levers of projects
+    1. Three of the four attributes
     1. Visualizing where we are
 1. What is a Principal Engineer Anyway?
     1. Internal and external influence, recruiing
