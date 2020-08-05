@@ -77,6 +77,12 @@ Not comprehension, but clarity.
     1. engineering practices
     1. moves hardest technical initiatives
     1. mulitpliers without the direct lines
+1. What I Learned about Vacations
+    - 3 days to decompress, 3 weeks to disconnect
+    - taking on one meeting may ruin the vacation
+    - managers that support vacationing typically do not see repriocation
+    - what you do is reflected on others behaviors
+    - best creative thinking happens
 
 ## Updates
 
