@@ -1,7 +1,7 @@
 # Do Great at Working Remotely
 #career, #beginners, #productivity, #remote
 
-Due to recent world events, I was called on by my family to set them up to work remotely. In this post, I want to share what I've learned by working remotely (and leading distributed teams) over the years. Working at home is a *mental game*. These tips will keep you productive, effective, and above all, balanced.
+In this post, I want to share what I've learned by working remotely (and leading distributed teams) over the years. Working at home is a *mental game*. These tips will keep you productive, effective, and above all, balanced.
 
 ## Before You Arrive at Work
 
