@@ -86,9 +86,6 @@ Not comprehension, but clarity.
 
 ## Updates
 
-1. Be Amazing in Your New Engineering Role
-    1. Add teach others Grinning face
-    1. Add learn even more while you teach!
 1. How to Crush Your Next Team Demo
     1. Clarity to presentation, shut off notifications, alerts, and clear browser history
 
