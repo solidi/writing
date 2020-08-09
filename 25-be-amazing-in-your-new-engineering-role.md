@@ -53,8 +53,10 @@ As you are onboarding well, take on work that you will lead. Take ownership of t
 
 **Start small, and build up.** Take on work that is achievable to build up understanding. Small accomplishments build your confidence.
 
+**Bring in previous learnings.** As you learn from the codebase, and respect team efforts, show your way of thinking, solving the first initiative collaboratively. It's an excellent opportunity to mentor and learn even more from others.
+
 **Solve a gnarly problem.** The team has many important initiatives ahead of them. Find a problem that [can help the organization](https://devjourney.info/Guests/98_DougArcuri.html), the product, or the environment. By taking on a gnarly issue, and solving it, will build the trust and respect of the team.
 
 ## Finally
 
-**Get in there and don't be afraid!** All the tips above require courage to take on. Each of these alone applied can be highly impactful. Be respectful and be bold! It's a journey and will take time. You will do great! 🎉🙌
+**Get in there and don't be afraid!** All the tips above require courage to take on. Each of these alone applied can be highly impactful. Be respectful and be bold! It's a journey and will take time. You will do great! 🎉 🙌
