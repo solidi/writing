@@ -5,7 +5,7 @@ Starting a new software engineering role can be an overwhelming experience. The 
 
 ## Build Trust With People
 
-**My philosophy starts with people.** As a software engineer, good technical fundamentals support the day to day work. Software, at its core, is fundamentally about people working as a team. Focus on getting to know your teammates well.
+**My philosophy starts with people.** As a [software engineer](https://dev.to/solidi/what-is-a-software-engineer-anyway-3fb2), good technical fundamentals support the day to day work. Software, at its core, is fundamentally about people working as a team. Focus on getting to know your teammates well.
 
 **Reach out to people and get to know them.** For those that work and partner with your team, reach out, and introduce yourself and what you do. Having this small interaction starts working relationships well.
 
@@ -47,13 +47,13 @@ Now that you are understanding people, and adding value by contributing, organiz
 
 ## Take on Your First Initiative
 
-As you are onboarding well, take on work that you will lead. Take ownership of the work you will be contributing to the team.
+As you are onboarding well, now is an excellent opportunity to build. Take ownership of the work you will be contributing to the team.
 
 **Understand the why behind the work.** As you get into taking on your first challenge for the team, it is good to ask why your work is essential. Understand the mission and shape the context so it will drive your impact.
 
 **Start small, and build up.** Take on work that is achievable to build up understanding. Small accomplishments build your confidence.
 
-**Bring in previous learnings.** As you learn from the codebase, and respect team efforts, show your way of thinking, solving the first initiative collaboratively. It's an excellent opportunity to mentor and learn even more from others.
+**Bring in previous learnings.** As you learn from the codebase, and respect team efforts, show your way of thinking by solving the first initiative collaboratively. It's an excellent opportunity to mentor and learn even more from others.
 
 **Solve a gnarly problem.** The team has many important initiatives ahead of them. Find a problem that [can help the organization](https://devjourney.info/Guests/98_DougArcuri.html), the product, or the environment. By taking on a gnarly issue, and solving it, will build the trust and respect of the team.
 
