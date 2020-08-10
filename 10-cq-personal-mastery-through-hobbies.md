@@ -89,16 +89,16 @@ And thanks, Dad, for all this equipment to learn on. I got my first license even
 
 ## Social Post
 
-Learning a new new hobby and becoming better as an individual -
+Learning a new #hobby and becoming better as an individual -
 
-- Overview of Ham Radio.
-- Hobbies are an exploration of personal mastery.
+- Overview of Ham #Radio.
+- #Hobbies are an exploration of personal mastery.
 - An example of the application through successive approximation.
 - Finding mentors in these hobbies.
-- Hobbies are interdependent exercises of personal mastery and require communication with others to improve.
+- Hobbies are #interdependent exercises of personal mastery and require communication with others to improve.
 
-https://medium.com/@solidi/cq-personal-mastery-through-hobbies-f25aab2e49ad
+https://medium.com/the-innovation/cq-personal-mastery-through-hobbies-f25aab2e49ad
 
-Thanks to Hazem Saleh
+Thanks to Hazem Saleh and Danielle Arcuri
 
-#hobby #AmateurRadio #communication #leadership #mentorship 
+#AmateurRadio #communication #leadership #mentorship 
