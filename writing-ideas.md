@@ -68,6 +68,7 @@ Not comprehension, but clarity.
     1. Four levers of projects
     1. Three of the four attributes
     1. Visualizing where we are
+    1. Project managers are managers (1:1s)
 1. What I Learned about Vacations
     - 3 days to decompress, 3 weeks to disconnect
     - taking on one meeting may ruin the vacation
