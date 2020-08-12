@@ -68,15 +68,6 @@ Not comprehension, but clarity.
     1. Four levers of projects
     1. Three of the four attributes
     1. Visualizing where we are
-1. What is a Principal Engineer Anyway?
-    1. Internal and external influence, recruiing
-    1. enablement of teams quarter to quarter
-    1. look outward for hazards
-    1. rapid response / swat leaders
-    1. developers experience
-    1. engineering practices
-    1. moves hardest technical initiatives
-    1. mulitpliers without the direct lines
 1. What I Learned about Vacations
     - 3 days to decompress, 3 weeks to disconnect
     - taking on one meeting may ruin the vacation
