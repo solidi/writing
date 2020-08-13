@@ -14,3 +14,21 @@ The point of all the blogging is to start, no matter how difficult it may seem. 
 * * *
 
 I’m experimenting with my writing style and have started [a more focused blog at dev.to](https://dev.to/solidi). My first write of [What is a Tech Lead Anyway](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p) seem to garner attention. My goal is transparency in software engineering. Years of experience distilled to no more than two-minute reads.
+
+---
+
+## Social Post
+
+A diagram on how I blog about software -
+
+- Thoughts and notes into #ideations
+- First drafts and #narrative
+- Abandon precious threshold
+- Feedback from others and mentoring
+- #Growth, #impact, #influence, and #gratitude
+
+Thanks to Danielle Arcuri
+
+https://medium.com/@solidi/the-one-about-blogging-cd9e65a2055b
+
+#blogging #reflections #SoftwareDevelopment #PersonalGrowth #developemt
