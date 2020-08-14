@@ -75,6 +75,12 @@ Not comprehension, but clarity.
     - managers that support vacationing typically do not see repriocation
     - what you do is reflected on others behaviors
     - best creative thinking happens
+1. Five Questions
+    - What are we optimizing for?
+    - What problem are we trying to solve?
+    - How am I spending our money?
+    - What value do I bring everyday?
+    - What sparks joy?
 
 ## Updates
 
@@ -83,6 +89,8 @@ Not comprehension, but clarity.
 1. The Zen of Motorcycling and Programming
     1. "Grip it and rip it"
     1. "Knees in the breeze"
+1. What is an Engineering Manager Anyway?
+    1. Managers enable pockets of time"
 
 ## Completed
 
