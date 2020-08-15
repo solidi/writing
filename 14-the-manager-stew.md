@@ -54,3 +54,21 @@ Management is about wading through the vagueness and ambiguity of interrelations
 I remember numerous stews where it was painfully obvious that I tried everything to coach an individual. Through all the work, there was no other choice — *all* options where exhausted. *The stew* provided that clarity.
 
 Do you have a similar tool?
+
+---
+
+## Social Post
+
+How do I #manage effectively?
+
+- The stew is thinking time before working
+- The stew #organizes and #prioritizes outcomes
+- The stew surfaces things that need attention
+- The stew is a place to #continuously learn
+- Results in growth in relationships and heighten #performance
+
+Thanks to Danielle Arcuri and Daniel Leonardis
+
+https://medium.com/hackernoon/the-manager-stew-dd59cd653728
+
+#leadership #management #performance #walking #SoftwareDevelopment
