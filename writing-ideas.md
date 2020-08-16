@@ -81,6 +81,7 @@ Not comprehension, but clarity.
     - How am I spending our money?
     - What value do I bring everyday?
     - What sparks joy?
+1. Plastic modeling as a hobby - full process
 
 ## Updates
 
