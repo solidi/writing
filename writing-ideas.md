@@ -107,3 +107,4 @@ Not comprehension, but clarity.
 1. [On Names: A Brief Encounter with Guido van Rossum](https://medium.com/@solidi/on-names-a-brief-encounter-with-guido-van-rossum-6c4ff065e86c)
 1. [What is a Software Engineer Anyway?](https://dev.to/solidi/what-is-a-software-engineer-anyway-3fb2)
 1. [The One About Software Engineering Interviewing](https://medium.com/@solidi/the-one-about-software-engineering-interviewing-6f126e3a3171)
+1. [What is a Principal Engineer Anyway?](https://dev.to/solidi/what-is-a-principal-engineer-anyway-55n0)
