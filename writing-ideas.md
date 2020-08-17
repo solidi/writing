@@ -94,6 +94,14 @@ Not comprehension, but clarity.
 1. What is an Engineering Manager Anyway?
     1. Managers enable pockets of time"
 
+## What is a _____ Anyway?
+
+1. Goals - more than a job description, it has an edge, an opinion.
+    1. Focus on the drama and people
+        1. The top belief
+        1. State numerous sub beliefs
+        1. The final twist, leave them nodding or rebuking
+
 ## Completed
 
 1. [The Many Senses of Software Engineering](https://medium.com/@solidi/the-many-senses-of-software-engineering-aba9f289498c)
