@@ -65,6 +65,7 @@ Not comprehension, but clarity.
     1. Ruthlessly prioritizes
     1. "Watch this" product demo
     1. 33 used, 33 unused, 33 friction
+    1. Great Goaltending
 1. What is a Technical Project Manager Anyway?
     1. Time slices (Organizes the work into manageable phases)
     1. Four levers of projects
