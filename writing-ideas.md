@@ -64,6 +64,7 @@ Not comprehension, but clarity.
     1. Focusing in on the problem
     1. Ruthlessly prioritizes
     1. "Watch this" product demo
+    1. 33 used, 33 unused, 33 friction
 1. What is a Technical Project Manager Anyway?
     1. Time slices (Organizes the work into manageable phases)
     1. Four levers of projects
@@ -101,6 +102,10 @@ Not comprehension, but clarity.
         1. The top belief
         1. State numerous sub beliefs
         1. The final twist, leave them nodding or rebuking
+
+## Do Great at _____.
+
+1. Goals - focus on a rythym and pipeline of getting things done
 
 ## Completed
 
