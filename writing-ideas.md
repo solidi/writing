@@ -104,11 +104,13 @@ Not comprehension, but clarity.
         1. 3 minute read
         1. Make it memorible
         1. Make it wanted to be shared
+        1. Make it timeless
         1. Focus on aspirational, the drama, and people, 
     1. Format 
         1. Quick intro on working with <title>
         1. The top belief(s) (~1-2 beliefs, say it boldly. Then 2-3 sentences on detail)
         1. State numerous sub beliefs (~8-9 beliefs)
+        1. Bolden beliefs tell a story if read in sequence
         1. The final twist, leave them violently agreeing, disagreeing, or questioning
 
 ## Do Great at _____.
