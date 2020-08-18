@@ -67,11 +67,12 @@ Not comprehension, but clarity.
     1. 33 used, 33 unused, 33 friction
     1. Great Goaltending
 1. What is a Technical Project Manager Anyway?
+    1. Project managers are managers (who does what by when, 1:1s, trust)
+    1. Process evolution shepherds
     1. Time slices (Organizes the work into manageable phases)
-    1. Four levers of projects
-    1. Three of the four attributes
+    1. Four levers of projects (time, people, quality, scope)
+    1. Three of the four attributes (good, fast, cheap, done)
     1. Visualizing path (where we are) and data (how we are)
-    1. Project managers are managers (1:1s)
 1. What I Learned about Vacations
     - 3 days to decompress, 3 weeks to disconnect
     - taking on one meeting may ruin the vacation
