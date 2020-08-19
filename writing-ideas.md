@@ -73,6 +73,7 @@ Not comprehension, but clarity.
     1. Four levers of projects (time, people, quality, scope)
     1. Three of the four attributes (good, fast, cheap, done)
     1. Visualizing path (where we are) and data (how we are)
+    1. Value mapping and migration completions
 1. What I Learned about Vacations
     - 3 days to decompress, 3 weeks to disconnect
     - taking on one meeting may ruin the vacation
