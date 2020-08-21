@@ -117,3 +117,17 @@ Fred's "The Documentary Hypothesis" discusses documents such as budget, organiza
 Since software development teams are always under constraint, there are parallels drawn to code consistency, complexity, and why the organization constructed things the way they did. We should question why certain documents that drive software projects are hidden, possibly to have the team debate and encourage the variables differently so that better software could flourish. However, this was not the goal of my initial contemplation. Thanks to [Hazem Saleh](https://medium.com/u/d8a8e3247b67?source=post_page-----aa512e0113----------------------) for pointing this out and the summation that many books could be written on this fascinating exploration.
 
 Finally, thanks to [James Shvarts](https://medium.com/u/4e5a0d0c55e?source=post_page-----aa512e0113----------------------) for the inspiration. One thing that will never fade is overpriced sandwich shops.
+
+---
+
+## Social Post
+
+How do #software #engineering teams document #decisions?
+
+An in-depth look at how a #team met the challenge of documenting decisions by being inspired by Fred Brooks book, The Mythical Man-Month. Design documents, decisions, and the "why" are discussed in fascinating insight.
+
+Thanks to James Shvarts and Hazem Saleh
+
+https://medium.com/hackernoon/the-decision-hypothesis-aa512e0113
+
+#softwaredevelopment #code #softwareengineering #learning #documents #productivity
