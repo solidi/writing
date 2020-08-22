@@ -95,6 +95,7 @@ Not comprehension, but clarity.
 1. The Zen of Motorcycling and Programming
     1. "Grip it and rip it"
     1. "Knees in the breeze"
+    1. "Loud mouths save lives"
 1. What is an Engineering Manager Anyway?
     1. Managers enable pockets of time"
 
