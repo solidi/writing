@@ -66,6 +66,13 @@ Not comprehension, but clarity.
     1. "Watch this" product demo
     1. 33 used, 33 unused, 33 friction
     1. Great Goaltending
+    1. Create new value for their customers
+    1. Half ideas will never work
+    1. Partner with engineering on innovation
+    1. defined and designed Collaboratively - open engagement
+    1. Technology sophistication - holistic
+    1. Retention curve
+    1. Accountability no matter what
 1. What is a Technical Project Manager Anyway?
     1. Project managers are managers (who does what by when, 1:1s, trust)
     1. Process evolution shepherds
