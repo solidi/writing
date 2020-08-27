@@ -61,3 +61,21 @@ Fundamentally, correctness and pattern recognition have tie-ins to outcomes of c
 ** *If you want to know more about what John is doing, take a look at [his video](https://www.youtube.com/watch?v=ajFq31OV9Bk).*
 
 *** *Engineers should also practice high levels of **learning** and **communication**. These concepts aren't unique to software but have strong associations with the sciences.*
+
+---
+
+## Social Post
+
+Imho, #Software #engineers excel at pattern recognition and correctness.
+
+- Engineers tend to be very detailed oriented.
+- Engineers keep code simple to improve correctness.
+- They recognize knowledge as it is created over and over again. Then they simplify.
+- Engineers should also practice high levels of learning and communication.
+- These metas result is higher quality software. 
+
+Thanks to Hazem Saleh and Danielle Arcuri
+
+https://medium.com/hackernoon/meta-skills-of-a-software-engineer-bed411f6685e
+
+#softwaredevelopment #code #softwareengineering #software #career #learning #career #productivity
