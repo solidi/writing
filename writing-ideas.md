@@ -73,6 +73,7 @@ Not comprehension, but clarity.
     1. Technology sophistication - holistic
     1. Retention curve
     1. Accountability no matter what
+    1. Killing products is just as important as growing one
 1. What is a Technical Project Manager Anyway?
     1. Project managers are managers (who does what by when, 1:1s, trust)
     1. Process evolution shepherds
