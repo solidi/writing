@@ -95,6 +95,8 @@ Not comprehension, but clarity.
     - What value do I bring everyday?
     - What sparks joy?
 1. Plastic modeling as a hobby - full process
+1. 97 Things Engineering Managers will Experience
+    - Dealing with toxic environments
 
 ## Updates
 
