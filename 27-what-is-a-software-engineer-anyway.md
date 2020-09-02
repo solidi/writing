@@ -42,6 +42,16 @@ What is a software engineer?
 - Strive for correctness and open to feedback
 - Know that code isn't their value
 
+Alt: @TheBeginnerDev
+
+What are software engineers?
+
+- Curious and collaborative problem solvers
+- Mentors to others
+- Discoverers and creators of new tools
+- Open to feedback
+- More valuable than just their code
+
 Thanks to Len Santoro, Hazem Saleh, Arhant Jain, Danielle Arcuri, and Daniel Leonardis
 
 #softwaredevelopment #code #softwareengineering #software #beginners
