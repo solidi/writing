@@ -205,3 +205,21 @@ fun `Given software, when we build, then we expect tests`() {
 
 However, TDD is an intriguing discipline and is a tool to lean on. Its phenomena should be studied in detail. If anything else, the discipline makes for better developers as the practice contains benefits which can strengthen the individual and collective group.
 Inspiration for this post was due in part by Danny Preussler. As I re-explore the discipline, he has started running comprehensive Android TDD workshops. Check out his recent deck here.
+
+---
+
+## Social Post
+
+Personal observations of practing TDD stands and where it stands.
+
+- Review studies of TDD effectivness
+- Explores the steps of TDD
+- Examens the observations of what happens in TDD
+- Why TDD hasn't taken off in adoption
+
+Thanks to Hazem Saleh and Danny Preussler
+
+https://medium.com/free-code-camp/8-observations-on-test-driven-development-a9b5144f868
+
+#softwaredevelopment #code #softwareengineering #software #career #learning #testing #productivity
+
