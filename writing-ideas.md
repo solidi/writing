@@ -108,6 +108,9 @@ Not comprehension, but clarity.
     1. "Loud mouths save lives"
 1. What is an Engineering Manager Anyway?
     1. Managers enable pockets of time"
+1. What is a Software Engineer Anyway?
+    1. More valuable than just their code
+
 
 ## What is a _____ Anyway?
 
