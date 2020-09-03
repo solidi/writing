@@ -212,6 +212,8 @@ Inspiration for this post was due in part by Danny Preussler. As I re-explore th
 
 Personal observations of practing TDD stands and where it stands.
 
+Alt: What is TDD and why it hasn't developed critical mass? (2018)
+
 - Review studies of TDD effectivness
 - Explores the steps of TDD
 - Examens the observations of what happens in TDD
