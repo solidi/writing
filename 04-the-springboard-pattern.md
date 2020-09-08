@@ -90,3 +90,21 @@ Developing for isolation and modularity is a practice all engineers should striv
 The springboard pattern in software development finally gives us a word to use to communicate our intention both in software execution. When adhering to this pattern, we manage complexity and increase optionality. As described above, the benefits are plenty, but be aware of the cost of drawbacks.
 
 The springboard pattern takes effort and drive but the benefits could be incredible to the team and to their products. Center the pattern around the team demos and adhere to it.
+
+---
+
+## Social Post
+
+How to organize new #software #features in #isolation? Use the springboard pattern.
+
+- develop features on a cycle centered around product demonstrations 
+- keep dependencies in check
+- guardrail to develop features in isolated pieces that are easily demonstrable on the platform
+- manage complexity and increase optionality
+- operationally execute both iteratively and incrementally
+
+Thanks to Shawn Carrillo, Alex Hart, and Hazem Saleh, and Konrad Stanik. 
+
+https://medium.com/hackernoon/the-springboard-pattern-340e00379404
+
+#softwaredevelopment #code #softwareengineering #learning #demos #productivity
