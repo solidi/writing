@@ -97,6 +97,8 @@ Not comprehension, but clarity.
 1. Plastic modeling as a hobby - full process
 1. 97 Things Engineering Managers will Experience
     - Dealing with toxic environments
+    - Persons agency
+    - Promotion prep
 1. How I read books diagram
 
 ## Updates
