@@ -60,20 +60,6 @@ Not comprehension, but clarity.
     1. Avoid urgency, build rust
     1. Default change?
     1. Replay all is the default
-1. What is a Technical Product Manager Anyway?
-    1. Focusing in on the problem
-    1. Ruthlessly prioritizes
-    1. "Watch this" product demo
-    1. 33 used, 33 unused, 33 friction
-    1. Great Goaltending
-    1. Create new value for their customers
-    1. Half ideas will never work
-    1. Partner with engineering on innovation
-    1. defined and designed Collaboratively - open engagement
-    1. Technology sophistication - holistic
-    1. Retention curve
-    1. Accountability no matter what
-    1. Killing products is just as important as growing one
 1. What is a Technical Project Manager Anyway?
     1. Project managers are managers (who does what by when, 1:1s, trust)
     1. Process evolution shepherds
@@ -150,3 +136,4 @@ Not comprehension, but clarity.
 1. [What is a Software Engineer Anyway?](https://dev.to/solidi/what-is-a-software-engineer-anyway-3fb2)
 1. [The One About Software Engineering Interviewing](https://medium.com/@solidi/the-one-about-software-engineering-interviewing-6f126e3a3171)
 1. [What is a Principal Engineer Anyway?](https://dev.to/solidi/what-is-a-principal-engineer-anyway-55n0)
+1. [What is a Product Manager Anyway?](https://dev.to/solidi/what-is-a-product-manager-anyway-3pc4)
