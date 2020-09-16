@@ -36,3 +36,15 @@ The mutilation of trees to make way for utility lines invokes conflict. An abstr
 The beauty of computer science is that we can invent and grow structures based on our physical observations. Perhaps ancient tree pruning technique such as Topping or more modern technique such as Drop-Crotching may apply to computer science. Utility lines that are strung or laid may also have their analogue. How they work together may be of interest for further research.
 
 The message is to look around outside to learn and apply what we observe, virtually. Question if it could be a chance to translate a structure or system into something that can be leveraged for beauty and efficiency. This is because in conflict, if we embrace the problem, there is a chance for opportunity of *structural invention*.
+
+---
+
+## Social Post
+
+An observation of unbalanced trees from our environment that exist in #software #engineering
+
+Thanks to Danielle Arcuri and Hazem Saleh
+
+https://medium.com/hackernoon/coda-learning-from-structures-around-us-25052243e1a7
+
+#programming #computerscience #nature #electricity #SoftwareDevelopment #beauty
