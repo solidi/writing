@@ -171,3 +171,21 @@ However, to balance the excitement, these code transformations may not allow us 
 Should we allow these tools to add to or transform what is actually in the code? Maybe. In a lot of ways, tools do this visually (and in fact some languages are visual). But it’s something profound to layer visually over serially textual code that we all love to write.
 
 More fundamentally, if the IDE continues to iterate on these SECTAs, does our language selection matter less? This is an interesting and thought-provoking question, and I’m very curious to see where it shakes out over the next few years. Hopefully IntelliJ can take that step to help every single developer to better express their creative desire to make code work well.
+
+---
+
+## Social Post
+
+How the integrated development environment (IDE) is shaping the work of engineers.
+
+- Serial code transformation is powerful and dangerous
+- Parameter hints add sugar to the editing experience
+- Code ligatures are adding signaling not captured in code
+- Automatic inference of null may have consequence
+- Look out for more SECTAs in the future to assist engineers
+
+Thanks to Hazem Saleh and Danny Preussler. 
+
+https://medium.com/free-code-camp/intellijs-serial-code-transformations-775fe7aa517c
+
+#softwaredevelopment #code #softwareengineering #learning #ide #productivity
