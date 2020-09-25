@@ -86,6 +86,10 @@ Not comprehension, but clarity.
     - Persons agency
     - Promotion prep
 1. How I read books diagram
+    - A few pages a day
+    - One idea is better than nothing
+    - Radically open to new books
+    - Appreciate tangible books, feeling and style.
 
 ## Updates
 
@@ -99,7 +103,6 @@ Not comprehension, but clarity.
     1. Managers enable pockets of time"
 1. What is a Software Engineer Anyway?
     1. More valuable than just their code
-
 
 ## What is a _____ Anyway?
 
