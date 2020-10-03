@@ -42,3 +42,15 @@ It's the way it will be.
 Every so often, these moments make me smile.
 
 How is your name wrangled, and what patterns have you seen?
+
+---
+
+## Social Post
+
+My short story meeting Guido van Rossum, the inventor of #python programming language, at Pycon 2019. It explores how pronouncing names is difficult, no matter how common they are.
+
+Thanks to Hazem Saleh and Danielle Arcuri.
+
+https://medium.com/an-idea/on-names-a-brief-encounter-with-guido-van-rossum-6c4ff065e86c
+
+#naming #name #software #belonging #pycon #culture
