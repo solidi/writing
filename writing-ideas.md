@@ -103,6 +103,9 @@ Not comprehension, but clarity.
     1. Managers enable pockets of time"
 1. What is a Software Engineer Anyway?
     1. More valuable than just their code
+1. What is a Product Manager Anyway?
+    1. Half of work is convincing others
+    1. Interface with all parts of the organization
 
 ## What is a _____ Anyway?
 
