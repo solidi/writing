@@ -105,3 +105,20 @@ There are very strong points above in the oath. Uncle Bob has created a strong g
 The point with rule number ten is to enforce all other rules in the oath. We are writers that are expected to communicate to the best of our written abilities.
 
 The mystical glue that binds us as software engineers are many. One such glue is that we value the pull request. Let’s do our part to describe in detail the context of the problem and solution so that others can contribute promptly and to protect our users. It starts with thinking and describing “what” the problem is. Then we must describe the solution with the new opportunities at hand. Ultimately communicating intent of change should be adhered to by all engineering professionals.
+
+---
+
+## Social Post
+
+A call for a unified pull-request template.
+
+- #Teams get information about code change in pull-requests.
+- Leaning on a #template to make the why easy to understand.
+- The value is in the #description.
+- Extending Uncle Bob's oath to #share context widely.
+
+Thanks to Hazem Saleh, Mariusz Skierski, and Dan Leonardis. 
+
+https://medium.com/hackernoon/no-description-provided-8d9e0f3a3abb
+
+#softwaredevelopment #expertimenting #career #learning #career #productivity
