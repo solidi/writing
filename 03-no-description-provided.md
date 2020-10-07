@@ -1,110 +1,116 @@
 # No Description Provided
+## Explaining Context by Identifying a Code Review Template
 
-Some months ago, one of my colleagues suggested a book. Out of curiosity I read and completed Sapiens: A Brief History Of HumanKind.
+![](https://miro.medium.com/max/1400/1*280YPUkvtS27HkK9YTP1jA.png)
 
-It was a fascinating read with many points to consider. With themes interweaving throughout the chapters, one theme continued to bubble up that was thought provocative but easy to understand.
+Some months ago, one of my colleagues suggested a book. Out of curiosity, I read [Sapiens: A Brief History Of Human Kind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095).
 
-Yuval described that in order for humans in large groups to cooperate, they must create orderly patterns that are understood and valued. As described, a mythical glue.
+It was a fascinating read with many points to consider. With themes interweaving throughout the chapters, one article continued to bubble up that was thought provocative but easy to understand.
 
-I questioned, is there such a glue that is effectively applied to our engineering profession? Do we as engineering professionals have a mythical glue we value?
+[Yuval](http://www.ynharari.com/) described that for humans in large groups to cooperate; they must create orderly patterns that are understood and valued. As illustrated, a *mythical glue*.
 
-## Everything In A Pull Request
+I questioned, is there [such a glue](https://medium.com/hackernoon/software-is-unlike-construction-c0284ee4b723) that applies to our engineering profession? Do we, as engineering professionals, have a mythical bond we value?
 
-Without question the pull request, or code review, has become the life line of every development team who interact and contribute. Pull requests are where the team culture is embodied in some way. In a sense, this is how the team communicates and makes decisions.
+## Everything In A Pull Request
 
-As Yuval described free market systems, money and other constructs that are believed and valued, we as engineering professionals believe in pull requests. We all understand what code review is and what values it provides.
+Without question, the [pull request](https://help.github.com/articles/about-pull-requests/), or code review, has become the lifeline of every development team who interact and contribute. Pull requests are where the team culture resides in some way. In a sense, this is how the team communicates and makes decisions.
+
+As Yuval described free-market systems, money, and other valued constructs, we as engineering professionals believe in pull requests. We all understand what code review is and what values it provides.
 
 Or do we?
 
-With travels to many other code reviews, something's not quite right. There are no descriptions that cleanly point out the intent of change. For those that do describe the change, they appear messy and inconsistent.
+With travels to many other code reviews, something is not quite right. There are no descriptions that cleanly point out the *intent* of the change. For those that describe the difference, they appear messy and inconsistent.
 
-The value, the glue, is diluted and does not bind well. What’s the value of a pull request when the problem is not described?
+The value, the glue, is diluted and does not bind well. What's the cost of a pull request when the problem is not described?
 
+![Perhaps the engineer was in a rush? The commit message was no better, and the commit diff was unclear.](https://miro.medium.com/max/1400/1*BrnQaZ9vFjJ_32WpbzZn1g.png)
 
-Perhaps the engineer was in a rush? The commit message was no better and the commit diff was unclear.
-The most important aspect of software engineering is to describe the intent of change. We must describe the why. This is what we must do as professionals.
+The most crucial aspect of software engineering is to describe the intent of the change. We must explain *why*, as professionals.
 
-Since our profession is distributed globally, ear shot conversations will not do. Tribal team knowledge will not suffice either. The description must be textual as record.
+Since our craft is global, earshot conversations will not do. Tribal team knowledge will not suffice either. The description must be *textual* as a record.
 
 So, what is the solution?
 
-## Call For A Unified Pull Request Template
+## Call For A Unified Pull Request Template
 
-The community has toiled with pull requests for some time. There have been numerous posts in the community to do them better.
+The community has toiled with pull requests for some time. There have been numerous [posts](https://medium.com/google-developer-experts/a-comprehensive-introduction-to-perform-an-efficient-android-code-review-75975ccaa20a) in the community to do them better.
 
-Some of the best examples provide preferred templates that guide the contributor to answer certain questions. This is a good way to suss out a description of change.
+Some of the best examples provide preferred [templates](https://github.com/blog/2111-issue-and-pull-request-templates) that guide the contributor to answer specific questions. Templates are an excellent way to understand a description of the change.
 
-However the community has not found an answer to forge descriptive pull requests. Many professional teams often skip descriptions missing out on great opportunities to strengthen our glue.
+However, the community has not found an answer to forge descriptive pull requests. Many professional teams often skip descriptions missing out on great opportunities to strengthen their glue.
 
 ## An Example
 
-At a normal cadence engineering teams have to update external dependencies. The mode in-which these updates occur are usually done in mystery.
+At a familiar cadence, engineering teams have to update external dependencies. The mode in-which these updates occur is shrouded in mystery.
 
+![What are we trying to solve? What's the gain?](https://miro.medium.com/max/1400/1*3r1XLcS4oEVQp7QDeZKAUA.png) Google "*Butterknife*." This library is a view dependency injection SDK for Android. However, why the bump? What are we trying to solve?
 
-What are we trying to solve? What’s the gain?
-Google “Butterknife”. This is a view dependency injection SDK for Android. However, why the bump? What are we trying to solve?
+![An apparent problem and solution. Find the template [here](https://gist.github.com/solidi/6be9d733b40fd1b40d5f2d7c745d731b).](https://miro.medium.com/max/1400/1*JchVaH7bbnnu_V6Aa8C23A.png) 
 
+Okay, now we understand. The team understands the *opportunities* to improve.
 
-A clear problem and solution. Find the template here.
-Okay, now we understand. The team understands the opportunities to improve.
+The description identifies the problem, the solution, and why. The template highlights testing, code coverage, measurement changes, and other [unique ways](https://medium.com/square-corner-blog/surfacing-hidden-change-to-pull-requests-6a371266e479) to automate and communicate concrete change.
 
-The description identifies the problem, the solution and why. We can take the template further with topics such as testing, code coverage, measurement changes and further unique ways to automate and communicate concrete change.
+The definition of a unified template must start with a *problem* and *solution*. It would behoove a team to realize how to communicate change through a template and [kindly decline](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes) those pull requests that do not present them.
 
-The definition of a unified template must start with a problem and solution. It would behoove a team to realize how to communicate change through the use of a template and kindly decline those pull requests that do not present them.
+The template gives gravity to a slam-dunk atomic merge commit message in a continuous integration and delivery system as a bonus.
 
-As an additional bonus the template gives gravity to a slam-dunk atomic merge commit message in a continuous integration and delivery system.
-
-## Commits May Be Overkill
+## Commits May Be Overkill
 
 Commits lack value if subject titles and descriptions are unclear.
 
+![https://xkcd.com/1296/](https://miro.medium.com/max/1400/1*RRAWy_etG4K1H-DSZ2W1fQ.png)
 
-https://xkcd.com/1296/
-Indeed, there have been numerous posts written about these problems over the years. The most direct solution to non-descriptive commits is to follow the 50/72 rule. This rule encourages subject and body messaging delivered in a specific way.
+Indeed, there have been numerous posts written about these problems over the years. The most straightforward solution to non-descriptive commits is to follow the [50/72](https://stackoverflow.com/questions/2290016/git-commit-messages-50-72-formatting) rule. This rule encourages subject and body messaging delivered in a specific way.
 
-However most engineers do not follow 50/72. Some engineers think it's okay to place periods at the end of subject titles. Their commits are riddled with ticket systems and for some seasoned engineers these commits lie outright without malicious intent. Commit messages are almost too hard to get right. Writing the code was easier.
+However, most engineers do not follow 50/72. Some engineers think it's okay to place periods at the end of subject titles. Their commits contain ticket numbers, and for some seasoned engineers, these commits lie outright without malicious intent. Commit messages are almost too hard to get right. Writing the code was easier.
 
-There is a philosophical argument that questions the value of the commit even if written cleanly. Should we care for the steps or should we care only for the pull request merge, as long as it is well shaped and not overbearing for any one engineer to understand?
+There is a philosophical argument that questions the value of the commit, even if written cleanly. Should we care for the steps, or should we care only for the pull request merge, as long as it is well-shaped and not overbearing for anyone to understand?
 
-One would argue that in most professional engineering teams the merge out of the pull request is the most important description. Not the small iterations that came to form it. The reasoning is simple. We are not machines that can accurately remember more than seven commits at any one time, plus or minus two. There are those teams that also squash and rebase so the commits were trivial to begin with.
+One would argue that in most professional engineering teams, the pull request's merge commit is the essential description, not the small iterations that came to form it. The reasoning is simple. We are not machines that can accurately remember more than seven commits at any one time, [plus or minus two](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two). There are those teams that also squash and rebase, so the commits were trivial.
 
-There is no right answer to this quandary. The only true constant is the pull request template, the opportunity described, and if it is recorded in a version control system.
+There is no right answer to this difficulty. The only real constant is the pull request template, the opportunity described and recorded in a version control system.
 
-## A Value Is The Description
+## A Value Is A Description
 
-Pull requests take time just as much as writing clean code that follows consistent patterns. The code should be fully covered with tests. We value the pull requests because they serve cross pollination in engineering teams as well as protection of user experiences that are valued to business, agency, or whatever.
+Pull requests take time just as much as writing clean code that follows consistent patterns. The code is covered with tests. We value the pull requests because they serve cross-pollination in engineering teams and protect user experiences valued to business, agency, etc.
 
-Engineers are required to solve difficult problems. The first step is to write what the problem is, why, and how we went about solving it. Sometimes in steps over a course of chained pull requests.
+Engineers are required to solve difficult problems. The first step is to write what the problem is, why, and how we went about solving it. Sometimes in stages throughout chained pull requests.
 
-There are two hard things in computer science: cache invalidation, naming things and off-by-one errors.
-— Unknown
-Naming things is hard. However, describing things is harder and rife with errors. As professionals it is our duty to describe the intent of change with context to the best of our ability.
+> There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
+> - [Unknown](https://twitter.com/codinghorror/status/506010907021828096?lang=en)
 
-The most correct code is that which is not written but the most correct description is one that is.
-The argument here is if we do not make our best attempt at the description of change the context is lost. This does a disservice not only to future contributors, but to the business partners, agencies, and others.
+*Naming* things is hard. However, *describing* things is harder and rife with errors. As professionals, we must define the intent of change with *context* to the best of our ability.
 
-So how do we embody and capture the value of context description so other engineering professionals understand?
+> The most correct code is that which is not written but the most correct description is one that is.
 
-## Extending Uncle Bob’s Programmer’s Oath
+If we do not make our best attempt to describe the change, the context is lost. This lack of practice does a disservice to future contributors and business partners, agencies, and others.
 
-There are conversations happening in our community about our engineering profession as an organized body. We should look no further than Uncle Bob sending these smoke signals.
+So how do we embody and capture the value of context description, so other engineering professionals understand?
 
-For some time now he has urged for us as engineers, or programmers, to embody a set of concrete principles otherwise government agencies will do it for us.
+## Extending Uncle Bob's Programmer's Oath
 
-Uncle Bob’s argument consists of comparisons to other professional groups. One such example describes just how patients died from lack of sterilization in the medical profession, a swath of people will die inadvertently as software eats the world. Unknown to the medical professionals is as unknown to the engineering professionals until it’s too late.
+Conversations are happening in our community about our engineering profession as an organized body. We should look no further than [Uncle Bob](https://sites.google.com/site/unclebobconsultingllc/) sending these smoke signals.
 
-To correct these problems the medical professionals organized and formed guidelines that were adhered to like sterilization techniques. These medical professionals were able to hand the agencies their mottos and hence they made their own rules. So too is what Uncle Bob is asking from us.
+For some time now, he has urged for us as engineers, or *programmers*, to embody a set of concrete principles; otherwise, government agencies will do it for us.
 
-He will be proven correct and it will happen in our lifetime. However the question is are we ready to take this on as an organized group of professionals? To answer this dilemma, Uncle Bob created the Programmer’s Oath.
+Uncle Bob's argument consists of comparisons to other professional groups. One such example describes just how patients died from lack of sterilization in the medical profession; a swath of people will be at risk as software eats the world. Unknown to medical professionals is as unknown to the engineering professionals until it's too late.
 
+To correct these problems, the medical professionals organized and formed guidelines adhered to like sterilization techniques. These medical professionals were able to hand the agencies their mottos, and hence they made their own rules. So too is what Uncle Bob is asking from us.
 
-There are very strong points above in the oath. Uncle Bob has created a strong glue for us. However he missed a fundamental rule and I wish to offer an extension.
+He will be proven correct, and it will happen in our lifetime. However, the question is, are we ready to take this on as an organized group of professionals? To answer this dilemma, Uncle Bob created the [Programmer's Oath](http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html).
+
+![](https://miro.medium.com/max/1392/1*zpZoF2Hqvh0BO1aJoE-KtA.png)
+
+There are solid points above in the oath. Uncle Bob has created a strong glue for us. However, he missed a fundamental rule, and I wish to offer an extension.
 
 > 10. I will communicate to the best of my ability the intent of change with as much context as possible.
 
-The point with rule number ten is to enforce all other rules in the oath. We are writers that are expected to communicate to the best of our written abilities.
+The point with rule number ten is to enforce all other rules in the oath. We are writers that communicate to the best of our written abilities.
 
-The mystical glue that binds us as software engineers are many. One such glue is that we value the pull request. Let’s do our part to describe in detail the context of the problem and solution so that others can contribute promptly and to protect our users. It starts with thinking and describing “what” the problem is. Then we must describe the solution with the new opportunities at hand. Ultimately communicating intent of change should be adhered to by all engineering professionals.
+---
+
+The mystical glue that binds us as [software engineers](https://dev.to/solidi/what-is-a-software-engineer-anyway-3fb2) is many. One such bond is that we value the pull request. Let's do our part to describe the context of the *problem* and *solution* in detail so that others can contribute promptly and protect our users. It starts with thinking and explaining "what" the problem is. Then we must describe the solution with the new *opportunities* at hand. Ultimately communicating the intent of change should be adhered to by all engineering professionals.
 
 ---
 
