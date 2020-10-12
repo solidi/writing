@@ -35,3 +35,20 @@ Our home construction project ended on time and on budget. However, this cannot 
 
 If construction is such a poor analogy to software development, there may be other human endeavors that are closely relatable. **Scribing, music composition, gardening, and philosophical activity may have better analogues.** The reasons why require study and I will leave this up to the reader.
 What are other differences between construction and software development not outlined here?
+
+---
+
+## Social Post
+
+Construction is a poor metaphor for software development.
+Alt title: Is software more like philosophy? (2019)
+
+- Software is non-linear nature, difficulty to maintain insight.
+- There is disagreement in measure, and its conveyor belt of opinionated approaches.
+- There may be better analogues like gardening.
+
+Thanks to Hazem Saleh and Danielle Arcuri.
+
+https://medium.com/hackernoon/software-is-unlike-construction-c0284ee4b723
+
+#softwaredevelopment #code #softwareengineering #learning #construction
