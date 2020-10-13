@@ -100,7 +100,8 @@ Not comprehension, but clarity.
     1. "Knees in the breeze"
     1. "Loud mouths save lives"
 1. What is an Engineering Manager Anyway?
-    1. Managers enable pockets of time"
+    1. Managers enable pockets of time
+    1. Managers find people where they are and leave them better
 1. What is a Software Engineer Anyway?
     1. More valuable than just their code
 1. What is a Product Manager Anyway?
