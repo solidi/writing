@@ -107,6 +107,7 @@ Not comprehension, but clarity.
 1. What is a Product Manager Anyway?
     1. Half of work is convincing others
     1. Interface with all parts of the organization
+    1. Are "emotive" in nature
 
 ## What is a _____ Anyway?
 
