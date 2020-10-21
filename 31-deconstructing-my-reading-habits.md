@@ -66,6 +66,7 @@ My motivation to read is to gain a purposeful skillset to give back content in m
 ## Social Post
 
 I've deconstructed my reading habits by walking through a diagram.
+Alt  title: I drew a diagram of how I read books
 
 - My inspiration for reading #books comes from others.
 - When reading, I note what is interesting with vocabulary and symbols.
