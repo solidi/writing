@@ -85,11 +85,6 @@ Not comprehension, but clarity.
     - Dealing with toxic environments
     - Persons agency
     - Promotion prep
-1. How I read books diagram
-    - A few pages a day
-    - One idea is better than nothing
-    - Radically open to new books
-    - Appreciate tangible books, feeling and style.
 
 ## Updates
 
@@ -145,3 +140,4 @@ Not comprehension, but clarity.
 1. [The One About Software Engineering Interviewing](https://medium.com/@solidi/the-one-about-software-engineering-interviewing-6f126e3a3171)
 1. [What is a Principal Engineer Anyway?](https://dev.to/solidi/what-is-a-principal-engineer-anyway-55n0)
 1. [What is a Product Manager Anyway?](https://dev.to/solidi/what-is-a-product-manager-anyway-3pc4)
+1. [Deconstructing My Reading Habits](https://medium.com/the-innovation/deconstructing-my-reading-habits-cef9e7d82bad)
