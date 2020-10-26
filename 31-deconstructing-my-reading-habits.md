@@ -82,3 +82,10 @@ Special appreciation to Manoj Thopcherneni, John Pavely, and Sang Lee for guidin
 https://medium.com/the-innovation/deconstructing-my-reading-habits-cef9e7d82bad
 
 #reading #process #improvement #learning #career #productivity
+
+### Posted
+
+1. hackernews
+1. r/programming
+1. r/softwarengineering
+1. r/howto
