@@ -151,3 +151,20 @@ Many may ask what would be the consequence of being deceptive? At this time, the
 As always, time will tell how this shakes out. Data, tooling, and their alignment will continue to increase testing power. Public awareness will engage by asking the hard questions. If there is one lasting advice, try not to deceive… too much.
 
 If you are interested in more information on the subject of dark patterns, check out https://darkpatterns.org/.
+
+---
+
+## Social Post
+
+Every dark #pattern is the brutal end of blindly following #A/B #tests.
+
+- What is A/B testing?
+- Five dark patterns that are questionable in A/B testing.
+- More on A/B/Code/Deception testing.
+- Being ethical with tests by clearly communicating expectations.
+
+Thanks to Hazem Saleh and Dan Leonardis.
+
+https://medium.com/hackernoon/deception-degenerate-a-b-testing-ecce6635000e
+
+#engagement #learning #testing #analytics #ethics #softwaredevelopment
