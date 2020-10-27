@@ -157,6 +157,7 @@ If you are interested in more information on the subject of dark patterns, check
 ## Social Post
 
 Every dark #pattern is the brutal end of blindly following #A/B #tests.
+Alt title: 5 dark patterns of A/B testing (2017)
 
 - What is A/B testing?
 - Five dark patterns that are questionable in A/B testing.
@@ -168,3 +169,10 @@ Thanks to Hazem Saleh and Dan Leonardis.
 https://medium.com/hackernoon/deception-degenerate-a-b-testing-ecce6635000e
 
 #engagement #learning #testing #analytics #ethics #softwaredevelopment
+
+### Posted
+
+1. hackernews
+1. r/programming
+1. r/softwarengineering
+1. r/ProductManagement
