@@ -85,6 +85,13 @@ Not comprehension, but clarity.
     - Dealing with toxic environments
     - Persons agency
     - Promotion prep
+1. What is a Staff Engineer Anyway?
+    - Storyteller
+    - First leadership
+    - Bias for action
+    - Three Types
+        - TL
+        - Domain
 
 ## Updates
 
