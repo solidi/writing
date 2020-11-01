@@ -110,6 +110,8 @@ Not comprehension, but clarity.
     1. Half of work is convincing others
     1. Interface with all parts of the organization
     1. Are "emotive" in nature
+1. Deconstructing My Reading Habits
+    1. Add return on discovery (ROD)
 
 ## What is a _____ Anyway?
 
