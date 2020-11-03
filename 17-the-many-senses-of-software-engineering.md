@@ -52,3 +52,15 @@ Just like senses, engineering practices can be honed and optimized. By seeking i
 > Bringing it all together.
 
 What other facilities are typically found in software engineering?
+
+---
+
+## Social Post
+
+Human senses have an analogue to software engineering practices -
+
+https://medium.com/@solidi/the-many-senses-of-software-engineering-aba9f289498c
+
+Thanks to Arhant Jain, Hazem Saleh, and Danielle Arcuri
+
+#softwaredevelopment #senses #softwareengineering #testing #refactoring #career #oppurtunity 
