@@ -50,3 +50,7 @@ Thanks to Mike Mathis and Danielle Arcuri
 https://dev.to/solidi/what-s-up-with-ceiling-fans-380
 
 #watercooler #productivity #ux #design #gripe
+
+### Posted
+
+1. r/userexperience
