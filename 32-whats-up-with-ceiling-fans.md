@@ -43,7 +43,7 @@ A seven-hour Google search blunder will ensue.
 
 ## Social Post
 
-A short gripe on the design and usability of ceiling fans.
+My short #gripe on the #design and #usability of ceiling fans.
 Alt title: Pointing out the ceiling fan rotation switch blunder
 
 Thanks to Mike Mathis and Danielle Arcuri
