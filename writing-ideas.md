@@ -92,6 +92,7 @@ Not comprehension, but clarity.
     - Three Types
         - TL
         - Domain
+    - "Self-selection"
 
 ## Updates
 
