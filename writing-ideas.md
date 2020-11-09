@@ -93,6 +93,8 @@ Not comprehension, but clarity.
         - TL
         - Domain
     - "Self-selection"
+1. What is a Software Engineer In Test Anyway?
+    - Asserts quality and partners effectively
 
 ## Updates
 
