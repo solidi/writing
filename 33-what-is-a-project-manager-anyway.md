@@ -30,6 +30,7 @@ I’ve worked with excellent project managers (PM’s) over the years. Many of t
 ## Social Post
 
 What is a #project #manager anyway?
+Alt title: My opinion on what excellent technical project managers do
 
 - Shepherds process evolution with predictability.
 - Visualize artifacts that inspire action.
@@ -45,6 +46,7 @@ https://dev.to/solidi/what-is-a-project-manager-anyway-fbb
 
 ### Posted
 
-1. r/projectmanagement
+1. r/projectmanagement x2
 1. r/programming
 1. hackernews
+1. r/softwareengineering
