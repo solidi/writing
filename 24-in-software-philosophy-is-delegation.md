@@ -62,3 +62,19 @@ Philosophies and frameworks are born out of problems that need solving — anoth
 Those that believe in a way are repeating the mantra over and over again. *By doing this, by definition, is a philosophy that transmits and delegates*.
 
 [War Stories on Command and Conquer](https://www.youtube.com/watch?v=S-VAL7Epn3o&t=412s)
+
+---
+
+## Social Post
+
+On how teams do their work in software:
+
+- Teams get their work done guided by philosophies.
+- Philosophy is Direction.
+- A team's signature resolves by design.
+- Philosophies appear portable and repeatable.
+- Philosophy is a virtual foreperson and delegates in software engineering.
+
+Thanks to Hazem Saleh
+
+#effectiveness #teamwork #philosophy #softwaredevelopment
