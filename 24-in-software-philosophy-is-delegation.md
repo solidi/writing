@@ -1,7 +1,7 @@
 # In Software, Philosophy is Delegation
 ## A short story on how humans in software transmit direction
 
-![Photo: Stephen Dawson/Unsplash](https://miro.medium.com/max/1400/1*Ir_U5hYV4ToWoJAfa2yUSQ.jpeg)
+![Photo: Stephen Dawson/Unsplash](images/24-1.jpeg)
 
 Over my software career, I’ve built software apps and systems. More recently, as an engineering manager, I’ve had led teams that do the same. While activities were ongoing, I’ve noticed a pattern — a phenomenon. **Teams get their work done guided by philosophies.** This write identifies this behavior, questions its origin, and how it’s a powerful force through repetition. Let me highlight an example next.
 
