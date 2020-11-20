@@ -64,7 +64,7 @@ What are other facilities typically found in software engineering?
 
 Human senses have an analogue to software engineering practices -
 
-https://medium.com/@solidi/the-many-senses-of-software-engineering-aba9f289498c
+https://levelup.gitconnected.com/the-many-senses-of-software-engineering-aba9f289498c
 
 Thanks to Arhant Jain, Hazem Saleh, and Danielle Arcuri
 
