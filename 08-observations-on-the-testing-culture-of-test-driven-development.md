@@ -195,7 +195,7 @@ Naturally, if we duplicate the expected assertion data to `assertEqualsIt`, it a
 
 > As we keep querying the test rig during implementation steps, failing unit tests set around data may correctly answer their own assertions. Perhaps we can call this voodoo testing.
 
-Sometimes failing tests will scream a correct result that is required to make the test pass. I do not know what to call these events, perhaps **voodoo testing**. Your mileage may vary based on your laziness and test etiquette, but I have seen this happen numerous times when working to have implementation achieve canned and expected **data sets**.
+Sometimes failing tests will [scream a correct result](https://blog.plover.com/math/divisibility-by-19.html) that is required to make the test pass. I do not know what to call these events, perhaps **voodoo testing**. Your mileage may vary based on your laziness and test etiquette, but I have seen this happen numerous times when working to have implementation achieve canned and expected **data sets**.
 
 ## 8: TDD Reveals The Transformation Priority Premise
 
