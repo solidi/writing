@@ -86,6 +86,7 @@ Not comprehension, but clarity.
     - Persons agency
     - Promotion prep
     - Inequity problems
+    - Retaining talent when others promote their position
 1. What is a Staff Engineer Anyway?
     - Storyteller
     - First leadership
