@@ -81,12 +81,14 @@ Not comprehension, but clarity.
     - What value do I bring everyday?
     - What sparks joy?
 1. Plastic modeling as a hobby - full process
-1. 97 Things Engineering Managers will Experience
+1. 101 Things Engineering Managers will Experience
     - Dealing with toxic environments
     - Persons agency
     - Promotion prep
     - Inequity problems
     - Retaining talent when others promote their position
+    - Visa, H1B sponsorship pressures
+    - Transitions
 1. What is a Staff Engineer Anyway?
     - Storyteller
     - First leadership
