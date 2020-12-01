@@ -100,6 +100,8 @@ Not comprehension, but clarity.
 
 ## Updates
 
+1. What is a Technical Lead Anyway?
+    1. Maker and Multipler
 1. How to Crush Your Next Team Demo
     1. Clarity to presentation, shut off notifications, alerts, and clear browser history
 1. The Zen of Motorcycling and Programming
