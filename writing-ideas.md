@@ -89,6 +89,7 @@ Not comprehension, but clarity.
     - Retaining talent when others promote their position
     - Visa, H1B sponsorship pressures
     - Transitions
+    - Confiding with other people to find support
 1. What is a Staff Engineer Anyway?
     - Storyteller
     - First leadership
