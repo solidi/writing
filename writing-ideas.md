@@ -90,6 +90,8 @@ Not comprehension, but clarity.
     - Visa, H1B sponsorship pressures
     - Transitions
     - Confiding with other people to find support
+    - Consolidate almost every`thing
+    - Give feedback when it wasn't agreed
 1. What is a Staff Engineer Anyway?
     - Storyteller
     - First leadership
