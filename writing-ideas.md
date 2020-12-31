@@ -102,6 +102,11 @@ Not comprehension, but clarity.
     - "Self-selection"
 1. What is a Software Engineer In Test Anyway?
     - Asserts quality and partners effectively
+1. Remember SNES RPGs
+    - Link
+    - Secret of Mana
+    - FF III
+    - Chrono Trigger
 
 ## Updates
 
