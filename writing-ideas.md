@@ -122,6 +122,7 @@ Not comprehension, but clarity.
     1. Managers enable pockets of time
     1. Managers find people where they are and leave them better
     1. Scaling myself by finidng opportunities for others
+    1. Continious and eventual reconciliation of things
 1. Do Great At Workng Remotely
     1. Continue to build social relationships
 1. What is a Software Engineer Anyway?
