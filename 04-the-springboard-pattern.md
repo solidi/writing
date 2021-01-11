@@ -1,7 +1,7 @@
 # The Springboard Pattern
 ## How to build new features in isolation
 
-![Software development is not a form of construction.](https://miro.medium.com/max/1400/1*oSwEVKCHKW9uIfvGEKBh3w.png)
+![Software development is not a form of construction.](images/04-01.png)
 
 A few years ago, at an agile demo, a stakeholder made a special appearance. The team was closing in on a minimum viable product. The demonstration focused on sound effects and animations. The group revealed a configurable animation board to demo the results quickly. The experiences were easy to launch consecutively, isolated, and variably configured. The animation board did not depend on the more extensive system, but the intention was to tie each animation later.
 
@@ -17,7 +17,7 @@ Let’s describe what the pattern is.
 
 The springboard pattern is known as a ***visual design*** pattern. Mobile operating systems that constrain viewing areas have used the pattern widely. The app launcher is an example.
 
-![Above are examples of the springboard visual design pattern within app launchers.](https://miro.medium.com/max/1292/1*-Odlvj1YRHjcpvHSP0oKSQ.png)
+![Above are examples of the springboard visual design pattern within app launchers.](images/04-02.png)
 
 Our introductory story and its animation board also fit this model. We can think of the animation board as the contained screen launcher and each animation as an organized app with its configurations.
 
@@ -41,7 +41,7 @@ The springboard pattern insists on developing features in isolation from one ano
 
 Dependencies will always be present, but the layers separate the feature for demonstration cleanly. The feature should be modularized and independent. As the iterations continue and demos succeed, the springboard items integrate into the extensive system. As this occurs, the team should continue to resist coupling and ensure the feature code cohesion is high. From start to finish, each item should have a weak measure of ***connascence***.
 
-![The springboard design pattern.](https://miro.medium.com/max/1400/1*DIh4zith6lwB-i_v4jMk0g.png)
+![The springboard design pattern.](images/04-03.png)
 
 At any time during the cycle, pattern violation can diminish the return of the modularization. Therefore, the team must make ***prudent and deliberate*** decisions by leaning on tools of layering, wrapping, and flow of control using dependency inversion.
 
@@ -61,7 +61,7 @@ Opportunities happen when products are deconstructed into independent pieces. In
 
 Stakeholders refer to the features of their products as cohesive constructs and use vocabulary to describe them. Wouldn’t it be powerful to find the part without friction immediately? The springboard gives us a ***learning library*** and allows for ***cross-pollination*** between engineers and gives us a tool to locate each feature quickly.
 
-![Above is a screenshot of a springboard example with the use of the domain language.](https://miro.medium.com/max/1400/1*P4O8g9oCx-7zd0irhs1aPg.png)
+![Above is a screenshot of a springboard example with the use of the domain language.](images/04-04.png)
 
 As an additional benefit, the engineer’s work is ***always available*** for demonstration at a moment’s notice. An isolated solution offsets the typical cost of the time to prepare for the demo (you are giving time for the engineers to prep, yes?).
 
