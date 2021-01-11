@@ -1,7 +1,7 @@
 # No Description Provided
 ## Explaining Context by Identifying a Code Review Template
 
-![](https://miro.medium.com/max/1400/1*280YPUkvtS27HkK9YTP1jA.png)
+![](images/03-01.png)
 
 Some months ago, one of my colleagues suggested a book. Out of curiosity, I read [Sapiens: A Brief History Of Human Kind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095).
 
@@ -23,7 +23,7 @@ With travels to many other code reviews, something is not quite right. There are
 
 The value, the glue, is diluted and does not bind well. What's the cost of a pull request when the problem is not described?
 
-![Perhaps the engineer was in a rush? The commit message was no better, and the commit diff was unclear.](https://miro.medium.com/max/1400/1*BrnQaZ9vFjJ_32WpbzZn1g.png)
+![Perhaps the engineer was in a rush? The commit message was no better, and the commit diff was unclear.](images/03-02.png)
 
 The most crucial aspect of software engineering is to describe the intent of the change. We must explain *why*, as professionals.
 
@@ -43,9 +43,9 @@ However, the community has not found an answer to forge descriptive pull request
 
 At a familiar cadence, engineering teams have to update external dependencies. The mode in-which these updates occur is shrouded in mystery.
 
-![What are we trying to solve? What's the gain?](https://miro.medium.com/max/1400/1*3r1XLcS4oEVQp7QDeZKAUA.png) Google "*Butterknife*." This library is a view dependency injection SDK for Android. However, why the bump? What are we trying to solve?
+![What are we trying to solve? What's the gain?](images/03-03.png) Google "*Butterknife*." This library is a view dependency injection SDK for Android. However, why the bump? What are we trying to solve?
 
-![An apparent problem and solution. Find the template [here](https://gist.github.com/solidi/6be9d733b40fd1b40d5f2d7c745d731b).](https://miro.medium.com/max/1400/1*JchVaH7bbnnu_V6Aa8C23A.png) 
+![An apparent problem and solution. Find the template [here](https://gist.github.com/solidi/6be9d733b40fd1b40d5f2d7c745d731b).](images/03-04.png) 
 
 Okay, now we understand. The team understands the *opportunities* to improve.
 
@@ -59,7 +59,7 @@ The template gives gravity to a slam-dunk atomic merge commit message in a conti
 
 Commits lack value if subject titles and descriptions are unclear.
 
-![https://xkcd.com/1296/](https://miro.medium.com/max/1400/1*RRAWy_etG4K1H-DSZ2W1fQ.png)
+![https://xkcd.com/1296/](images/03-05.png)
 
 Indeed, there have been numerous posts written about these problems over the years. The most straightforward solution to non-descriptive commits is to follow the [50/72](https://stackoverflow.com/questions/2290016/git-commit-messages-50-72-formatting) rule. This rule encourages subject and body messaging delivered in a specific way.
 
@@ -100,7 +100,7 @@ To correct these problems, the medical professionals organized and formed guidel
 
 He will be proven correct, and it will happen in our lifetime. However, the question is, are we ready to take this on as an organized group of professionals? To answer this dilemma, Uncle Bob created the [Programmer's Oath](http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html).
 
-![](https://miro.medium.com/max/1392/1*zpZoF2Hqvh0BO1aJoE-KtA.png)
+![](images/03-06.png)
 
 There are solid points above in the oath. Uncle Bob has created a strong glue for us. However, he missed a fundamental rule, and I wish to offer an extension.
 
