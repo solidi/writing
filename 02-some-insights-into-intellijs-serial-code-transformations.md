@@ -1,7 +1,7 @@
 # Some insights into IntelliJ's Serial Code Transformations
 ## Questioning Editor Enhancements and Their Consequences
 
-![Our integrated development environment has introduced user interface improvements that may profoundly impact the way we code. We will call these *serial code transformations*.](https://miro.medium.com/max/1400/1*IupFToxUnvSlve2BValmcA.png)
+![Our integrated development environment has introduced user interface improvements that may profoundly impact the way we code. We will call these *serial code transformations*.](images/02-01.png)
 
 ## Introduction
 
@@ -59,7 +59,7 @@ Our first SECTA is called a [parameter hint](https://blog.jetbrains.com/idea/201
 
 As a visual example, notice the gray non-monospaced label "append" next to `true` below. The below screenshot is a parameter hint.
 
-!["append" is an example of IntelliJ's parameter hints.](https://miro.medium.com/max/1400/1*nYBXZ-kIkrnkQM9EOdDVeQ.png)
+!["append" is an example of IntelliJ's parameter hints.](images/02-02.png)
 
 IntelliJ now ships with parameter hints turned on by default, so developers can become familiar with the style. They are continuing to improve it with the expansion of recommendations to other parts of the code and filtering of hints where restraint is required.
 
@@ -79,7 +79,7 @@ At the moment, code ligatures are off by default in IntelliJ. However, I believe
 
 Code ligatures are shocking to those who have developed for some time. See the example below.
 
-![The above screenshot is a live demonstration by Hadi Hariri of a code ligature in Kotlin.](https://miro.medium.com/max/1400/1*IToE5Mti87kEdhjRCwP82w.png)
+![The above screenshot is a live demonstration by Hadi Hariri of a code ligature in Kotlin.](images/02-03.png)
 
 As an example, the code ligature changes `!=` into `≠`. There are many other replacement examples. The goal of code ligature is readability. To see more examples, see FiraCode. IntelliJ has implemented [FiraCode](https://github.com/tonsky/FiraCode) as the preferred font ligature.
 
@@ -99,7 +99,7 @@ For example, annotations help call out and reduce the amount of Java NullPointer
 
 However, IntelliJ improved this concept by taking the next step with an automatic inline inference of nullity. Instead of running the tool and committing the annotations in code, it is now dynamic and happening in real-time.
 
-![@NotNull is both inlined and inferred. It does not exist in the code but is a construct that is handled by the IDE.](https://miro.medium.com/max/1400/1*2fuHPrg-oannOoiocDE5uw.png)
+![@NotNull is both inlined and inferred. It does not exist in the code but is a construct that is handled by the IDE.](images/02-04.png)
 
 As seen above, the `@NotNull` the annotation does not exist in code. It appears with an IDE option turned on. As a developer types code, these annotations appear. Nullity checking is now constantly vigilant about changing code.
 
@@ -109,7 +109,7 @@ While the automatic appearance of the annotation could be helpful and perhaps ma
 
 Like magic, if the option is unchecked, all of the generated annotations go away as well.
 
-![The power of code impact is in the checkmark.](https://miro.medium.com/max/988/1*uyhyrCX8354UHW60orXpKw.png)
+![The power of code impact is in the checkmark.](images/02-05.png)
 
 Now that we have a good understanding of these transformations let's analyze the pros and cons.
 
