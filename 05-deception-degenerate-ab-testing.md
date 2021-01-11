@@ -1,13 +1,13 @@
 # Deception: Degenerate A/B Testing
 ## Questionable A/B Tests Using Dark Patterns
 
-![](https://miro.medium.com/max/1400/1*pqpSh_dwJWvZwEN4wwqIcw.png)
+![](images/05-01.png)
 
 Picture a normal triangle in your head. Now picture a triangle without its area. Can you? In mathematics, a **degenerate triangle** is defined as follows:
 
 > A degenerate triangle is formed by three collinear points. It doesn’t look like a triangle, it looks like a line segment.
 
-![A triangle approaching degeneracy.](https://miro.medium.com/max/1200/1*NF_YdSKYZfYJyPCwoHehTA.png)
+![A triangle approaching degeneracy.](images/05-02.png)
 
 It’s as if the three angles of the triangle are flattened. In theory, the triangle exists, but all that remains are overlapping linear lines.
 
@@ -23,7 +23,7 @@ Once the A/B test is completed, the data is collected and analyzed. The analysis
 
 Traditionally A/B testing acts on user experience, visual design, or other routes of modification of the targeted system to reduce user *friction* and maximize *engagement*. Most tests are on the *surface* where the colors, layouts, or navigation flow/behavior are altered.
 
-![A basic A/B test example. Note the difference in button color.](https://miro.medium.com/max/1400/1*LL3enZe3KHMksOX1BN4YTg.png)
+![A basic A/B test example. Note the difference in button color.](images/05-03.png)
 
 [A/B testing](https://hbr.org/2017/06/a-refresher-on-ab-testing) has gained a particular *perception*. Consultancies have formed businesses around the discipline, just how they formed around search engine optimization (SEO). SEO was popular in the 2000s. A/B testing is now popular in the 2010s. While SEO was beholden to secret algorithms that can immediately change from direct control of companies like Google, A/B test logic is owned wholly by the authors who execute them to meet goals for their product and stakeholders.
 
@@ -33,7 +33,7 @@ Data collection and tooling has increased dramatically over the past few years. 
 
 Those that have used Android or iOS applications know well what a notification badge is. Notification badges are visual indicators on the app icon that cue the user to important events. This is usually a brightly colored circle with a number associated with the notifications waiting.
 
-![A typical, highly visible notification badge.](https://miro.medium.com/max/836/1*SYUnIoAo5myWmcSCFTCOJQ.png)
+![A typical, highly visible notification badge.](images/05-04.png)
 
 ### Example
 
@@ -61,7 +61,7 @@ The users engaged further with similar content.
 
 Developing the final polished product is something we can fake in many ways, including search results. Instead of investing heavily in the perfect feature act, we assemble the results into simple categories based on previous research.
 
-![Results when the user searches on a subjective statement that is not quantifiable.](https://miro.medium.com/max/1400/1*AecVWt1PvvFGjdP4A7KyRA.png)
+![Results when the user searches on a subjective statement that is not quantifiable.](images/05-05.png)
 
 Now, let’s test with scarcity.
 
@@ -81,7 +81,7 @@ The next day the user returned to the site to research another similar purchase�
 
 It does not have to stop at the number of items and can be stretched to whatever the product desires. Use the platform limitations specifics to the product advantage. Low space, stock, rating, and a lot of things are adjustable. If your team owns a video platform, “expiring” content is subjective. Finally, anything as a number can be rounded.
 
-![A great layout with many numbers encapsulated.](https://miro.medium.com/max/1400/1*Fd2oMWKtjMG7ggrDw_OV_A.png)
+![A great layout with many numbers encapsulated.](images/05-06.png)
 
 Next, let’s test by giving away.
 
@@ -101,7 +101,7 @@ Some users wanted more, as they saw what they could have. They engaged.
 
 Opening the gates in an A/B test could be a potential opportunity to engage users. The process here is to select known identities to engage them further.
 
-![A paywall can have many testable options.](https://miro.medium.com/max/1400/1*LV5xYZmpwzmJlIbD2yPsiw.gif)
+![A paywall can have many testable options.](images/05-07.gif)
 
 Additionally, moving or closing things unexpectedly may cause more engagement and increase return. If services that are relied on are missing, those users will return more frequently until it re-establishes.
 
@@ -115,7 +115,7 @@ One final example is the creative use of information. Here, we conduct an A/B te
 
 An example is a service that relies on the live location of the available liveries in the area — maybe those parked or on break, increasing that information to the user may deliver more engagement.
 
-![Plenty of levels of information to reduce friction.](https://miro.medium.com/max/1400/1*goK1xtHmtDzesU68VIxX_w.png)
+![Plenty of levels of information to reduce friction.](images/05-08.png)
 
 ### Group: “Shift, Adjust and Filter Information”
 
@@ -137,7 +137,7 @@ The question may have already been answered because large technology companies h
 
 Some years ago, both Facebook and OkCupid deceived their users by running controversial A/B tests surrounding content engagement and companion matching. Then, they posted the results to the public. Many opponents suggested that manipulating emotions and incorrectly matching incompatible date companions was wrong. This started a very long chain of responses from the [community](https://techcrunch.com/2014/06/29/ethics-in-a-data-driven-world/).
 
-![The increasing data and tooling power will be the deciding factor. [Post here](https://www.gwern.net/docs/psychology/okcupid/weexperimentonhumanbeings.html).](https://miro.medium.com/max/1400/1*nYQlrJ_hSfvihtagWpgu5Q.png)
+![The increasing data and tooling power will be the deciding factor. [Post here](https://www.gwern.net/docs/psychology/okcupid/weexperimentonhumanbeings.html).](images/05-09.png)
 
 One excellent research paper focused on this test fallout. You can read it [here](https://journals.sagepub.com/doi/pdf/10.1177/1747016116680664). Raquel Benbunan-Fitch dubbed these as A/B/C/D testing, where she states:
 
@@ -167,7 +167,7 @@ In the future, state and government agencies may step in by defining C/D testing
 
 Many may ask, what would be the consequence of being deceptive? At this time, there are **no examples** of crossing a line. We have the power to ask whether to professionally *associate* with the authoring team that *knowingly* deploys these increasingly questionable tests or *opt-out* of purchasing in, as a customer, being aware of these deceptive practices.
 
-![Impactful wisdom by [Daniel Weber](https://news.ycombinator.com/item?id=8230442).](https://miro.medium.com/max/1400/1*xX6SfpW-g49EvtQqQ_xwqw.png)
+![Impactful wisdom by [Daniel Weber](https://news.ycombinator.com/item?id=8230442).](images/05-10.png)
 
 As always, time will tell how this shakes out. Data, tooling and their alignment will continue to increase testing power. Public awareness will engage by asking hard questions. If there is one lasting advice, try not to deceive… too much.
 
