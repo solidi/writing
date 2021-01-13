@@ -1,6 +1,8 @@
 # Be a Rock Star at Pull Requests
 #beginners, #tutorial, #firstyearincode, #codequality
 
+![Photo: Clément Hélardot/Unsplash](images/21-01.jpeg)
+
 I've reviewed thousands of pull requests over my career. Here are my tips for building an inclusive learning environment while delivering value.
 
 ## For the Author and Reviewer
@@ -35,7 +37,7 @@ I've reviewed thousands of pull requests over my career. Here are my tips for bu
 
 **Make it easy to run the work locally.** Avoid surprises in failed builds. Emulate everything that happens in the pull request locally. Whether it's pre-commits, static analysis, or tests, move to make it dead simple for anyone to run the build in [one command](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/).
 
-**Encourage ratcheting over gatekeeping.** Keep the mindset that measures the health of the codebase and that abstractions are understandable. Do not expect perfection; expect learning and improvement on every review. Remember, there are engineers at all levels on the team. Are you growing them without frustration?
+**Encourage ratcheting over gatekeeping.** Keep the mindset that measures the health of the codebase and that abstractions are understandable. Do not expect perfection; expect learning and improvement on every review. Remember, there are [engineers](https://dev.to/solidi/what-is-a-software-engineer-anyway-3fb2) at all levels on the team. Are you growing them without frustration?
 
 **Pull requests are about cross-pollination learning.** Respect other's efforts in their pull request. Context and opinion rules software engineering. Make these philosophies apparent to the author. Clear expectations make great partners. Starters could be a contribution guideline. Bug catching and code consistency are side effects of the review.
 
