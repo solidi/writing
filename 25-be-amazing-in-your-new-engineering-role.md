@@ -1,6 +1,8 @@
 # Be Amazing in Your New Engineering Role
 #career, #tutorial, #beginners, #productivity
 
+![](images/25-01.jpeg)
+
 Starting a new software engineering role can be an overwhelming experience. The first months are a dizzying mix of meetings, development, and people. There are many ways to become successful. Here are my top tips.
 
 ## Build Trust With People
