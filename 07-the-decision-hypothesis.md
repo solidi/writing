@@ -1,7 +1,7 @@
 # The Decision Hypothesis
 ## The Mythical Man-Month Hinted At Software Decision Documents Decades Ago
 
-![A Qumran Cave Scroll (iStock)](https://miro.medium.com/max/1400/1*o9SYp2OY3n7VY7qqf3wzLw.jpeg)
+![A Qumran Cave Scroll (iStock)](images/07-01.jpeg)
 
 Some weeks ago, I completed a re-read of the [Mythical Man-Month (MM-M)](https://www.pearson.com/us/higher-education/program/Brooks-Mythical-Man-Month-The-Essays-on-Software-Engineering-Anniversary-Edition-2nd-Edition/PGM172844.html) by Frederick P. Brooks, Jr. The read was my third sitting over the years in software development.
 
@@ -31,7 +31,7 @@ Our guiding principle was that the **documentation is code**. If we had to docum
 
 Then we found this post; [every project should have a decision making file](https://akazlou.com/posts-output/2015-11-09-every-project-should-have-decisions/) by [Aliaksandr Kazlou](https://medium.com/u/93bb84d49d5c?source=post_page-----aa512e0113----------------------). The post introduced the concept of a version-controlled `DECISIONS.md`. It's a brilliant write up, and I suspect the author is also a fan of MM-M.
 
-![It's evident in our DECISIONS.md that code organization and dependency management are dominant.](https://miro.medium.com/max/1234/1*r4S3KoPhzioNvfXF-mFdAQ.png)
+![It's evident in our DECISIONS.md that code organization and dependency management are dominant.](images/07-02.png)
 
 So, we followed and adopted it in our way. I'll share a short section of ours below.
 
@@ -53,7 +53,7 @@ Once adopted, we had problems with timeliness of `DECISIONS.md` since it require
 
 This post was inspired by observations between the team, MM-M, the many projects launched and maintained, and Aliaksandr's post on DECISIONS.md. However, ultimately I decided to write this because of a lunch I recently had with a senior developer. The lunch brought it all together for me.
 
-![Software decisions vary during a project but prefer to be constant over time.](https://miro.medium.com/max/1234/1*xShobZ7anLd3whWKf-pssA.png)
+![Software decisions vary during a project but prefer to be constant over time.](images/07-03.png)
 
 We debated about a pull request trend in our monolithic repo that seemed to be going awry with specific uses of `@VisibleForTesting` and others uses such as ReactiveX `Subject`. Additionally, a team decision was not made on the consistent use of `@Nullable` and `@NonNull` in preparation for our Kotlin production migration. Of course, the technical details are not necessary, and these issues are just the flavor of the week.
 
@@ -75,7 +75,7 @@ However,
 
 > With English prose one can show structural principles, delineate structure in stages or levels, and give examples. One can readily mark exceptions and emphasize contrasts. Most important, one can explain ***why***.
 
-![Developers do not like to document. Mundane external processes hurt developer happiness. [ 1 ]](https://miro.medium.com/max/1234/1*ENQPNiDWcKpsoPdRM_PD-g.png)
+![Developers do not like to document. Mundane external processes hurt developer happiness. [ 1 ]](images/07-04.png)
 
 Fred finally breaks down and writes a chapter on marrying documentation to code.
 
@@ -93,7 +93,7 @@ Every project will have plenty of software decisions that will demand constant a
 
 This document could serve the team by encouraging new debates and focusing the resolution to a highly transparent file revision. The process focuses on developers comfortably at a real point that is neutral - an imperfect electronic arbiter.
 
-![Decreasing code complexity and increasing code consistency appears to be the whys.](https://miro.medium.com/max/1234/1*5N9F_1GCM9vUjYFtOOH0oQ.png)
+![Decreasing code complexity and increasing code consistency appears to be the whys.](images/07-05.png)
 
 Finally, we must explain the **why of our software decisions** because the code has a daft ability to communicate its origins poorly. Tribal knowledge, hallway conversations, team dynamics change, and fade. Version controls are changed, and history is broken. All that remains are the many contributors that graphed the pieces together over short periods.
 
@@ -131,3 +131,9 @@ Thanks to James Shvarts and Hazem Saleh
 https://medium.com/hackernoon/the-decision-hypothesis-aa512e0113
 
 #softwaredevelopment #code #softwareengineering #learning #documents #productivity
+
+### Posted
+
+1. r/programming
+1. r/softwareengineering
+1. hackernews
