@@ -1,6 +1,6 @@
 # Observations on the testing culture of Test Driven Development
 
-![A homage to “purple” wires installed by IBM field engineers decades ago. They were yellow.](https://miro.medium.com/max/1400/1*s1wnrbNeea89uz6GsPe6jw.png)
+![A homage to “purple” wires installed by IBM field engineers decades ago. They were yellow.](images/08-01.png)
 
 *This post is not a primer on Test Driven Development. It contains my observations of re-starting the discipline and the problem of unit testing craft.*
 
@@ -33,7 +33,7 @@ If we don’t know how many are practicing, the next question is, “how effecti
 
 There have been studies conducted over the years that have proven TDD’s effectiveness. Write-ups include well-recognized reports from [Microsoft](https://collaboration.csc.ncsu.edu/laurie/Papers/Unit_testing_cameraReady.pdf), [IBM](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.567.3740&rep=rep1&type=pdf), North Carolina University, and the [University of Helsinki](https://helda.helsinki.fi//bitstream/handle/10138/42741/2014_01_swqd_author_version.pdf?sequence=2).
 
-![An impactful visual is taken from the Helsinki report.](https://miro.medium.com/max/1400/1*7TM_Dr62nyebITPsLWZBwA.png)
+![An impactful visual is taken from the Helsinki report.](images/08-02.png)
 
 These reports prove to the degree that defect density is reduced by 40% to 60% in exchange for increased effort and execution time by 15% to 35%. These numbers have also begun to echo through books and new industries such as the DevOps community.
 
@@ -203,7 +203,7 @@ In TDD, one can become trapped. There are situations where the developer can be 
 
 Uncle Bob likely has experienced these impasses in his career, and then he probably realized that the act of making a test pass must require a preferred order so that the risk of an impasse is reduced. At the same time, he also realized a premise. **As the tests get more specific, the code gets more generic**.
 
-![The order of the transformations. One should always lower-ordered changes.](https://miro.medium.com/max/1400/1*7ixCT3Mc3gTAOd0YTM-_eA.png)
+![The order of the transformations. One should always lower-ordered changes.](images/08-03.png)
 
 This list is called the [Transformation Priority Premise](https://8thlight.com/blog/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html). There seems to be an order of refactoring risk one can choose to achieve by passing a test. The selected top transformation (the simplest) is usually the best option and will incur the least risk to create a situation of an impasse.
 
@@ -249,7 +249,7 @@ Kent’s proposal in XP included a simple formulation of **instinct**, **thought
 
 The threshold for clean test execution is high, in that it eclipses a baseline of experience. The majority will never become above water, and those that do are lucky — have experience from the elusive testing culture.
 
-![From XP Explained. Initially, about design quality, imagine a higher threshold line.](https://miro.medium.com/max/1400/1*7tA4AMlNkSI0lLrCoQyYkg.png)
+![From XP Explained. Initially, about design quality, imagine a higher threshold line.](images/08-04.png)
 
 Software is tough enough to build and organize. Testing takes it to a whole new level of enlightenment.
 
