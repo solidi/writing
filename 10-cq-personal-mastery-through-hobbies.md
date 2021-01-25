@@ -1,13 +1,13 @@
 # CQ: Personal Mastery Through Hobbies
 ## What My Father Taught Me About Communication In Amateur Radio
 
-![My father and I at the Kenwood TS-530S transceiver back in 1985.](https://miro.medium.com/max/1400/1*EwRT6L7ntuEc22avteGC8g.jpeg)
+![My father and I at the Kenwood TS-530S transceiver back in 1985.](images/10-01.jpeg)
 
 Software engineering is my passion and profession. My focus is to improve the craft and build great teams. But from time to time, I explore the skill of learning by leveraging ***engineering thinking***. My goal is to find ways to improve communication, mentorship, and leadership. One way to discover techniques is through hobbies. What follows is my personal view on ***how*** hobbies lead to self-improvement.
 
 For me, it is a great moment to communicate a logical deduction since I started a new hobby of amateur radio. The ***"why"*** is challenging to place in words, but what I can say is that it gives access to a ***specific and distinct*** communication style. It requires ***technical effort*** to reach people without multi-billion dollar infrastructure. Like many hobbies, amateur radio contains a rich ***vocabulary*** of understanding.
 
-![My father's transceiver thirty-five years later.](https://miro.medium.com/max/1400/1*Ze-BJYlFU_yh0I0OX4GEhw.jpeg)
+![My father's transceiver thirty-five years later.](images/10-02.jpeg)
 
 ## Ham Radio
 
@@ -17,7 +17,7 @@ We select modulations like voice, continuous wave (International Morse Code), da
 
 Amateur radio is intense with history, electronics, applied theory, bizarre phenomenon, and some ridiculous maths when touching the edges of the hobby. Innovative technologies originate out of Ham Radio. From the latest on cloaking with fractal antennas to that mobile phone in your pocket, they all are inventions of the hobby.
 
-![An old SWR (standing wave ratio) meter that monitors attenuation.](https://miro.medium.com/max/1400/1*zG9_mTzqPfUVkC2U9m18dg.jpeg)
+![An old SWR (standing wave ratio) meter that monitors attenuation.](images/10-03.jpeg)
 
 ## Personal Mastery and Their Axioms
 
@@ -27,7 +27,7 @@ First, we start with ***personal mastery***. Personal mastery is the attempt to 
 
 Next, as we seek those truths, let's examine what an ***axiom*** is. An axiom is a shorthand for a kernel of fact, a poster sign. It is a spoken reduction of events and their goals that are self-evident. Personal mastery and their axioms feed on one another. And the axioms contain ***vocabularies*** that allow us to understand skill and culture.
 
-![An analog transmitter tuner.](https://miro.medium.com/max/1400/1*lVYky4Jqig-tfo4_eiMd-Q.jpeg)
+![An analog transmitter tuner.](images/10-04.jpeg)
 
 But how do personal mastery and axioms interrelate with one another? The relation would be by ***successive approximation***. The ability to course-correct our skill and zone in on the axioms so that we check, apply, correct, and repeat. It is a relative comparison of what we can do better.
 
@@ -37,7 +37,7 @@ But this is where it gets even more enjoyable. No one achieves full mastery beca
 
 > Hobbies are explorations of personal mastery. They are the axioms divided by their constraints. They are amplified by successive approximation and accelerated by mentorship.
 
-![2 meter HT's (handi-talkies) that my father used through the years.](https://miro.medium.com/max/1400/1*yKatsLBu3cptRq6ydEa_sA.jpeg)
+![2 meter HT's (handi-talkies) that my father used through the years.](images/10-05.jpeg)
 
 ## Example of the Application
 
@@ -57,7 +57,7 @@ As we look at this axiom, we find that there are constraints. These types of res
 
 One way to achieve this is by using the International Morse Code. International Morse Code, also known as CW (continuous wave), is a technique of using little power to travel very long distances. It is also a challenge for most to understand and then respond in CW. It takes quite a bit of practice and discovery. And here is the final piece of the puzzle.
 
-![In this photo, my father's straight key from the 1900s.](https://miro.medium.com/max/1400/1*1EsSvCBuTxf34pqfQm5c6w.jpeg)
+![In this photo, my father's straight key from the 1900s.](images/10-06.jpeg)
 
 Hobbies are ***interdependent*** exercises of personal mastery and require communication with others to improve. My father told me a story about this key in the picture above. Back in the early 1970s, he worked at the Mobil Building in New York City for Rand McNally as a trip planner. Like most days, my father was at the desk, waiting for the next customer to draw out a road trip. An older gentleman walks in. One thing leads to another, and amateur radio is on topic. The gentleman is a high-level license holder. My father explained that he was having difficulty overcoming a crude requirement of the then license exam. The exam required a CW portion at a minimum word per minute. The gentleman gave him old Coast Guard audio tapes to help him practice. He, through his help, succeeded.
 
@@ -65,7 +65,7 @@ Hobbies are ***interdependent*** exercises of personal mastery and require commu
 
 The man above in my father's story is called an "Elmer" in the hobby. In short, a ***mentor***. And hence, the cycle of personal mastery continues until a limit. The axioms continue to be tweaked and improved until there is a collective mastery.
 
-![A high level visual of the ideation.](https://miro.medium.com/max/1400/1*blUKyIUX6UdKtSJBBbhI7w.jpeg)
+![A high level visual of the ideation.](images/10-07.jpeg)
 
 Of course, other axioms are ***congruent*** with the primary adage. In the example above, I've only highlighted the primary driver of mastery. There are others to identify and explore.
 
@@ -75,7 +75,7 @@ Hobbies are paths to personal mastery. We use axioms to form vocabulary, use a s
 
 Personal mastery clarifies what is most important to us. What is most important to me ***is how to improve the result of communication*** because it is a fundamental weakness that has consequences. The radio communication metaphor was the right fit. I could not resist but to try in this essay. And I know I've failed beautifully at it.
 
-![Learning fundamentals from old magazines and books.](https://miro.medium.com/max/1400/1*Ij4rl38EvXw9tjkXY2oiOQ.jpeg)
+![Learning fundamentals from old magazines and books.](images/10-08.jpeg)
 
 Hobbies ignite searching for a path to the truth inside one's self. When we focus our attention on learning, it may be uncomfortable. We should look for the axioms, and educate on adjusting their constraints. Find Elmers. They will open a world of learning, which is a beautiful thing. Ponder about your hobbies and their axioms for just a moment. Are you on a path to personal mastery?
 
@@ -83,7 +83,7 @@ Hobbies ignite searching for a path to the truth inside one's self. When we focu
 
 And thanks, Dad, for all this equipment to learn on. I got my first license even if it took way longer than you had hoped.
 
-![](https://miro.medium.com/max/1400/1*cOCSw4KicMU2IPlvhknb7A.png)
+![](images/10-09.png)
 
 ---
 
@@ -102,3 +102,8 @@ https://medium.com/the-innovation/cq-personal-mastery-through-hobbies-f25aab2e49
 Thanks to Hazem Saleh and Danielle Arcuri
 
 #AmateurRadio #communication #leadership #mentorship 
+
+### Posted
+
+1. hackernews
+1. r/amateurradio
