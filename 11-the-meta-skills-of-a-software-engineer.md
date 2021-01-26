@@ -1,7 +1,7 @@
 # Meta Skills of a Software Engineer
 ## Learning Through Books on Correctness and Pattern Recognition
 
-![Above, some books on meta on how to craft software well.](https://miro.medium.com/max/1400/1*w-YuP5aUeNqUuX56UabE_A.png)
+![Above, some books on meta on how to craft software well.](images/11-01.png)
 
 Recently, a friend asked a question about the particular skills possessed by software engineers.
 
@@ -79,3 +79,9 @@ Thanks to Hazem Saleh and Danielle Arcuri
 https://medium.com/hackernoon/meta-skills-of-a-software-engineer-bed411f6685e
 
 #softwaredevelopment #code #softwareengineering #software #career #learning #career #productivity
+
+### Posted
+
+1. r/programming
+1. r/softwareengineering
+1. hackernews
