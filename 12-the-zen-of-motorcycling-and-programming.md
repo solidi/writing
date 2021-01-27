@@ -1,7 +1,7 @@
 # The Zen of Motorcycling and Programming
 ## An Inquiry into Values of Software Engineering
 
-![](https://cdn-images-1.medium.com/max/1600/1*60Bvrj0jTMhmXSoiO6afuQ.png)
+![](images/12-01.png)
 
 I headed down the parkway parallel to the ocean through a hot summer breeze. My engine is slowly revving by keeping a legal speed limit. I was taking it all in on my motorcycle, with thoughts of inspiration and some doubt of nagging preservation. "Should I have checked that thing? What about this detail? Ah, whatever it is, enjoy this ride." Unfazed, I looked over to my right, nothing but dunes, on the left, the Great South Bay. There were wispy clouds in a blue sky and a bridge in the distance. I was making my way down to OBI, a parking lot in the middle of nowhere abut against the Atlantic ocean.
 
@@ -59,7 +59,7 @@ We chatted about bikes and philosophies of riding. The lady had more riding expe
 
 **Me:** "I do. These concepts are my opinions, but others may see it differently. Quality? The quality reminds me of that book, Zen and the Art of Motorcycle Maintenance."
 
-![](https://cdn-images-1.medium.com/max/1600/1*VyMm4N0badPOW7ROvrYJkg.png)
+![](images/12-02.png)
 
 **Me:** "Whether I'm classical or a romantic, I am not sure. When I read or write code or I perform an oil change or replace a stator, I keep looking at the gauges like a manic. 'Did I do it right? How can I be sure? Research, apply, and *trust*!' I am stuck looking into all the details of how to do things well."
 
@@ -84,3 +84,10 @@ https://medium.com/hackernoon/the-zen-of-motorcycling-and-programming-620907dbab
 Thanks to Hazem Saleh, Alex Hart, and Danielle Arcuri
 
 #motorcycle #SoftwareDevelopment #programming #ProgrammingZen #RobertPirsig #safety
+
+### Posted
+
+1. r/programming
+1. r/softwareengineering
+1. hackernews
+1. r/motorcycles
