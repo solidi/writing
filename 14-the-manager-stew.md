@@ -1,7 +1,7 @@
 # The Manager Stew
 ## Management Happens Before Core Working Hours
 
-![The morning. A place for decisions.](https://miro.medium.com/max/1400/1*_6CPeJvHf3mzuwMWiAZpcg.jpeg)
+![The morning. A place for decisions.](images/14-01.jpeg)
 
 I overheard someone say, “management is hard.” Thank you for the courageous statement. You inspired me to write this short.
 
@@ -11,7 +11,7 @@ The *how* of management is by doing. Mentors are virtually [distant](https://ran
 
 > I’m steering what had been decided that morning.
 
-![Things decided before the train arrives.](https://miro.medium.com/max/1400/1*LPlJb286-ufigBB0sdaI_g.jpeg)
+![Things decided before the train arrives.](images/14-02.jpeg)
 
 ## The Stew
 
@@ -29,7 +29,7 @@ The *stew* informally means a state of anxiety or agitation. As a food, a beauti
 
 The *stew* attempts to organize and prioritize outcomes. This thinking can include analyzing conversations, weighing fairness of actions, and identifying ownership. I replay conversations to empathize. This process is a place where positive behaviors are recognized and brought forward.
 
-![I am overlooking the Great South Bay with a plan in place.](https://miro.medium.com/max/1400/1*8a1kesLxZAgnKIMInAKpIg.jpeg)
+![I am overlooking the Great South Bay with a plan in place.](images/14-03.jpeg)
 
 I await a new opportunity to say what was resolved in thought the same day — all thanks to *the stew*. It promotes compassionate leadership and helps steer with positive intentions.
 
@@ -49,7 +49,7 @@ Management is about wading through the vagueness and ambiguity of interrelations
 
 > The result is growth in relationships and heighten performance of myself and others.
 
-![Sundown on the west coast.](https://miro.medium.com/max/1400/1*1t3B2q51UcN3c9rZt3Rjqg.jpeg)
+![Sundown on the west coast.](images/14-04.jpeg)
 
 I remember numerous stews where it was painfully obvious that I tried everything to coach an individual. Through all the work, there was no other choice — *all* options where exhausted. *The stew* provided that clarity.
 
@@ -72,3 +72,9 @@ Thanks to Danielle Arcuri and Daniel Leonardis
 https://medium.com/hackernoon/the-manager-stew-dd59cd653728
 
 #leadership #management #performance #walking #SoftwareDevelopment
+
+### Posted
+
+1. r/programming
+1. r/softwareengineering
+1. hackernews
