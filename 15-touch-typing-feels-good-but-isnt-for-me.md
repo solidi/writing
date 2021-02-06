@@ -1,6 +1,8 @@
 # Touch-typing feels good but isn’t for me
 ## A brief analysis of learning to touch-type
 
+![](images/15-01.jpeg)
+
 My recent observations of “humans with keyboards” motivated me to write this post. Observations like a relative typing in a belabored “hunt and peck” style at the keyboard. Or a friend proclaiming he “typed more proficiently with two fingers than ten.” The conversations I had around this topic ended in strong opinions without an agreement of learning the skill efficiently.
 
 Of course, typing style is a personal choice. No one will ever force you to do it differently. Those who are curious identify, and discover choice. My curiosity set me off on a diversion of improving my typing. The questions to myself were “With all these years behind the keyboard, how does my own style measure up? Can I do better?”
@@ -21,20 +23,20 @@ With twenty years behind the keyboard, I perceive my own typing style as embarra
 
 To measure, we need a tool. I chose the website keybr.com to perform typing measurements on speed and error rate. What I liked about keybr is its no-nonsense learning. No typing games. It has algorithms that detect weakness in learning keys. Samples of commonly strung letters in the English language are recorded. The user interface is clear, straightforward, and the statistics are excellent.
 
-> One sample capture from keybr.com.
+![One sample capture from keybr.com.](images/15-02.png)
 
 I started with my typical style of typing. At best, my **float typing** predominantly uses both index fingers and sometimes middle fingers. Thumbs are on the spacebar. I utilize these six fingers where needed. My fingers do not feel the keys, but are proficient landing on the right keys. The hands fly across the keyboard as I type. I look at the keyboard if and when I cannot detect the next key’s position.
 Let’s look at my relative typing speed first.
 
-> Speed of float typing.
+![Speed of float typing.](images/15-03.png)
 
 The lines marked in red are my average and top typing speeds. Here, my average typing speed is 60 wpm (words per minute). The green graph is based on all other users that are sampled at keybr. From their perspective, my average speed is in the 89th percentile and my top speed is at 95%.
 
-> Graph of float typing baseline.
+![Graph of float typing baseline.](images/15-04.png)
 
 Above, we can see the course of 132 samples taken over the course of 35 minutes. I am comfortable with the length of this sampling since we see a steady line past 100 samples. Error rate and typing speed are generally consistent.
 
-> Fast/slow histogram on float typing.
+![Fast/slow histogram on float typing.](images/15-05.png)
 
 Here, we can see over the course of 132 samples that my typing speed is generally “fast”, with points in time over certain keys that are “slow”. I chalk this up to unique word combinations that made me look down at the keyboard.
 
@@ -45,19 +47,19 @@ My motivation above outlines all the reasons why I want to gain speed and reduce
 Touch-typing is an efficient way to utilize all fingers at the keyboard. It helps minimize hand movement and decrease error rate. Touch-typing’s main purpose is to have eyes on the screen without looking at the keyboard. This is to focus clearly on content.
 Okay, let’s take a look at my metrics around **touch typing**.
 
-> Average speed of touch typing.
+![Average speed of touch typing.](images/15-06.png)
 
 As we can see above, my average is much lower at 37 wpm. What is interesting is my top speed is similar to the float typing baseline. As a stretch, we can say that my “top potential” is 70 wpm. This will require significant dedicated practice. However, I noticed that I began to flat line in speed and wobble in error rate.
 
-> Touch typing 25 days in.
+![Touch typing 25 days in.](images/15-07.png)
 
 Above is the graph of 1,200+ samples. This is 10 hours of practice over 25 days. We can see a plateau of error and typing speed. Over time, the average will improve as I continue at somewhere around 50–55 wpm. This falls short of my self taught typing strategy at 60 wpm. From keybr’s perspective, my average speed is in the 54th percentile and my top speed is at 92%.
 
-> Fast/slow histogram on touch typing.
+![Fast/slow histogram on touch typing.](images/15-08.png)
 
 As I become more confident in touch typing, each key becomes green and typing speed will improve. We can see here I had difficulty with R, S and D leading the tool to continually articulate on the left hand. There was also a good portion of time where Q was labored upon.
 
-> Relative miss frequency. Touch typing (green) versus float typing (purple). Lower is better.
+![Relative miss frequency. Touch typing (green) versus float typing (purple). Lower is better.](images/15-09.png)
 
 Finally, we come to errors. The review of the hit/miss ratio or relative miss frequency per key is clear. The green bar is representative of touch-typing and the purple is float typing. The lower the bar, the better. Since I am learning, it is natural that there is a higher tendency of missed keys with touch typing. Twenty of the 26 keys report a higher error count.
 
@@ -85,7 +87,7 @@ A very interesting result of touch-typing is it minimizes the movement of hands 
 
 I had a tendency to look at the keyboard when my hands began to stray from the home keys. Words that begin with B and G made me look as I typed. As noted above, it was either stop in motion to find the bumps then go for the key or look quick and readjust. Sometimes the latter felt faster. Let’s prove this.
 
-> Planting my hands had a significant effect starting at sample 1,206.
+![Planting my hands had a significant effect starting at sample 1,206.](images/15-10.png)
 
 At sample 1,206 I forced myself to keep my palms planted and never look at the keyboard. The result setback is seen above, as my speed dropped by 10 wpm and my error rate jumped. It was difficult to fight through it and hence this will be the next muscle memory hurdle. This action will be more difficult than discovering my middle, ring and pinky fingers from samples 1 through 650.
 
@@ -96,4 +98,20 @@ At sample 1,206 I forced myself to keep my palms planted and never look at the k
 As I continue to practice I have found two modes of typing. If I want to type faster and with less errors, I choose float typing. When I want to feel good, both socially and from dopamine, I choose touch-typing.
 
 I will continue to practice touch-typing but, looking over the data, it may not be for me. Heavy dedicated practice will be required to throw away my self typing strategy… float typing. My articulation may not grow enough to hit high speeds. This post gives me hope and this one takes that hope away.
+
 What is your typing style like?
+
+---
+
+## Social Post
+
+Analysis of my own touch typing. Thanks to freeCodeCamp for picking this up! #typing #analysis #freecodecamp
+
+Thanks to Hazem Saleh and Dan Leonardis
+
+[url](https://medium.com/free-code-camp/touch-typing-feels-good-but-isnt-for-me-2cfbafee2074)
+
+### Posted
+
+1. r/programming
+1. hackernews
