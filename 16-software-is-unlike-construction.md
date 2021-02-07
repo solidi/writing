@@ -1,7 +1,7 @@
 # Software Development Is Unlike Construction
 ## A Short on the Reasons Why
 
-![](https://miro.medium.com/max/1400/1*K8GacPEj-6QYwvprgAC0eg.jpeg)
+![](images/16-01.jpeg)
 
 ***TL;DR:*** *Construction is a poor metaphor for software development due to its non-linear nature, difficulty maintaining insight, disagreement in measuring, and its conveyor belt of opinionated approaches. There may be better analogs.*
 
@@ -59,3 +59,8 @@ Thanks to Hazem Saleh and Danielle Arcuri.
 https://medium.com/hackernoon/software-is-unlike-construction-c0284ee4b723
 
 #softwaredevelopment #code #softwareengineering #learning #construction
+
+### Posted
+
+1. r/programming
+1. hackernews
