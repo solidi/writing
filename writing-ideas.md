@@ -173,3 +173,7 @@ Not comprehension, but clarity.
 1. [What is a Principal Engineer Anyway?](https://dev.to/solidi/what-is-a-principal-engineer-anyway-55n0)
 1. [What is a Product Manager Anyway?](https://dev.to/solidi/what-is-a-product-manager-anyway-3pc4)
 1. [Deconstructing My Reading Habits](https://medium.com/the-innovation/deconstructing-my-reading-habits-cef9e7d82bad)
+1. [What's Up with Ceiling Fans?](https://dev.to/solidi/what-s-up-with-ceiling-fans-380)
+1. [What is a Project Manager Anyway?](https://dev.to/solidi/what-is-a-project-manager-anyway-fbb)
+1. [Building a Popular Half-Life Mod During the Rise of Counter-Strike](https://medium.com/super-jump/building-a-popular-half-life-mod-during-the-rise-of-counter-strike-fec6a5b9fd8f)
+1. [What is a Staff Engineer Anyway?](https://dev.to/solidi/what-is-a-staff-engineer-anyway-4blj)
