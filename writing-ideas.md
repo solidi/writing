@@ -177,3 +177,4 @@ Not comprehension, but clarity.
 1. [What is a Project Manager Anyway?](https://dev.to/solidi/what-is-a-project-manager-anyway-fbb)
 1. [Building a Popular Half-Life Mod During the Rise of Counter-Strike](https://medium.com/super-jump/building-a-popular-half-life-mod-during-the-rise-of-counter-strike-fec6a5b9fd8f)
 1. [What is a Staff Engineer Anyway?](https://dev.to/solidi/what-is-a-staff-engineer-anyway-4blj)
+1. [The Joy of Collecting Timeless Engineering Posts](https://dev.to/solidi/the-joy-of-collecting-timeless-engineering-posts-5el3)
