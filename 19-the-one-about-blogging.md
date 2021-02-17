@@ -31,4 +31,4 @@ Thanks to Danielle Arcuri
 
 https://medium.com/@solidi/the-one-about-blogging-cd9e65a2055b
 
-#blogging #reflections #SoftwareDevelopment #PersonalGrowth #developemt
+#blogging #reflections #SoftwareDevelopment #PersonalGrowth #development
