@@ -24,3 +24,14 @@ After years of sitting through, and participating in, many sprint demos, here is
 **Prepare a shortlist of proposed questions.** Give the audience a chance to ask questions. A recent tip I heard and experimented with, expect your audience not to have any questions. If so, throw up a proposed list of items to the audience. There is a good chance it will start a fantastic conversation.
 
 **Don't worry, and you're doing great.** Every demo is a chance to learn about yourself and the audience. The team is there to support you. Even with failure, there is the opportunity to improve the experience for your customers. It is also a chance to increase shared context. Do this at every opportunity! 🎉
+
+---
+
+## Social Post
+
+Tips to successfully deliver your next team demo. Enjoy! 
+Thanks to Hazem Saleh, Danny Preussler, and Daniel Leonardis for review and suggested edits.
+
+https://dev.to/solidi/how-to-crush-your-next-team-demo-2bb5
+
+#softwareengineering #demo #mentorship #professionalgrowth #leadership
