@@ -92,14 +92,6 @@ Not comprehension, but clarity.
     - Confiding with other people to find support
     - Consolidate almost every`thing
     - Give feedback when it wasn't agreed
-1. What is a Staff Engineer Anyway?
-    - Storyteller
-    - First leadership
-    - Bias for action
-    - Three Types
-        - TL
-        - Domain
-    - "Self-selection"
 1. What is a Software Engineer In Test Anyway?
     - Asserts quality and partners effectively
 1. Remember SNES RPGs
