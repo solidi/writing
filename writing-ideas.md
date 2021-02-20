@@ -99,6 +99,8 @@ Not comprehension, but clarity.
     - Secret of Mana
     - FF III
     - Chrono Trigger
+1. What is a Product Designer Anyway?
+1. Writing a short post of doing nothing all day.
 
 ## Updates
 
@@ -127,6 +129,9 @@ Not comprehension, but clarity.
     1. Add return on discovery (ROD)
 1. Building a Popular Half-Life Mod 
     1. Quote: "I was in a perpetual state of a creative high. Everyday I plotted my next tweak. When I hit a wall, I'd untangle a narly problem. This happened in my head as life went on around me."
+1. Be a Rockstar at Pull Requests
+    1. Watch combative language like just
+    1. More prose, and less crispness
 
 ## What is a _____ Anyway?
 
