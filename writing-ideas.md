@@ -101,6 +101,8 @@ Not comprehension, but clarity.
     - Chrono Trigger
 1. What is a Product Designer Anyway?
 1. Writing a short post of doing nothing all day.
+1. A short post on [all my career rejections](https://web.eecs.utk.edu/~azh/blog/allmyrejections.html)
+    - Enforce the learnings of growth
 
 ## Updates
 
