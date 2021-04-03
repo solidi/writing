@@ -1,7 +1,7 @@
 # Recognizing Remote Romantic Bibliophilia
 #watercooler, #career, #motivation, #books
 
-![One of my management bookshelves](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tpg2c5z2y0doyldgnvha.jpeg)
+![One of my management bookshelves](images/37-01.jpeg)
 
 Attractive book spines in the background of remote video calls are a source of joy to me. And on more than one occasion, I snap a quick photo, secretly loving their collection too—a pendant into the soul of this beautiful, well-read person. I want [to learn](https://medium.com/the-innovation/deconstructing-my-reading-habits-cef9e7d82bad?sk=622a30d66e361ceaab6943ebd6f9761c) with them.
 
