@@ -79,6 +79,7 @@ Here is what I learned over the years:
 
 - Interview is about #preparation, #determination, and some #luck
 - It relies on muscle memory and #skill to build on
+- Partner closely with #recruiting to increase chances
 - Find a long term study buddy to role play
 - Learning and improving from previous interviews will make you #successful
 
