@@ -53,9 +53,17 @@ Not comprehension, but clarity.
     - Consolidate and resolve almost everything
     - Give feedback when it wasn't agreed
     - Signing important immigration papers
+    - Succession plans
+    - Private agreements
+    - Delivering bad news
+    - Giving up on a direct when knowing information
 1. What is a Software Engineer In Test Anyway?
     - Asserts quality and partners effectively
     - Finds gaps in requirements before anyone else
+    - Developing test plans early and often
+    - Raising quality problems clearly
+    - Automating the test suites
+    - Eatting ice cream cones at the pryamids
 1. Remember SNES RPGs
     - Link
     - Secret of Mana
