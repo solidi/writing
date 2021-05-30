@@ -58,11 +58,19 @@ Not comprehension, but clarity.
     - Delivering bad news
     - Giving up on a direct when knowing information
 1. What is a Software Engineer In Test Anyway?
+    - Also known as QA/QE/AE/SDET/SET/TA
+    - They are first to know if there is an opportunity to improve or catch a release going out the door - shift left
     - Asserts quality and partners effectively
     - Finds gaps in requirements before anyone else
     - Developing test plans early and often
-    - Raising quality problems clearly
-    - Automating the test suites
+    - Raising quality problems clearly with routes to reproduce
+    - Automating the test suites that increase engineers productivity and promote refactoring
+    - Can go farther my suggesting load, stress, visual, and performance testing and communicate changes with perctiles
+    - Are experts in testing the system, finding exploratory testing and uncovering edge cases with ease
+    - Partners closely with software engineers to test automate all features
+    - Actively brings in new techniques and framworks to comprehensively test
+    - Goes farther with contributing parts of the system/software when its the right thing to do
+    - Is aware flaky tests discourage testing, and continues to harden and improve the test suite
     - Eatting ice cream cones at the pryamids
 1. Remember SNES RPGs
     - Link
