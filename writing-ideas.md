@@ -6,38 +6,6 @@ Not comprehension, but clarity.
 
 ## List
 
-1. Secure Your Next Incredible Engineering Role
-    - Intro
-        - Reflect on past interviewing
-        - Increase signal, reduce luck factor, and learn
-    - When and where to begin
-        - Shields down?
-            - First role, or advancement
-        - Sources
-            - LinkedIn, Friends, Favorite companies 
-        - It's a continious feedback loop
-        - its about learnign in an unsafe environment
-    - Get the ball rollling
-        - Apply, one a day
-        - Kanban board
-    - Learning from feedback
-        - Improve
-            - the stories
-            - the resume
-            - linkedin
-        - Study buddy
-            - History
-            - Code
-            - Stories
-            - System Design
-    - Completing the loops
-        - Reflecting on what works
-        - Thank yous
-        - Connecting
-    - Congrats on the offer
-        - Be honest
-        - Gracefully turn down other offers
-        - Start your role (link to being great)
 1. Five engineering books on meta.
     - Pragmatic programmer
     - Mythical man month
@@ -60,14 +28,6 @@ Not comprehension, but clarity.
     1. Avoid urgency, build rust
     1. Default change?
     1. Replay all is the default
-1. What is a Technical Project Manager Anyway?
-    1. Project managers are managers (who does what by when, 1:1s, trust)
-    1. Process evolution shepherds
-    1. Time slices (Organizes the work into manageable phases)
-    1. Four levers of projects (time, people, quality, scope)
-    1. Three of the four attributes (good, fast, cheap, done)
-    1. Visualizing path (where we are) and data (how we are)
-    1. Value mapping and migration completions
 1. What I Learned about Vacations
     - 3 days to decompress, 3 weeks to disconnect
     - taking on one meeting may ruin the vacation
@@ -90,10 +50,12 @@ Not comprehension, but clarity.
     - Visa, H1B sponsorship pressures
     - Transitions
     - Confiding with other people to find support
-    - Consolidate almost every`thing
+    - Consolidate and resolve almost everything
     - Give feedback when it wasn't agreed
+    - Signing important immigration papers
 1. What is a Software Engineer In Test Anyway?
     - Asserts quality and partners effectively
+    - Finds gaps in requirements before anyone else
 1. Remember SNES RPGs
     - Link
     - Secret of Mana
@@ -103,6 +65,7 @@ Not comprehension, but clarity.
 1. Writing a short post of doing nothing all day.
 1. A short post on [all my career rejections](https://web.eecs.utk.edu/~azh/blog/allmyrejections.html)
     - Enforce the learnings of growth
+1. A short story about meeting the team once it happens post pandemic
 
 ## Updates
 
