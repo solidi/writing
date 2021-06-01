@@ -71,7 +71,7 @@ Not comprehension, but clarity.
     - Actively brings in new techniques and framworks to comprehensively test
     - Goes farther with contributing parts of the system/software when its the right thing to do
     - Is aware flaky tests discourage testing, and continues to harden and improve the test suite
-    - Eatting ice cream cones at the pryamids
+    - [Get a trophy by eatting an ice cream cone at the pryamids](https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021)
 1. Remember SNES RPGs
     - Link
     - Secret of Mana
