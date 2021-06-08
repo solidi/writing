@@ -82,6 +82,8 @@ Not comprehension, but clarity.
 1. A short post on [all my career rejections](https://web.eecs.utk.edu/~azh/blog/allmyrejections.html)
     - Enforce the learnings of growth
 1. A short story about meeting the team once it happens post pandemic
+1. A short story of emoji :eyes:
+    - Increase size on each iteration
 
 ## Updates
 
