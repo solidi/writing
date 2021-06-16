@@ -84,6 +84,9 @@ Not comprehension, but clarity.
 1. A short story about meeting the team once it happens post pandemic
 1. A short story of emoji :eyes:
     - Increase size on each iteration
+    - Eyes facing eyes
+1. A story about burnout
+    - Use [this graphic](https://github.com/solidi?tab=overview&from=2012-12-01&to=2012-12-31) as the intro.
 
 ## Updates
 
