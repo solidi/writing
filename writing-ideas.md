@@ -57,6 +57,7 @@ Not comprehension, but clarity.
     - Private agreements
     - Delivering bad news
     - Giving up on a direct when knowing information
+    - Knowing information before others do
 1. What is a Software Engineer In Test Anyway?
     - Also known as QA/QE/AE/SDET/SET/TA
     - They are first to know if there is an opportunity to improve or catch a release going out the door - shift left
