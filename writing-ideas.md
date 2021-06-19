@@ -88,6 +88,15 @@ Not comprehension, but clarity.
     - Eyes facing eyes
 1. A story about burnout
     - Use [this graphic](https://github.com/solidi?tab=overview&from=2012-12-01&to=2012-12-31) as the intro.
+1. The house that app development bought
+    - Reflections on building mobile apps
+    - Start with Joe's place
+    - Chromecast
+    - The story about Nick
+    - Side hustles
+    - Leading all the apps
+    - Laid off
+    - End it with the conversation of wanting to lead mobile again, and turning it down
 
 ## Updates
 
