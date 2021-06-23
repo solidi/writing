@@ -93,6 +93,7 @@ Not comprehension, but clarity.
     - Reflections on building mobile apps
     - Start with Joe's place
     - Chromecast
+    - Google I/Os / WWDC
     - The story about Nick
     - Side hustles
     - Leading all the apps
