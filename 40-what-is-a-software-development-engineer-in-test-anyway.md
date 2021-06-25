@@ -44,3 +44,9 @@ Thanks to Hazem Saleh, Taji Philip, Steve Guyer, Koysul Amin, and Danielle Arcur
 #softwaredevelopment #code #softwareengineering #software #career #learning #career #productivity
 
 [url](https://dev.to/solidi/what-is-a-software-development-engineer-in-test-anyway-41g6)
+
+### Posted
+
+1. hackernews
+2. r/programming
+3. r/softwaretesting
