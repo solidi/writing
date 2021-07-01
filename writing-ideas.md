@@ -21,6 +21,8 @@ Not comprehension, but clarity.
     1. roman gods and server names
     1. [rfc 1178](https://datatracker.ietf.org/doc/html/rfc1178)
     1. cattle or pets
+    1. my phones, the moons
+    1. end with tabular
 1. Document as IOC.
 1. Miscommunication in writing.
 1. Finishing things.
