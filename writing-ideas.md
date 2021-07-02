@@ -89,6 +89,8 @@ Not comprehension, but clarity.
     - Leading all the apps
     - Laid off
     - End it with the conversation of wanting to lead mobile again, and turning it down
+1. What is an Engineering Director Anyway?
+    - Manager of managers
 
 ## Updates
 
