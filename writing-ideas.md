@@ -168,3 +168,4 @@ Not comprehension, but clarity.
 1. [Recognizing Remote Romantic Bibliophilia](https://dev.to/solidi/recognizing-remote-romantic-bibliophilia-255f)
 1. [Rediscovering the .plan File](https://dev.to/solidi/rediscovering-the-plan-file-4k1i)
 1. [Interview Well for Your Next Incredible Engineering Role](https://levelup.gitconnected.com/interview-well-for-your-next-incredible-engineering-role-a5513e6596ae?sk=fd06c4775ff3e9d912be078e6854c64f)
+1. [What is a Software Development Engineer in Test Anyway?](https://dev.to/solidi/what-is-a-software-development-engineer-in-test-anyway-41g6)
