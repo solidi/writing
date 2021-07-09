@@ -53,6 +53,7 @@ Not comprehension, but clarity.
     - Inequity problems
     - Retaining talent when others promote their position
     - Visa, H1B sponsorship pressures
+    - Signing attestation papers
     - Transitions
     - Confiding with other people to find support
     - Consolidate and resolve almost everything
