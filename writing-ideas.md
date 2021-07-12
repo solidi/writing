@@ -66,10 +66,17 @@ Not comprehension, but clarity.
     - Knowing information before others do
     - Janitorial services
 1. Remember SNES RPGs
+    - Use gifs to convey message from longplay videos
     - Link
     - Secret of Mana
     - FF III
+        - Gif of setzers airship at ending credits
+        - Gif of book turning the page
     - Chrono Trigger
+    - Mentions
+        - Lufia II
+        - Secret of Evermore
+        - Mario RPG
 1. What is a Product Designer Anyway?
 1. Writing a short post of doing nothing all day.
 1. A short post on [all my career rejections](https://web.eecs.utk.edu/~azh/blog/allmyrejections.html)
@@ -123,6 +130,7 @@ Not comprehension, but clarity.
 1. Be a Rockstar at Pull Requests
     1. Watch combative language like just
     1. More prose, and less crispness
+    1. Reviews are about value, not about averting disaster (it's happens regardless)
 
 ## What is a _____ Anyway?
 
