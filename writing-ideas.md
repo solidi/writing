@@ -67,6 +67,8 @@ Not comprehension, but clarity.
     - Janitorial services
 1. Remember SNES RPGs
     - Use gifs to convey message from longplay videos
+    - Use screenshots of player guides sold
+        - And a screenshot of all games/boxes against the SNES
     - Link
     - Secret of Mana
     - FF III
