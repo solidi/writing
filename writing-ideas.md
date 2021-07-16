@@ -66,11 +66,13 @@ Not comprehension, but clarity.
     - Knowing information before others do
     - Janitorial services
 1. Remember SNES RPGs
+    - "An oral history of..."
     - Use gifs to convey message from longplay videos
     - Use screenshots of player guides sold
         - And a screenshot of all games/boxes against the SNES
     - Link
     - Secret of Mana
+        - Gif of being banished from Potts
     - FF III
         - Gif of setzers airship at ending credits
         - Gif of book turning the page
