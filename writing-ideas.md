@@ -15,14 +15,6 @@ Not comprehension, but clarity.
 1. Meta becomes more important.
 1. User experience with fans.
 1. Python's EOL.
-1. Naming projects.
-    1. [Why Projects Need Codenames](https://artsy.github.io/blog/2019/05/10/why-projects-need-codenames/)
-    1. olmec tommy and blue
-    1. roman gods and server names
-    1. [rfc 1178](https://datatracker.ietf.org/doc/html/rfc1178)
-    1. cattle or pets
-    1. my phones, the moons
-    1. end with tabular
 1. Document as IOC.
 1. Miscommunication in writing.
 1. Finishing things.
@@ -184,3 +176,4 @@ Not comprehension, but clarity.
 1. [Rediscovering the .plan File](https://dev.to/solidi/rediscovering-the-plan-file-4k1i)
 1. [Interview Well for Your Next Incredible Engineering Role](https://levelup.gitconnected.com/interview-well-for-your-next-incredible-engineering-role-a5513e6596ae?sk=fd06c4775ff3e9d912be078e6854c64f)
 1. [What is a Software Development Engineer in Test Anyway?](https://dev.to/solidi/what-is-a-software-development-engineer-in-test-anyway-41g6)
+1. [The Next Fantastic Software Project Code Name](https://dev.to/solidi/the-next-fantastic-software-project-code-name-bbd)
