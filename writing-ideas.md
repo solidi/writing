@@ -57,6 +57,8 @@ Not comprehension, but clarity.
     - Giving up on a direct when knowing information
     - Knowing information before others do
     - Janitorial services
+    - People fire themselves
+    - Deportation of engineers
 1. Remember SNES RPGs
     - "An oral history of..."
     - Use gifs to convey message from longplay videos
