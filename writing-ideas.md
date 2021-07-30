@@ -101,6 +101,10 @@ Not comprehension, but clarity.
     - Subtle
     - Emotional
     - Old website that had curtains flowing?
+1. People fire themselves
+    - Short post on when people leave teams (reflective)
+    - Pre-pip's, and they realize that they are leaving
+    - I've fired myself a few times
 
 ## Updates
 
