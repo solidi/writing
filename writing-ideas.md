@@ -22,7 +22,7 @@ Not comprehension, but clarity.
 1. Hitting the wall on aglos, and weird land of conditionals getting the tests to pass.
 1. Reply All Considered Harmful
     1. Let those do their job
-    1. Avoid urgency, build rust
+    1. Avoid urgency, build trust
     1. Default change?
     1. Replay all is the default
 1. What I Learned about Vacations
