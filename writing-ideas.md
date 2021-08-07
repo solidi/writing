@@ -96,6 +96,8 @@
     - Subtle
     - Emotional
     - Old website that had curtains flowing?
+    - Short Gifs redux, "Ode to my family"
+        - Sharing family video gifs, as proof of subtle emotion
 1. People fire themselves
     - Short post on when people leave teams (reflective)
     - Pre-pip's, and they realize that they are leaving
