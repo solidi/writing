@@ -1,9 +1,4 @@
 # Writing Ideas
-
-## Principle
-
-Not comprehension, but clarity.
-
 ## List
 
 1. Five engineering books on meta.
