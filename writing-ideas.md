@@ -162,6 +162,22 @@ Not comprehension, but clarity.
 
 ## Completed
 
+1. [On Kotlin: A Reply From Management](https://medium.com/@solidi/on-kotlin-a-reply-from-management-8f9220544c1d)
+1. [Some insights into IntelliJ’s Serial Code Transformations](https://medium.com/free-code-camp/intellijs-serial-code-transformations-775fe7aa517c)
+1. [No Description Provided](https://medium.com/hackernoon/no-description-provided-8d9e0f3a3abb)
+1. [The Springboard Pattern](https://medium.com/hackernoon/the-springboard-pattern-340e00379404)
+1. [Deception: Degenerate A/B Testing](https://medium.com/hackernoon/deception-degenerate-a-b-testing-ecce6635000e)
+1. [On Kotlin: A Unit Test Conversion Guide](https://proandroiddev.com/on-kotlin-a-unit-test-conversion-guide-71e0597bb45d)
+1. [The Decision Hypothesis](https://medium.com/hackernoon/the-decision-hypothesis-aa512e0113)
+1. [Observations on the testing culture of Test Driven Development](https://medium.com/free-code-camp/8-observations-on-test-driven-development-a9b5144f868)
+1. [How to organize your thoughts on the whiteboard and crush your technical interview](https://medium.com/free-code-camp/how-to-organize-your-thoughts-on-the-whiteboard-and-crush-your-technical-interview-b668de4e6941)
+1. [CQ: Personal Mastery Through Hobbies](https://medium.com/@solidi/cq-personal-mastery-through-hobbies-f25aab2e49ad)
+1. [Meta Skills of a Software Engineer](https://medium.com/hackernoon/meta-skills-of-a-software-engineer-bed411f6685e)
+1. [The Zen of Motorcycling and Programming](https://medium.com/hackernoon/the-zen-of-motorcycling-and-programming-620907dbab2c)
+1. [Coda: Learning From Structures Around Us](https://medium.com/hackernoon/coda-learning-from-structures-around-us-25052243e1a7)
+1. [The Manager Stew](https://medium.com/hackernoon/the-manager-stew-dd59cd653728)
+1. [Touch-typing feels good but isn’t for me](https://medium.com/free-code-camp/touch-typing-feels-good-but-isnt-for-me-2cfbafee2074?sk=9df82a30a376556f5cc1d2303e737afb)
+1. [Software Development Is Unlike Construction](https://medium.com/hackernoon/software-is-unlike-construction-c0284ee4b723)
 1. [The Many Senses of Software Engineering](https://medium.com/@solidi/the-many-senses-of-software-engineering-aba9f289498c)
 1. [What is a Tech Lead Anyway?](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p)
 1. [The One About Blogging](https://medium.com/@solidi/the-one-about-blogging-cd9e65a2055b)
