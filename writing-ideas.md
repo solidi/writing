@@ -15,11 +15,6 @@
 1. Finishing things.
 1. Investors, destroyers, and culture.
 1. Hitting the wall on aglos, and weird land of conditionals getting the tests to pass.
-1. Reply All Considered Harmful
-    1. Let those do their job
-    1. Avoid urgency, build trust
-    1. Default change?
-    1. Replay all is the default
 1. What I Learned about Vacations
     - 3 days to decompress, 3 weeks to disconnect
     - taking on one meeting may ruin the vacation
@@ -201,3 +196,4 @@
 1. [Interview Well for Your Next Incredible Engineering Role](https://levelup.gitconnected.com/interview-well-for-your-next-incredible-engineering-role-a5513e6596ae?sk=fd06c4775ff3e9d912be078e6854c64f)
 1. [What is a Software Development Engineer in Test Anyway?](https://dev.to/solidi/what-is-a-software-development-engineer-in-test-anyway-41g6)
 1. [The Next Fantastic Software Project Code Name](https://dev.to/solidi/the-next-fantastic-software-project-code-name-bbd)
+1. [Reply All Considered Harmful](https://medium.com/@solidi/reply-all-considered-harmful-f895beb5eabc)
