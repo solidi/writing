@@ -76,7 +76,8 @@
 1. A story about burnout
     - Use [this graphic](https://github.com/solidi?tab=overview&from=2012-12-01&to=2012-12-31) as the intro.
 1. The house that app development bought
-    - Reflections on building mobile apps
+    - Reflections on building mobile apps 2011-2017
+        - Mention [Androids](https://www.amazon.com/Androids-Built-Android-Operating-System-ebook/dp/B09C6RYHQ4) book
     - Start with Joe's place
     - Chromecast
     - Google I/Os / WWDC
