@@ -3,7 +3,7 @@
 
 I've recently reflected on my experiences as an interviewee in software engineering. As I trace through each interview, I have learned and improved. I'd like to share these learnings with a diagram I'd built from my last search and highlight the significant bits.
 
-![Interview process map from personal experience. It will continue to improve over time.](https://miro.medium.com/max/1400/1*UxnSNXPsE888fFDXwjnfbg.png)
+![Interview process map from personal experience. It will continue to improve over time.](images/28-01.png)
 
 ## Practice Role-Playing
 
