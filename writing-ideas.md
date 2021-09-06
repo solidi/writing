@@ -133,7 +133,9 @@
     1. Reviews are about value, not about averting disaster (it's happens regardless)
     1. Owning the pull request nudges
 1. What is a Software Engineer in Test Anyway?
-    1. Add QAE (Quailty Assurance Engineer) from [dropbox's career framework](https://dropbox.github.io/dbx-career-framework/).
+    1. Add QAE (Quailty Assurance Engineer) from [dropbox's career framework](https://dropbox.github.io/dbx-career-framework/)
+1. The One About Blogging
+    1. Add url of the original post to the diagram
 
 ## What is a _____ Anyway?
 
