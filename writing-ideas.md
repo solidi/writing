@@ -98,6 +98,13 @@
     - Short post on when people leave teams (reflective)
     - Pre-pip's, and they realize that they are leaving
     - I've fired myself a few times
+1. Combating Burnout
+    - D supplments
+    - Walks
+    - Service
+    - Space
+    - Hobbies
+    - Therapy
 
 ## Updates
 
