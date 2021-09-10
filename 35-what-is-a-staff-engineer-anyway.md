@@ -5,7 +5,7 @@ As a software engineer and software manager, I have worked closely with staff en
 
 **The staff engineer is recognized as a leader.** The staff software engineer continues to grow in their role; they become the *storytellers* within the teams and organizations. They market a brand, continuing to improve their craft, skillset, and lead projects. They have obtained a title that matches the designation.
 
-**Have a default bias toward action.** When problems and friction forms in the systems and codebases they are associated with, they move forward not by just observing but acting and correcting the observation without asking for permission. They *self-authorize* to experiment and improve the systems.
+**Have a default bias toward action.** When problems and friction form in the systems and codebases they are associated with, they move forward not by just observing but acting and correcting the observation without asking for permission. They *self-authorize* to experiment and improve the systems.
 
 **Staff engineers are [free electrons](https://randsinrepose.com/archives/free-electron/).** Staff engineers have slack time to launch experiments to find solutions across teams. Sometimes they detail presentations about the current system’s pain points. They highlight how technical actions can reduce or eliminate tension. They are held accountable for the [holistic results and delivery](https://levelup.gitconnected.com/the-many-senses-of-software-engineering-aba9f289498c) of the products they serve. 
 
@@ -13,7 +13,7 @@ As a software engineer and software manager, I have worked closely with staff en
 
 **They collaborate outside with other engineers.** They don’t reinvent the wheel every time. When they face new challenging problems, they first look for an existing solution. If found, they utilize and expand the approach, so it is applied exponentially. They collaborate with others to form unified solutions that can scale in the organization.
 
-**Steer the business away from disastrous decisions.** These engineers are held to a standard of creative solutions and delivery. When the time comes to define technical feasibility, if the [business](https://dev.to/solidi/what-is-a-product-manager-anyway-3pc4) is going down the path of continuous short term patching and mounting technical debt, they speak up. For those systems that may not survive long, they balance genuinely maintainable systems and delivery.
+**Steer the business away from disastrous decisions.** These engineers are held to a standard of creative solutions and delivery. When the time comes to define technical feasibility, if the [business](https://dev.to/solidi/what-is-a-product-manager-anyway-3pc4) is going down the path of continuous short-term patching and mounting technical debt, they speak up. For those systems that may not survive long, they balance genuinely maintainable systems and delivery.
 
 **And also make the business find unrealized potential.** For the impossibly difficult technical feasibility projects, they recommend alternatives and find larger initiatives to improve the customer and the system’s longevity. They combine technologies, find opportunities for delivery, and balance skillsets with key results while keeping it interesting for the engineers. They advocate for systemic change.
 
