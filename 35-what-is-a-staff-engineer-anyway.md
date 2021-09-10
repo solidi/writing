@@ -1,6 +1,8 @@
 # What is a Staff Engineer Anyway?
 #learning, #leadership, #career, #productivity
 
+![Photo by Nubelson Fernandes on Unsplash](images/35-01.jpeg)
+
 As a software engineer and software manager, I have worked closely with staff engineers on large strategic projects. They have responsibilities that are disparate from leading contributor roles. Here are my top recognized attributes.
 
 **The staff engineer is recognized as a leader.** The staff software engineer continues to grow in their role; they become the *storytellers* within the teams and organizations. They market a brand, continuing to improve their craft, skillset, and lead projects. They have obtained a title that matches the designation.
@@ -38,7 +40,7 @@ What is a #staff #engineer anyway?
 - Self-authorize their activities to improve systems
 - Steer the business away from disastrous decisions
 - Monitor the #developer experience
-- Have an extraordinary impact and influence
+- Have extraordinary impact and influence
 
 Thanks to Hazem Saleh, Dan Leonardis, and Danielle Arcuri
 
