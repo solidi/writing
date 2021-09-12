@@ -8,11 +8,14 @@
     - Clean Code
     - XP Explained
 1. Meta becomes more important.
-1. User experience with fans.
 1. Python's EOL.
 1. Document as IOC.
 1. Miscommunication in writing.
 1. Finishing things.
+    - That email
+    - That hobby project
+    - That task before going home
+    - That conversation
 1. Investors, destroyers, and culture.
 1. Hitting the wall on aglos, and weird land of conditionals getting the tests to pass.
 1. What I Learned about Vacations
@@ -21,6 +24,7 @@
     - managers that support vacationing typically do not see repriocation
     - what you do is reflected on others behaviors
     - best creative thinking happens
+    - taking on one email may also ruin vacation
 1. Five Questions
     - What are we optimizing for?
     - What problem are we trying to solve?
@@ -148,7 +152,7 @@
 1. Goals - more than a job description, it has an edge, an opinion.
     1. Targets
         1. 3 minute read
-        1. Make it memorible
+        1. Make it memorable
         1. Make it wanted to be shared
         1. Make it timeless
         1. Focus on aspirational, the drama, and people, 
