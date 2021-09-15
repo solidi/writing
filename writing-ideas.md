@@ -146,6 +146,10 @@
     1. Add QAE (Quailty Assurance Engineer) from [dropbox's career framework](https://dropbox.github.io/dbx-career-framework/)
 1. The One About Blogging
     1. Add url of the original post to the diagram
+1. Debugging things
+    1. Occam's razor
+    1. Recency
+    1. Its probably a config problem
 
 ## What is a _____ Anyway?
 
