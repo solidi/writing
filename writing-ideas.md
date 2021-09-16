@@ -151,6 +151,8 @@
     1. Occam's razor
     1. Recency
     1. Its probably a config problem
+1. Small sayings while remote
+    1. it looks like your battery is going to die
 
 ## What is a _____ Anyway?
 
