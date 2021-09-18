@@ -125,7 +125,7 @@
     1. Scaling myself by finidng opportunities for others
     1. Continious and eventual reconciliation of things
     1. [Managers extract value, leaders scale effort](https://news.ycombinator.com/item?id=28130764)
-    1. More idling time, and that's okay
+    1. More idling time, essenital to adjacent, and that's okay
 1. Do Great At Workng Remotely
     1. Continue to build social relationships
 1. What is a Software Engineer Anyway?
