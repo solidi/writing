@@ -4,21 +4,27 @@ Some drafted haikus. Demostrates experience, hope, wisdom, and depth. And also h
 
 ## Tech
 
-capture the user
-stack trace show me the new work 
-patched, on to the next
+capture the user  
+stack trace show me the new work  
+patched, on to the next  
 
-new image service
-cross fingers cache will hold up
-million object serves
+new image service  
+cross fingers cache will hold up  
+million object serves  
 
-an ethernet cord
-stranded bandwidth perfection
-argh, git reset HEAD
+an ethernet cord  
+stranded bandwidth perfection  
+argh, git reset HEAD  
 
-many services
-duplication is ok
-learn and build again
+many services  
+duplication is ok  
+learn and build again  
+
+## Writing
+
+morning sunshine light  
+another attempt to write  
+nothing comes to mind  
 
 ### Resources
 
