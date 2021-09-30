@@ -218,5 +218,5 @@
 
 ## Major Engagements
 
-1. [Hacker News Ranking: In Software, When an Engineer Exits the Team](http://hnrankings.info/18635362/)
-1. [Hacker News Ranking: CQ: Personal Mastery Through Hobbies](http://hnrankings.info/28692059/)
+1. [Hacker News Ranking: In Software, When an Engineer Exits the Team](http://hnrankings.info/28692059/)
+1. [Hacker News Ranking: CQ: Personal Mastery Through Hobbies](http://hnrankings.info/18635362/)
