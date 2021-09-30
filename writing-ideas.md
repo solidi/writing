@@ -96,10 +96,6 @@
     - Old website that had curtains flowing?
     - Short Gifs redux, "Ode to my family"
         - Sharing family video gifs, as proof of subtle emotion
-1. People fire themselves
-    - Short post on when people leave teams (reflective)
-    - Pre-pip's, and they realize that they are leaving
-    - I've fired myself a few times
 1. Combating Burnout
     - D supplments
     - Walks
@@ -218,3 +214,9 @@
 1. [What is a Software Development Engineer in Test Anyway?](https://dev.to/solidi/what-is-a-software-development-engineer-in-test-anyway-41g6)
 1. [The Next Fantastic Software Project Code Name](https://dev.to/solidi/the-next-fantastic-software-project-code-name-bbd)
 1. [Reply All Considered Harmful](https://medium.com/@solidi/reply-all-considered-harmful-f895beb5eabc)
+1. [In Software, When an Engineer Exits the Team](https://medium.com/@solidi/in-software-when-an-engineer-exits-the-team-1e550303cff8)
+
+## Major Engagements
+
+1. [Hacker News Ranking: In Software, When an Engineer Exits the Team](http://hnrankings.info/18635362/)
+1. [Hacker News Ranking: CQ: Personal Mastery Through Hobbies](http://hnrankings.info/28692059/)
