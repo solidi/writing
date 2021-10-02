@@ -26,9 +26,9 @@ morning sunshine light
 another attempt to write  
 nothing comes to mind  
 
-thousands read the post
-I think about what they thought
-why does it matter?
+thousands read the post  
+I think about what they thought  
+why does it matter?  
 
 ### Resources
 
