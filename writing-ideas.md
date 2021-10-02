@@ -149,6 +149,9 @@
     1. Add QAE (Quailty Assurance Engineer) from [dropbox's career framework](https://dropbox.github.io/dbx-career-framework/)
 1. The One About Blogging
     1. Add url of the original post to the diagram
+1. In Software, When an Engineer Leaves the Team
+    1. Include reasons for leaving: Money.
+    1. Update comma: "and it’s a pivot for, now, this new team"
 
 ## What is a _____ Anyway?
 
