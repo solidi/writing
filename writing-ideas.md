@@ -55,6 +55,7 @@
     - Deportation of engineers
 1. Remember SNES RPGs
     - "An oral history of..."
+    - Intro, nostalgia, and watching long plays
     - Use gifs to convey message from longplay videos
     - Use screenshots of player guides sold
         - And a screenshot of all games/boxes against the SNES
