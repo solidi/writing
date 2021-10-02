@@ -30,6 +30,10 @@ thousands read the post
 I think about what they thought  
 why does it matter?  
 
+a passionate draft  
+it sits for years unexposed  
+refine; then publish  
+
 ### Resources
 
 [Haiku Syllable Counter](https://www.haikusyllablecounter.com/)
