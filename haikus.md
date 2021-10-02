@@ -9,8 +9,8 @@ stack trace show me the new work
 patched, on to the next  
 
 new image service  
-cross fingers cache will hold up  
-million object serves  
+fingers crossed cache will hold up  
+billion object serves  
 
 an ethernet cord  
 stranded bandwidth perfection  
@@ -25,6 +25,10 @@ learn and build again
 morning sunshine light  
 another attempt to write  
 nothing comes to mind  
+
+thousands read the post
+I think about what they thought
+why does it matter?
 
 ### Resources
 
