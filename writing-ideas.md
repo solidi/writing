@@ -223,5 +223,18 @@
 
 ## Major Engagements
 
-1. [Hacker News Ranking: In Software, When an Engineer Exits the Team](http://hnrankings.info/28692059/)
-1. [Hacker News Ranking: CQ: Personal Mastery Through Hobbies](http://hnrankings.info/18635362/)
+### In Software, When an Engineer Exits the Team
+
+1. [Hacker News Ranking](http://hnrankings.info/28692059/)
+1. [Hacker News Thread](https://news.ycombinator.com/item?id=28692059)
+1. [Reddit Thread](https://www.reddit.com/r/programming/comments/pxsq9l/when_an_engineer_exits_the_team/)
+
+### What is an Engineering Manager Anyway?
+
+1. [SWLW #380](https://softwareleadweekly.com/issues/380)
+
+### CQ: Personal Mastery Through Hobbies
+
+1. [Hacker News Ranking](http://hnrankings.info/18635362/)
+1. [Reddit Thread](https://www.reddit.com/r/amateurradio/comments/i72bwp/ham_radio_cq_personal_mastery_through_hobbies_2018/)
+1. [Hacker News Thread](https://news.ycombinator.com/item?id=18635362)
