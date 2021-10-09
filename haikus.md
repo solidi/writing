@@ -32,7 +32,11 @@ why does it matter?
 
 a passionate draft  
 it sits for years unexposed  
-refine; then publish  
+refine; then publish 
+
+many articles  
+learning more about myself  
+emotion; a goal  
 
 ### Resources
 
