@@ -366,9 +366,12 @@ I started to explore and make things work, ideas emerged. These truisms were val
 
 Thanks to Danielle Arcuri, and James Burns
 
+[url](https://superjumpmagazine.com/building-a-popular-half-life-mod-during-the-rise-of-counter-strike-fec6a5b9fd8f)
+
 ### Posted
 
 1. r/halflife
 1. r/quake
 1. r/programming
 1. https://www.facebook.com/groups/363474493735643
+1. [lobste.rs](https://lobste.rs/s/c1vw7h/building_popular_half_life_mod_during)
