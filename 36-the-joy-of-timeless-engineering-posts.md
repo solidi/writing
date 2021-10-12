@@ -1,6 +1,8 @@
 # The Joy of Collecting Timeless Engineering Posts
 #todayisearched, #motivation, #watercooler, #mentoring
 
+![Photo by June Gathercole on Unsplash](images/36-01.jpeg)
+
 Hiding on the Internet are brilliant software engineering posts. They idle behind a few strokes of a query, having a quality set apart from the endless but helpful Stack Overflow threads.
 
 I recently discovered another collectible gem. This one is titled [When Bad Things Happen to Good Characters](http://hcibib.org/multilingual/badchars.htm). I'm not exactly sure who the author is.
@@ -41,3 +43,4 @@ What may they look like?
 Thanks to Pratik Dhiman, Csaba Toth, Tom Lawless, and Danielle Arcuri
 
 [url](https://dev.to/solidi/the-joy-of-collecting-timeless-engineering-posts-5el3)
+[linkedin](https://www.linkedin.com/pulse/joy-collecting-timeless-engineering-posts-douglas-w-arcuri)
