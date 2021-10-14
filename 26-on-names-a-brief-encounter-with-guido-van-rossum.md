@@ -51,6 +51,7 @@ My short story meeting Guido van Rossum, the inventor of #python programming lan
 
 Thanks to Hazem Saleh and Danielle Arcuri.
 
-https://medium.com/an-idea/on-names-a-brief-encounter-with-guido-van-rossum-6c4ff065e86c
+[medium](https://medium.com/an-idea/on-names-a-brief-encounter-with-guido-van-rossum-6c4ff065e86c)
+[linkedin](https://www.linkedin.com/pulse/names-brief-encounter-guido-van-rossum-douglas-w-arcuri/)
 
 #naming #name #software #belonging #pycon #culture

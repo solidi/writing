@@ -154,6 +154,8 @@
 1. In Software, When an Engineer Leaves the Team
     1. Include reasons for leaving: Money.
     1. Update comma: "and it’s a pivot for, now, this new team"
+1. On Names: A Brief Encounter with Guido van Rossum
+    1. Key adjacency is continual comedy relating to my name.
 
 ## What is a _____ Anyway?
 
