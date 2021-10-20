@@ -156,6 +156,8 @@
     1. Update comma: "and it’s a pivot for, now, this new team"
 1. On Names: A Brief Encounter with Guido van Rossum
     1. Key adjacency is continual comedy relating to my name.
+1. Reply All Considered Harmful
+    1. "find it comical."
 
 ## What is a _____ Anyway?
 
