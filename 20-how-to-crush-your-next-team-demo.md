@@ -32,6 +32,7 @@ After years of sitting through, and participating in, many sprint demos, here is
 Tips to successfully deliver your next team demo. Enjoy! 
 Thanks to Hazem Saleh, Danny Preussler, and Daniel Leonardis for review and suggested edits.
 
-https://dev.to/solidi/how-to-crush-your-next-team-demo-2bb5
+[dev.to](https://dev.to/solidi/how-to-crush-your-next-team-demo-2bb5)
+[LinkedIn](https://www.linkedin.com/pulse/how-crush-your-next-team-demo-douglas-w-arcuri/)
 
 #softwareengineering #demo #mentorship #professionalgrowth #leadership
