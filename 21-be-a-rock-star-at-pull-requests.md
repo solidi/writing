@@ -1,4 +1,5 @@
 # Be a Rock Star at Pull Requests
+## Tips for a successful collaborative code review
 #beginners, #tutorial, #firstyearincode, #codequality
 
 ![Photo: Clément Hélardot/Unsplash](images/21-01.jpeg)
@@ -44,3 +45,11 @@ I've reviewed thousands of pull requests over my career. Here are my tips for bu
 ## Finally
 
 **Keep it fun.** I once observed a team where they challenged themselves by writing highly clever haikus and prose in each summary. Doing this hundred (ah, thousands) of times developed a team of Hemingway's. Try adding to the playful habit. Engineering is all about curiosity and learning from play.
+
+---
+
+## Social Post
+
+[dev.to](https://dev.to/solidi/be-a-rockstar-at-pull-requests-1e4f)
+[medium](https://levelup.gitconnected.com/be-a-rock-star-at-pull-requests-d855308ce3d2)
+[LinkedIn](https://www.linkedin.com/pulse/rock-star-pull-requests-douglas-w-arcuri/)
