@@ -37,5 +37,6 @@ Thanks to Hazem Saleh, Danny Preussler, and Daniel Leonardis for review and sugg
 
 [dev.to](https://dev.to/solidi/how-to-crush-your-next-team-demo-2bb5)
 [LinkedIn](https://www.linkedin.com/pulse/how-crush-your-next-team-demo-douglas-w-arcuri/)
+[medium](https://levelup.gitconnected.com/how-to-crush-your-next-team-demo-fbd82597b762)
 
 #softwareengineering #demo #mentorship #professionalgrowth #leadership
