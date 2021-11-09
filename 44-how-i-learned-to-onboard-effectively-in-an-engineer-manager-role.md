@@ -103,12 +103,15 @@ Management is a complicated arrangement of *getting people to do what they don't
 
 ## Social Post
 
-My personal steps on how I successfully onboard to a new Engineering Manager role in the first 90 days.
+My personal steps on how I successfully onboard to a new #Engineering #Manager role in the first 90 days.
 
-Thanks to Danielle Arcuri, Steve Guyer, Len Santoro, and Daniel Leonardis.
+Thanks to Danielle Arcuri, Steve Guyer, Len Santoro, Daniel Leonardis, and ITNEXT for publishing.
 
-#softwaredevelopment #softwareengineering #software #learning #career #relationships #management #people
+#softwaredevelopment #softwareengineering #software #learning #career #relationships #management #people #engineering
 
 [url](https://itnext.io/how-i-learned-to-onboard-effectively-in-an-engineer-manager-role-8ea76627e36c)
 
 ### Posted
+
+1. linkedin
+1. hackernews
