@@ -19,6 +19,7 @@
 1. Much
 1. Unfortunate / fortunate
 1. Nice
+1. More
 
 ## Banned Phrasings
 
