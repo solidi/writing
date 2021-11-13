@@ -20,9 +20,11 @@
 1. Unfortunate / fortunate
 1. Nice
 1. More
+1. Many
 
 ## Banned Phrasings
 
 1. I think
 1. I believe
 1. It seems
+1. At the time
