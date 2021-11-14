@@ -222,6 +222,7 @@
 1. [The Next Fantastic Software Project Code Name](https://dev.to/solidi/the-next-fantastic-software-project-code-name-bbd)
 1. [Reply All Considered Harmful](https://medium.com/@solidi/reply-all-considered-harmful-f895beb5eabc)
 1. [In Software, When an Engineer Exits the Team](https://medium.com/@solidi/in-software-when-an-engineer-exits-the-team-1e550303cff8)
+1. [How I Learned to Onboard Effectively in an Engineer Manager Role](https://itnext.io/how-i-learned-to-onboard-effectively-in-an-engineer-manager-role-8ea76627e36c)
 
 ## Major Engagements
 
@@ -240,3 +241,7 @@
 1. [Hacker News Ranking](http://hnrankings.info/18635362/)
 1. [Reddit Thread](https://www.reddit.com/r/amateurradio/comments/i72bwp/ham_radio_cq_personal_mastery_through_hobbies_2018/)
 1. [Hacker News Thread](https://news.ycombinator.com/item?id=18635362)
+
+### How I Learned to Onboard Effectively in an Engineer Manager Role
+
+1. [Level Up Newsletter #118](https://levelup.patkua.com/issues/level-up-issue-118-846716)
