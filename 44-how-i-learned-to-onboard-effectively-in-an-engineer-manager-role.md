@@ -105,7 +105,7 @@ Management is a complicated arrangement of *getting people to do what they don't
 
 My personal steps on how I successfully onboard to a new #Engineering #Manager role in the first 90 days.
 
-Thanks to Danielle Arcuri, Steve Guyer, Len Santoro, Daniel Leonardis, and ITNEXT for publishing.
+Thanks to Danielle Arcuri, Steve Guyer, Manoj Sharma, Len Santoro, Daniel Leonardis, and ITNEXT for publishing.
 
 #softwaredevelopment #softwareengineering #software #learning #career #relationships #management #people #engineering
 
