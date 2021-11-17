@@ -21,6 +21,7 @@
 1. Nice
 1. More
 1. Many
+1. Some
 
 ## Banned Phrasings
 
