@@ -22,6 +22,7 @@
 1. More
 1. Many
 1. Some
+1. Mainly
 
 ## Banned Phrasings
 
