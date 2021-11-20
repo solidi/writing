@@ -31,3 +31,9 @@
 1. I believe
 1. It seems
 1. At the time
+
+## Other Bits
+
+1. "Screenreader" filter - use a screenreader and adjust to taste, eliminating awkardness
+1. "And" filter - walk write to convert "and" into "ing" or eliminate the conjuction completely
+1. "Active voice" filter - walk write and flip verbs -> nouns to nouns -> verbs
