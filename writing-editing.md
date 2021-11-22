@@ -24,6 +24,7 @@
 1. Some
 1. Mainly
 1. May
+1. Can
 
 ## Banned Phrasings
 
