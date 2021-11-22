@@ -132,10 +132,6 @@
     1. Continue to build social relationships
 1. What is a Software Engineer Anyway?
     1. More valuable than just their code
-1. What is a Product Manager Anyway?
-    1. Half of work is convincing others
-    1. Interface with all parts of the organization
-    1. Are "emotive" in nature
 1. Deconstructing My Reading Habits
     1. Add return on discovery (ROD)
 1. Building a Popular Half-Life Mod 
