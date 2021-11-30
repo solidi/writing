@@ -112,6 +112,22 @@
     1. Its less likely an external dependency problem
 1. Small sayings while remote
     1. it looks like your battery is going to die
+1. Paternity Leave - a short on its celebration
+    1. Hard parts of the night time bottles
+    1. The neogitation of the night time shifts
+    1. The bonding after the bottle
+    1. The delegation and for others to grow in the absence
+    1. The checking in on doing things
+    1. The tracking of the eyes
+    1. The "first" smile
+    1. The company that doesn't resist taking it.
+    1. The company that gives the time.
+    1. Authored to the baby?
+    1. The craziness of getting the kids ready with the new baby
+    1. The paraphernalia of it all
+    1. Carly Simon's coming around again
+    1. Combing of the hair and reading books as the feedings happen
+    1. No such thing as solispism
 
 ## Updates
 
