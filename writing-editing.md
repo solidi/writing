@@ -43,3 +43,5 @@
 ## Interesting Vocabulary 
 
 1. Zugzwang
+1. Reify
+1. Luddite
