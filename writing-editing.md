@@ -45,3 +45,4 @@
 1. Zugzwang
 1. Reify
 1. Luddite
+1. Exemplar
