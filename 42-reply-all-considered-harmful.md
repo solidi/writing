@@ -6,9 +6,9 @@
 
 Lately, I’m writing fewer emails [at work](https://dev.to/solidi/what-is-an-engineering-manager-anyway-4and). To me, email authoring can be torture. It’s the time-sunk cost of carefully crafting the message. And when I do send an email, I avoid *Reply All*. If possible, I would like the conversation to be **between just us**.
 
-Over the years, my perception of how to use *Reply* All has changed. Earlier on, my understanding of its intoxicating power invoked a sense of urgency to all those addressed. But after being scrutinized in these exchanges and me targeting others, it has soured. Mix this in with selectively adding in authoritative figures; I now ***consider it harmful*** for the outcome of the ask and the long-term relationship for those involved.
+Over the years, my perception of how to use *Reply All* has changed. Earlier on, my understanding of its intoxicating power invoked a sense of urgency to all those addressed. But after being scrutinized in these exchanges and me targeting others, it has soured. Mix this in with selectively adding in authoritative figures; I now ***consider it harmful*** for the outcome of the ask and the long-term relationship for those involved.
 
-While participating in *Reply All* threads over the years, I’ve learned the concept of a *directly responsible individual* who is accountable and owns a possible outcome. And when replying all, this can muddle who is directly responsible for the ask. And suppose the message is poignantly addressed to a particular person. In some business cultures, the receiver may become anxious, find it combative, or downright ignore the ask while having an *unfamiliar* audience watching them. The perception of resistance is real when trust does not exist between them.
+While participating in *Reply All* threads over the years, I’ve learned the concept of a *directly responsible individual* who is accountable and owns a possible outcome. And when replying all, this can muddle who is directly responsible for the ask. And suppose the message is poignantly addressed to a particular person. In some business cultures, the receiver may find it combative, comical, or downright ignore the ask while having an *unfamiliar* audience watching them. The perception of resistance is real when trust does not exist between them.
 
 *Reply All* has the potential to ***scorch-the-earth***. For select email clients, it is a dangerous default function. I’ve seen it become the *nuclear button* when context-sensitive information was released to an unattended audience. While I won’t reveal the example to protect the innocent, exposure to sensitive information clearly destroyed trust through teams and leaders. The result: potential sales loss, team members distrust, and leadership perceived as evil. It had been inadvertently misused in a downright embarrassing way. Yikes.
 
@@ -49,6 +49,7 @@ Thanks to Steve Guyer and Danielle Arcuri
 #softwaredevelopment #softwareengineering #software #learning #career #relationships
 
 [url](https://medium.com/@solidi/reply-all-considered-harmful-f895beb5eabc)
+[linkedin](https://www.linkedin.com/pulse/reply-all-considered-harmful-douglas-w-arcuri/)
 
 ### Posted
 
