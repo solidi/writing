@@ -283,5 +283,6 @@ Thanks to Danielle Arcuri, Bryan Finck, and James Burns
 
 ## Posted
 
-r/nostalgia/
-r/jrpg/
+r/nostalgia/ - removed
+r/jrpg/ - removed
+r/snes/
