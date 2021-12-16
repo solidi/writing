@@ -85,9 +85,12 @@ Thanks to Danielle Arcuri and Matt Funk
 
 #BladesOfSteel #Nintendo #NES #RetroGaming #Gaming #NHL
 
+[url](https://medium.com/@solidi/blades-of-steel-is-the-greatest-hockey-video-game-of-all-time-9c6de5ab75ab)
+
 ## Posted
 
 hackernews
 r/nes/ - removed 
+r/gaming
 r/nhl/
 r/hockey/
