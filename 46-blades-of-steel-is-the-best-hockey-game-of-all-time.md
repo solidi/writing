@@ -91,6 +91,7 @@ Thanks to Danielle Arcuri and Matt Funk
 
 hackernews
 r/nes/ - removed 
-r/gaming
+r/gaming - accepted
+r/retrogames
 r/nhl/
 r/hockey/
