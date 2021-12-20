@@ -47,3 +47,7 @@
 1. [ ] Luddite
 1. [x] Exemplar
 1. [ ] Promulgate
+
+## Resource
+
+1. [How to Write Satire](https://hyoom.com/how-to-write-satire/)
