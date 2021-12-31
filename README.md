@@ -60,5 +60,5 @@ Experiences distilled through writing.
 1. [Reply All Considered Harmful](https://medium.com/@solidi/reply-all-considered-harmful-f895beb5eabc)
 1. [In Software, When an Engineer Exits the Team](https://medium.com/@solidi/in-software-when-an-engineer-exits-the-team-1e550303cff8)
 1. [How I Learned to Onboard Effectively in an Engineer Manager Role](https://itnext.io/how-i-learned-to-onboard-effectively-in-an-engineer-manager-role-8ea76627e36c)
-1. [Celebrating the experience of Secret of Mana on Super Nintendo](https://superjumpmagazine.com/secret-of-mana-an-oral-history-of-playing-the-jrpg-in-the-1990s-39029a28584f)
+1. [Secret of Mana: An Oral History of Playing the JRPG in the 1990s](https://superjumpmagazine.com/secret-of-mana-an-oral-history-of-playing-the-jrpg-in-the-1990s-39029a28584f)
 1. [Blades of Steel is the Greatest Hockey Video Game of All Time](https://medium.com/@solidi/blades-of-steel-is-the-greatest-hockey-video-game-of-all-time-9c6de5ab75ab)
