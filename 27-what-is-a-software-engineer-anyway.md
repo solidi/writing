@@ -42,6 +42,9 @@ What is a software engineer?
 - Strive for correctness and open to feedback
 - Know that code isn't their value
 
+[dev.to](https://dev.to/solidi/what-is-a-software-engineer-anyway-3fb2)
+[linkedin](https://www.linkedin.com/pulse/what-software-engineer-anyway-douglas-w-arcuri/)
+
 Alt: @TheBeginnerDev
 
 What are software engineers?

@@ -126,6 +126,7 @@ Alt Title: Explaining the context of change with a pull request template (2017)
 
 Thanks to Hazem Saleh, Mariusz Skierski, and Dan Leonardis. 
 
-https://medium.com/hackernoon/no-description-provided-8d9e0f3a3abb
+[medium](https://medium.com/hackernoon/no-description-provided-8d9e0f3a3abb)
+[linkedin](https://www.linkedin.com/pulse/description-provided-douglas-w-arcuri/)
 
 #softwaredevelopment #expertimenting #career #learning #career #productivity

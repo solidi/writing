@@ -52,7 +52,8 @@ My learning from my #software #interview experiences -
 - Every question is a chance to improve.
 - Keeping at it, no matter how tough it can be.
 
-https://medium.com/@solidi/the-one-about-software-engineering-interviewing-6f126e3a3171?sk=3a99e4a80b288bc0e0626535a3a4414a
+[medium](https://medium.com/@solidi/the-one-about-software-engineering-interviewing-6f126e3a3171?sk=3a99e4a80b288bc0e0626535a3a4414a)
+[linkedin](https://www.linkedin.com/pulse/one-software-engineering-interviewing-douglas-w-arcuri/)
 
 Thanks to Daniel Leonardis and Danielle Arcuri
 

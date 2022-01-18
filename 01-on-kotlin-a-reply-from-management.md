@@ -259,6 +259,7 @@ A #management reaction to #kotlin as a primary language in #android.
 
 Thanks to Hazem Saleh
 
-https://medium.com/@solidi/on-kotlin-a-reply-from-management-8f9220544c1d
+[medium](https://medium.com/@solidi/on-kotlin-a-reply-from-management-8f9220544c1d)
+[linkedin](https://www.linkedin.com/pulse/kotlin-reply-from-management-douglas-w-arcuri/)
 
 #softwaredevelopment #code #softwareengineering #software #google

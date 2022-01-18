@@ -22,3 +22,10 @@ It's quite hard to define the tech lead role in a short post. But, here it goes.
 **The team can blaze a path in the lead's absence.** Whereas the real drama happens in one's head, the pure emotion of the group occurs in front of the tech leads eyes. The lead follows through it and guides.
 
 **They lead with a myriad of soft skills jujitsu**. With the technical tact unmatched. And if it all goes wrong, no worries. There are [marketing opportunities](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw).
+
+---
+
+## Social Post
+
+[dev.to](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p)
+[linkedin](https://www.linkedin.com/pulse/what-tech-lead-anyway-douglas-w-arcuri/)

@@ -73,4 +73,7 @@ A walkthrough of working from home that is both productive and balanced -
 
 Thanks to my WFH guru, Danielle Arcuri, Len Santoro for the additional tips, and helping my father get set up, Douglas J. Arcuri.
 
+[dev.to](https://dev.to/solidi/do-great-at-working-remotely-1oh9)
+[linkedin](https://www.linkedin.com/pulse/do-great-working-remotely-douglas-w-arcuri/)
+
 #remotework #productivity #effectiveness #remoteproductivity #remoteteam

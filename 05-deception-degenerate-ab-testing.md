@@ -189,7 +189,8 @@ Alt title: 5 dark patterns of A/B testing (2017)
 
 Thanks to Hazem Saleh and Dan Leonardis.
 
-https://medium.com/hackernoon/deception-degenerate-a-b-testing-ecce6635000e
+[medium](https://medium.com/hackernoon/deception-degenerate-a-b-testing-ecce6635000e)
+[linkedin](https://www.linkedin.com/pulse/deception-degenerate-ab-testing-douglas-w-arcuri/)
 
 #engagement #learning #testing #analytics #ethics #softwaredevelopment
 

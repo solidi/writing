@@ -69,7 +69,8 @@ How do I #manage effectively?
 
 Thanks to Danielle Arcuri and Daniel Leonardis
 
-https://medium.com/hackernoon/the-manager-stew-dd59cd653728
+[medium](https://medium.com/hackernoon/the-manager-stew-dd59cd653728)
+[linkedin](https://www.linkedin.com/pulse/manager-stew-douglas-w-arcuri/)
 
 #leadership #management #performance #walking #SoftwareDevelopment
 

@@ -56,7 +56,8 @@ Alt title: Is software more like philosophical activity? (2019)
 
 Thanks to Hazem Saleh and Danielle Arcuri.
 
-https://medium.com/hackernoon/software-is-unlike-construction-c0284ee4b723
+[medium](https://medium.com/hackernoon/software-is-unlike-construction-c0284ee4b723)
+[linkedin](https://www.linkedin.com/pulse/software-development-unlike-construction-douglas-w-arcuri/)
 
 #softwaredevelopment #code #softwareengineering #learning #construction
 

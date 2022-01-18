@@ -185,6 +185,7 @@ Alt title: Is mixed reality in our code editors safe? (2017)
 
 Thanks to Hazem Saleh and Danny Preussler. 
 
-https://medium.com/free-code-camp/intellijs-serial-code-transformations-775fe7aa517c
+[medium](https://medium.com/free-code-camp/intellijs-serial-code-transformations-775fe7aa517c)
+[linkedin](https://www.linkedin.com/pulse/some-insights-intellijs-serial-code-transformations-douglas-w-arcuri/)
 
 #softwaredevelopment #code #softwareengineering #learning #ide #productivity

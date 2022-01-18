@@ -128,7 +128,8 @@ An in-depth look at how a #team met the challenge of documenting decisions by be
 
 Thanks to James Shvarts and Hazem Saleh
 
-https://medium.com/hackernoon/the-decision-hypothesis-aa512e0113
+[medium](https://medium.com/hackernoon/the-decision-hypothesis-aa512e0113)
+[linkedin](https://www.linkedin.com/pulse/decision-hypothesis-douglas-w-arcuri/)
 
 #softwaredevelopment #code #softwareengineering #learning #documents #productivity
 

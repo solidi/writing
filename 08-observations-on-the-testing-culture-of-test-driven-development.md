@@ -291,7 +291,8 @@ Alt: What is TDD and why it hasn't developed critical mass? (2018)
 
 Thanks to Hazem Saleh and Danny Preussler
 
-https://medium.com/free-code-camp/8-observations-on-test-driven-development-a9b5144f868
+[medium](https://medium.com/free-code-camp/8-observations-on-test-driven-development-a9b5144f868)
+[linkedin](https://www.linkedin.com/pulse/8-observations-test-driven-development-douglas-w-arcuri/)
 
 #softwaredevelopment #code #softwareengineering #software #career #learning #testing #productivity
 

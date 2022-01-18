@@ -62,3 +62,10 @@ As you are onboarding well, now is an excellent opportunity to build. Take owner
 ## Finally
 
 **Get in there and don't be afraid!** All the tips above require courage to take on. Each of these alone applied can be highly impactful. Be respectful and be bold! It's a journey and will take time. You will do great! 🎉 🙌
+
+---
+
+## Social Post
+
+[dev.to](https://dev.to/solidi/be-amazing-in-your-new-engineering-role-1klc)
+[linkedin](https://www.linkedin.com/pulse/amazing-your-new-engineering-role-douglas-w-arcuri/)

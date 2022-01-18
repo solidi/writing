@@ -41,6 +41,7 @@ What is a #principal #engineer anyway?
 
 Thanks to Len Santoro, Hazem Saleh, Danielle Arcuri, and Daniel Leonardis
 
-https://dev.to/solidi/what-is-a-principal-engineer-anyway-55n0
+[dev.to](https://dev.to/solidi/what-is-a-principal-engineer-anyway-55n0)
+[linkedin](https://www.linkedin.com/pulse/what-principal-engineer-anyway-douglas-w-arcuri/)
 
 #softwaredevelopment #code #softwareengineering #software #career #learning #career #productivity

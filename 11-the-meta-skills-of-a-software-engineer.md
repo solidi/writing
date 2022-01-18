@@ -76,7 +76,8 @@ Imho, #Software #engineers excel at pattern recognition and correctness.
 
 Thanks to Hazem Saleh and Danielle Arcuri
 
-https://medium.com/hackernoon/meta-skills-of-a-software-engineer-bed411f6685e
+[medium](https://medium.com/hackernoon/meta-skills-of-a-software-engineer-bed411f6685e)
+[linkedin](https://www.linkedin.com/pulse/meta-skills-software-engineer-douglas-w-arcuri/)
 
 #softwaredevelopment #code #softwareengineering #software #career #learning #career #productivity
 

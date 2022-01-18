@@ -45,6 +45,7 @@ What is a #staff #engineer anyway?
 Thanks to Hazem Saleh, Dan Leonardis, and Danielle Arcuri
 
 [url](https://dev.to/solidi/what-is-a-staff-engineer-anyway-4blj)
+[linkedin](https://www.linkedin.com/pulse/what-staff-engineer-anyway-douglas-w-arcuri/)
 
 #softwaredevelopment #code #softwareengineering #software #career #learning #career #productivity
 

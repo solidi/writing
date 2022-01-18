@@ -97,7 +97,8 @@ Learning a new #hobby and becoming better as an individual -
 - Finding mentors in these hobbies.
 - Hobbies are #interdependent exercises of personal mastery and require communication with others to improve.
 
-https://medium.com/the-innovation/cq-personal-mastery-through-hobbies-f25aab2e49ad
+[medium](https://medium.com/the-innovation/cq-personal-mastery-through-hobbies-f25aab2e49ad)
+[linkedin](https://www.linkedin.com/pulse/cq-personal-mastery-through-hobbies-douglas-w-arcuri/)
 
 Thanks to Hazem Saleh and Danielle Arcuri
 

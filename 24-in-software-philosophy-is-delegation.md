@@ -75,7 +75,8 @@ On how teams do their work in software:
 - Philosophies appear portable and repeatable.
 - Philosophy is a virtual foreperson and delegates in software engineering.
 
-https://levelup.gitconnected.com/in-software-philosophy-is-delegation-c786dd3a16cf
+[medium](https://levelup.gitconnected.com/in-software-philosophy-is-delegation-c786dd3a16cf)
+[linkedin](https://www.linkedin.com/pulse/software-philosophy-delegation-douglas-w-arcuri/)
 
 Thanks to Hazem Saleh
 

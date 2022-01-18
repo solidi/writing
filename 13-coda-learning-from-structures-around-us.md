@@ -44,7 +44,8 @@ An observation of unbalanced trees from our environment that exist in #software 
 
 Thanks to Danielle Arcuri and Hazem Saleh
 
-https://medium.com/hackernoon/coda-learning-from-structures-around-us-25052243e1a7
+[medium](https://medium.com/hackernoon/coda-learning-from-structures-around-us-25052243e1a7)
+[linkedin](https://www.linkedin.com/pulse/coda-learning-from-structures-around-us-douglas-w-arcuri/)
 
 #programming #computerscience #nature #electricity #SoftwareDevelopment #beauty
 

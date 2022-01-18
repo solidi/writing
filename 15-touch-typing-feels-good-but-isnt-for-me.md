@@ -110,6 +110,7 @@ Analysis of my own touch typing. Thanks to freeCodeCamp for picking this up! #ty
 Thanks to Hazem Saleh and Dan Leonardis
 
 [url](https://medium.com/free-code-camp/touch-typing-feels-good-but-isnt-for-me-2cfbafee2074)
+[linkedin](https://www.linkedin.com/pulse/touch-typing-feels-good-isnt-me-douglas-w-arcuri/)
 
 ### Posted
 

@@ -79,7 +79,8 @@ At intersection of motorcycling, programming, and trust of eventual automation o
 - Riding and programming cannot be mastered.
 - We must do more than look; we all must see and be seen.
 
-https://medium.com/hackernoon/the-zen-of-motorcycling-and-programming-620907dbab2c
+[medium](https://medium.com/hackernoon/the-zen-of-motorcycling-and-programming-620907dbab2c)
+[linkedin](https://www.linkedin.com/pulse/zen-motorcycling-programming-douglas-w-arcuri/)
 
 Thanks to Hazem Saleh, Alex Hart, and Danielle Arcuri
 

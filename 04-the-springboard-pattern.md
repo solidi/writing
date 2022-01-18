@@ -116,6 +116,7 @@ Alt title: How to organize and build features in isolation? (2017)
 
 Thanks to Shawn Carrillo, Alex Hart, and Hazem Saleh, and Konrad Stanik. 
 
-https://medium.com/hackernoon/the-springboard-pattern-340e00379404
+[medium](https://medium.com/hackernoon/the-springboard-pattern-340e00379404)
+[linkedin](https://www.linkedin.com/pulse/springboard-pattern-douglas-w-arcuri/)
 
 #softwaredevelopment #code #softwareengineering #learning #demos #productivity

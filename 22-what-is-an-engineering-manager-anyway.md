@@ -36,3 +36,10 @@ I've had the pleasure of being an engineering manager (EM) for five years. For E
 **With their decisions, fairness, and no surprises.** EMs make decisions that weigh options fairly. They communicate effectively by having 1-on-1s, staff meetings and are right there with the team. There are no surprises. 
 
 **And impact the lives of others.** What managers say has an impact on others. If done right, they see those grow, and in turn, see [themselves grow](https://www.atlassian.com/blog/leadership/new-manager-tips). Above all, they served the business well with their tenure.
+
+---
+
+## Social Post
+
+[dev.to](https://dev.to/solidi/what-is-an-engineering-manager-anyway-4and)
+[linkedin](https://www.linkedin.com/pulse/what-engineering-manager-anyway-douglas-w-arcuri/)
