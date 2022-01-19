@@ -1,7 +1,7 @@
 # Recognizing Remote Romantic Bibliophilia
 #watercooler, #career, #motivation, #books
 
-![One of my management bookshelves](images/37-01.jpeg)
+![One of my management bookshelves.](images/37-01.jpeg)
 
 Attractive book spines in the background of remote video calls are a source of joy to me. And on more than one occasion, I snap a quick photo, secretly loving their collection too—a pendant into the soul of this beautiful, well-read person. I want [to learn](https://medium.com/the-innovation/deconstructing-my-reading-habits-cef9e7d82bad?sk=622a30d66e361ceaab6943ebd6f9761c) with them.
 
@@ -17,17 +17,18 @@ Regrettably, my collection has not been well-read. I'm ashamed of it. I'm trying
 
 Regardless, my [book collection](https://github.com/solidi/learning-notes/blob/master/books/reading-list.md) will continue to grow like unabated technical debt. And all these beautiful book spines leave permanent imprints on my Amazon cart. Oh, and that book I saw on someone else's remote bookshelf yesterday? That's on its way... borne from the brief moments on Slack, Zoom, Teams, or the endless Webex news media interviews.
 
-I recognize that every book in my collection started from a conversation. But lately, I am suffering from a one-way conversation disorder. ***Remote romantic bibliophilia disorder***.
+I recognize that every book in my collection started from a conversation. But lately, I have been suffering from a one-way conversation disorder. ***Remote romantic bibliophilia disorder***.
 
 ---
 
 ## Social Post
 
-Do you recognize interesting book titles in the background of remote calls or the #news media? Unfortunately, I do. Here is to the love and commitment of #reading purposeful #books.
+Do you recognize interesting #book titles in the background of remote calls or the #news #media? Unfortunately, I do. Here is to the #love and commitment of #reading purposeful #books.
 
 Thanks to Danielle Arcuri and Steve Guyer
 
 [url](https://dev.to/solidi/recognizing-remote-romantic-bibliophilia-255f)
+[linkedin](https://www.linkedin.com/pulse/recognizing-remote-romantic-bibliophilia-douglas-w-arcuri/)
 
 #learning #career #growth
 
