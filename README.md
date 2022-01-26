@@ -62,3 +62,4 @@ Experiences distilled through writing.
 1. [How I Learned to Onboard Effectively in an Engineer Manager Role](https://itnext.io/how-i-learned-to-onboard-effectively-in-an-engineer-manager-role-8ea76627e36c)
 1. [Secret of Mana: An Oral History of Playing the JRPG in the 1990s](https://superjumpmagazine.com/secret-of-mana-an-oral-history-of-playing-the-jrpg-in-the-1990s-39029a28584f)
 1. [Blades of Steel is the Greatest Hockey Video Game of All Time](https://medium.com/@solidi/blades-of-steel-is-the-greatest-hockey-video-game-of-all-time-9c6de5ab75ab)
+1. [My Goal is to Ship](https://medium.com/@solidi/my-goal-is-to-ship-c772f63c278d)
