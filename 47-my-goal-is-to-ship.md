@@ -57,11 +57,9 @@ Here is to another twenty-five.
 
 ## Social Post
 
-My #goal is to ship, reflections of two decades in #software.
+Personal #wisdom and #reflections of two decades in #software #development. #Shipping has been my goal all along.
 
-Thanks to Danielle Arcuri and Steve Guyer for the support
-
-#shipping #delivery #wisdom #reflections
+Thanks to Danielle Arcuri and Steve Guyer
 
 [medium](https://medium.com/@solidi/my-goal-is-to-ship-c772f63c278d)
 
