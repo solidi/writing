@@ -39,13 +39,15 @@ Being "on" is a thrilling rush, but I no longer prescribe heroics. I understand 
 
 For products I've participated in, [a familiar observation has formed](https://medium.com/hackernoon/the-decision-hypothesis-aa512e0113). Projects break apart after they are delivered. A new process begins, measured by the magnitude of its intended impact. Finishing a new project will require months or years of searching for it, then when I find it, time invested until it's released.
 
-Preparing to deliver the next requires recharged personal momentum. I learned there is limited time, so when I ship, I must be diligent by [setting a date, prioritizing its list, and cutting scope](https://www.joelonsoftware.com/2002/04/09/picking-a-ship-date/). This process repeats with variable excitement in a never-ending cycle. My wisdom, as in naming familiar phenomena I'd discovered along this journey, makes it easier.
+## It’s a regular wash cycle
 
-### Here is to another twenty-five
+Preparing to deliver the next requires recharged personal momentum. I learned there is limited time, so when I ship, I must be diligent by [setting a date, prioritizing its list, and cutting scope](https://www.joelonsoftware.com/2002/04/09/picking-a-ship-date/). This process repeats with variable excitement in a never-ending cycle. My wisdom, as in naming familiar phenomena I'd discovered along this journey, makes it easier.
 
 There is a growing list of products I've contributed to in these twenty-five years. Many have shut down, and a rare few engaged by millions. What is certain after I left, a new team rewrote these popular products.
 
 Perhaps it's a regular wash cycle. I understand these releases inherently create a perpetual maintenance burden to serve a lack of engagement. For products that kept going, iterations of [teams dissolved into the ether](https://betterprogramming.pub/in-software-when-an-engineer-exits-the-team-1e550303cff8). All is not lost. I'll export the learnings to the next project. It's threading this needle and seeing the next through is what I valued most.
+
+### Here is to another twenty-five
 
 As I age, memories have formed from my first IRC login, traveling to offices, and recently joining [a Webex](https://dev.to/solidi/recognizing-remote-romantic-bibliophilia-255f), Discord, or whatever they choose. I desire to surround myself with dedicated people who contribute solutions to a beautiful conveyer of intractable problems. Not only because we will ship together, but because I'll learn so much from their creative thinking.
 
