@@ -128,6 +128,13 @@
     1. Carly Simon's coming around again
     1. Combing of the hair and reading books as the feedings happen
     1. No such thing as solispism
+1. What I learned writing for 5 years
+    1. Hacker news graphs
+    1. Finding rythym, once a month
+    1. Shouting in the void
+    1. Matured on topics
+    1. Became better at writing
+        1. Share blogging graph
 
 ## Updates
 
