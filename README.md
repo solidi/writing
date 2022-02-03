@@ -63,3 +63,30 @@ Experiences distilled through writing.
 1. [Secret of Mana: An Oral History of Playing the JRPG in the 1990s](https://superjumpmagazine.com/secret-of-mana-an-oral-history-of-playing-the-jrpg-in-the-1990s-39029a28584f)
 1. [Blades of Steel is the Greatest Hockey Video Game of All Time](https://medium.com/@solidi/blades-of-steel-is-the-greatest-hockey-video-game-of-all-time-9c6de5ab75ab)
 1. [My Goal is to Ship](https://medium.com/@solidi/my-goal-is-to-ship-c772f63c278d)
+
+## Major Engagements
+
+### In Software, When an Engineer Exits the Team
+
+1. [Hacker News Ranking](http://hnrankings.info/28692059/)
+1. [Hacker News Thread](https://news.ycombinator.com/item?id=28692059)
+1. [Reddit Thread](https://www.reddit.com/r/programming/comments/pxsq9l/when_an_engineer_exits_the_team/)
+
+### What is an Engineering Manager Anyway?
+
+1. [SWLW #380](https://softwareleadweekly.com/issues/380)
+
+### CQ: Personal Mastery Through Hobbies
+
+1. [Hacker News Ranking](http://hnrankings.info/18635362/)
+1. [Reddit Thread](https://www.reddit.com/r/amateurradio/comments/i72bwp/ham_radio_cq_personal_mastery_through_hobbies_2018/)
+1. [Hacker News Thread](https://news.ycombinator.com/item?id=18635362)
+
+### How I Learned to Onboard Effectively in an Engineer Manager Role
+
+1. [Level Up Newsletter #118](https://levelup.patkua.com/issues/level-up-issue-118-846716)
+
+### Touch-typing feels good but isn’t for me
+
+1. [Hacker News Ranking](http://hnrankings.info/19672434/)
+1. [Hacker News Thread](https://news.ycombinator.com/item?id=19672434)
