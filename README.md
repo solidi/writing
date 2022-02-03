@@ -90,3 +90,8 @@ Experiences distilled through writing.
 
 1. [Hacker News Ranking](http://hnrankings.info/19672434/)
 1. [Hacker News Thread](https://news.ycombinator.com/item?id=19672434)
+
+## Observations on the testing culture of Test Driven Development
+
+1. [Hacker News Ranking](http://hnrankings.info/17756835/)
+1. [Hacker News Thread](https://news.ycombinator.com/item?id=17756835)
