@@ -129,12 +129,15 @@
     1. Combing of the hair and reading books as the feedings happen
     1. No such thing as solispism
 1. What I learned writing for 5 years
+    1. Alt: Being on the front page of hacker news four times didn't change my life
+    1. But it such did teach me a few lessons
     1. Hacker news graphs
     1. Finding rythym, once a month
     1. Shouting in the void
     1. Matured on topics
     1. Became better at writing
         1. Share blogging graph
+    1. Getting involved in the times I wrote about
 
 ## Updates
 
