@@ -53,23 +53,6 @@
     - Janitorial services
     - People fire themselves
     - Deportation of engineers
-1. Remember SNES RPGs
-    - "An oral history of..."
-    - Intro, nostalgia, and watching long plays
-    - Use gifs to convey message from longplay videos
-    - Use screenshots of player guides sold
-        - And a screenshot of all games/boxes against the SNES
-    - Link
-    - Secret of Mana
-        - Gif of being banished from Potts
-    - FF III
-        - Gif of setzers airship at ending credits
-        - Gif of book turning the page
-    - Chrono Trigger
-    - Mentions
-        - Lufia II
-        - Secret of Evermore
-        - Mario RPG
 1. What is a Product Designer Anyway?
 1. Writing a short post of doing nothing all day.
 1. A short post on [all my career rejections](https://web.eecs.utk.edu/~azh/blog/allmyrejections.html)
@@ -128,16 +111,6 @@
     1. Carly Simon's coming around again
     1. Combing of the hair and reading books as the feedings happen
     1. No such thing as solispism
-1. What I learned writing for 5 years
-    1. Alt: Being on the front page of hacker news four times didn't change my life
-    1. But it such did teach me a few lessons
-    1. Hacker news graphs
-    1. Finding rythym, once a month
-    1. Shouting in the void
-    1. Matured on topics
-    1. Became better at writing
-        1. Share blogging graph
-    1. Getting involved in the times I wrote about
 
 ## Updates
 
@@ -167,8 +140,6 @@
     1. More prose, and less crispness
     1. Reviews are about value, not about averting disaster (it's happens regardless)
     1. Owning the pull request nudges
-1. The One About Blogging
-    1. Add url of the original post to the diagram
 1. In Software, When an Engineer Leaves the Team
     1. Include reasons for leaving: Money.
     1. Update comma: "and it’s a pivot for, now, this new team"
