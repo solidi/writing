@@ -114,9 +114,11 @@ All of my writing on Hacker News had that treatment. To invest in a conversation
 
 ## Social Post
 
-Want to place well on the front page of Hacker News? Read this, as I dig into some of my blog posts that reached the front page of Hacker News. I take a minute to create a few lists as to why for an inspiring writer.
+Want to place well on the front page of #hackernews? Please read this as I dig into some of my posts that reached the top. I take a minute to create a few checklists for an inspiring #writer.
 
 Thanks to Danielle Arcuri and Steve Guyer
+
+#writing #blogging #howto #reflection
 
 [medium](https://medium.com/@solidi/how-to-place-on-the-front-page-of-hacker-news-6f24a97a6dd5)
 
