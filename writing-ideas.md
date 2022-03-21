@@ -114,6 +114,7 @@
 1. A short on a writing to explain the feeling of being stuck in stalkyard/crossfire?
 1. A write about writing your last write up
     1. Set to a timer to publish later
+1. When I leave, all that's left my public writings
 
 ## Updates
 
