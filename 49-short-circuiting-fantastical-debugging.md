@@ -1,6 +1,8 @@
 # Short Circuiting Fantastical Debugging
 #watercooler, #beginners, #career, #debugging
 
+![](images/49-01.jpeg)
+
 Debugging things requires a level head. Problem-solving is an art of the *anti-freakout*. My problem is I dream of fantastical sources where the pain originates. It affects my problem-solving skills. I'll share a story of what I mean.
 
 ## Roaming Circuits
