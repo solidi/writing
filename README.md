@@ -64,6 +64,7 @@ Experiences distilled through writing.
 1. [Blades of Steel is the Greatest Hockey Video Game of All Time](https://medium.com/@solidi/blades-of-steel-is-the-greatest-hockey-video-game-of-all-time-9c6de5ab75ab)
 1. [My Goal is to Ship](https://medium.com/@solidi/my-goal-is-to-ship-c772f63c278d)
 1. [How to Place on the Front Page of Hacker News](https://medium.com/@solidi/how-to-place-on-the-front-page-of-hacker-news-6f24a97a6dd5)
+1. [Short Circuiting Fantastical Debugging](https://dev.to/solidi/short-circuiting-fantastical-debugging-ig3)
 
 ## Major Engagements
 
