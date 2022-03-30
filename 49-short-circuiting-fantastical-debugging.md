@@ -51,7 +51,7 @@ I've worked with these *splice boxes* in the past, both certified and not. In th
 
 A short story of how a simple #problem is mistaken for a large #complicated one. While it's easy for me to blow up a problem in my head, I must remind myself to believe in #Occam's razor!
 
-Thanks to Danielle Arcuri and my daugther.
+Thanks to Danielle Arcuri and my daughter.
 
 #watercooler #beginners #career #debugging
 
