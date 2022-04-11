@@ -693,3 +693,9 @@ Let’s turn around, there has to be more to see! :) Courtesy, Google.
 I really do appreciate this language and are eager to learn more. I look forward to better approaches as Kotlin may provide because the potential is very high. The tools, especially the IDE, are laid out to do it all better.
 Our teams will continue to learn and convert.
 Also, a shout out to Dmitry Jemerov and Svetlana Isakova on the authors of the book, Kotlin In Action. It was a pleasure.
+
+---
+
+## Social Post
+
+[medium](https://proandroiddev.com/on-kotlin-a-unit-test-conversion-guide-71e0597bb45d)

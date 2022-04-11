@@ -111,3 +111,9 @@ We all have a story about the whiteboard. I wanted to find how I could improve a
 Most of our craft is an applied science. Rarely, the gifted can tinker and tamper to invent new data structures or algorithms. Ours is one of a pattern language and a craft. It is rarely art, if ever. It has a lot to do with identifying the latest organization skill and ungluing and gluing things together very well, repeatedly. Perhaps with some tools out of the toolbox. But be careful of the tools of organization that are pushed on us by an exchange or by enthusiasm.
 
 Remember, there is pride in improving on top of code by way of organization and structure. I’ve written a few posts about organization and the subject linking organization to system complexity. There is a strong link. This is why I appreciated John’s and James’ thoughts deeply. They are organized messages without hurry up time expiration.
+
+---
+
+## Social Post
+
+[medium](https://medium.com/free-code-camp/how-to-organize-your-thoughts-on-the-whiteboard-and-crush-your-technical-interview-b668de4e6941)
