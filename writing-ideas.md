@@ -135,8 +135,6 @@
     1. Continue to build social relationships
 1. What is a Software Engineer Anyway?
     1. More valuable than just their code
-1. Deconstructing My Reading Habits
-    1. Add return on discovery (ROD)
 1. Building a Popular Half-Life Mod 
     1. Quote: "I was in a perpetual state of a creative high. Everyday I plotted my next tweak. When I hit a wall, I'd untangle a narly problem. This happened in my head as life went on around me."
 1. Be a Rockstar at Pull Requests

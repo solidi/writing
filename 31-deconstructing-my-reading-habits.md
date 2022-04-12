@@ -1,7 +1,7 @@
 # Deconstructing My Reading Habits
 ## Understanding my Purposeful Discipline for Knowledge
 
-Recently I had a conversation about my reading habits. Speaking through it, I realized the process I follow is *purposeful*. To better understand my motivations, I drew a diagram, similar to [how I blog](https://medium.com/@solidi/the-one-about-blogging-cd9e65a2055b). In this write, I will step through and highlight the essential parts. By sharing my thinking with others, it will memorialize my important goal.
+Recently I had a conversation about my reading habits. Speaking through it, I realized the process I follow is *purposeful*. To better understand my motivations, I drew a diagram, similar to [how I blog](https://medium.com/@solidi/the-one-about-blogging-cd9e65a2055b). In this write, I will step through and highlight the essential parts. Sharing my thinking with others, it will memorialize my important goal.
 
 ## My Inspiration for Reading Books Comes From Others
 
@@ -9,17 +9,17 @@ When I choose books to read, commitment sparks from a conversation with another 
 
 ![Part 1](images/31-01.png)
 
-There are many routes to how I discover books. I am radically open to recommendations, and in some instances, I openly ask others. Book recommendations are also sourced from *asynchronous mentorship* — listening carefully to podcasts, YouTube, or crawling Amazon adjacent book recommendation lists.
+There are many routes to how I discover books. I am radically open to recommendations, and in some instances, I openly ask others. Book recommendations are also sourced from *asynchronous mentorship* — listening carefully to podcasts, YouTube, or crawling Amazon adjacent book recommendation lists.  If the recommendation is *timely* and has a heighted *return on discovery*, I will commit to reading the book.
 
 ## My Idling Time is Where Most Reading Occurs
 
-My reading habits are sporadic. Most reading occurs in a gap of time where I am sitting or idling. Scheduling this time is usually not sustainable. The most crucial point is that I am reading at least a few pages a day, even if it’s not chunked (such as reading one full chapter in a sitting). The books are usually with me, and I prefer the physical book over a digital format to keep focused.
+My reading habits are sporadic. Most reading occurs in a gap of time when I am sitting or idling. Scheduling this time is usually not sustainable. The most crucial point is that I am reading at least a few pages a day, even if it’s not chunked (such as reading one full chapter in a sitting). The books are usually with me, and I prefer the physical book over a digital format to keep focused.
 
 ![Part 2](images/31-02.png)
 
 # When Reading, I Note What is Interesting
 
-I do not entirely understand my “interesting” scale, but I know how they appear in the text. These artifacts are impactful quotes, an interesting idea, or applied application. Things that are **terse and succinct** positively engage me. I thought about this one for a while where interest originated and gave up noting the values, morals, and beliefs of my upbringing, culture, and experiences. From a skillset point of view, my “interesting” are points of detail, procession, and novel application methods.
+I do not entirely understand my “interesting” scale, but I know how they appear in the text. These artifacts are impactful quotes, interesting ideas, or applied applications. Things that are **terse and succinct** positively engage me. I thought about this one for a while where interest originated and gave up noting the values, morals, and beliefs of my upbringing, culture, and experiences. From a skillset point of view, my “interesting” are points of detail, procession, and novel application methods.
 
 ![Part 3](images/31-03.png)
 
@@ -49,17 +49,17 @@ My future goal has become apparent. The books I’ve been reading over the years
 
 ![Part 7](images/31-07.png)
 
-As I noted in the diagram above, *100x posts* is a critical concept. By writing enough and receiving feedback will guide me to achieve the goal. The format will likely be essay-based — exploring *concepts* to a narrative arc.
+As I noted in the diagram above, *100x posts* is a critical concept. Writing enough and receiving feedback will guide me to achieve the goal. The format will likely be essay-based — exploring *concepts* to a narrative arc.
 
 ## Conclusion
 
-Reading books has become a delightful process of learning and writing what is interesting in my own experience. After reading the article, *[How to Read Fewer Books](https://www.theschooloflife.com/thebookoflife/how-to-read-fewer-books/)*, I’m discovering my eventual goal in reading books. My approach is not rigorous. It is **constant and continuous**. The core parts of it are sourcing, consumption, and continue to improve *my meta reading machine*. While I do not remember everything that I read — ideas, thoughts, and previous readings become unlocked in conversation. I experience Ralph Waldo Emerson’s quote:
+Reading books has become a delightful process of learning and writing what is interesting in my own experience. After reading the article, *[How to Read Fewer Books](https://www.theschooloflife.com/thebookoflife/how-to-read-fewer-books/)*, I’m discovering my eventual goal in reading books. My approach is not rigorous. It is **constant and continuous**. The core parts of it are sourcing, consumption, and continuing to improve *my meta reading machine*. While I do not remember everything that I read — ideas, thoughts, and previous readings become unlocked in conversation. I experience Ralph Waldo Emerson’s quote:
 
 > I cannot remember the books I’ve read any more than the meals I have eaten; even so, they have made me.
 
 ![My current process in which I read and consume books.](images/31-08.png)
 
-My motivation to read is to gain a purposeful skillset to give back content in multiple synthesized forms — a creative exhaust. Your reasons may be very different than mine. What works for you?
+My motivation to read is to gain a purposeful skillset to give back content in multiple synthesized forms — a creative exhaust. Your reasons may be very different from mine. What works for you?
 
 ---
 
@@ -79,7 +79,8 @@ Danielle Arcuri, Hazem Saleh, Steve Guyer, Dan Leonardis, and others for editing
 
 Special appreciation to Manoj Thopcherneni, John Pavely, and Sang Lee for guiding me on the journey of reading, #purposefully.
 
-https://medium.com/the-innovation/deconstructing-my-reading-habits-cef9e7d82bad
+[medium](https://medium.com/the-innovation/deconstructing-my-reading-habits-cef9e7d82bad)
+[linkedin](https://www.linkedin.com/pulse/deconstructing-my-reading-habits-douglas-w-arcuri)
 
 #reading #process #improvement #learning #career #productivity
 
