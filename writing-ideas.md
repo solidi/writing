@@ -115,6 +115,17 @@
 1. A write about writing your last write up
     1. Set to a timer to publish later
 1. When I leave, all that's left my public writings
+1. Forever Project Traits (You may have a forever project)
+    1. Goes on for years
+    1. Nostalgic
+    1. Bubbling excitment
+    1. Pauses and rediscovery
+    1. Different groups of people over time
+    1. Never gets old
+    1. May have the ability to be popular
+    1. Challenges at all levels
+    1. Not attached to a company or job
+    1. Attracts others
 
 ## Updates
 
