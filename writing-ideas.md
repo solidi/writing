@@ -126,6 +126,8 @@
     1. Challenges at all levels
     1. Not attached to a company or job
     1. Attracts others
+1. Turn down the blinds, shut off the apps
+    1. When thing are selected to sunset
 
 ## Updates
 
