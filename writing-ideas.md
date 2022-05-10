@@ -128,6 +128,7 @@
     1. Attracts others
 1. Turn down the blinds, shut off the apps
     1. When thing are selected to sunset
+1. I do laundry during system demos
 
 ## Updates
 
