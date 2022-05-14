@@ -1,4 +1,5 @@
 # Five More Minutes
+#watercooler, #beginners, #career, #management
 
 ![Photo by Dave Sherrill on Unsplash](images/50-01.jpeg)
 
