@@ -88,11 +88,6 @@
     - Hobbies
     - Therapy
     - Use [this graphic](https://github.com/solidi?tab=overview&from=2012-12-01&to=2012-12-31) as the intro.
-1. Debugging things
-    1. Occam's razor
-    1. Recency
-    1. Its probably a config problem
-    1. Its less likely an external dependency problem
 1. Small sayings while remote
     1. it looks like your battery is going to die
 1. Paternity Leave - a short on its celebration
@@ -114,18 +109,7 @@
 1. A short on a writing to explain the feeling of being stuck in stalkyard/crossfire?
 1. A write about writing your last write up
     1. Set to a timer to publish later
-1. When I leave, all that's left my public writings
-1. Forever Project Traits (You may have a forever project)
-    1. Goes on for years
-    1. Nostalgic
-    1. Bubbling excitment
-    1. Pauses and rediscovery
-    1. Different groups of people over time
-    1. Never gets old
-    1. May have the ability to be popular
-    1. Challenges at all levels
-    1. Not attached to a company or job
-    1. Attracts others
+1. When I leave, all that's left are my public writings
 1. Turn down the blinds, shut off the apps
     1. When thing are selected to sunset
 1. I do laundry during system demos

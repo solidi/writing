@@ -41,6 +41,7 @@
 1. "Active voice" filter - walk write and flip verbs -> nouns to nouns -> verbs
 1. Scan for Escher sentences - Example: "More people been to Berlin than have I."
 1. Scan for tautologies - Example: "Your best bet is to make the right choice."
+1. Look for incomplete thoughts, how sentences may not resolve, how paragraphs are muddled.
 
 ## Interesting Vocabulary 
 
