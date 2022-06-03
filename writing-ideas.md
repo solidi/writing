@@ -122,6 +122,7 @@
     1. doing nothing, letting it come back
     1. tossing over the remaining piece to the owner
     1. Sometimes letting the machine work
+    1. Accidental forcing function?
 
 ## Updates
 
