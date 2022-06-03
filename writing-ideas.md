@@ -113,6 +113,15 @@
 1. Turn down the blinds, shut off the apps
     1. When thing are selected to sunset
 1. I do laundry during system demos
+1. The answer will come in time
+    1. team-service slow downs, and then magic happened
+1. Catching the end of a sunset
+    1. Diddy on shutting down the last proxies
+    1. odd things happen with good intentions
+    1. optionality: many ways to solve a problem
+    1. doing nothing, letting it come back
+    1. tossing over the remaining piece to the owner
+    1. Sometimes letting the machine work
 
 ## Updates
 
