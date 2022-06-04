@@ -75,6 +75,7 @@ Experiences distilled through writing.
 1. [Hacker News Ranking](http://hnrankings.info/28692059/)
 1. [Hacker News Thread](https://news.ycombinator.com/item?id=28692059)
 1. [Reddit Thread](https://www.reddit.com/r/programming/comments/pxsq9l/when_an_engineer_exits_the_team/)
+1. [Pointer.io Issue #256](https://www.pointer.io/archives/b909760c19/)
 
 ### What is an Engineering Manager Anyway?
 
