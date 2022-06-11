@@ -25,6 +25,7 @@
 1. Mainly
 1. May
 1. Can
+1. Try
 
 ## Banned Phrasings
 
