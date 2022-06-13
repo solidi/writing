@@ -116,6 +116,7 @@
     1. When thing are selected to sunset
     1. letting go of the bunny
     1. everyone once and a while things come around that are beautiful
+    1. searching meaning
 1. I do laundry during system demos
 1. The answer will come in time
     1. team-service slow downs, and then magic happened
