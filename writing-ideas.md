@@ -111,7 +111,10 @@
     1. Set to a timer to publish later
 1. When I leave, all that's left are my public writings
 1. Turn down the blinds, shut off the apps
+    1. Writing is capturing a feeling, the magic
+    1. Bluey: [sleepytime](https://vimeo.com/495639713)
     1. When thing are selected to sunset
+    1. letting go of the bunny
 1. I do laundry during system demos
 1. The answer will come in time
     1. team-service slow downs, and then magic happened
