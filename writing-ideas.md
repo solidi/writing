@@ -128,6 +128,13 @@
     1. tossing over the remaining piece to the owner
     1. Sometimes letting the machine work
     1. Accidental forcing function?
+1. Dumb shit apps do in the 21st century
+    1. (Efficiency) Maps may take me home in a least efficient way
+    1. (Context) Voice still doesnt understand that my kids are listening
+    1. (Courtsey) Throwing up old memory photos of my ex girlfriends to my wife
+    1. (Courtsey) Text app shows private [notifications while sharing](https://twitter.com/dougarcuri/status/1300474757935235072)
+    1. (Accuracy) Declared time away messages expire automatically - dont become stale
+
 
 ## Updates
 
