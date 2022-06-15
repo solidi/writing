@@ -134,7 +134,8 @@
     1. (Courtsey) Throwing up old memory photos of my ex girlfriends to my wife
     1. (Courtsey) Text app shows private [notifications while sharing](https://twitter.com/dougarcuri/status/1300474757935235072)
     1. (Accuracy) Declared time away messages expire automatically - dont become stale
-
+    1. Friend request for someone who passed away
+    1. Flower recommendations for a breakup
 
 ## Updates
 
