@@ -26,6 +26,7 @@
 1. May
 1. Can
 1. Try
+1. Still
 
 ## Banned Phrasings
 
