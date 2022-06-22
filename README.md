@@ -101,3 +101,8 @@ Experiences distilled through writing.
 
 1. [Hacker News Ranking](http://hnrankings.info/17756835/)
 1. [Hacker News Thread](https://news.ycombinator.com/item?id=17756835)
+
+### Apps doing Sh*t
+
+1. [Hacker News Ranking](https://hnrankings.info/31834519/)
+1. [Hacker News Thread](https://news.ycombinator.com/item?id=31834519)
