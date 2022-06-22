@@ -67,6 +67,7 @@ Experiences distilled through writing.
 1. [Short Circuiting Fantastical Debugging](https://dev.to/solidi/short-circuiting-fantastical-debugging-ig3)
 1. [Five More Minutes](https://dev.to/solidi/five-more-minutes-5b7d)
 1. [Do You Have a Forever Project?](https://dev.to/solidi/do-you-have-a-forever-project-kpk)
+1. [Apps doing Sh*t](https://medium.com/@solidi/apps-doing-sh-t-f5ffa72140db)
 
 ## Major Engagements
 

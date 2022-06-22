@@ -128,14 +128,6 @@
     1. tossing over the remaining piece to the owner
     1. Sometimes letting the machine work
     1. Accidental forcing function?
-1. Dumb shit apps do in the 21st century
-    1. (Efficiency) Maps may take me home in a least efficient way
-    1. (Context) Voice still doesnt understand that my kids are listening
-    1. (Courtsey) Throwing up old memory photos of my ex girlfriends to my wife
-    1. (Courtsey) Text app shows private [notifications while sharing](https://twitter.com/dougarcuri/status/1300474757935235072)
-    1. (Accuracy) Declared time away messages expire automatically - dont become stale
-    1. Friend request for someone who passed away
-    1. Flower recommendations for a breakup
 
 ## Updates
 
@@ -173,6 +165,9 @@
     1. Reply all is also a tool for folks to get visibility, which can be annoying for those who have no action item or shared context with the message - Manoj Sharma
 1. Deception: Degenerate A/B Testing
     1. [Green checkmarks](https://twitter.com/PreusslerBerlin/status/1513499737311358985) next to failed or blocked transactions. - Danny Preussler
+1. Apps doing sh*t
+    1. Flower recommendations for a breakup
+    1. Home address misplaced
 
 ## What is a _____ Anyway?
 
