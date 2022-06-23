@@ -37,7 +37,7 @@ What have *you* experienced?
 
 ## Social Post
 
-Sometimes my #consumer #app #experiences are working well, maybe too well. In this write, I share spectacular moments when apps are doing sh*t to me. Have they done the same to you?
+Sometimes my #consumer #app #experiences are working well, maybe too well. In this write, I share spectacular moments when apps have #failed me beautifully. Have they done the same to you?
 
 Thanks to Danielle Arcuri, Colby Stone, John Revano, James Shvarts, and Steve Guyer
 
