@@ -40,9 +40,11 @@ How I behave on vacations has a reflective property within the team. Whatever I 
 
 ## Social Post
 
-At times, enjoying what I do interfers with unwinding from my #career. In this post, I share my 10 #self-care #tips on how I take a #great #vacation.
+At times, enjoying what I do interferes with unwinding from #work. In this post, I share my 10 #self-#care #tips on how I take a #great #vacation.
 
 Thanks to Danielle Arcuri and Steve Guyer
+
+https://dev.to/solidi/10-self-care-tips-for-a-great-vacation-2jgp
 
 ### Posted
 
