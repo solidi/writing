@@ -18,13 +18,6 @@
     - That conversation
 1. Investors, destroyers, and culture.
 1. Hitting the wall on aglos, and weird land of conditionals getting the tests to pass.
-1. What I Learned about Vacations
-    - 3 days to decompress, 3 weeks to disconnect
-    - taking on one meeting may ruin the vacation
-    - managers that support vacationing typically do not see repriocation
-    - what you do is reflected on others behaviors
-    - best creative thinking happens
-    - taking on one email may also ruin vacation
 1. Five Questions
     - What are we optimizing for?
     - What problem are we trying to solve?
