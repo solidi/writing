@@ -121,6 +121,13 @@
     1. tossing over the remaining piece to the owner
     1. Sometimes letting the machine work
     1. Accidental forcing function?
+1. Making memories or making content?
+    1. Thought about making in a time of having young kids
+    1. At adventureland
+1. Stagnating technology
+    1. Is this the best we are going to get?
+    1. Things are going backward
+    1. No technological advances for 15 years
 
 ## Updates
 
