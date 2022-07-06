@@ -128,6 +128,7 @@
     1. Is this the best we are going to get?
     1. Things are going backward
     1. No technological advances for 15 years
+    1. Driverless cars, and charging
 
 ## Updates
 
@@ -169,6 +170,8 @@
 1. Apps doing sh*t
     1. Flower recommendations for a breakup
     1. Home address misplaced
+1. How to Place on the Front Page of Hacker News
+    1. Add "Angle of Attack" on how to write something
 
 ## What is a _____ Anyway?
 
