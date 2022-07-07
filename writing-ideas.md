@@ -124,11 +124,14 @@
 1. Making memories or making content?
     1. Thought about making in a time of having young kids
     1. At adventureland
-1. Stagnating technology
+1. The Great Technological Stagnation: 2022 edition
     1. Is this the best we are going to get?
     1. Things are going backward
     1. No technological advances for 15 years
     1. Driverless cars, and charging
+    1. VR/AR has failed
+    1. Git and kubernetes forever
+    1. If we ever get to mars
 
 ## Updates
 
