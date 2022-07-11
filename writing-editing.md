@@ -40,6 +40,7 @@
 1. "Screenreader" filter - use a screenreader and adjust to taste, eliminating awkardness
 1. "And" filter - walk write to convert "and" into "ing" or eliminate the conjuction completely
 1. "Can" filter - walk write to eliminate "can" completely
+1. "ly" filter - walk write to eliminate advrbs and modifiers that fill the writing without substance
 1. "Active voice" filter - walk write and flip verbs -> nouns to nouns -> verbs
 1. Scan for Escher sentences - Example: "More people been to Berlin than have I."
 1. Scan for tautologies - Example: "Your best bet is to make the right choice."
