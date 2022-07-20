@@ -69,6 +69,7 @@ Experiences distilled through writing.
 1. [Do You Have a Forever Project?](https://dev.to/solidi/do-you-have-a-forever-project-kpk)
 1. [Apps doing Sh*t](https://medium.com/@solidi/apps-doing-sh-t-f5ffa72140db)
 1. [10 Self-Care Tips for a Great Vacation](https://dev.to/solidi/10-self-care-tips-for-a-great-vacation-2jgp)
+1. [Cancel This App Update, Dammit!](https://dev.to/solidi/cancel-this-app-update-dammit-5f6j)
 
 ## Major Engagements
 
