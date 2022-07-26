@@ -37,7 +37,7 @@ But we all can't be astronauts. After all my anxiety clicks and Crtl+C's, my VPN
 
 On another #anniversary of the #moon landing, I'm late to another virtual meeting. Here is my short #rant on broken #user #experiences on #software #app #updates. Enjoy!
 
-Thanks to Joe Dimartino, Danielle Arcuri, Pratik Dhiman, Steve Guyer, and Matt Funk
+Thanks to Joe Dimartino, Danielle Arcuri, Pratik Dhiman, Steve Guyer, Douglas J Arcuri, and Matt Funk
 
 https://dev.to/solidi/cancel-this-app-update-dammit-5f6j
 

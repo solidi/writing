@@ -45,7 +45,7 @@ My goal is to treat someone well on their first as well as their last. I want th
 
 My personal reflections and perspective on when a team member leaves the team for a new opportunity.
 
-Special thanks to the many people that gave feedback - Danielle Arcuri, József Pallagi, Steve Guyer, Kamal Shaham, and others.
+Special thanks to the many people that gave feedback - Danielle Arcuri, József Pallagi, Steve Guyer, Kamal Shaham, Douglas J Arcuri, and others.
 
 #softwaredevelopment #softwareengineering #software #learning #career #relationships #mangement #people
 
