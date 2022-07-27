@@ -132,6 +132,8 @@
     1. VR/AR has failed
     1. Git and kubernetes forever
     1. If we ever get to mars
+1. Some small "historical" write up that goes deep but at the same time enlightening
+    1. Example is [The History of 'Ampersand'](https://www.merriam-webster.com/words-at-play/the-history-of-ampersand)
 
 ## Updates
 
