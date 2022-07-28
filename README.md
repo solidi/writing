@@ -70,6 +70,7 @@ Experiences distilled through writing.
 1. [Apps doing Sh*t](https://medium.com/@solidi/apps-doing-sh-t-f5ffa72140db)
 1. [10 Self-Care Tips for a Great Vacation](https://dev.to/solidi/10-self-care-tips-for-a-great-vacation-2jgp)
 1. [Cancel This App Update, Dammit!](https://dev.to/solidi/cancel-this-app-update-dammit-5f6j)
+1. [What's in a Career Promotion?](https://medium.com/@solidi/whats-in-a-career-promotion-9f99df29c1c)
 
 ## Major Engagements
 
