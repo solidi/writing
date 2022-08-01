@@ -177,6 +177,7 @@
     1. Home address misplaced
 1. How to Place on the Front Page of Hacker News
     1. Add "Angle of Attack" on how to write something
+    1. Appeal to readers by telling them [how something complicated works](https://twitter.com/paulg/status/1553708274465140736)
 
 ## What is a _____ Anyway?
 
