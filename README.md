@@ -71,6 +71,7 @@ Experiences distilled through writing.
 1. [10 Self-Care Tips for a Great Vacation](https://dev.to/solidi/10-self-care-tips-for-a-great-vacation-2jgp)
 1. [Cancel This App Update, Dammit!](https://dev.to/solidi/cancel-this-app-update-dammit-5f6j)
 1. [What's in a Career Promotion?](https://medium.com/@solidi/whats-in-a-career-promotion-9f99df29c1c)
+1. [Driven to Opitimize for Nice](https://medium.com/@solidi/driven-to-optimize-for-nice-39a3f2a796a0?sk=048248c06fdb2d210a545a9a5c84c821)
 
 ## Major Engagements
 
