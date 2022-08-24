@@ -60,7 +60,7 @@ If this indicates human resistance ahead, there is a continued price to privileg
 
 I savor the idea of not having to drive. But then again, I've had years of driving experience. I am content to hang up my shoes, telling stories to younger humans of how I earned my road rash battle scars. Living to tell tails of [low-siding](https://en.wikipedia.org/wiki/Lowsider) motorcycles, getting [t-boned](https://en.wikipedia.org/wiki/Side_collision) more than once, and having dreams of being covered in shattered glass as my mother screamed my full legal name seems pedestrian in my culture. The young ones will want to experience it too when we say "No" to their brilliant [Red Barchetta](https://en.wikipedia.org/wiki/Red_Barchetta) from a better vanished time.
 
-> Once the robots are out on the road in numbers, humans have a distinct way of learning patterns of behaviors. When incentives are understood, would it be legal for us to "game" the AI to obtain travel preference? Not everyone is orderly.
+> Once the robots are out on the road in numbers, humans have a distinct way of learning patterns of behaviors. When incentives are understood, would it be legal for us to "game" the AI to obtain travel preference? Not everyone is [lawful good](https://en.wikipedia.org/wiki/Alignment_(Dungeons_%26_Dragons)#Lawful_good).
 
 But to have robots driving and humans taking a back seat is not in the purview of the lexicon in this area of the world.
 
