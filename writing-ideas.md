@@ -98,6 +98,7 @@
     1. The paraphernalia of it all
     1. Carly Simon's coming around again
     1. Combing of the hair and reading books as the feedings happen
+    1. Feeling comfort in embrace
     1. No such thing as solispism
 1. A short on a writing to explain the feeling of being stuck in stalkyard/crossfire?
 1. A write about writing your last write up
@@ -179,6 +180,8 @@
 1. How to Place on the Front Page of Hacker News
     1. Add "Angle of Attack" on how to write something
     1. Appeal to readers by telling them [how something complicated works](https://twitter.com/paulg/status/1553708274465140736)
+1. What Made Goldeneye 007 Great?
+    1. Add "arcade feel" to the bullet about multiplayer
 
 ## What is a _____ Anyway?
 
