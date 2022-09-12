@@ -27,7 +27,9 @@
 1. Can
 1. Try
 1. Still
-1. Like
+1. Like / Likely
+1. Probably
+1. Typically
 
 ## Banned Phrasings
 
