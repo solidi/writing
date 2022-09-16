@@ -1,5 +1,6 @@
 # The Things Said From a Distance
 ## Quoting the Echo Effect.
+#Team #Pyschology #Communication #Remote #Collabrotation
 
 ![Photo by krakenimages on Unsplash](images/58-01.jpeg)
 
@@ -45,6 +46,8 @@ What have you or someone said in a video conference recently? Do they have a spe
 
 ## Social Post
 
-I've #reflecting on the words I say to the #team, #remotely. #Learning about the #echo effect made me realize what I say. What have you said on a #video #conference recently? Do they have a specific #meaning? #selflearning #culture
+I recently learned about the #echo #effect. #Reflecting on the words I say to the #team, #remotely, made me discover what I mean.
+
+What have you said on a #video #conference recently? Do they have a specific #meaning? #selflearning #culture
 
 [url](https://solidi.ghost.io/the-things-said-say-from-a-distance/)
