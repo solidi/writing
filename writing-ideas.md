@@ -81,17 +81,6 @@
     - Hobbies
     - Therapy
     - Use [this graphic](https://github.com/solidi?tab=overview&from=2012-12-01&to=2012-12-31) as the intro.
-1. Small sayings while remote
-    1. it looks like your battery is going to die - take some self care
-    1. let me make a coffee - i want to talk to you, really
-    1. more jokes during a meeting - i miss social contact, sitting at the dining table for years
-    1. ill follow through with it - yeah, i mean that
-    1. Can you see my screen? - a good opportunity to turn the language around
-    1. ill give you back negative minutes - i spoke too long, sorry
-    1. wait until we have a quorum - sigh, people are running late
-    1. i lost my connection - more than the internet, i needed a five minute break, anyway
-    1. gotta run - my calendar is overflowing, sorry
-    1. "..." - they are busy with other priorities. relax, its gonna be okay.
 1. Paternity Leave - a short on its celebration
     1. Hard parts of the night time bottles
     1. The neogitation of the night time shifts
@@ -144,6 +133,15 @@
     1. If we ever get to mars
 1. Some small "historical" write up that goes deep but at the same time enlightening
     1. Example is [The History of 'Ampersand'](https://www.merriam-webster.com/words-at-play/the-history-of-ampersand)
+1. The Honest Truth About Remote Work
+    1. Wrap it around the story of walking in Brooklyn
+    1. Seeking relationships outside the home
+    1. Distillation of all work
+    1. Knowlegde workings really live in their heads
+    1. Contra to the work ethic instilled in me
+    1. What does it mean to work
+    1. Seeking and being with humans is important, no matter how akward you are
+    1. Tradeoffs, all tradeoffs
 
 ## Updates
 
