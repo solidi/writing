@@ -133,7 +133,8 @@
     1. If we ever get to mars
 1. Some small "historical" write up that goes deep but at the same time enlightening
     1. Example is [The History of 'Ampersand'](https://www.merriam-webster.com/words-at-play/the-history-of-ampersand)
-1. The Honest Truth About Remote Work
+1. Memoirs of Remote Work
+    1. Ping-pong between the trip and the thinking
     1. Wrap it around the story of walking in Brooklyn
     1. Seeking relationships outside the home
     1. Distillation of all work
@@ -142,6 +143,9 @@
     1. What does it mean to work
     1. Seeking and being with humans is important, no matter how akward you are
     1. Tradeoffs, all tradeoffs
+    1. More time to do other things at the same speed of work
+    1. Even others who came back, realized more social events are needed
+    1. The world you were born into no longer exists
 
 ## Updates
 
