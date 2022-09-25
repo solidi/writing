@@ -188,6 +188,7 @@
     1. Flower recommendations for a breakup
     1. Home address misplaced
     1. Assistant jumping in on conversation when it should not
+    1. Apple maps directing us to a renaissance faire, but officals blocked road. 1.5+ more hours.
 1. How to Place on the Front Page of Hacker News
     1. Add "Angle of Attack" on how to write something
     1. Appeal to readers by telling them [how something complicated works](https://twitter.com/paulg/status/1553708274465140736)
