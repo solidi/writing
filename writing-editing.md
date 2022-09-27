@@ -30,6 +30,7 @@
 1. Like / Likely
 1. Probably
 1. Typically
+1. Thought
 
 ## Banned Phrasings
 
