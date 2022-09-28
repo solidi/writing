@@ -74,6 +74,7 @@ Experiences distilled through writing.
 1. [Driven to Opitimize for Nice](https://medium.com/@solidi/driven-to-optimize-for-nice-39a3f2a796a0?sk=048248c06fdb2d210a545a9a5c84c821)
 1. [What Made Goldeneye 007 Great?](https://solidi.substack.com/p/what-made-goldeneye-007-great)
 1. [The Things Said From a Distance](https://solidi.ghost.io/the-things-said-say-from-a-distance/)
+1. [The World I Worked Into No Longer Exists](https://medium.com/@solidi/the-world-i-worked-into-no-longer-exists-732659963058)
 
 ## Major Engagements
 
