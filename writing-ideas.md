@@ -50,7 +50,6 @@
 1. Writing a short post of doing nothing all day.
 1. A short post on [all my career rejections](https://web.eecs.utk.edu/~azh/blog/allmyrejections.html)
     - Enforce the learnings of growth
-1. A short story about meeting the team once it happens post pandemic
 1. A short story of emoji :eyes:
     - Increase size on each iteration
     - Eyes facing eyes
@@ -133,19 +132,6 @@
     1. If we ever get to mars
 1. Some small "historical" write up that goes deep but at the same time enlightening
     1. Example is [The History of 'Ampersand'](https://www.merriam-webster.com/words-at-play/the-history-of-ampersand)
-1. Memoirs of Remote Work
-    1. Ping-pong between the trip and the thinking
-    1. Wrap it around the story of walking in Brooklyn
-    1. Seeking relationships outside the home
-    1. Distillation of all work
-    1. Knowlegde workings really live in their heads
-    1. Contra to the work ethic instilled in me
-    1. What does it mean to work
-    1. Seeking and being with humans is important, no matter how akward you are
-    1. Tradeoffs, all tradeoffs
-    1. More time to do other things at the same speed of work
-    1. Even others who came back, realized more social events are needed
-    1. The world you were born into no longer exists
 
 ## Updates
 
