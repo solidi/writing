@@ -109,6 +109,7 @@
     1. everyone once and a while things come around that are beautiful
     1. searching meaning
 1. I do laundry during system demos
+    1. [Showering has thinking benefits](https://studyfinds.org/shower-thoughts-great-ideas/)
 1. The answer will come in time
     1. team-service slow downs, and then magic happened
 1. Catching the end of a sunset
