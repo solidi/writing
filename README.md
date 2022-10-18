@@ -75,6 +75,7 @@ Experiences distilled through writing.
 1. [What Made Goldeneye 007 Great?](https://solidi.substack.com/p/what-made-goldeneye-007-great)
 1. [The Things Said From a Distance](https://solidi.ghost.io/the-things-said-say-from-a-distance/)
 1. [The World I Worked Into No Longer Exists](https://medium.com/@solidi/the-world-i-worked-into-no-longer-exists-732659963058)
+1. [Semver is Dead. Long live Semver!](https://dev.to/solidi/semver-is-dead-long-live-semver-4lh4)
 
 ## Major Engagements
 
