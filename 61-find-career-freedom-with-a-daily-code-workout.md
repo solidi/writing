@@ -57,10 +57,10 @@ There is a certain satisfaction to these exercises. Why not strive to be a well-
 
 ## Social Post
 
-Why not gain #career #freedom by adding a #coding workout to your daily routine? In this write up, I list a training guideline that will increase your #computer #science #skill #set. Unlock your potential to #solve #interesting #problems!
+Why not gain #career #freedom by adding a #coding workout to your daily routine? This write-up lists a #training guideline to increase your #computer #science #skill #set. Unlock your potential to #solve #interesting #problems!
 
-Thanks to Dan Leonardis and Daneille for editing and support.
+Thanks to Daniel Leonardis for editing and support.
 
 #beginners, #software, #tutorial, #productivity
 
-[url]()
+[url](https://dev.to/solidi/find-career-freedom-with-a-daily-code-workout-18e9)
