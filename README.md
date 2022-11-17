@@ -77,6 +77,7 @@ Experiences distilled through writing.
 1. [The World I Worked Into No Longer Exists](https://medium.com/@solidi/the-world-i-worked-into-no-longer-exists-732659963058)
 1. [Semver is Dead. Long live Semver!](https://dev.to/solidi/semver-is-dead-long-live-semver-4lh4)
 1. [Find Career Freedom With A Daily Code Workout](https://dev.to/solidi/find-career-freedom-with-a-daily-code-workout-18e9)
+1. [Listening Alone on the Internet](https://medium.com/@solidi/listening-alone-on-the-internet-91904956162)
 
 ## Major Engagements
 
