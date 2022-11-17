@@ -51,8 +51,8 @@ Rarely has someone in my proximity shared a similar experience. Of course, on th
 
 ## Social Post
 
-A short write-up on growing up to easy #access to #music has led to my love of #electronic #music. The #Internet has led me to a #comfortable #solitude.
+Growing up on easy #access to #music has led to my love of #electronica. The #Internet placed me in #comfortable #solitude. Here is a short write-up of my #experience.
 
-#change, #society, #culture
+#change, #society, #culture, #future
 
 [url](https://medium.com/@solidi/listening-alone-on-the-internet-91904956162)
