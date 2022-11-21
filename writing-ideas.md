@@ -110,6 +110,14 @@
     1. searching meaning
 1. I do laundry during system demos
     1. [Showering has thinking benefits](https://studyfinds.org/shower-thoughts-great-ideas/)
+    1. washer machine break out
+        1. Washing is still all manual
+        1. is there such a system to lift from one to another?
+            1. The dual machine
+        1. Quality of the wash
+            1. Visual
+            1. Smell
+        1. Some theory that until its automated, we will be stuck with manual
 1. The answer will come in time
     1. team-service slow downs, and then magic happened
 1. Catching the end of a sunset
