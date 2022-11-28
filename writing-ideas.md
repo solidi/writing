@@ -143,6 +143,10 @@
 1. Some small "historical" write up that goes deep but at the same time enlightening
     1. Example is [The History of 'Ampersand'](https://www.merriam-webster.com/words-at-play/the-history-of-ampersand)
     1. The [times sqaure zipper](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=3114&context=facpub)?
+1. Five books on hsitorical computing
+    1. Soul of a new machine
+    1. Hackers
+    1. mythical man month
 
 ## Updates
 
