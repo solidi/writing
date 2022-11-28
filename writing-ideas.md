@@ -117,6 +117,7 @@
         1. Quality of the wash
             1. Visual
             1. Smell
+            1. Pilling
         1. Some theory that until its automated, we will be stuck with manual
 1. The answer will come in time
     1. team-service slow downs, and then magic happened
@@ -141,20 +142,7 @@
     1. If we ever get to mars
 1. Some small "historical" write up that goes deep but at the same time enlightening
     1. Example is [The History of 'Ampersand'](https://www.merriam-webster.com/words-at-play/the-history-of-ampersand)
-1. Listening Alone, A story about Nu-NRG
-    1. Idea came to me when driving home from JFK, urge to listen to NuNRG
-    1. A photo of dreamland vinyl
-        1. [original flyer](http://www.madeevent.com/082303.php)
-    1. Bullseye graphic with x's and checkmarks
-        1. me, family, friends, community, region, country, world
-    1. Pic of me in the club
-        1. tranceaddict forums
-    1. [original thread](https://www2.tranceaddict.com/forums/showthread.php?s=6747b48233000365afcd2813cc44df2e&threadid=124606&perpage=12&forumid=21&pagenumber=1#.Y2aUvezMKHE)
-    1. Bowling alone
-    1. Living in a dreamland
-    1. protonradio
-    1. 6 Hubert St / New York, NY 10079 / TriBeCa
-
+    1. The [times sqaure zipper](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=3114&context=facpub)?
 
 ## Updates
 
