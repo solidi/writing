@@ -154,8 +154,6 @@
     1. [Managers extract value, leaders scale effort](https://news.ycombinator.com/item?id=28130764)
     1. More idling time, essenital to adjacent, and that's okay
     1. Are information brokers
-1. Do Great At Workng Remotely
-    1. Continue to build social relationships
 1. What is a Software Engineer Anyway?
     1. More valuable than just their code
 1. Building a Popular Half-Life Mod 
