@@ -139,12 +139,16 @@
     1. The [times sqaure zipper](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=3114&context=facpub)?
 1. Things I learned as an engineer
     1. Time vs ship is always in contention
-    1. Defaults rule
-    1. Writing clarifies intent
+    1. Ship vs test, ship will win
+    1. Simplest route to innovation is tooling
+    1. Defaults rule everything
+    1. Rubber ducking/Writing clarifies intent
     1. Shower/next day answer is found
     1. Instability at the edges
     1. Support systems become collateral
     1. Measuring things [at the beginning](https://twitter.com/harryh/status/1611399288046714883) or in the end
+    1. Group by concern, not by thing
+    1. Communicate using moving pictures more often
 
 ## Updates
 
