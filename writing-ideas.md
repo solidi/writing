@@ -150,6 +150,7 @@
     1. [Group by concern, not by type](https://twitter.com/housecor/status/1603428432091701252)
     1. Communicate using moving pictures more often
     1. Write up [do-nothing scripts](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
+    1. Names do [matter](https://ntietz.com/blog/name-your-projects-cutesy-things/)
 
 ## Updates
 
