@@ -79,6 +79,7 @@ Experiences distilled through writing.
 1. [Find Career Freedom With A Daily Code Workout](https://dev.to/solidi/find-career-freedom-with-a-daily-code-workout-18e9)
 1. [Listening Alone on the Internet](https://medium.com/@solidi/listening-alone-on-the-internet-91904956162)
 1. [Read These 5 Passionate Software Engineering Books This Holiday](https://medium.com/@solidi/read-these-5-passionate-software-engineering-books-this-holiday-6c6ad8fbd211)
+1. [The Not So Small Things of Developing Software](https://dev.to/solidi/the-not-so-small-things-of-developing-software-3emi)
 
 ## Major Engagements
 
