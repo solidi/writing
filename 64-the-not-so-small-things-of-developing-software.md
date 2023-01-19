@@ -43,7 +43,7 @@ While this list is a living document, it captures my *not-so-small* things about
 
 ## Social Post
 
-Here I share the "#small" #lessons learned in a #career. These are my important concepts as a #software #engineer.
+Here I share the "#small" #lessons learned in a #career. These are my essential concepts as a #software #engineer.
 
 [devto](https://dev.to/solidi/the-not-so-small-things-of-developing-software-3emi)
 
