@@ -137,6 +137,19 @@
 1. Some small "historical" write up that goes deep but at the same time enlightening
     1. Example is [The History of 'Ampersand'](https://www.merriam-webster.com/words-at-play/the-history-of-ampersand)
     1. The [times sqaure zipper](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=3114&context=facpub)?
+1. Elements of game play
+    1. Theory that gaming starts in youth
+    1. Possessing objects
+    1. Picking up objects, throwing them
+    1. Full brights
+    1. in the night
+    1. Destruction
+    1. Gameplay, hiding, and permnanence
+1. A spin on when an engineer leaves the team
+    1. Joins the team, how do they assimilate
+    1. Setting boundaries, getting some wins
+    1. Smoothing expectations and getting work in
+    1. Steam rolling dogma
 
 ## Updates
 
