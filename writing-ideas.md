@@ -145,6 +145,8 @@
     1. in the night
     1. Destruction
     1. Gameplay, hiding, and permnanence
+    1. Hiding
+    1. Veritical play (parkour, fulidity)
 1. A spin on when an engineer leaves the team
     1. Joins the team, how do they assimilate
     1. Setting boundaries, getting some wins
