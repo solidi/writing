@@ -145,11 +145,13 @@
     1. Full brights
         1. in the night
     1. Destruction
+    1. Retry and repeat
     1. Gameplay, hiding, and permnanence
     1. Hiding
     1. Veritical play (parkour, fulidity)
     1. Goes fast, feels heavy
-    1. Chaos
+    1. Play with others
+    1. Chaos 
     1. Feels good
     1. Thank son and plug the mod
 1. A spin on when an engineer leaves the team
