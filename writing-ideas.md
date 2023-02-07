@@ -159,6 +159,112 @@
     1. Setting boundaries, getting some wins
     1. Smoothing expectations and getting work in
     1. Steam rolling dogma
+1. Write up on youtube people
+    1. Write about your habits
+    1. Wanting to meet these people
+    1. What I continue to crave
+    1. Interest professions / Alcohol
+        1. ActOnTV - Shakeman
+        1. ralfydotcom
+    1. Hobbies
+        1. stevethefishdotnet
+        1. The Scalemodeling Channel
+        1. Paul Budzik
+        1. Jun's Mini Garage
+        1. Ziggy's Desk
+        1. will pattison
+        1. Take_Channel/HobbySpace36
+        1. Miniac
+    1. Motorcycles
+        1. FortNine
+        1. BaronVonGrumble / RoyalJordanian
+        1. Scale Model Techniques
+        1. DodgeRider
+    1. Religion
+        1. Sadhguru
+        1. The Satsang Foundation
+    1. Satisfying
+        1. SB Mowing
+    1. Destruction
+        1. Beyond the press
+    1. Kit / Reviews
+        1. TheReportOfTheWeek
+        1. CrazyRussianHacker
+        1. MrGear
+    1. Cars
+        1. DonutMedia
+        1. DougMuro
+    1. Lifestyle
+        1. Townsends
+    1. Fix things
+        1. Essential Craftsman
+    1. Eatting
+        1. Molly Schuyler
+        1. Furious Pete
+    1. Priemer
+        1. LA BEast
+    1. Puppets
+        1. Glove and Boots
+    1. Tech
+        1. KRAZAM
+        1. Jarvis Johnson
+        1. Joshua Fluke
+        1. Marques Brownlee
+        1. EliTheComputerGuy
+        1. Gaurav Sen
+        1. TechLead
+    1. Real Topics
+        1. Hot Boxin Mike Tyson
+        1. Lex Fridman
+    1. Building
+        1. Mr.Heang Update
+    1. Retro
+        1. LGR
+    1. Video Games
+        1. SNES drunk
+        1. GrasLu00
+        1. Jeremy Parish
+        1. Madlittlepixel
+    1. Video Games (Valve)
+        1. Radiation Hazard
+        1. Richter Overtime
+    1. Husbandry
+        1. Nate the Hoof Guy
+    1. MRE Eatting
+        1. Nathans MRE
+        1. Steve1989MREInfo
+    1. First to Know
+        1. PoliceActivity
+    1. Music
+        1. Professor of Rock
+    1. Trains
+        1. RailCowGirl
+    1. Science
+        1. The Action Lab
+    1. Graiffiti
+        1. DokeTV
+    1. Bob Ross
+        1. Watercolor by Shibasaki
+    1. Crashes
+        1. yovo68
+    1. Language
+        1. Xiaomanyc 小马在纽约
+    1. Eatting
+        1. Featureman
+        1. skippy62able
+    1. Shortlist
+        1. Nate
+        1. CrazyRussian
+        1. Xioma
+        1. Steve1989MREInfo
+        1. yovo68
+        1. Featureman
+        1. Mr. Heang Update
+        1. SB Mowing
+        1. Beyond the press
+        1. skippy62able
+        1. Bonus
+            1. ralfydotcom
 
 ## Updates
 
