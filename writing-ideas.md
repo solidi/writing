@@ -159,7 +159,13 @@
     1. Setting boundaries, getting some wins
     1. Smoothing expectations and getting work in
     1. Steam rolling dogma
-
+1. When an Engineer Returns to the Office
+    1. [Exception process](https://twitter.com/VicVijayakumar/status/1628744526662705156)
+    1. End with "Until we see ourselves on webex during the next Pandemic"
+    1. Capitalism maybe not fair
+    1. Us vs them
+    1. Find more ways to WFH
+    1. No way to save my local community
 
 ## Updates
 
