@@ -82,6 +82,7 @@ Experiences distilled through writing.
 1. [The Not So Small Things of Developing Software](https://dev.to/solidi/the-not-so-small-things-of-developing-software-3emi)
 1. [Goodbye to Saccharine Feelings of Clean Code](https://dev.to/solidi/goodbye-to-saccharine-feelings-of-clean-code-15o4)
 1. [A Love Letter To My YouTube Subscriptions](https://medium.com/@solidi/a-love-letter-to-my-youtube-subscriptions-c4ab16a5c88)
+1. [Video Gaming Concepts For the Uninitiated](https://dev.to/solidi/video-gaming-concepts-for-the-uninitiated-4k8m)
 
 ## Major Engagements
 
