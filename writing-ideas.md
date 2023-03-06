@@ -149,6 +149,28 @@
     1. Us vs them
     1. Find more ways to WFH
     1. No way to save my local community
+1. A ramppunk story: An Ode to My Son's Sto & Go
+    1. $1.29
+    1. 40 years when my son gets it
+    1. People have vanished
+    1. Car culture is beautiful nostalgia
+    1. Malls disappearing
+    1. Toxic spills and labor shifts, K recovery and reductions
+    1. A place called toys r us, no one shops there anymore. KMart 50 million units
+    1. Corvette was never cashed out
+    1. Matchbox utility over hotwheels madness
+    1. 2021 global top-selling toy of the year per
+    1. its so different that wild custom that mattel was, it was real
+    1. quote: "what mattel did was miniturize, in improve detail, and undress imagination
+    1. picture of kilroy from masters of toys
+    1. More phthalates than usual
+    1. The philosophy of matchbox was in this set, it was too realistic
+    1. [41 million players, 41 cars owned](https://www.youtube.com/watch?v=uH6bP2FJ7jg&t=15s)
+    1. No police?
+    1. Relive the past with your son [through toys](https://rachelbustin.com/entertainment/how-you-can-relive-your-retro-memories-through-your-kids/)
+    1. Smashing things with my hammers, this man has a [collection over 1 million dollars](https://www.youtube.com/watch?v=b55pNh71LtY)
+    1. People go to walmart for hot wheels hauls, its different now
+    1. ZAMAR, Delrin, spectraflame, and other technology enhancements
 
 ## Updates
 
