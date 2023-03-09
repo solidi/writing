@@ -150,8 +150,8 @@
     1. Find more ways to WFH
     1. No way to save my local community
 1. A ramppunk story: An Ode to My Son's Sto & Go
-    1. $1.29
-    1. 40 years when my son gets it
+    1. A micro obession turned macro obession at $1.29
+    1. 40 years when my son gets it 
     1. People have vanished
     1. Car culture is beautiful nostalgia
     1. Malls disappearing
@@ -168,9 +168,14 @@
     1. [41 million players, 41 cars owned](https://www.youtube.com/watch?v=uH6bP2FJ7jg&t=15s)
     1. No police?
     1. Relive the past with your son [through toys](https://rachelbustin.com/entertainment/how-you-can-relive-your-retro-memories-through-your-kids/)
-    1. Smashing things with my hammers, this man has a [collection over 1 million dollars](https://www.youtube.com/watch?v=b55pNh71LtY)
-    1. People go to walmart for hot wheels hauls, its different now
+    1. Smashing things with my hammers, vises, clamps, rocks, this man has a [collection over 1 million dollars](https://www.youtube.com/watch?v=b55pNh71LtY)
+    1. People go to walmart hunting for hot wheels hauls, its different now
     1. ZAMAR, Delrin, spectraflame, and other technology enhancements
+    1. Matchbox carwash and majorette majo-set thoughts
+    1. Order, system, placing together
+    1. [3 million units sold every week](https://youtu.be/SUVyqAgjorQ)
+1. A write up of tking care of three kids
+    1. How going from place to place, and being on time is killer
 
 ## Updates
 
