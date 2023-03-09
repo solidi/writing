@@ -177,6 +177,7 @@
     1. a connection to [my grandparents](https://youtu.be/PY4VEe1yXGc) (pic of grandma and popper yonkers)
     1. brown bricks in the 1980s but now its just cardboad lining my house
     1. The appeal of machinery without the ability to use them
+    1. More lately the company has [moved into content](https://www.barrons.com/podcasts/streetwise/barbie-back/9ee18a06-4e4b-48ae-8000-b381c48a095b?page=1&)
 1. A write up of tking care of three kids
     1. How going from place to place, and being on time is killer
 
