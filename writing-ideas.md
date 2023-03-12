@@ -173,11 +173,14 @@
     1. ZAMAR, Delrin, spectraflame, and other technology enhancements
     1. Matchbox carwash and majorette majo-set thoughts
     1. Order, system, placing together
-    1. [3 million units sold every week](https://youtu.be/SUVyqAgjorQ), more than 4 billion produced
+    1. [3 million units sold every week](https://youtu.be/SUVyqAgjorQ), more than [6 billion produced](https://www.amazon.com/Hot-Wheels-Paul-Biedrzycki/dp/1614286523)
     1. a connection to [my grandparents](https://youtu.be/PY4VEe1yXGc) (pic of grandma and popper yonkers)
     1. brown bricks in the 1980s but now its just cardboad lining my house
     1. The appeal of machinery without the ability to use them
     1. More lately the company has [moved into content](https://www.barrons.com/podcasts/streetwise/barbie-back/9ee18a06-4e4b-48ae-8000-b381c48a095b?page=1&)
+    1. Kids from 3 to 93 love this stuff
+    1. JCPenny catalog picutres
+    1. Durham Industries Inc, autocenter and [their copyright infrignment](https://law.resource.org/pub/us/case/reporter/F2/630/630.F2d.905.79-7752.639.html)
 1. A write up of tking care of three kids
     1. How going from place to place, and being on time is killer
 
