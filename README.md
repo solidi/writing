@@ -83,6 +83,7 @@ Experiences distilled through writing.
 1. [Goodbye to Saccharine Feelings of Clean Code](https://dev.to/solidi/goodbye-to-saccharine-feelings-of-clean-code-15o4)
 1. [A Love Letter To My YouTube Subscriptions](https://medium.com/@solidi/a-love-letter-to-my-youtube-subscriptions-c4ab16a5c88)
 1. [Video Gaming Concepts For the Uninitiated](https://dev.to/solidi/video-gaming-concepts-for-the-uninitiated-4k8m)
+1. [Technically Considered Writing](https://dev.to/solidi/technically-considered-writing-3nng)
 
 ## Major Engagements
 
