@@ -84,6 +84,7 @@ Experiences distilled through writing.
 1. [A Love Letter To My YouTube Subscriptions](https://medium.com/@solidi/a-love-letter-to-my-youtube-subscriptions-c4ab16a5c88)
 1. [Video Gaming Concepts For the Uninitiated](https://dev.to/solidi/video-gaming-concepts-for-the-uninitiated-4k8m)
 1. [Technically Considered Writing](https://dev.to/solidi/technically-considered-writing-3nng)
+1. [The Toys That Made Us: The First Hot Wheels Sto & Go Playset](https://medium.com/@solidi/the-toys-that-made-us-the-first-hot-wheels-sto-go-playset-2f051fbd33c3)
 
 ## Major Engagements
 
