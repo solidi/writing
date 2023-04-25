@@ -262,10 +262,10 @@ As we drive into the sunset with our [Alpha Generation](https://en.wikipedia.org
 
 ## Social Post
 
-Did you have a Hot Wheels Sto & Go playset growing up? I did. This post celebrates the past and present work by #Mattel, sharing #nostalgic #stories of its work.
+Remember the Hot Wheels Sto & Go playset? It's likely if you were born between 1970 and 1990. This #nostalgic post celebrates its never before told originating #story, sharing past and present work by #Mattel and the people behind it.
 
 [medium](https://medium.com/@solidi/the-toys-that-made-us-the-first-hot-wheels-sto-go-playset-2f051fbd33c3)
 
-Thanks to Mike McKittrick, Derek Gabel, and many others.
+Thanks to Mike McKittrick, Derek Gable, Bruce Pascal, and many others.
 
-#HotWheels, #HotWheelsServiceCenter, #80s, #80stoys, #80skid, #80smemories, #toys #retrotoys
+#HotWheels, #HotWheelsServiceCenter, #80s, #80stoys, #80skid, #80smemories, #toys #retrotoys #people #work #craft
