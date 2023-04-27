@@ -82,7 +82,7 @@ Thanks to Hazem Saleh and Danielle Arcuri
 
 [medium](https://medium.com/hackernoon/meta-skills-of-a-software-engineer-bed411f6685e)
 [linkedin](https://www.linkedin.com/pulse/meta-skills-software-engineer-douglas-w-arcuri/)
-[dev.to]()
+[dev.to](https://dev.to/solidi/meta-skills-of-a-software-engineer-1fa6)
 
 #softwaredevelopment #code #softwareengineering #software #career #learning #career #productivity
 
