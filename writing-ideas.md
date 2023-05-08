@@ -202,6 +202,8 @@
     1. Picture of the Sto & Go coloring book
     1. Gene's idea disclosure
     1. Fourth level for the plant shop
+    1. Credit via Bryan Benedict - 2015 Rob Matthes, and Paul Schmid did a little on that one as well. Paul says they did a new tool and redesign, and then Paul did a recolor in 2021 for Target Flying colors. Gabe Lopez did the recolor for 2022 Ultra Hots.
+    1. Encylopedia World Book prop up on missing legs
 
 ## What is a _____ Anyway?
 
