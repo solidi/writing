@@ -182,9 +182,6 @@
     1. Update comma: "and it’s a pivot for, now, this new team"
 1. On Names: A Brief Encounter with Guido van Rossum
     1. Key adjacency is continual comedy relating to my name.
-1. Reply All Considered Harmful
-    1. Reply all is also a tool for folks to get visibility, which can be annoying for those who have no action item or shared context with the message - Manoj Sharma
-    1. [CC by abby govindan](https://twitter.com/abbygov/status/1539255941039804419)
 1. Deception: Degenerate A/B Testing
     1. [Green checkmarks](https://twitter.com/PreusslerBerlin/status/1513499737311358985) next to failed or blocked transactions. - Danny Preussler
 1. Apps doing sh*t
