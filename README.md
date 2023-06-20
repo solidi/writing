@@ -85,6 +85,7 @@ Experiences distilled through writing.
 1. [Video Gaming Concepts For the Uninitiated](https://dev.to/solidi/video-gaming-concepts-for-the-uninitiated-4k8m)
 1. [Technically Considered Writing](https://dev.to/solidi/technically-considered-writing-3nng)
 1. [The Toys That Made Us: The First Hot Wheels Sto & Go Playset](https://medium.com/@solidi/the-toys-that-made-us-the-first-hot-wheels-sto-go-playset-2f051fbd33c3)
+1. [Memorable Moments in Future Toyland](https://medium.com/@solidi/memorable-moments-in-future-toyland-b919fdcbcba6)
 
 ## Major Engagements
 
