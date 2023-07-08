@@ -66,7 +66,7 @@ Since Toyland's release thirty-five years ago, a gap exists in its epilogue. So,
 1995 - Early entertainment boom. Hasbro partners with [Dreamworks](https://www.nytimes.com/1995/08/17/business/hasbro-and-dreamworks-join-to-wed-entertainment-and-toys.html). JAKKS Pacific founded. Pokemon cards and Power Rangers introduced. Toy Story debuts, first animated movie of vintage toys.
 1996 - LEGO first to promote on Internet. Hasbro [repels](https://www.nytimes.com/1996/01/25/business/mattel-seeks-hasbro-but-is-rebuffed.html) buy-out from Mattel. [Tickle Me Elmo](https://uproxx.com/life/tickle-me-elmo-craze-history/) crazy reaches Cabbage Patch doll insanity. Elmo appears in same spot in 2008, 2011, and 2013.
 1997 - Mattel acquires [Tyco, Matchbox](https://www.nytimes.com/1997/03/21/business/ftc-approves-mattel-s-purchase-of-tyco-toys.html). Tamagotchi, first digital pets craze.
-1998 - Mattels acquires [Bluebird Toys](https://www.nytimes.com/1998/03/31/business/company-news-mattel-bids-for-bluebird-toys-maker-of-etch-a-sketch.html) (Polly Pocket). Hasbro acquires [Galoob](https://www.latimes.com/archives/la-xpm-1998-sep-29-fi-27432-story.html) (Micro Machines), OddzOn (Koosh  balls). Furby arrives. Children's Online Privacy Protection (COPPA) [law enacted](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa).
+1998 - First toys inducted into [Toy Hall of Fame](https://en.wikipedia.org/wiki/National_Toy_Hall_of_Fame). Mattels acquires [Bluebird Toys](https://www.nytimes.com/1998/03/31/business/company-news-mattel-bids-for-bluebird-toys-maker-of-etch-a-sketch.html) (Polly Pocket). Hasbro acquires [Galoob](https://www.latimes.com/archives/la-xpm-1998-sep-29-fi-27432-story.html) (Micro Machines), OddzOn (Koosh  balls). Furby arrives. Children's Online Privacy Protection (COPPA) [law enacted](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa).
 1999 - Toys 'R' Us is no longer the [retail leader](https://apnews.com/article/6e6082b522082a0d782052046c75b0b2), Wal-Mart takes reigns. Pokemon appears on *Time* [magazine](https://time.com/vault/issue/1999-11-22/page/1/). Hasbro acquires Wizards of the Coast (Magic: The Gathering). Furby considered a national security threat.
 2000 - Learning tech toy boom. LeapPad sells. Start Razor inline scooter trend.
 2001 - [Bratz](https://www.newyorker.com/magazine/2006/12/04/little-hotties) released by MGA Entertainment, rivals Mattel products for numerous years.
@@ -82,7 +82,7 @@ Since Toyland's release thirty-five years ago, a gap exists in its epilogue. So,
 2012 - Hasbro relaunches Furby.
 2013 - Entertainment boom continues. Disney launches successful Frozen toys.
 2014 - LEGO boom begins with its movie, now [number one toy company](https://money.cnn.com/2014/09/04/news/companies/lego-biggest-toymaker/index.html). Mattel acquires [MEGA Brands](https://www.businesswire.com/news/home/20140430006967/en/Mattel-Completes-Acquisition-of-MEGA-Brands). Kinetic Sand launch.
-2015 - First conected artifical intelligent Hello Barbie launched. F.A.O. Schwarz [closes](https://www.nytimes.com/2015/05/16/nyregion/f-a-o-schwarz-to-close-its-doors-on-fifth-avenue.html) flagship store.
+2015 - [The Strong](https://www.museumofplay.org/) National Toy Museum expands. First conected artifical intelligent Hello Barbie launched. F.A.O. Schwarz [closes](https://www.nytimes.com/2015/05/16/nyregion/f-a-o-schwarz-to-close-its-doors-on-fifth-avenue.html) flagship store.
 2016 - VTech [acquires](https://www.vtech.com/en/press_release/2016/vtech-completes-acquisition-leapfrog/) LeapFrog. MGA Entertainment launches successful L.O.L. Surprise, as online unboxing videos reach height for children.
 2017 - Fidget toy boom. Mattel [repels](https://www.reuters.com/article/us-mattel-m-a-hasbro-exclusive/exclusive-mattel-snubs-hasbros-latest-acquisition-approach-sources-idUSKBN1DF32W) [bid](https://www.nytimes.com/2017/11/10/business/dealbook/hasbro-mattel-bid.html) from Hasbro.
 2018 - Toys 'R' Us [closes its doors](https://www.theatlantic.com/magazine/archive/2018/07/toys-r-us-bankruptcy-private-equity/561758/), ending the era of warehouse styled shopping.
@@ -100,7 +100,7 @@ Surprisingly, patterns pioneered by Bernie Loomis remain, with teams of people a
 
 ## Virtual Warehouses Sell Children's Toys and Entertainment
 
-What remains is a toy industry reinventing itself through numerous booms and busts. Each merger and acquisition has consolidated the toy industry, making many companies "multi-brands." For those non-branded, low-cost toys play a saturated role. The fidget and sensory toy boom has been a significant trend.
+What remains is a toy industry reinventing itself through numerous booms and busts. Each merger and acquisition has consolidated the toy industry, making many companies "multi-brands." For those high-impulse, low-cost toys play a saturated role. The fidget and sensory toy boom has been a significant trend.
 
 The signal of the faulting physical toy warehouse began in the 2000s. Once it gave out in 2018, many walked through a Toys 'R' Us for "one last time," acknowledging how extraordinarily iconic it was to a generation. Now, adults buy children's toys and entertainment prominently housed in virtual equivalents with expanding direct-to-consumer options from manufacturers.
 
