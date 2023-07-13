@@ -107,3 +107,9 @@ The signal of the faulting physical toy warehouse began in the 2000s. Once it ga
 The new leader, LEGO, dominates sales. It is a five-way paradoxical toy line containing both imaginative (build anything) and specific (license anything), supports high tactile play patterns, and targets legions of AFOLs (adult fans of LEGO) with premium products. Flush with movie and game tie-in successes, their fifth is in their name - "Play well" in Danish, "Put together" in Latin, and "Eventually first in the post-modern toy industry" in English.
 
 *Should I read Toyland?* Yes, it's a wide angle on how an industry operated, and it is the best historical read in a chaotic industry at the end of the golden era. While the people and places visited have changed, toys have found a way to thrive. Whether at the big box store, online, or on a theatrical streaming service- these dream makers aim to mint new memorable moments, even if they sometimes generate their own.
+
+## Social Post
+
+Following my #historical fascination with the #toy #industry, I wrote up an appended memorable moments list from the fantastic #book "Toyland: The High Stakes of the Toy Industry." (1990). Enjoy!
+
+[medium](https://medium.com/@solidi/memorable-moments-in-future-toyland-b919fdcbcba6)
