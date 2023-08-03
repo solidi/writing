@@ -118,5 +118,7 @@ Thanks to Shawn Carrillo, Alex Hart, and Hazem Saleh, and Konrad Stanik.
 
 [medium](https://medium.com/hackernoon/the-springboard-pattern-340e00379404)
 [linkedin](https://www.linkedin.com/pulse/springboard-pattern-douglas-w-arcuri/)
+[dev.to](https://dev.to/solidi/the-springboard-pattern-3o04)
+[twitter mention](https://twitter.com/CodeNewbies/status/1686907485846642688)
 
 #softwaredevelopment #code #softwareengineering #learning #demos #productivity
