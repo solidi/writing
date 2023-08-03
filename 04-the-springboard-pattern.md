@@ -1,5 +1,6 @@
 # The Springboard Pattern
 ## How to build new features in isolation
+#programming, #beginners, #tutorial, #productivity
 
 ![Software development is not a form of construction.](images/04-01.png)
 
