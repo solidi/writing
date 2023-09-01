@@ -153,26 +153,6 @@
     1. How going from place to place, and being on time is killer
 1. A write up about The Right to be Remembered
     1. Product idea conclusion?
-1. River City Ransom is the best beatem up game of all time
-    1. Goofy, and charming, and holds up 34 years later
-    1. The quotes - "Barf!" "Wham!" "He did it again"
-    1. The fights and the bosses
-    1. The open world, and walking malls (no stages)
-    1. The RPG like fun
-    1. Password screen, now in future, just take a photo
-    1. Based [off the Warriors](https://en.wikipedia.org/wiki/The_Warriors_(film)) film, take photo from 1:18 of Mercy
-    1. Merlins shop - [Wallace’s shop](https://gamefaqs.gamespot.com/boards/961764-scott-pilgrim-vs-the-world-the-game/56173459?page=1) is much like Merlin’s shop in River City Ransom and are both secret shops found in highway tunnels.
-    1. Ability to revive close to doors by pressing up
-    1. The two player action beat the coin out of them
-    1. The spending and shopping economy with retail therapy (buffet simulator (AVGN))
-    1. Eat your way to improvement, with plates and coffee mugs included.
-    1. Edge spawn - and throwing people off ledges.
-    1. cheese punching and kicking
-    1. That gap, where agility is hard to jump back.
-    1. Ports (pc engine, game boy advance, underground, girls)
-    1. The double dragon cameo and the music
-    1. The sauna
-    1. Retrospective reviews are positive, and has become a cult classic - criminally underrated - best beat em up ever created
 
 ## Updates
 
