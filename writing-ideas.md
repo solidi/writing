@@ -195,8 +195,6 @@
 1. How to Place on the Front Page of Hacker News
     1. Add "Angle of Attack" on how to write something
     1. Appeal to readers by telling them [how something complicated works](https://twitter.com/paulg/status/1553708274465140736)
-1. What Made Goldeneye 007 Great?
-    1. Add "arcade feel" to the bullet about multiplayer
 1. The First Hot Wheels Sto & Go
     1. Picture of the Sto & Go coloring book
     1. Gene's idea disclosure
