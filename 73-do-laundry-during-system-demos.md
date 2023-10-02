@@ -12,3 +12,13 @@ There is my ritual of making tea or coffee as a build proceeds. Better yet, spea
 But what is my most productive activity? I look no further than doing laundry. Performing the folding, sorting, and stacking is a great way to organize my plan of attack on a frustrating situation. In my experience, it has dispatched all my technical and personal problems.
 
 Funny as it sounds, there is no other place like speaking to my pile of warm linens as our [system demo](https://dev.to/solidi/how-to-crush-your-next-team-demo-2bb5) proceeds on Webex. The best ideas had come from here.
+
+## Social Post
+
+There is a well-known #solution on how to get past tough #technical #problems - moderate #physical activity.
+
+But even better? Do #laundry. What follows is my short rambling.
+
+[dev.to](https://dev.to/solidi/do-laundry-during-system-demos-2ndk)
+
+#demos #present #thinking #howto
