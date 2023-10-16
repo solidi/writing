@@ -89,6 +89,7 @@ Experiences distilled through writing.
 1. [When to Take a Vacation](https://medium.com/@solidi/when-to-take-a-vacation-7c1f44a54f63)
 1. [River City Ransom is the Best Beat' Em Up Video Game of All Time](https://medium.com/@solidi/river-city-ransom-is-the-best-beat-em-up-video-game-of-all-time-bc49e9776c94)
 1. [Do Laundry During System Demos](https://dev.to/solidi/do-laundry-during-system-demos-2ndk)
+1. [Prefer Accommodating Over Accurate App Experiences](https://dev.to/solidi/prefer-accommodating-over-accurate-app-experiences-7nh)
 
 ## Major Engagements
 
