@@ -186,6 +186,7 @@
     1. Key adjacency is continual comedy relating to my name.
 1. Deception: Degenerate A/B Testing
     1. [Green checkmarks](https://twitter.com/PreusslerBerlin/status/1513499737311358985) next to failed or blocked transactions. - Danny Preussler
+    1. Removal of scrubber bars, locked experience forced to watch the full video
 1. Apps doing sh*t
     1. Flower recommendations for a breakup
     1. Home address misplaced
