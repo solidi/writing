@@ -91,6 +91,7 @@ Experiences distilled through writing.
 1. [Do Laundry During System Demos](https://dev.to/solidi/do-laundry-during-system-demos-2ndk)
 1. [Prefer Accommodating Over Accurate App Experiences](https://dev.to/solidi/prefer-accommodating-over-accurate-app-experiences-7nh)
 1. [Push, Play, And Put 'Em Away!: The Hot Wheels Kid-Powered Trains and Planes (Part 1)](https://medium.com/@solidi/push-play-and-put-em-away-the-hot-wheels-kid-powered-trains-and-planes-80f6c2edeb40)
+1. [Push, Play, And Put 'Em Away!: The Hot Wheels Kid-Powered Trains and Planes (Part 2)](https://medium.com/@solidi/push-play-and-put-em-away-the-hot-wheels-kid-powered-trains-and-planes-caefc9c49042)
 
 ## Major Engagements
 
