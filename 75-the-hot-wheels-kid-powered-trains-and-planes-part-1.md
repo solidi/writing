@@ -133,7 +133,7 @@ Three competing research teams would investigate power sources. A director led o
 
 ![Power Juice and Power Pit are how Sizzlers and Hot Line are powered up.](images/75-09.jpeg)
 
-[Jack Barcus](https://patents.google.com/?inventor=J+Barcus&assignee=Mattel&oq=inventor%3A%28J+Barcus%29+assignee%3A%28Mattel%29), mentioned in a Hot Wheels historical book and on podcasts, led another group centered around voice engineering. Barcus absorbed that third team in a reorganization after a tragic accident. He invested in Sizzler's invention, which was well underway.
+[Jack Barcus](https://patents.google.com/?inventor=J+Barcus&assignee=Mattel&oq=inventor%3A%28J+Barcus%29+assignee%3A%28Mattel%29), mentioned in a Hot Wheels historical book and on podcasts, led another group centered around voice engineering. Barcus absorbed that third team in a reorganization [after a tragic accident](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e). He invested in Sizzler's invention, which was well underway.
 
 The urban legend of a Hot Wheels-powered car with a gasoline engine came from this research group, perhaps before or after that reorganization. And [it's not a myth](http://redlineprotos.com/Gas%20Proto/gasolinepowered_car_new.htm).
 
