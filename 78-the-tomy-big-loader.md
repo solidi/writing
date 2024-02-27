@@ -130,3 +130,13 @@ Wherever you are, Mr. Saito and team, thank you.
 *This author is searching for a sealed Big Loader set (1977 edition) or its original market memorabilia (rare print media). Leave a comment below to share your memories.*
 
 ![YouTuber [Luck Penny Shop's](https://www.youtube.com/watch?v=-RPkVSSPZnk) run of the Tomy Big Loader at 10x speed.](images/78-09.gif)
+
+---
+
+## Social Post
+
+As a child, one of my cherished #toys was the #Tomy Big Loader. This #retro gem was a delight to play with and sparked my curiosity in #STEM and #STEAM. But have you ever wondered who were the #inventors behind this iconic toy? Well, let me take you on a #historical journey and introduce you to the #people who made it happen.
+
+[medium](https://medium.com/@solidi/the-tomy-big-loader-351139832616)
+
+#retro #tomytoys #history #takara #takaratomy #coleco #hasbro
