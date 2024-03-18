@@ -33,6 +33,7 @@
 1. Typically
 1. Thought
 1. Also
+1. Was -> word(ed)
 
 ## Banned Phrasings
 

@@ -4,7 +4,7 @@
 
 #History, #Investigation, #Accident, #Mattel, #Toys
 
-![The parking lot in which the incident occurred.](images/77-01.jpeg)
+![The parking lot in which the incident occurred.](images/77-01a.jpeg)
 
 ---
 
@@ -14,7 +14,7 @@
 
 *As the engine ran on a table during the sales pitch, a heated exchange of actions occurred between Papp and an onlooker, leading to an explosion. The result became a tragedy. But with many witnesses, it was swept under the rug, leaving an open hole of safety and for those asking the truth - why?*
 
-*This story follows its aftermath, led by a first-hand account preserved in microfilm. It connects former Los Alamos to toy-making corporation Mattel in a ruinous blast radius from the inventor's engine for only one second in history.*
+*This story follows its three-day aftermath, led by a first-hand account preserved in microfilm. It connects former Los Alamos to toy-making corporation Mattel in a ruinous blast radius from the inventor's engine for only one second in history.*
 
 *The following contains depictions of death written by a press reporter who was injured. Reader discretion is advised.*
 
@@ -223,6 +223,6 @@ The *Daily Breeze* corroborated the injuries of both Johnny and Del Linam, a fou
 
 ---
 
-*Both Richard Feynman and Josef Papp died of cancer in the late 1980s. A part of Richard Feynman's life story was captured in the Hollywood movie [Infinity](https://www.imdb.com/title/tt0116635/). In 2023, he was portrayed in the film [Oppenheimer](https://www.imdb.com/title/tt15398776/), directed by Christopher Nolan. Serendipitously, a movie of Mattel's toy fashion doll, [Barbie](https://www.imdb.com/title/tt1517268/), premiered the same day.*
+*Both Richard Feynman and Josef Papp died of cancer in the late 1980s. A part of Richard Feynman's life story was captured in the Hollywood movie [Infinity](https://www.imdb.com/title/tt0116635/). In 2023, he was portrayed in the film [Oppenheimer](https://www.imdb.com/title/tt15398776/), directed by Christopher Nolan. Serendipitously, a movie of Mattel's toy fashion doll, [Barbie](https://www.imdb.com/title/tt1517268/), premiered at the same time.*
 
 *A search of the Los Angeles Executive Office statement of proceedings found no legislation action after [Kenneth Hahn's](https://en.wikipedia.org/wiki/Kenneth_Hahn) visit. There is no evidence that a similar presentation would be deemed unlawful in California or the county of Los Angeles today.*
