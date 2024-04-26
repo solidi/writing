@@ -208,7 +208,7 @@ The *Daily Breeze* corroborated the injuries of both Johnny and Del Linam, a fou
 
 *The newspaper's veracity and existence on microfilm in [which his story appears](https://josephpapp.com/gardena-valley-news-nov-21-1968/) had been confirmed by a Los Angeles civil servant through their resources department. It is the only paper in which Dr. Feynman's name was printed, tying him to the incident in both a third-person summary and a first-person quote.*
 
-![Left: Johnny P. O'Donnell shortly after the blast. Note head injury. Right: Dr. Feynman in 1968. [Composite]](images/77-02.jpeg)
+![Left: Johnny P. O'Donnell shortly after the blast. Note head injury. Right: Dr. Feynman in 1968. [Composite]](images/77-02a.jpeg)
 
 *Jerry Oppenheimer (unrelated to J. Robert) would write a book, [Toy Monster](https://www.wiley.com/en-ie/Toy+Monster:+The+Big,+Bad+World+of+Mattel-p-9780470371268), covering another preliminary design leader, [Jack Ryan](https://en.wikipedia.org/wiki/Jack_Ryan_(designer)). Hartman shared one patent with him, which [Mattel filed in 1967](https://patents.google.com/patent/US3451160A). Preliminary design was where prototype toy invention occurred. Its setup (compartmentation) and attitude (secrecy) were influenced by aerospace.*
 
