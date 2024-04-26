@@ -95,6 +95,7 @@ Experiences distilled through writing.
 1. [A Tragic American Toy Story](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e)
 1. [The TOMY Big Loader](https://medium.com/@solidi/the-tomy-big-loader-351139832616)
 1. [The Fisher-Price Action Garage](https://medium.com/@solidi/the-fisher-price-action-garage-15b6a9556e2a)
+1. [The Ultimate Hot Wheels Legend](https://medium.com/@solidi/the-ultimate-hot-wheels-legend-0e3b9e2b2d88)
 
 ## Major Engagements
 
