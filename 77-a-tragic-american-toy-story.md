@@ -6,6 +6,9 @@
 
 ![The parking lot in which the incident occurred.](images/77-01a.jpeg)
 
+
+*This true story questions the historical separation embodied in the Internet meme [Barbenheimer](https://en.wikipedia.org/wiki/Barbenheimer). A surviving printed record confirms a brief connection between Oppenheimer's first-line contributors (inventors of the atomic bomb) and Mattel’s then-corporate players (makers of Barbie and Hot Wheels).*
+
 ---
 
 *In 1968, men of industry met in a California parking lot. Of them, a Mattel toy design leader, TRW and Rockwell aerospace engineers, local media filming the event, and unexpectedly, a former Manhattan Project contributor to the atomic bomb.*
@@ -215,7 +218,7 @@ The *Daily Breeze* corroborated the injuries of both Johnny and Del Linam, a fou
 
 *Josef Papp's noble gas engine (pronounced "pop") [remains a mystery](https://hoaxes.org/comments/papparticle.html). It is classified as an over-unity invention and widely considered a hoax. Perplexingly, Papp was awarded numerous [patents](https://patents.google.com/patent/US4428193A/en) across his inventive journey, including an affidavit of a [dynamometer](https://en.wikipedia.org/wiki/Dynamometer) test, which the [USPTO](https://www.uspto.gov/) accepted. His unbelievable story has attracted ufologists who investigate its lost technology labeled as "free energy."*
 
-![Minutes before the explosion, a capture of victims surrounds Josef Papp in a white lab coat. This photo captures nine people, with one hand unidentified in the lower left corner. [Retouched]](images/77-03.jpeg)
+![Minutes before the explosion, a capture of victims surrounds Josef Papp in a white lab coat. This photo captures nine people, with one hand unidentified in the lower left corner. Hartman is left rear. [Retouched]](images/77-03.jpeg)
 
 *Following the tragedy, Josef Papp was labeled "emotional and unstable" by FBI internal surveillance responding to a politician's inquiry in 1973. In his next engine demonstration with [Convair](https://en.wikipedia.org/wiki/Convair), Josef was supposedly kidnapped and shot in the left shoulder, disappearing hours before he had to present new engine work. He eventually escaped, receiving aid at a local hospital. No charges were filed, and the kidnappers were never apprehended. It is believed he shot himself.*
 

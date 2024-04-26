@@ -16,7 +16,7 @@
 1. Around
 1. A lot
 1. Very
-1. Thing
+1. Thing / everything
 1. Much
 1. Unfortunate / fortunate
 1. Nice
@@ -33,7 +33,13 @@
 1. Typically
 1. Thought
 1. Also
-1. Was -> word(ed)
+1. Was -> word(ed) (on per paragraph)
+1. Away
+1. Eventually
+1. Considered
+1. Now
+1. Perhaps
+1. This (one per paragraph) -> the
 
 ## Banned Phrasings
 
