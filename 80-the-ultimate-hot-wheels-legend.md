@@ -17,7 +17,9 @@
 
 Since Hot Wheels is about vivid dreams of unlimited horsepower, this story is about a fantastical exploding automobile engine that fell a toy inventor. A man born on Christmas, he was an employee searching for toy technology at [Mattel](https://en.wikipedia.org/wiki/Mattel), leading one of their research teams.
 
-Then, add a madman inventor whom the FBI surveilled, a famous scientist who co-invented the bomb and challenged the engine's impossible physics, a TV crew recording the incident, and a photographer who should have been awarded the Pulitzer. And then the newspaperman who saved people in peril, pouring his admiration and demise for such an inventor in print.
+In the drama add a madman inventor the FBI surveilled, a famous scientist who co-invented the bomb and challenged the engine's impossible physics, a TV crew recording the incident, and a photographer who should have been awarded the Pulitzer.
+
+And then the newspaperman who saved people in peril, pouring his admiration and demise for such an inventor in print.
 
 This story holds the gasoline and applies the machismo of never telling. It includes a very long history of media suppression for fifty-five years.
 
@@ -25,7 +27,7 @@ This story holds the gasoline and applies the machismo of never telling. It incl
 
 If the reader looks back in history, critical figures at Mattel have transmitted a story so close to the facts, all of whom contributed to Hot Wheels. The author asks if this tale will cross the finish line for everyone to know.
 
-Since [Mattel Films](https://en.wikipedia.org/wiki/Mattel_Films) is gearing up to create its first live-action movie, what follows reads like its advanced copy. But this story transmits itself, as the author discovered by researching what he loved while sharing the toys [with his son](https://medium.com/@solidi/the-toys-that-made-us-the-first-hot-wheels-sto-go-playset-2f051fbd33c3).
+Since [Mattel Films](https://en.wikipedia.org/wiki/Mattel_Films) is gearing up to create its first live-action movie, what follows reads like its advanced copy. But this story transmits itself, as the author discovered by researching what he loved while sharing the toys with his son.
 
 It started with a question: "Why are the original creators of Hot Wheels repeating this funny joke?" This author believes the prank is a memorial to an inventive leader, a life cut short during a momentous time in America, without ever mentioning his name.
 
@@ -92,13 +94,17 @@ The Los Angeles Sheriff's Department (LASD) closed Hartman's case without charge
 
 Complete with post-explosion radiation detectors of which the [LaCoFD](https://fire.lacounty.gov/) Hazmat Response Team was concerned, Dr. Feynman's name appeared in [one local newspaper](https://gardenavalleynews.org/), and his allergic reaction to such perpetual devices was written. The injured news reporter wrote its [full accounting](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e).
 
-However, Dr. Feynman remained hidden, as news agencies AP, UPI, and The Los Angeles Times failed to mention the Nobel Laureate's name. It included a manhunt that circulated in the news.
+The investigation was closed in under 48 hours. This author suspects something amiss because of the incident's complexity, with scores of witnesses and questions of technology, and because it was printed as a "non-professional and amateurish" demonstration.
+
+Mr. Papp and Mr. Roser had many burdens to clear up quickly. Then, evidence of not cooperating fully, "the firm refused to disclose to officials the chemical composition of the fuel." They never revealed the technology when the authorities asked.
+
+Adding to the complexity, Dr. Feynman remained hidden, as news agencies AP, UPI, and The Los Angeles Times failed to mention the Nobel Laureate's name. It included a manhunt that circulated in the news.
 
 Dr. Richard Feynman is "The Great Explainer" of science. In 1942, [J. Robert Oppenheimer](https://en.wikipedia.org/wiki/J._Robert_Oppenheimer) hand-selected him for the [Trinity project](https://en.wikipedia.org/wiki/Trinity_(nuclear_test)). As a team leader, he co-created the atomic bomb. While working at Caltech, he was awarded the Nobel Peace Prize in 1965.
 
-Later, author and close confidant [Ralph Leighton](https://en.wikipedia.org/wiki/Ralph_Leighton) captured his delightful stories of merrymaking, including picking locks and breaching security checks at Los Alamos.
-
 ![**DEBUNKER IN THE PARKING LOT** - Mr. Feynman, center rear, and J. Robert Oppenheimer to the right in the photo. New evidence confirms Dr. Feynman's direct interaction in the incident, [which prints all three men's names](https://josephpapp.com/gardena-valley-news-nov-21-1968/), including Mr. Hartman's and Josef Papp.](images/80-06.jpeg)
+
+Later, author and close confidant [Ralph Leighton](https://en.wikipedia.org/wiki/Ralph_Leighton) captured his delightful stories of merrymaking, including picking locks and breaching security checks at Los Alamos.
 
 The scientist's presence in the parking lot remained unverified for decades, and Dr. Feynman's [accounting](https://hoaxes.org/comments/papparticle2.html), which contained blatant mistakes, has never been corroborated.
 
@@ -112,13 +118,19 @@ Evidence suggests Dr. Feynman's story was written while alive, with mistakes pla
 
 A source confirmed that the publisher, [W. W. Norton](https://wwnorton.com/), rejected the story. This author surmises its draft complimented the chapter "Cargo Cult Science."
 
-![**OPEN AND CLOSE CASE** - Left: Respected LASD Homicide detective [Harold W. White](https://www.amazon.com/Whiteys-Career-Case-insulin-murders/dp/1463706499) is on printed record relaying to press the death of Mr. Hartman. Right: Don L. Roser, who invested in Josef Papp. After the incident, their 50:50 partnership ended. Through [documented court cases](https://josephpapp.com/), Mr. Roser believed that Mr. Papp had the secret. He fought to obtain it until he died in 1998.](images/80-07.jpeg)
-
 Instead, Mr. Feynman's telling appeared in low-volume print, becoming an urban legend. Its incorrect [facts](https://en.wikipedia.org/wiki/History_of_perpetual_motion_machines#1951_to_1980) [appear](https://en.wikipedia.org/wiki/Josef_Papp) on Wikipedia and should be corrected with the source.
 
-Both Mr. Papp and Dr. Feynman have been gone since the late 1980s. Questions surrounding the incident remain (such as the lawsuit due to a lack of corroborated evidence). Still, this author believes time will answer all.
+![**OPEN AND CLOSE CASE** - Left: Respected LASD Homicide detective [Harold W. White](https://www.amazon.com/Whiteys-Career-Case-insulin-murders/dp/1463706499) is on printed record relaying to press the death of Mr. Hartman. Right: Don L. Roser, who invested in Josef Papp. After the incident, their 50:50 partnership ended. Through [documented court cases](https://josephpapp.com/), Mr. Roser believed that Mr. Papp had the secret. He fought to obtain it until he died in 1998.](images/80-07.jpeg)
 
-Yes, this story is real, but what of the man, Mr. Hartman?
+Both Mr. Papp and Dr. Feynman have been gone since the late 1980s. Questions surrounding the incident remain (such as the lawsuit due to a lack of corroborated evidence).
+
+This author cannot rule out a strong connection among men (excluding the scientist) in the strain of serving justice or eroding the legendary standoff in a "J. Edgar moment," with vague actions remembered twenty years after.
+
+Printed evidence states that Mr. Roser and Mr. Papp obstructed the investigation, failing to reveal the fuel composition.
+
+Or, the real brow-raiser, everything happened the way history remembers, and authorities ruled an accident by balancing the scales of wrongs - which isn't justice. Still, this author thinks time will answer all.
+
+Yes, this story is real and troubling, but what of the man, Mr. Hartman?
 
 ## Mattel Alumni Remembers Jack Hartman
 
@@ -132,13 +144,13 @@ While the suspected hijinks at Mattel were fabricated, a source verified Mr. Gab
 
 They noted the prank involved not a bag but a clear plastic party cup labeled "Urine Battery" being hung in an area between competing research teams at Mattel. They confirmed engineers were free to investigate new tech on the clock outside the office.
 
+![**PROTAGONIST INVENTOR OF MYSTERY** - Mr. Hartman arrowed from the newspaper. Photos remained obscured and suppressed for over fifty years while the Internet continued to ask [questions into the 2010s](https://skeptics.stackexchange.com/questions/28530/did-richard-feynman-see-josef-papps-machine-explode). Sharing this is essential to exploring the remaining pieces of this puzzle. Note Mr. Papp's bladed fan, which has an placed mirror above it.](images/80-08.jpeg)
+
 Hartman died on the job in Gardena, California, a short drive from Mattel's then-Hawthorne office. He was captured in numerous photos minutes before his death.
 
 Shockingly, and why suppression is suspected, Mattel Alumni did not know the full circumstances of the incident. However, they remembered Mr. Hartman a half-century later.
 
 Some heard of "his name," and for whatever reason, this author detected hesitation in discussing his memory.
-
-![**PROTAGONIST INVENTOR OF MYSTERY** - Mr. Hartman arrowed from the newspaper. Photos remained obscured and suppressed for over fifty years while the Internet continued to ask [questions into the 2010s](https://skeptics.stackexchange.com/questions/28530/did-richard-feynman-see-josef-papps-machine-explode). Sharing this is essential to exploring the remaining pieces of this puzzle. Note Mr. Papp's bladed fan, which has an placed mirror above it.](images/80-08.jpeg)
 
 For those who were close, he was well-loved and a respected inventor who held his engineers in the highest regard. For a moment, his dedication made this author pause in tribute. It was [an awful event](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e).
 
@@ -150,7 +162,7 @@ The [Handlers](https://en.wikipedia.org/wiki/Ruth_Handler), founders of Mattel, 
 
 Competing research and development teams are nothing new in corporations. For instance, video game developer Nintendo had at least four teams.
 
-After the tragic event, a source verified engineering director [Jack Barcus](https://www.iheart.com/podcast/269-dream-house-the-real-story-104903034/episode/ep-8-derek-gable-from-104903045/) took over Hartman's remaining group. Mr. Gable described Mr. Barcus as a "Big huge dude," in a 2022 podcast with Jack Ryan's daughter, Ann Ryan on her podcast, [Dream House](https://www.iheart.com/podcast/269-dream-house-the-real-story-104903034/episode/ep-8-derek-gable-from-104903045/).
+After the tragic event, a source verified engineering director [Jack Barcus](https://www.iheart.com/podcast/269-dream-house-the-real-story-104903034/episode/ep-8-derek-gable-from-104903045/) took over Hartman's remaining group. Mr. Gable described Mr. Barcus as a "Big huge dude" in a 2022 podcast with Jack Ryan's daughter, Ann Ryan, on her podcast [Dream House](https://www.iheart.com/podcast/269-dream-house-the-real-story-104903034/episode/ep-8-derek-gable-from-104903045/).
 
 Mr. Gable said that Mr. Barcus and Mr. Ryan competed, and this is true. However, he was not the only leader to do so - sources confirmed Mr. Hartman.
 
@@ -217,6 +229,8 @@ Based on the joke and sources verifying working conditions, the theory is Mr. Ha
 
 Hot Wheels Sizzlers ("Zip cars" back then) makes total sense as a topic of concern. In late 1968, it was a technological revolution that could generate significant profit. However, Sizzlers had substantial challenges with power and motor miniaturization.
 
+It was a curio with design issues, too. Larry Wood said, "I cannot design around that huge battery. So they would do the research - " (from a [2023 interview](https://www.youtube.com/watch?v=2tlqeit2Vi4&t=1780s)), which extended time in its preliminary investigation.
+
 The official story of powering Sizzlers with a rechargeable battery was a problematic technical lift in the late 1960s, which included dialing mega-corp General Electric for help.
 
 ![**SCI-FI-TUNED MOTORIZED INVENTION** - The [Sizzlers patent](https://patents.google.com/patent/US3628284A/en) contained a technological leap that [Matchbox](https://en.wikipedia.org/wiki/Matchbox_(brand)) and [Corgi](https://en.wikipedia.org/wiki/Corgi_Toys) attempted simultaneously. Mattel's invention was a commercial first with a Ni-Cd rechargeable battery in scale.](images/80-13.jpeg)
@@ -228,8 +242,6 @@ But others came before it, remembered by one source competing with at least thre
 The source noted at least one other prototype "didn't go as fast."
 
 Sizzlers were the first mass-produced toy of its kind, and numerous Mattel engineers, in their preliminary department, spent part of their time researching and crafting them while leaders looked in parallel. The odds are that Mr. Hartman had a concept of Sizzlers in mind.
-
-Larry Wood said, "I cannot design around that huge battery. So they would do the research - " (from a [2023 interview](https://www.youtube.com/watch?v=2tlqeit2Vi4&t=1780s)), which increased the design time in technical investigation.
 
 This author suspects the link because the Sizzlers concept was approved in December 1968 (printed in [Mr. Leffingwell's book](https://www.amazon.com/Hot-Wheels-Years-Performance-Attitude/dp/0760315736)), Mr. Moquin connected the joke with the product, and the approvals at Mattel required prototypes.
 
