@@ -19,19 +19,20 @@ Since Hot Wheels is about vivid dreams of unlimited horsepower, this story is ab
 
 In the drama add a madman inventor the FBI surveilled, a famous scientist who co-invented the bomb and challenged the engine's impossible physics, a TV crew recording the incident, and a photographer who should have been awarded the Pulitzer.
 
-And then the newspaperman who saved people in peril, pouring his admiration and demise for such an inventor in print.
+And then the newspaperman who saved people in peril. A few days later, he poured his admiration and demise for such an inventor in print, recounting the toy maker’s last moments in a Southern California parking lot.
 
-This story holds the gasoline and applies the machismo of never telling. It includes a very long history of media suppression for fifty-five years.
+This story holds the gasoline and applies the machismo of never telling. With a long history of media suppression for fifty-five years, some question if justice was served.
 
 ![**ROLLING ON SUSPENDED BELIEF** - A [bladed sprung suspension](https://patents.google.com/patent/US3621609A/en) is shown, which is known to diecast restorers. Mattel is known to have a significant advantage in toy making thanks to its brilliant research teams who patented them. Mattel displays these drawings in documented history.](images/80-02.jpeg)
 
-If the reader looks back in history, critical figures at Mattel have transmitted a story so close to the facts, all of whom contributed to Hot Wheels. The author asks if this tale will cross the finish line for everyone to know.
+If the reader looks back in history, critical figures at Mattel have conveyed a thinly veiled story, all of whom contributed to Hot Wheels.
 
-Since [Mattel Films](https://en.wikipedia.org/wiki/Mattel_Films) is gearing up to create its first live-action movie, what follows reads like its advanced copy. But this story transmits itself, as the author discovered by researching what he loved while sharing the toys with his son.
+This author asks if this tale will cross the finish line for everyone to know.
 
 It started with a question: "Why are the original creators of Hot Wheels repeating this funny joke?" This author believes the prank is a memorial to an inventive leader, a life cut short during a momentous time in America, without ever mentioning his name.
 
-He had fallen in a Southern California parking lot. The timing and location of the information suggest he fell for the Hot Wheels brand.
+Since [Mattel Films](https://en.wikipedia.org/wiki/Mattel_Films) is gearing up to create its first live-action movie, what follows reads like its advanced copy. But this story transmits itself, as the author discovered by researching what he loved while sharing the toys with his son.
+
 So, let's start with Hot Wheels printed lore, where the reader can find his connection.
 
 ## Derek Gable Tells This Funny Prank, Makes It Canon
@@ -88,13 +89,13 @@ They had a disputed exchange about the engine's power source via its attached wi
 
 Mr. Hartman, who represented Mattel in the incident, was the unlucky bystander in the shrapnel's trajectory. Two others from aviation companies were maimed, and a score of others were injured, too, one of whom was a news reporter. A cameraman from a local TV station was injured.
 
-The cameraman, Del Linman, recorded film throughout the demonstration. Johnny P. O'Donnell was the reporter who wrote a story about the fallen man's dying moments at a time when it was taboo.
+The cameraman, Del Linam, recorded film throughout the demonstration. Johnny P. O'Donnell was the reporter who wrote a story about the fallen man's dying moments at a time when it was taboo.
 
 The Los Angeles Sheriff's Department (LASD) closed Hartman's case without charges after the incident. Detective Harold White is printed in association with the case.
 
 Complete with post-explosion radiation detectors of which the [LaCoFD](https://fire.lacounty.gov/) Hazmat Response Team was concerned, Dr. Feynman's name appeared in [one local newspaper](https://gardenavalleynews.org/), and his allergic reaction to such perpetual devices was written. The injured news reporter wrote its [full accounting](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e).
 
-The investigation was closed in under 48 hours. This author suspects something amiss because of the incident's complexity, with scores of witnesses and questions of technology, and because it was printed as a "non-professional and amateurish" demonstration.
+The investigation was closed in under 48 hours. This author suspects something amiss because of the incident's complexity, with scores of witnesses and questions of technology.
 
 Mr. Papp and Mr. Roser had many burdens to clear up quickly. Then, evidence of not cooperating fully, "the firm refused to disclose to officials the chemical composition of the fuel." They never revealed the technology when the authorities asked.
 
@@ -106,7 +107,7 @@ Dr. Richard Feynman is "The Great Explainer" of science. In 1942, [J. Robert Opp
 
 Later, author and close confidant [Ralph Leighton](https://en.wikipedia.org/wiki/Ralph_Leighton) captured his delightful stories of merrymaking, including picking locks and breaching security checks at Los Alamos.
 
-The scientist's presence in the parking lot remained unverified for decades, and Dr. Feynman's [accounting](https://hoaxes.org/comments/papparticle2.html), which contained blatant mistakes, has never been corroborated.
+The scientist's presence in the parking lot remained unverified for decades, and Dr. Feynman's [accounting](https://hoaxes.org/comments/papparticle2.html), has never been corroborated.
 
 That is until a [newspaper print](https://josephpapp.com/gardena-valley-news-nov-21-1968/) appeared online in 2022 by an anonymous tribute site to the engine's inventor. It is believed the paper passed hands underground for a time, but it resisted the Internet's revelation.
 
@@ -114,23 +115,29 @@ Subsequently, this author verified the record on microfilm in 2023. However, Dr.
 
 The uncovered newspaper contained written evidence Dr. Feynman had never touched the engine or its wires, only Mr. Papp. That assertion also conflicts with other sources but gives LASD weight in declaring it an accident in combination with reviewing the film in the frame.
 
-Evidence suggests Dr. Feynman's story was written while alive, with mistakes placed to avoid corroboration. Even with placed errors, Dr. Feynman's story was suppressed [where it was intended](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!) for publication.
+Evidence suggests Dr. Feynman’s story was written while alive, challenging to corroborate. His story was suppressed [where it was intended](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!) for publication.
 
 A source confirmed that the publisher, [W. W. Norton](https://wwnorton.com/), rejected the story. This author surmises its draft complimented the chapter "Cargo Cult Science."
 
 Instead, Mr. Feynman's telling appeared in low-volume print, becoming an urban legend. Its incorrect [facts](https://en.wikipedia.org/wiki/History_of_perpetual_motion_machines#1951_to_1980) [appear](https://en.wikipedia.org/wiki/Josef_Papp) on Wikipedia and should be corrected with the source.
 
-![**OPEN AND CLOSE CASE** - Left: Respected LASD Homicide detective [Harold W. White](https://www.amazon.com/Whiteys-Career-Case-insulin-murders/dp/1463706499) is on printed record relaying to press the death of Mr. Hartman. Right: Don L. Roser, who invested in Josef Papp. After the incident, their 50:50 partnership ended. Through [documented court cases](https://josephpapp.com/), Mr. Roser believed that Mr. Papp had the secret. He fought to obtain it until he died in 1998.](images/80-07.jpeg)
-
 Both Mr. Papp and Dr. Feynman have been gone since the late 1980s. Questions surrounding the incident remain (such as the lawsuit due to a lack of corroborated evidence).
 
-This author cannot rule out a strong connection among men (excluding the scientist) in the strain of serving justice or eroding the legendary standoff in a "J. Edgar moment," with vague actions remembered twenty years after.
+![**OPEN AND CLOSE CASE** - Left: Respected LASD Homicide detective Lt. [Harold W. White](https://www.amazon.com/Whiteys-Career-Case-insulin-murders/dp/1463706499) is on printed record relaying to press the death of Mr. Hartman. Right: Don L. Roser, who invested in Josef Papp. After the incident, their 50:50 partnership ended. Through [documented court cases](https://josephpapp.com/), Mr. Roser believed that Mr. Papp had the secret. He fought to obtain it until he died in 1998.](images/80-07.jpeg)
 
-Printed evidence states that Mr. Roser and Mr. Papp obstructed the investigation, failing to reveal the fuel composition.
+This author cannot rule out a strong connection among men (excluding the scientist) in the strain of serving justice or if the scientist had his "J. Edgar moment," with vague actions remembered twenty years after
 
-Or, the real brow-raiser, everything happened the way history remembers, and authorities ruled an accident by balancing the scales of wrongs - which isn't justice. Still, this author thinks time will answer all.
+Printed evidence states that Mr. Roser and Mr. Papp obstructed the investigation, failing to reveal the fuel composition. In addition, it was described as a "non-professional and amateurish" demonstration.
 
-Yes, this story is real and troubling, but what of the man, Mr. Hartman?
+Lt. White is known to have received [numerous citations](https://www.amazon.com/Whiteys-Career-Case-insulin-murders/dp/1463706499) from the FBI LABureau at that very moment. In 1968, Los Angeles was hot with Special Agent activities, perhaps facilitating such a clandestine injunction.
+
+Or, the real brow-raiser, everything happened the way history remembers, and authorities ruled an accident by balancing the scales of wrongs-which isn't justice.
+
+Every path to Mr. Hartman's trial seemed too dangerous regarding societal impact, so history was written as an accident - troubling to this author. Any criminal justice expert's head would spin if they even knew this oddity existed.
+
+Why were the hosts not charged? This is not just the author's opinion; it was also the opinion of [Kenneth Hahn](https://en.wikipedia.org/wiki/Kenneth_Hahn), who visited the scene and asked about the lack of engine shielding, insinuating their liability burdens.
+
+Still, this author thinks time will answer all. Yes, this story is real, but what of the man, Mr. Hartman?
 
 ## Mattel Alumni Remembers Jack Hartman
 
@@ -144,7 +151,7 @@ While the suspected hijinks at Mattel were fabricated, a source verified Mr. Gab
 
 They noted the prank involved not a bag but a clear plastic party cup labeled "Urine Battery" being hung in an area between competing research teams at Mattel. They confirmed engineers were free to investigate new tech on the clock outside the office.
 
-![**PROTAGONIST INVENTOR OF MYSTERY** - Mr. Hartman arrowed from the newspaper. Photos remained obscured and suppressed for over fifty years while the Internet continued to ask [questions into the 2010s](https://skeptics.stackexchange.com/questions/28530/did-richard-feynman-see-josef-papps-machine-explode). Sharing this is essential to exploring the remaining pieces of this puzzle. Note Mr. Papp's bladed fan, which has an placed mirror above it.](images/80-08.jpeg)
+![**PROTAGONIST INVENTOR OF MYSTERY** - Mr. Hartman arrowed from the newspaper. Photos remained obscured and suppressed for over fifty years while the Internet continued to ask [questions into the 2010s](https://skeptics.stackexchange.com/questions/28530/did-richard-feynman-see-josef-papps-machine-explode). Sharing this is essential to exploring the remaining pieces of this puzzle. Note Mr. Papp's bladed fan, which has a mirror above it.](images/80-08.jpeg)
 
 Hartman died on the job in Gardena, California, a short drive from Mattel's then-Hawthorne office. He was captured in numerous photos minutes before his death.
 
@@ -153,6 +160,8 @@ Shockingly, and why suppression is suspected, Mattel Alumni did not know the ful
 Some heard of "his name," and for whatever reason, this author detected hesitation in discussing his memory.
 
 For those who were close, he was well-loved and a respected inventor who held his engineers in the highest regard. For a moment, his dedication made this author pause in tribute. It was [an awful event](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e).
+
+![**OF AERO MEN AT A SMALL SCALE** - In the late 1940s, [Neil Armstrong](https://en.wikipedia.org/wiki/Neil_Armstrong) (left) and Jack Hartman (right) were simultaneously members of an aeromodelers club, with Mr. Hartman his senior. While this author could not find records of Mr. Hartman winning competitions, Mr. Armstrong won at least one in 1948. Mr. Armstrong paused his education to help in government efforts, and both men graduated with critical aeronautical degrees of a generation. Mr. Hartman moved into the aviation industry in Southern California before Mattel. Later, a Hot Wheels prototype with an airplane engine (a Cox .010) [did exist](http://redlineprotos.com/Gas%20Proto/gasolinepowered_car_new.htm) in its preliminary design.](images/80-08a.jpeg)
 
 From what this author can construct, Jack Edward Hartman worked for Mattel for six years. He rose in rank to a preliminary design director, a think-tank pipeline for toy creation. The team served its brands Hot Wheels, Barbie, and others.
 
@@ -166,7 +175,7 @@ After the tragic event, a source verified engineering director [Jack Barcus](htt
 
 Mr. Gable said that Mr. Barcus and Mr. Ryan competed, and this is true. However, he was not the only leader to do so - sources confirmed Mr. Hartman.
 
-![**PHOTOGRAPHER, DENIED PULITZER** - The late Kenneth Hutmaker, seen in the parking lot with a camera in hand, is the photographer who captured obscure history. In one photo, the group gazes at an automobile engine surrounded by men [seconds before blowing up](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e). A close source confirmed he never spoke about the incident to them for whatever reason, which adds to suppressive tones. A separate UPI photo matches the engine stand in the background. Mr. Huthmaker's work was not awarded, but this author believes it deserves re-evaluation.](images/80-09.jpeg)
+![**TV CAMERAMAN AND PHOTOGRAPHER — The late Del Linam (left) and Kenneth Hutmaker (right) in the parking lot with a camera, capturing obscure history. In one photo, the group gazes at an automobile engine surrounded by men seconds before blowing up. A close source confirmed Mr. Huthmaker never clearly spoke about the incident, which adds to suppressive tones. A separate UPI photo matches the engine stand in the background. Mr. Linam, a cameraman for KHJ-TV9 and former military sergeant, is believed to be a hero credited with saving lives. As if this story doesn’t get any more unbelievable, Mr. Linam was saved by his TV camera acting as a shield from the shrapnel. Mr. Huthmaker’s work was not awarded, but this author thinks it deserves re-evaluation.](images/80-09a.jpeg)
 
 Before [OSHA](https://en.wikipedia.org/wiki/Occupational_Safety_and_Health_Administration), it is believed Ruth and Elliot Handler privately moved mountains to support the Hartman family after the tragic accident. Its back story remains unclear until someone comes forward to tell this author.
 
@@ -291,11 +300,9 @@ This write-up is the author's opinionated conclusion on the matter.
 
 This author presented evidence from the people who made the toys. Yes, the prank is linked, Mr. Hartman was there for toys. If for Hot Wheels, he died by the engine for a toy brand, its ultimate unspoken legend.
 
-Fellow Hot Wheels collectors, artists, and former engineers continue to tell this prank without acknowledgment. It's forever canon.
+Fellow Hot Wheels collectors, artists, and former engineers continue to tell this prank without acknowledgment. It's forever canon without knowing what they relay.
 
 While the urine-air battery joke is rather crude, the storyteller gets laughs from their audience without ever mentioning the tragic incident of the beloved man.
-
-Those who tell the tale don't know what they relay.
 
 It is rare for a person to die by direct automobile engine failure. Of course, engines blow up. At least [one person was injured](https://www.youtube.com/watch?v=wE2kWLyzQZY&t=40s) through plexiglass in 2024. Sometimes, engine [tragedies happen](https://www.cnn.com/2001/US/07/30/fair.steam.explosion/).
 

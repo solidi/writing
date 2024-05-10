@@ -229,3 +229,7 @@ The *Daily Breeze* corroborated the injuries of both Johnny and Del Linam, a fou
 *Both Richard Feynman and Josef Papp died of cancer in the late 1980s. A part of Richard Feynman's life story was captured in the Hollywood movie [Infinity](https://www.imdb.com/title/tt0116635/). In 2023, he was portrayed in the film [Oppenheimer](https://www.imdb.com/title/tt15398776/), directed by Christopher Nolan. Serendipitously, a movie of Mattel's toy fashion doll, [Barbie](https://www.imdb.com/title/tt1517268/), premiered at the same time.*
 
 *A search of the Los Angeles Executive Office statement of proceedings found no legislation action after [Kenneth Hahn's](https://en.wikipedia.org/wiki/Kenneth_Hahn) visit. There is no evidence that a similar presentation would be deemed unlawful in California or the county of Los Angeles today.*
+
+---
+
+*See this author’s opinion of how this story ties to [modern toy history](https://medium.com/@solidi/the-ultimate-hot-wheels-legend-0e3b9e2b2d88).*
