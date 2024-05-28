@@ -336,6 +336,8 @@ This author salutes Mr. Hartman, the ultimate Hot Wheels legend who died by its 
 
 ---
 
+*Back then, Mattel invested in everything from fish tanks to circus entertainment. An alternative theory is that they could have been looking into Roser's company for investment. Mr. Hartman, as a leader in the corporation, may have been tasked with determining its technical potential.*
+
 *Since misinformation on the incident circulates, this author wrote its unflinching [modern blended accounting](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e) without the opinion above, backed by a mosaic of significant sources in the era.*
 
 *This author is open to new evidence or information and can be contacted through the platform.*
