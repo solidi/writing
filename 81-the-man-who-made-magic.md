@@ -147,7 +147,9 @@ Just maybe the inventor believed he could do it.
 
 At about the same time, the man at the toy company was reeling over the success of the newly launched toy line. New inquiries were raised. To compete, these engineers invested in any free-floating idea that could be used.
 
-He learned of the promoted engine in one of the magazines read religiously by that toy company, an industrial design magazine. Perhaps he heard about it through a network of friends through ex-aviation and aerospace colleagues or from a pilot magazine. It's not all clear.
+He learned of the promoted engine in one of the magazines read religiously by that toy company, an industrial design magazine. Perhaps he heard about it through a network of friends through ex-aviation and aerospace colleagues or from a pilot magazine.
+
+Or perhaps the toyman was tasked by his company's leaders to solve its mystery. It's not all clear.
 
 What's the secret?
 
