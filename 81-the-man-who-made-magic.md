@@ -7,7 +7,7 @@
 
 ---
 
-\**Picks up phone.*\*
+\**A person picks up a phone.*\*
 
 *Storyteller: "Hey, you there?"*
 
@@ -19,7 +19,23 @@
 
 ---
 
-*THERE WAS ONCE* a budding toy company surrounded by the aerospace industry, deep in the moonshot efforts of humanity. It was a wild and crazy time for invention, with many benefiting from the education bill. They worked in science and industry since the last major war.
+## INTRODUCTION: Saving a Toy Maker
+
+*CROWDED IN A PARKING LOT*, deep in smog overhanging the palm trees, men in suits huddled over a badly injured toy maker. With his glasses blown off his face, his starched suit was soaked in blood.
+
+He lay there, looking up into the hazed sky. His situation was grave.
+
+They worked to help the man, patching his wounds with clothes ripped off their backs. With calm assurances of his life’s protection, men with worried faces continued desperately.
+
+Back at his company, the toy man inspired an incredible team searching for technology that would impact generations. But he lay there, losing his complexion and, in a short time, consciousness.
+
+Will he survive?
+
+He was the embodiment of the evolution that was to take place in the industry.
+
+---
+
+*THE TOY MAN'S COMPANY* was surrounded by the aerospace industry, deep in the moonshot efforts of humanity. It was a wild and crazy time for invention, with many benefiting from the education bill. They worked in science and industry since the last major war.
 
 Cultural movements of progressive thinking in technological areas blossomed. So, too, in social recalibration. It was the Atomic Age, and men held the highest aeronautical, mechanical, fluid, and astronautical degrees.
 
@@ -27,11 +43,13 @@ And for some, futurists with open minds who believed in alternative energy sourc
 
 Yes, this was when men dominated the industry, but a steadfast leader, not a man, ran a toy company. At this moment, attitudes began to flex for something better. And, for a time, this toy company had no real competition.
 
+This story is about the inventor from this place.
+
 ---
 
 ## CHAPTER 1: A Place To Create
 
-**ENGINEERS SECURED THIER MEAL TICKETS** in secret teams invented by their aerospace companies. They were protected through intense interviews with those who forged the best technology. They embodied Prometheus, and there were no suits to push them around.
+**ENGINEERS SECURED THEIR MEAL TICKETS** in secret teams invented by their aerospace companies. They were protected through intense interviews with those who forged the best technology. They embodied Prometheus, and there were no suits to push them around.
 
 Highly motivated and left to their devices, it was the place for a superior engineer. Code names were of animals, ghosts, and Gods. Icons were painted proudly on their endless aero hangars in each of their home bases.
 
@@ -45,8 +63,6 @@ This toy company was an oasis they escaped. They resisted the bureaucracy of mun
 
 They kept the model shop open for these curious pretending makers and dreamers. Some got recruited right there.
 But they, aeronautical, astronautical, the very definition of engineer, existed in this incredible environment, which was unique and somewhat bizarre. Some describe it as a "special" time.
-
-This story is of an unnamed man from this place.
 
 ### Personnel Powerhouse
 
@@ -84,7 +100,7 @@ But he was in a new class of keen inventors whose names are printed in old liter
 
 For him, he was the highest-caliber mechanical, sonic, chemical, and electronic engineer, locked away behind doors few could get to and competing with the best. He was a professional on a miniature scale.
 
-As aerospace developed its concept of "systems engineer," concerned with cross-cutting concerns, so did this toy company. These toy makers were more than systems engineers; they were cultural engineers.
+As aerospace developed its concept of "systems engineer," managing cross-cutting concerns, so did this toy company. These toy makers were more than systems engineers; they were cultural engineers.
 
 They, alongside the women, made magic for children that transcended a century into the next.
 
@@ -258,7 +274,7 @@ As the man who worked at the toy company showed up at the parking lot, so did me
 
 Another man in this parking lot would later co-invent an application millions of people wear, subsequently sold to a company that embodies the essence of modern footwear.
 
-There were many examples of men in this very place. The intensity of the inventive gaze filled this parking lot in the last century. Men with aeronautical, astronautical, and government identification appeared. Our believing toy man and our skeptical scientist.
+There were many examples of men in this very place. The intensity of the inventive gaze filled this parking lot in the last century. Men with aeronautical, astronautical, and government identification appeared, including our believing toy man and skeptical scientist.
 
 This investor in the engine pushed the inventor to the brink of getting everyone in the public to watch. And now he had done it. The inventor was, for once, nervous.
 
@@ -526,9 +542,9 @@ Once powerful government organizations waned, losing was once theirs. UFOs and U
 
 Privatizing men now controlled future offices and space.
 
-Computers and smartphones were delightful, varied, and magical new things. Now, most people's voices are squarely in the advancing information age. Personal secrets are revealed, and authors can see what was once impossible.
+Computers and smartphones were delightful, varied, and magical new things. Now, people's voices are squarely heard in the advancing information age. Personal secrets are revealed, and authors can see what was once impossible.
 
-The right to be forgotten? Not so. What about the right to be remembered - but importantly, to learn?
+The right to be forgotten? Not so. What about the right to be remembered - but importantly, to learn.
 
 Then, advances in artificial intelligence started to write stories and create movies. As it blossomed, even this author's toy story was written and visualized using its technique. A beautiful mosaic of stories now told.
 
@@ -570,7 +586,7 @@ With the tinkering, they placed some fuel in it to make the magic come alive. Th
 
 One of them whispered, "Go, baby, go!"
 
-In a moment, it shot like a rocket, but then it ran rough. Then, it blew up in front of them, all to metal pieces. They were all in shock.
+It shot like a rocket for a moment, but then it ran rough. It blew up in front of them, tearing everything into metal pieces. They were all in shock.
 
 But this time, it was different. They all laughed, and no one got hurt.
 
