@@ -47,6 +47,7 @@
 1. I believe
 1. It seems
 1. At the time
+1. Will be -> is (make present)
 
 ## Other Bits
 
