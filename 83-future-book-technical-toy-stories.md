@@ -6,7 +6,9 @@
 
 ![A generated book cover of this author's proposed book.](images/83-01.jpeg)
 
-Over the past year, this blog has published special interest stories. These vignettes, focusing on the toy industry, are free to read. They will remain that way.
+What if a reader was treated like an adult, retelling the *best and worst* American inventive toy stories so few published works dare to write?
+
+This blog is on a mission to publish those very tales. These vignettes, focusing on the toy industry, are free to read. They will remain that way.
 
 Now, each story will join an anthology compiled into a book tentatively titled *Technical Toy Stories: An Anthology of Real American Inventions*. *
 
@@ -36,7 +38,7 @@ Each tale within *Technical Toy Stories* features timeless products that lasted 
 
 What sets this anthology apart is its anchor to the patent and its unflinching attitude to truth in history. It contains selected works that streaming entertainment documentaries will not cover.
 
-Topics include difficult subjects such as death, lack of safety, injury, shifts in manufacturing, etc.
+Topics include difficult subjects such as death, lack of safety, injury, shifts in manufacturing, injustice, etc.
 
 ![An aggressive take on the book title. Title and cover are subject to change.](images/83-03.jpeg)
 
