@@ -99,6 +99,7 @@ Experiences distilled through writing.
 1. [The Man Who Made Magic](https://medium.com/@solidi/the-man-who-made-magic-f2add97875c8)
 1. [The Pair of Mighty Tonka Trucks](https://medium.com/@solidi/the-pair-of-mighty-tonka-trucks-b361abe12c6e)
 1. [Upcoming Book: Technical Toy Stories](https://medium.com/@solidi/upcoming-book-technical-toy-stories-80d5bfbd76c0)
+1. [The Aurora Incident: Roswell of Texas](https://medium.com/@solidi/the-aurora-incident-roswell-of-texas-ce68156ee8d9)
 
 ## Major Engagements
 
