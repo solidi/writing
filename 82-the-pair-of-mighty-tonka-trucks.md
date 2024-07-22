@@ -327,3 +327,13 @@ So, with this short story made possible by the Internet, they are now a paired l
 ---
 
 ![* Without a doubt, the Tonka Dump truck imaginary powerplant was an [experimental](https://www.facebook.com/permalink.php/?story_fbid=363636877561047&id=363468377577897) [Allis-Chalmers](https://en.wikipedia.org/wiki/Allis-Chalmers).](images/82-30.jpeg)
+
+---
+
+## Social Post
+
+Here is the full-storied creation of two iconic steel #Tonka #trucks: the #Mighty Dump Truck and the Front #Loader. It is one chapter of many in an upcoming unflinching #business #anthology on the #toyindustry titled Technical Toy Stories. Enjoy.
+
+[The Pair of Mighty Tonka Trucks](https://medium.com/@solidi/the-pair-of-mighty-tonka-trucks-b361abe12c6e)
+
+#Hasbro #BasicFun #Toys #Nostalgia #BusinessHistory #Tonkatrucks #Funrise
