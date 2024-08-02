@@ -8,15 +8,17 @@
 
 What if a reader was treated like an adult, retelling the *best and worst* American inventive toy stories so few published works dare to write?
 
-This blog is on a mission to publish those very tales. These vignettes, focusing on the toy industry, are free to read. They will remain that way.
+This blog is on a mission to publish those tales. These vignettes are authored using the mosaic theory of information and tell the truth based on sources and evidence.
 
-Now, each story will join an anthology compiled into a book tentatively titled *Technical Toy Stories: An Anthology of Real American Inventions*. *
+Using artificial intelligence and old-fashioned storytelling, sources are combined to create unusual narratives about the toy industry. From podcasts to legal documents, patents to social media, and books to newspapers, these stories are free to read and will remain that way.
+
+Now, each story will join an anthology compiled into a book tentatively titled *Technical Toy Stories: An Anthology of Real American Inventions, Volume One*.*
 
 The target for the book's release is between December 2024 and Spring 2025.
 
 ## The Motivation
 
-This author has been fascinated with [toy patent drawings](https://ipwatchdog.com/2018/12/23/iconic-patented-toys-games/id=91631/) and the stories behind their creation.
+This author has been fascinated with [toy patent drawings](https://ipwatchdog.com/2018/12/23/iconic-patented-toys-games/id=91631/) and the stories behind their creation, seeking to uncover lesser-known engineers and inventors.
 
 These beautiful sketches granted by the [UPSTO](https://www.uspto.gov/) have influenced American society. *Technical Toy Stories* studies patents close to the final product, filling a gap to retell their origins in a fascinating curated collection.
 
@@ -57,32 +59,35 @@ Picking up *Technical Toy Stories* provides the convenience of having everything
 
 2. Orientation: [Memorable Moments in Future American Toyland](https://medium.com/@solidi/memorable-moments-in-future-toyland-b919fdcbcba6)
 
-3. 1959: Sex and Speed in American Toys (Researching)
-      Doll and Car patents
-4. 1967: [A Pair of Mighty Tonka Trucks](https://medium.com/@solidi/the-pair-of-mighty-tonka-trucks-b361abe12c6e)
-      Front-loader Patent
-5. 1968: [A Tragic American Toy Story](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e)
-      Papps Patent
-6. 1970: [Wheels, Wings, and Electric Space Juice](https://medium.com/@solidi/push-play-and-put-em-away-the-hot-wheels-kid-powered-trains-and-planes-80f6c2edeb40)
-      Patent to Sizzlers, Trains
-7. 1970: [The Fisher Price Action Garage](https://medium.com/@solidi/the-fisher-price-action-garage-15b6a9556e2a)
-      Patent to Garage Elevator
-8. 1976: Broken Glass (Researching)
-      Simon, Lesser Known Patents
+3. 1959: On Jack Ryan: Sex and Speed in American Toys
+      *Adults inventing new American culture, adult vices.*
+4. 1967: [Rusting of America: A Pair of Mighty Tonka Trucks](https://medium.com/@solidi/the-pair-of-mighty-tonka-trucks-b361abe12c6e)
+      *Toys based on real machines. Shifting US manufacturing.*
+5. 1968: [Obessions in Conspiracy: A Tragic American Toy Story](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e)
+      *Wild science, injustice, supression. The Toy Industry's CYA moment.*
+6. 1970: [Toys from Aerospace: Wheels, Wings, and Electric Space Juice](https://medium.com/@solidi/push-play-and-put-em-away-the-hot-wheels-kid-powered-trains-and-planes-80f6c2edeb40)
+      *The toy company surrounded and influenced by Defense and Aerospace.*
+7. 1970: [The First American Toy Team: The Fisher-Price Action Garage](https://medium.com/@solidi/the-fisher-price-action-garage-15b6a9556e2a)
+      *Child injury, deaths, toxic paints within an iconc pre-school brand.*
+8. 1976: An Engineer's Mind: Broken Glass
+      *The mass shooting at Marvin Glass Associates.*
 9. 1977: [The Tomy Big Loader](https://medium.com/@solidi/the-tomy-big-loader-351139832616)
-      First and Second Big Loader Patents
-10. 1980: [The Toys That Drove Us](https://medium.com/@solidi/the-toys-that-made-us-the-first-hot-wheels-sto-go-playset-2f051fbd33c3)
-      Patent to Sto n Go
-11. 1983: [Golden Era Kid Powered Trains](https://medium.com/@solidi/push-play-and-put-em-away-the-hot-wheels-kid-powered-trains-and-planes-caefc9c49042)
-      Four Patents
-12. Late 1980s: TBD
-13. 1994: Skydancing
-      Figurine Flyer patent
-14. 2000s: TBD
-15. 2015: The Water Balloon Patent Fight (Researching)
-    Bunch O Balloons
-16. Timeless: [The Man Who Made Magic](https://medium.com/@solidi/the-man-who-made-magic-f2add97875c8)
-      Doll patent
+      *Japanese normalization Post WWII in American Toys before the 80s.*
+10. 1980: [The Toy That Drove Us: The Hot Wheels Sto & Go](https://medium.com/@solidi/the-toys-that-made-us-the-first-hot-wheels-sto-go-playset-2f051fbd33c3)
+      *When spaceage plastic meets the first portable car garagehouse.*
+11. 1983: [The Last Toy Express: Golden Era Kid Powered Trains](https://medium.com/@solidi/push-play-and-put-em-away-the-hot-wheels-kid-powered-trains-and-planes-caefc9c49042)
+      *The waning of toy trains and military planes in America.*
+12. 1987: How The Orange Tip Became Standard Issue
+      *Toy guns in America, Daisy, and the tragedy of Lenny Falcon.*
+13. 1994: Skydancing Into Thin Air
+      *When aero men and women made a real toy.*
+14. 1997: Los Angeles Explosion at Imperial Toys
+      *Worker safety in toys, explosion in a cap gun plant.*
+15. 2000s: TBD
+16. 2014: [All Wet In The Great American Water Balloon Fight](https://medium.com/@solidi/all-wet-in-the-great-american-water-balloon-fight-596312c7a0f2)
+    *Patents, legal challenges and independent inventors in backyard toys.*
+17. Timeless: [The Man Who Made Magic](https://medium.com/@solidi/the-man-who-made-magic-f2add97875c8)
+      *The mystery and legacy of Jack E. Hartman, an All American toy inventor.*
 
 17. Conclusions
 ```
