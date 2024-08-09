@@ -73,7 +73,7 @@ His quip is all thanks to failing latex toy balloons (and one camera battery).
 
 Today, the water balloon's home turf resides in the hearts of backyards, schools, and playgrounds. They evolved throughout the 20th century by reducing costs.
 
-Military branding "grenades" and "bombs" have since been removed, but some references to "warfare" remain. Water balloon accessories include slingshots and "bazookas."
+Military branding "grenades" and "bombs" have since been removed, but some references to "warfare" remain. Water balloon accessories include slingshots and "[bazookas](https://www.youtube.com/watch?v=3iNCpVKP4wg)."
 
 And there is a crossover to America's pastime. Water Balloon Baseball is a thing.
 
