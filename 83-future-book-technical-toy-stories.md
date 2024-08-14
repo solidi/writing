@@ -63,7 +63,7 @@ Picking up *Technical Toy Stories* provides the convenience of having everything
       *Adults inventing new American culture, adult vices.*
 4. 1967: [Rusting of America: A Pair of Mighty Tonka Trucks](https://medium.com/@solidi/the-pair-of-mighty-tonka-trucks-b361abe12c6e)
       *Toys based on real machines. Shifting US manufacturing.*
-5. 1968: [Obessions in Conspiracy: A Tragic American Toy Story](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e)
+5. 1968: [Obsessions in Conspiracy: A Tragic American Toy Story](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e)
       *Wild science, injustice, supression. The Toy Industry's CYA moment.*
 6. 1970: [Toys from Aerospace: Wheels, Wings, and Electric Space Juice](https://medium.com/@solidi/push-play-and-put-em-away-the-hot-wheels-kid-powered-trains-and-planes-80f6c2edeb40)
       *The toy company surrounded and influenced by Defense and Aerospace.*
