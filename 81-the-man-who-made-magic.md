@@ -534,7 +534,7 @@ Toys became a commodity. Advancing technology became easier. Computers shaped th
 
 But the intrigue was present, and toys were attached to their media and movies. Regardless, children want toys in their hands. It's a forever human thing, and they, the toy companies, will be in business forever.
 
-Walls and buildings came down, bombs dropped by remote control with cameras capturing the immediate dead, pandemics spread and receded, horrors in the deserts, and nation-states changed.
+Walls and buildings came down, bombs were dropped by remote control with cameras capturing the dead, pandemics spread, horrors occurred in the deserts, students practiced active shooter drills, and nation-states changed.
 
 A space shuttle came and went, losing its glory by blowing up in front of millions of children's eyes. That shuttle wasted time and money because it failed to make anyone believe in the next station. It was too routine.
 

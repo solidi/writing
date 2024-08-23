@@ -10,7 +10,7 @@
 1. Pretty
 1. Really
 1. To be
-1. Would / Would be (one per paragraph)
+1. Would / Would be (one per paragraph) -> [word]-ed
 1. Great
 1. Got
 1. Around
