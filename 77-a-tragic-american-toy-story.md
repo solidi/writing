@@ -192,7 +192,7 @@ Mattel would top the stock charts that month. Founders Ruth and Elliot Handler w
 
 Johnny concluded, "I thought of the dead toy maker. I felt lousy - a lousy safety factor, a world of sometimes grim reality, and a world of hope."
 
-The ex-marine's story was printed and distributed on Thursday, November 21st, 1968. The *Gardena Valley News* was a weekly newspaper that served its transnational suburb. It was published with eight related photos.
+The story, written by ex-marine Johnny P. O'Donnell, was printed and distributed on Thursday, November 21st, 1968. The *Gardena Valley News* was a weekly newspaper that served its transnational suburb. It was published with eight related photos.
 
 Johnny's eye-witness accounting diverged from the Sheriff's office relays, challenging the media storyline. "The gentleman thus mentioned was Mr. Feynman of Caltech - pointed out to the inventor that his machine was hooked up to an electric cable. The inventor exhibited anger, and disconnected the cable."
 
