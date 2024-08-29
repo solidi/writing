@@ -200,7 +200,7 @@ Johnny's eye-witness accounting diverged from the Sheriff's office relays, chall
 
 The *Daily Breeze* corroborated the injuries of both Johnny and Del Linam, a four-time Golden Mike award-winning CBS cameraman. " - don't curse 'em baby... pray for them," the reporter wrote.
 
-Johnny was one of the heroes in the parking lot and his harrowing reporting. "I went to my typewriter back at the office, and I began once again... to try to tell it like it is. - "
+Johnny was one of the heroes in the parking lot and his in harrowing reporting afterward. "I went to my typewriter back at the office, and I began once again... to try to tell it like it is. - "
 
 And so the reporter did. "[but] this was happening. It wasn't Korea or Vietnam. It was a parking lot in Gardena," wrote Johnny.
 
