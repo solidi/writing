@@ -3,7 +3,7 @@
 ## Banned Words: Before publishing, search for the following words and remove them when possible. 
 
 1. Just
-1. That (one max per paragraph)
+1. That (one max per paragraph) or "that this"
 1. Already
 1. Actual / Actually
 1. Think

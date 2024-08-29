@@ -5,6 +5,12 @@
 
 ![Tomy's Big Loader registered logo.](images/78-01.jpeg)
 
+---
+
+*This draft is part of an American Toy Anthology. For information on the upcoming publication, see this author's announcement, [Technical Toy Stories](https://medium.com/@solidi/upcoming-book-technical-toy-stories-80d5bfbd76c0): Volume One.*
+
+---
+
 *In 1977, an elaborate toy* was unleashed in the American market. The plaything garnered reviews in newspapers.
 
 "The car loads small marbles at one station, carries them to others, unloads them at another, moving back and forth along the tracks as needed."

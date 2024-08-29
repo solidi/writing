@@ -83,13 +83,17 @@ Picking up *Technical Toy Stories* provides the convenience of having everything
       *When aero men and women made a real toy.*
 14. 1997: Los Angeles Explosion at Imperial Toys
       *Worker safety in toys, explosion in a cap gun plant.*
-15. 2000s: TBD
+15. 2009: [Theo and Ora: Toy Craft From Israel](https://medium.com/@solidi/theo-and-ora-toy-craft-from-israel-317112446e05)
+      *Board games and toys; persecution survival and lasting impact.*
 16. 2014: [All Wet In The Great American Water Balloon Fight](https://medium.com/@solidi/all-wet-in-the-great-american-water-balloon-fight-596312c7a0f2)
-    *Patents, legal challenges and independent inventors in backyard toys.*
-17. Timeless: [The Man Who Made Magic](https://medium.com/@solidi/the-man-who-made-magic-f2add97875c8)
+      *Patents, legal challenges and independent inventors in backyard toys.*
+17. Timeless: [Military Toy Complex: The Man Who Made Magic](https://medium.com/@solidi/the-man-who-made-magic-f2add97875c8)
       *The mystery and legacy of Jack E. Hartman, an All American toy inventor.*
 
-17. Conclusions
+18. Conclusions
+
+19. Appendix A: [Cognitive Dissonance: The Ultimate Hot Wheels Legend](https://medium.com/@solidi/the-ultimate-hot-wheels-legend-0e3b9e2b2d88)
+      *Opinion on a prank in hiding supporting [A Tragic American Toy Story](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e).*
 ```
 
 Each story is historically accurate based on sources. These stories capture the truth about the American toy business, for good or bad.
