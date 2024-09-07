@@ -101,6 +101,7 @@ Experiences distilled through writing.
 1. [Upcoming Book: Technical Toy Stories](https://medium.com/@solidi/upcoming-book-technical-toy-stories-80d5bfbd76c0)
 1. [The Aurora Incident: Roswell of Texas](https://medium.com/@solidi/the-aurora-incident-roswell-of-texas-ce68156ee8d9)
 1. [All Wet In The Great American Water Balloon Fight](https://medium.com/@solidi/all-wet-in-the-great-american-water-balloon-fight-596312c7a0f2)
+1. [Theo and Ora: Toy Craft From Israel](https://medium.com/@solidi/theo-and-ora-toy-craft-from-israel-317112446e05)
 
 ## Major Engagements
 
