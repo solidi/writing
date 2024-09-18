@@ -42,7 +42,7 @@ What sets this anthology apart is its anchor to the patent and its unflinching a
 
 Topics include difficult subjects such as death, lack of safety, injury, shifts in manufacturing, injustice, etc.
 
-![An aggressive take on the book title. Title and cover are subject to change.](images/83-03.jpeg)
+![An aggressive take on the book title. Title and cover are subject to change.](images/83-03a.jpeg)
 
 This anthology reflects the industry's unease, focusing on American-cultured toys, many from powerful corporations. But make no mistake, "feel-good" origin stories are mixed within. *
 
@@ -79,8 +79,8 @@ Picking up *Technical Toy Stories* provides the convenience of having everything
       *The waning of toy trains and military planes in America.*
 12. 1987: How The Orange Tip Became Standard Issue
       *Toy guns in America, Daisy, and the tragedy of Lenny Falcon.*
-13. 1994: Skydancing Into Thin Air
-      *When aero men and women made a real toy.*
+13. 1994: Wear Eye Glasses: Galoob's Sky Dancers
+      *When toy makers launched a flying doll (and failed successfully.)*
 14. 1997: Los Angeles Explosion at Imperial Toys
       *Worker safety in toys, explosion in a cap gun plant.*
 15. 2009: [Theo and Ora: Toy Craft From Israel](https://medium.com/@solidi/theo-and-ora-toy-craft-from-israel-317112446e05)
