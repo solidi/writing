@@ -31,7 +31,7 @@ Back at his company, the toy man inspired an incredible team searching for techn
 
 Will he survive?
 
-He was the embodiment of the evolution that was to take place in the industry.
+He was the embodiment of the evolution that was to take place in the industry, and this story is a damning modern saga of a perpetual machine.
 
 ---
 
@@ -270,7 +270,11 @@ If there is ever such a story of how formal science vs. pseudoscience musket sho
 
 ### Film and Watch
 
-As the man who worked at the toy company showed up at the parking lot, so did men from science and industry with large corporations who backed their presence. Men in suits appeared. One man, a lawyer from an aerospace company, had a contract in his pocket ready to sign.
+Our toy man woke up that morning beside his lover in an apartment. He was now estranged from his wife but trying to work things out. His dorm was littered with prototype toys.
+
+He got up and drove to work, and his toys sat in the back seat of his car. After spending a half-day at the office, he left in a hurry. Some employees chiding him, while he gave them the finger, smirking. He briefly said good bye to the company owners, as they smiled. "Good luck."
+
+He later appeared in the parking lot, as did men from science and industry with large corporations who backed their presence. Men in suits appeared. One man, a lawyer from an aerospace company, had a contract in his pocket ready to sign.
 
 Another man in this parking lot would later co-invent an application millions of people wear, subsequently sold to a company that embodies the essence of modern footwear.
 
@@ -282,7 +286,7 @@ Will it work?
 
 The engine investor called a local TV station. Their van pulled up, something printed with a number on it. They set up a 16mm camera and began to film the event.
 
-They called for security, which the local patrol provided, keeping the public peace with their low-slung pistols out of a spaghetti western.
+They called for security, which the local patrol provided, keeping the public peace with their low-slung pistols out of a spaghetti western. There was no doubt the investor had connections.
 
 Those westerns played in the very theaters at the time. Attitudes also changed, and Hollywood was to drop its binding golden contract.
 
@@ -381,7 +385,7 @@ The other man with the aerospace contract had his leg hit, slightly hanging off 
 
 Others in the crowd took their scraps, including the cameraman from the local TV station, who took metal in his leg. His camera protected his life and was damaged, but it remained operable, and he kept filming.
 
-But our man from the toy company was most horribly injured, taking a large piece of metal into his abdomen. He was bleeding heavily. Then, a newspaper reporter and the scientist rushed to the man, as the images of complete disbelief paralyzed the inventor and investor.
+But our man from the toy company was most horribly injured, taking a large piece of metal into his abdomen and blowing through his back. He was bleeding heavily. Then, a newspaper reporter and the scientist rushed to the man, as the images of complete disbelief paralyzed the inventor and investor.
 
 It was already over for them.
 
@@ -479,7 +483,14 @@ Perhaps the scientist's name was finally released by authorities. Still, any pre
 His name was so clearly attached to scientific prowess, but the newspaperman believed in truth. And those trawlers out in the sea would quickly pick it up, or those satellites beaming in.
 
 Aerospace and other industries hummed on as the family got the word. It was complete devastation; a beautiful toy maker was gone, searching for new tech that was never to be. His children were without a father. A world without a tinkerer of such beautiful toys.
-The film, pointing at the engine, now lies patiently.
+
+His girlfriend, family, and other admirers would leave small toys and packages of small diecast cars at his resting place.
+
+If the reader believes the meddler is at fault, think again. Our toy maker's demise is an corruption case between other men, not the scientist. And the toy maker's justice was never served.
+
+"I guess there's a certain amount of wisdom in not going to court - " the scientist said before passing.
+
+And the film, pointing at the engine, now lies patiently.
 
 ---
 
@@ -492,6 +503,7 @@ Then, a memory of such a fine toy maker, a leader, a life cut short.
 Rumors spread, people talked, and engineers became familiar with the passing. As everything happened, the business needed to move on. Attitudes of the day were to keep hush, and ordinary people did not know, and no videos were recorded to post. Few could voice an opinion.
 
 A man replaced him, refiling his engineers into the other team, and some missed the real toy man's leveling style.
+
 The deceased toy maker had a genuine people-leader attitude to play and invent before it was ever a thing. But this new man was so different. He would appear in print as the fall guy with such a stark, contrasting command and control attitude.
 
 He wasn't well-liked, but he was also an aeroman.
@@ -500,7 +512,7 @@ In the meantime, private conversations and outreach to our toy makers' grieving 
 
 Then something interesting happened: a prank would be played, a recorded reminder of a man who lived, invented, and maybe once believed in an alternative way to create. He was a believer in something others would not join.
 
-The prank was written in a book a century later, recalling people uncredited, now credited, and no one caught on. Not even their historians, not even this storyteller.
+The prank was written in a book a century later, recalling people uncredited, now credited, and no one caught on. Not even their historians, not even this storyteller, until the facts were rechecked.
 
 As the engineers continued advancing the toy line from engineering to product packaging through the following year, a bag would be hung, filled with a liquid, and two wires were dipped in it.
 
@@ -538,7 +550,7 @@ Walls and buildings came down, bombs were dropped by remote control with cameras
 
 A space shuttle came and went, losing its glory by blowing up in front of millions of children's eyes. That shuttle wasted time and money because it failed to make anyone believe in the next station. It was too routine.
 
-Once powerful government organizations waned, losing was once theirs. UFOs and UAPs have become accepted, but governments haven't let the information rip, crawling on to what little control they had left.
+Once powerful government organizations waned, losing was once theirs. UFOs and UAPs have become accepted, but governments haven't let the information rip, clasping on to what little control they had left.
 
 Privatizing men now controlled future offices and space.
 
@@ -550,7 +562,7 @@ Then, advances in artificial intelligence started to write stories and create mo
 
 If the men of the parking lot, if still present, would not believe their own eyes nor understand its magic, as much as they did not understand an engine.
 
-The world has changed a lot, but gasoline, natural gas, and oil continue to make plastics. They increment slowly. Somehow, society struggles to reach a Type I civilization, trying to return to the same moon a century later, making mistakes.
+The world has changed a lot, but gasoline, natural gas, and oil continue to make plastics. They increment slowly. Somehow, society struggles to reach a Type I civilization, trying to return to the same moon a century later, making mistakes that once were mastered.
 
 The once heroic scientists no longer exist nor show the way. Instead, they monetize videos on their published channels while people no longer speak to one another. Instead, they look downward.
 
