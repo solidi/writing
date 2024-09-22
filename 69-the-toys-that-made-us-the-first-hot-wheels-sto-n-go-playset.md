@@ -4,7 +4,13 @@
 
 ![Original diagram of patent [US 4,349,983](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/4349983). The hull of the Hot Wheels Sto & Go.](images/69-01.png)
 
-On a cold Saturday night in February, there wasn't much to do but spend time with my toddler. We had choices. iPads? No. Stream nostalgic [Masters of the Universe](https://en.wikipedia.org/wiki/Masters_of_the_Universe)? No. I rolled out the [Matchbox](https://en.wikipedia.org/wiki/Matchbox_(brand)) and [Hot Wheels](https://en.wikipedia.org/wiki/Hot_Wheels) instead. Our "beep-beeps" and "vroom-vrooms" filled the room.
+---
+
+*This draft is part of an American Toy Anthology. For information on the upcoming publication, see this author's announcement, [Undercover Toy Stories](https://medium.com/@solidi/upcoming-book-technical-toy-stories-80d5bfbd76c0): Volume One.*
+
+---
+
+**ON A COLD SATURDAY NIGHT** in February, there wasn't much to do but spend time with my toddler. We had choices. iPads? No. Stream nostalgic [Masters of the Universe](https://en.wikipedia.org/wiki/Masters_of_the_Universe)? No. I rolled out the [Matchbox](https://en.wikipedia.org/wiki/Matchbox_(brand)) and [Hot Wheels](https://en.wikipedia.org/wiki/Hot_Wheels) instead. Our "beep-beeps" and "vroom-vrooms" filled the room.
 
 While playing, we rendered a city out of his socks. That wasn't enough. I wanted to buy something, but there [wasn't a store](https://www.retaildive.com/news/the-story-of-toys-r-us-bankruptcy-is-still-unfolding-and-it-still-matters/617429/) or a [mall](https://www.businessinsider.com/american-mall-decline-150-left-10-years-how-many-2022-10) to make the purchase the main event. These places have long compacted into the synchromesh of online retailing.
 
@@ -16,7 +22,7 @@ As I put my son to bed, I had to understand Hot Wheels *deeply*. That set me on 
 
 ## Stowed & Gone, Now Back Again
 
-The Hot Wheels Sto & Go sets by [Mattel, Inc.](https://en.wikipedia.org/wiki/Mattel) have a long history of toy-making that deserves eyeballs. I've encountered [many collapsable products](https://hotwheels.fandom.com/wiki/Sto_%26_Go) which unpack unique play themes. As a premium Hot Wheels accessory, each flavor appeared in [Wishbooks](http://christmas.musetechnical.com/) and on toy shelves throughout the 1980s. Then, technological evolution, the Internet, and [remote work arose](https://medium.com/@solidi/the-world-i-worked-into-no-longer-exists-732659963058).
+**THE HOT WHEELS STO & GO** sets by [Mattel, Inc.](https://en.wikipedia.org/wiki/Mattel) have a long history of toy-making that deserves eyeballs. I've encountered [many collapsable products](https://hotwheels.fandom.com/wiki/Sto_%26_Go) which unpack unique play themes. As a premium Hot Wheels accessory, each flavor appeared in [Wishbooks](http://christmas.musetechnical.com/) and on toy shelves throughout the 1980s. Then, technological evolution, the Internet, and [remote work arose](https://medium.com/@solidi/the-world-i-worked-into-no-longer-exists-732659963058).
 
 ![The Hot Wheels City and [Service Center](https://www.vault1541.com/2017/09/youtube-hot-wheels-service-center.html) Sto & Go from the JCPenney Wishbook 1981. Source: [musetechnical](https://christmas.musetechnical.com/ShowCatalogPage/1981-JCPenney-Christmas-Book/0473)](images/69-03.jpeg)
 
@@ -56,7 +62,7 @@ But more so, Hot Wheels children experience intense [imaginative play](https://d
 
 ## Generational Gravity-Ramp Bridge
 
-After acquiring Matchbox's parent company, [Tyco](https://en.wikipedia.org/wiki/Tyco_Toys), Mattel's Hot Wheels dominated the podium, producing [eight billion cars](https://www.youtube.com/watch?v=BqLho6jcQpo) over the years, with forty million players at an average collection of [forty-one vehicles per child](https://www.youtube.com/watch?v=uH6bP2FJ7jg). A 1/64-scale car is made [every 16.5 seconds](https://www.caranddriver.com/features/a20734339/hot-wheels-turns-50-heres-how-design-drives-the-iconic-toys-feature/), with [millions of units sold weekly](https://youtu.be/SUVyqAgjorQ). Children and adults spend billions of hours playing globally.
+**AFTER ACQUIRING MATCHBOX’S PARENT COMPANY**, [Tyco](https://en.wikipedia.org/wiki/Tyco_Toys), Mattel's Hot Wheels dominated the podium, producing [eight billion cars](https://www.youtube.com/watch?v=BqLho6jcQpo) over the years, with forty million players at an average collection of [forty-one vehicles per child](https://www.youtube.com/watch?v=uH6bP2FJ7jg). A 1/64-scale car is made [every 16.5 seconds](https://www.caranddriver.com/features/a20734339/hot-wheels-turns-50-heres-how-design-drives-the-iconic-toys-feature/), with [millions of units sold weekly](https://youtu.be/SUVyqAgjorQ). Children and adults spend billions of hours playing globally.
 
 ![[A box store aisle](https://www.reddit.com/r/HotWheels/comments/kplko6/empty_isle_but_not_that_empty_first_hot_wheels_i/) in the present-day. Source: Reddit](images/69-10.jpeg)
 
@@ -88,7 +94,7 @@ Since then, [countless artists](https://hotwheels.fandom.com/wiki/Category:Desig
 
 # Pouring the Pavement to Sto & Go
 
-It's hard to imagine my country's history without people who developed [Barbie](https://en.wikipedia.org/wiki/Barbie) and Hot Wheels under one roof. [Elliot](https://en.wikipedia.org/wiki/Elliot_Handler) and [Ruth Handler](https://en.wikipedia.org/wiki/Ruth_Handler) started in a California garage a decade before Silicon Valley got its name. They are the pioneers of making detailed toys at scale, delivering modern-era toys because they observed their children. They questioned and then acted intelligently.
+**IT’S HARD TO IMAGINE** my country's history without people who developed [Barbie](https://en.wikipedia.org/wiki/Barbie) and Hot Wheels under one roof. [Elliot](https://en.wikipedia.org/wiki/Elliot_Handler) and [Ruth Handler](https://en.wikipedia.org/wiki/Ruth_Handler) started in a California garage a decade before Silicon Valley got its name. They are the pioneers of making detailed toys at scale, delivering modern-era toys because they observed their children. They questioned and then acted intelligently.
 
 ![Elliot and Ruth Handler in 1951. Source: Associated Press](images/69-14.png)
 
@@ -108,7 +114,7 @@ Only a product like Sto & Go could be [ultrasonically welded](https://en.wikiped
 
 ## The Bell Goes Ding-Ding on the Sto & Go
 
-Sometime in the 1970s, Ray Wagner, then president of Mattel, transmitted the need for a "Hot Wheels garage" (really, a gas station). While it remains unknown if Elliot hit the Hot Wheels launcher on Sto & Go himself (he left in 1974), it was clear to management and market research a new invention was needed for children. Being added to a product wishlist, Gene Kilroy, the "chassis wizard" to this project, headed up a vertical within Hot Wheels toy experimentation.
+**SOMETIME IN THE 1970s**, Ray Wagner, then president of Mattel, transmitted the need for a "Hot Wheels garage" (really, a gas station). While it remains unknown if Elliot hit the Hot Wheels launcher on Sto & Go himself (he left in 1974), it was clear to management and market research a new invention was needed for children. Being added to a product wishlist, Gene Kilroy, the "chassis wizard" to this project, headed up a vertical within Hot Wheels toy experimentation.
 
 It is essential to understand that there are numerous inventive influences when developing products. And in this story, there are multiple axles. First, "Vinyl-stay-Vinyl" (VSV) playset units, like the [Talking Service Center](https://hwredline.com/talking-service-center/) and diecast car totes, were aging. In competition, Matchbox had a [full vinyl line](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=matchbox++vinyl+playset+1973) with a city, construction site, airport, and country (it goes on) circa the late 1960s into the mid-1970s. We think of this as the "Sto" influence on the product.
 
@@ -162,7 +168,7 @@ Like other automotive firsts such as the mid-engine GT40, carbon fiber applique,
 
 ## Lathing the Triple Cylinder Sto & Go's
 
-What developed within the creative prelim engine is a kid-powered smooth manual transmission playset that deserves a look not found on the Internet (and I did look everywhere). Typical in these creative stories, engineers are hard to find. So with the impulse to discover its construction, I sent inquiring emails to those collectors celebrated in books.
+**WHAT DEVELOPED WITHIN** the creative prelim engine is a kid-powered smooth manual transmission playset that deserves a look not found on the Internet (and I did look everywhere). Typical in these creative stories, engineers are hard to find. So with the impulse to discover its construction, I sent inquiring emails to those collectors celebrated in books.
 
 [Bruce Pascal](https://www.instagram.com/pinkbeachbomb), who owns the [most valuable Hot Wheels](https://www.hotcars.com/most-expensive-hot-wheels-cars/#1969-pink-vw-beach-bomb), answered my call. "*Who are the people?*" I asked. He pointed me in the right direction, which led to its engineering. [Derek Gable](https://easyreadernews.com/fun-at-work-former-mattel-designer-derek-gable-is-being-honored-for-teaching-kids-that-fun-at-work-is-part-of-the-job/) (Gene's peer at the time of this story) placed me on deep email exchanges with notable people, with [Mike McKittrick](https://www.mckittrickdesign.com/About/) stepping forward in the conversation.
 
@@ -232,7 +238,7 @@ This concept is inextricably linked to people who courageously defend an idea wi
 
 ## The Emotive Living Hinge Car Elevator
 
-Hot Wheels continues its pleasure cruise celebrating 55 years of toy-making this year. Kids like my son, who are car-seated from 3 to 103, love this stuff. The Hotrod brand remains the [global top-selling unit](https://corporate.mattel.com/news/barbie-named-2021-top-global-toy-property-of-the-year-per-npd), and Ted Wu, VP, Global Head of Design for Vehicles at Mattel, reports [tracking over one billion dollars](https://www.youtube.com/watch?v=I8JD776WwhU) in gross global sales in 2022.
+**HOT WHEELS CONTINUES ITS PLEASURE CRUISE** celebrating 55 years of toy-making this year. Kids like my son, who are car-seated from 3 to 103, love this stuff. The Hotrod brand remains the [global top-selling unit](https://corporate.mattel.com/news/barbie-named-2021-top-global-toy-property-of-the-year-per-npd), and Ted Wu, VP, Global Head of Design for Vehicles at Mattel, reports [tracking over one billion dollars](https://www.youtube.com/watch?v=I8JD776WwhU) in gross global sales in 2022.
 
 The Sto & Go is a sleeper technical hit at Mattel that deserved its registration renewal. As I understood from these professional toy makers, the long-cased Sto & Go was a top-trim line that sold well for years, was considered inventive by even those who worked on it, and seatbelted people like me (and maybe you) into Hot Wheels forever.
 

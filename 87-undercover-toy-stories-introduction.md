@@ -4,6 +4,8 @@
 
 ![](images/87-01.jpeg)
 
+---
+
 *This draft is part of an American Toy Anthology. For information on the upcoming publication, see this author's announcement, [Undercover Toy Stories](https://medium.com/@solidi/upcoming-book-technical-toy-stories-80d5bfbd76c0): Volume One.*
 
 ---
