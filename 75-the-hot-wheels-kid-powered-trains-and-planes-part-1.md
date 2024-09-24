@@ -5,9 +5,15 @@
 
 ![Hot Line is a train set based on the [Sizzler's](https://hotwheels.fandom.com/wiki/Sizzlers) technology. Here is the artwork of Al Andersen.](images/75-01.jpeg)
 
-[Hot Wheels](https://nypost.com/2018/09/26/how-hot-wheels-became-the-biggest-little-toy-car-in-the-world/) is about their *speed* - engineered performance encased by their futurist automotive artists. These miniature diecast cars define toy culture, invoking the gears of endless childhoods.
+---
 
-Surprisingly, [Mattel](https://en.wikipedia.org/wiki/Mattel), the inventor of Hot Wheels and the world's largest car manufacturer, went into the toy train and plane business numerous times since the nineteen sixties. It was a natural outcome of a successful Hot Wheels launch in 1968, which demanded the brand's expansion.
+*This draft is part of an American Toy Anthology. For information on the upcoming publication, see this author's announcement, [Undercover Toy Stories](https://medium.com/@solidi/upcoming-book-technical-toy-stories-80d5bfbd76c0): Volume One.*
+
+---
+
+HOT WHEELS IS ABOUT THEIR SPEED — is about their *speed* - engineered performance encased by their futurist automotive artists. These miniature diecast cars define toy culture, invoking the gears of endless childhoods.
+
+Surprisingly, [Mattel](https://en.wikipedia.org/wiki/Mattel), the inventor of [Hot Wheels](https://nypost.com/2018/09/26/how-hot-wheels-became-the-biggest-little-toy-car-in-the-world/) and the world's largest car manufacturer, went into the toy train and plane business numerous times since the nineteen sixties. It was a natural outcome of a successful Hot Wheels launch in 1968, which demanded the brand's expansion.
 
 ### Single Engine
 
@@ -27,7 +33,7 @@ Of interest, Mattel engineered something wild, casing in rechargeable power unit
 
 ## Wheels and Short-Lived Space Trains and Planes
 
-The story of toy trains and planes at Mattel has been a lock-stock, coupling adventure. Trains could not have persisted without Hot Wheels. In its first attempt, trains followed its 1970 motto, "[Go with the Winner.](https://www.greensburgdailynews.com/opinion/columns/go-with-the-winner-of-the-toy-cars-hot-wheels/article_57df8d43-0b2f-598c-8878-6519a9a50c0c.html)"
+THE STORY OF TOY TRAINS AND PLANES at Mattel has been a lock-stock, coupling adventure. Trains could not have persisted without Hot Wheels. In its first attempt, trains followed its 1970 motto, "[Go with the Winner.](https://www.greensburgdailynews.com/opinion/columns/go-with-the-winner-of-the-toy-cars-hot-wheels/article_57df8d43-0b2f-598c-8878-6519a9a50c0c.html)"
 
 Before we get to trains and planes, we must discuss the cars that powered them.
 
@@ -85,7 +91,7 @@ Ruth Handler, part founder of Mattel, and Bernie Loomis, a marketing polymath, w
 
 ## In Search of... New Age Space Juice
 
-During this time at Mattel, America was close to completing the moonshot. Mattel was located in the same place where engineers were needed for such a trial. Detailed toy engineering to power Sizzlers took similar inventiveness, as it was never done before.
+DURING THIS TIME AT MATTEL, America was close to completing the moonshot. Mattel was located in the same place where engineers were needed for such a trial. Detailed toy engineering to power Sizzlers took similar inventiveness, as it was never done before.
 
 ### Personnel Powerhouse
 
@@ -171,7 +177,7 @@ After experimentation, Ryans' team settled on a miniaturized and refined [Ni-Cd]
 
 ## Marketing Rails: Bernie's Hot Line to Kenner
 
-That is where Bernard Loomis ("Bernie"), a leading sales executive, marketer, and then division vice president at Mattel, stepped in to develop the incremental Line of trains called [Hot Line](https://hotwheels.fandom.com/wiki/Hot_Line) from the same tech.
+THAT IS WHERE BERNARD LOOMIS ("Bernie"), a leading sales executive, marketer, and then division vice president at Mattel, stepped in to develop the incremental Line of trains called [Hot Line](https://hotwheels.fandom.com/wiki/Hot_Line) from the same tech.
 
 Bernie was to command the modern children's television media, organizing toys into incremental product lines. He had a knack for discovering "toyetic" toys, a natural ability to forge them into sellable products.
 
@@ -241,7 +247,7 @@ While these toy lines failed as he exited, it would later suit his next career m
 
 ## Wings Too: Flying On a Line into Something Soft
 
-From Bernie's title, his team's other directive was Wings. "[Hot Birds](https://corporate.mattel.com/brand-portfolio/hot-birds)" was a beautifully developed diecast flyer by Bob Lovejoy. Bob, a dreamer, was an avid ultralight pilot.
+FROM BERNIE’S TITLE, his team's other directive was Wings. "[Hot Birds](https://corporate.mattel.com/brand-portfolio/hot-birds)" was a beautifully developed diecast flyer by Bob Lovejoy. Bob, a dreamer, was an avid ultralight pilot.
 
 With a set of six, a lanyard string flight deck, and developed playsets, it was an attempt at extending diecast that flew with gravity.
 
@@ -279,7 +285,7 @@ Lensley, who produced Matchbox diecast cars, released [Sky Busters](https://matc
 
 ## Dreaming into Beautiful Trainsets
 
-Once dreaming into his [Lionel catalogs as a child](https://www.nytimes.com/2006/06/06/business/06loomis.html), Bernie would leave Mattel and settle at [General Mills Kenner](https://en.wikipedia.org/wiki/Kenner_Products), his second toy company, which became the largest for a brief time.
+ONCE DREAMING INTO his [Lionel catalogs as a child](https://www.nytimes.com/2006/06/06/business/06loomis.html), Bernie would leave Mattel and settle at [General Mills Kenner](https://en.wikipedia.org/wiki/Kenner_Products), his second toy company, which became the largest for a brief time.
 
 ![From the Cincinnati Post, October 1971.](images/75-22.jpeg)
 
