@@ -74,6 +74,6 @@ While many toy stories are mundane, the tales in this book are intriguing and ra
 
 *Undercover Toy Stories* salutes the toy maker's craftwork from the perspective of a child who experienced it, memorializing their passion forever in writing. And these works are dedicated to Mom, who encouraged this author to seek truth.
 
-Doug Arcuri  
+D. Arcuri  
 From a dining room table  
 March 2023 - April 2025  
