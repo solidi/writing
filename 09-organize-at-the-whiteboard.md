@@ -1,7 +1,7 @@
 ## How to organize your thoughts on the whiteboard and crush your technical interview
 ## On organizational skills and the applied science of gluing lots of things together in the craft of software engineering
 
-> The ABC’s of Programming did not include O for Organization.
+![The [ABC’s of Programming](http://arthur-johnston.com/abcs/) did not include O for Organization.](images/09-01.jpeg)
 
 Some weeks ago, a bright individual reposted on Hacker News a well-thought out and succinct post about the most important skill in software development. In this post, John D. Cook pointed out a quote from the article Organizational Skills Beat Algorithmic Wizardry, by James Hague. Both authors tackle the software engineering subject of organization as a skill. They contrast this to the mastery of computer science tested in interviews, taught in academia, or touted in blog posts. Their contemplation got me pondering about how our craft could be improved.
 
@@ -27,7 +27,7 @@ This is where my head starts to spin out of control by way of anxiety and disorg
 
 Maybe there is a way to slow down, pace, and walk through a process with organization. Something I’ve never actually seen before while interviewing candidates over my years, but maybe it can help ease the nerves and make it an enjoyable experience. First, look at the board, and cut it up into three sections.
 
-> A typical 5' by 3' whiteboard cut into three sections.
+![A typical 5' by 3' whiteboard cut into three sections.](images/09-02.jpeg)
 
 The three sections will be organized for temporary space to work toward solving the problem.
 
@@ -35,7 +35,7 @@ The three sections will be organized for temporary space to work toward solving 
 
 Make sure to write down the problem in a complete sentence up top. This will get you feeling the marker and will help you overcome the initial hit of the rush of “how do I solve this?”
 
-> A problem statement above is very important to look over.
+![A problem statement above is very important to look over.](images/09-03.jpeg)
 
 Once you have the question written down, look at it for a moment and start to think about questions. Draw the lines with ample space. Don’t worry about the pause, let the interviewer know that you are thinking about questions to ask.
 
@@ -43,7 +43,7 @@ Once you have the question written down, look at it for a moment and start to th
 
 Think about some generic questions. Like, what programming language do you prefer? Move to the right side of the board. No questions coming? The problem may contain concepts you don’t know. Ask what they are. Then, start tackling the problem questions. The first ones to ask are what is an example of the parameter input and output. Ask if the data is presorted.
 
-> Assumptions are all the questions need answering.
+![Assumptions are all the questions need answering.](images/09-04.jpeg)
 
 Clarifying assumptions can simplify the problem. As you ask each question, you should write each answer pair in the assumptions area. When you receive answers, get a secondary marker (a different color) to highlight the answer. Bringing your own markers may help.
 
@@ -53,7 +53,7 @@ We can only hold so many items in our head, so lean heavily on the board to capt
 
 Once you have a good number of questions on the right side of the board, physically move over to the left. This is where we will start to discuss an approach to our solve.
 
-> Approach is the strategy, the structure and the visualization scratch pad.
+![Approach is the strategy, the structure and the visualization scratch pad.](images/09-05.jpeg)
 
 Here, very rough pseudocode, steps, and visualizations occur. Let your interviewer know that this is not your implementation, but a place where you are organizing your thoughts on the strategy and approach, loosely on data structures and abstract data types. Draw out the solve like its a picture.
 
@@ -67,7 +67,7 @@ Once enough assumptions and approach material are generated, this means that you
 
 Even if you struggle with the solve, you are a wizard of organization.
 
-> The main event is centered so it can be supported from all sides.
+![The main event is centered so it can be supported from all sides.](images/09-06.jpeg)
 
 Of course, there is a possibility of finding something in the act. Walk back to the left and revive the approach break down and ask for assistance. New questions pop up. Go to the right. Go back and forth from left to right to center until you succeed. You will.
 
@@ -77,7 +77,7 @@ Be the master of organization. If you hit a wall or find something that is just 
 
 If you have completed the exercise with code you think is working, take the first step to discuss how it should be tested. Use the assumptions section as a place to write clean test code, if you should choose to do so.
 
-> Tests should never be optional.
+![Tests should never be optional.](images/09-07.jpeg)
 
 By now, it is most likely safe to remove all the questions from this area. Erase the questions and attempt to write unit tests. In the end, you’ll be okay because you organized with confidence.
 
@@ -90,7 +90,7 @@ There you go. That was a few minutes of pure organization without much theory. I
 **Gating** — we should not proceed forward with the next step until we are comfortable and confident about the affairs of addressing the problem well. Display confidence but actively engage with “Did I miss any assumptions?” or “Does my approach have holes?” before proceeding.
 **State** — organization is handled visually to maintain the weighing the complexity of the problem. Avoid using an eraser if you can.
 
-> Approaching the actual organization problem with a solution. If you are left handed, try reversing the setup
+![Approaching the actual organization problem with a solution. If you are left handed, try reversing the setup.](images/09-08.jpeg)
 
 ## Conclusion
 
@@ -111,6 +111,11 @@ We all have a story about the whiteboard. I wanted to find how I could improve a
 Most of our craft is an applied science. Rarely, the gifted can tinker and tamper to invent new data structures or algorithms. Ours is one of a pattern language and a craft. It is rarely art, if ever. It has a lot to do with identifying the latest organization skill and ungluing and gluing things together very well, repeatedly. Perhaps with some tools out of the toolbox. But be careful of the tools of organization that are pushed on us by an exchange or by enthusiasm.
 
 Remember, there is pride in improving on top of code by way of organization and structure. I’ve written a few posts about organization and the subject linking organization to system complexity. There is a strong link. This is why I appreciated John’s and James’ thoughts deeply. They are organized messages without hurry up time expiration.
+
+![What it may look like on a first try. Try iterating to discover more patterns.](images/09-09.jpeg)
+
+*If you find yourself in this [situation](
+https://www.youtube.com/watch?v=XKu_SEDAykw), ask for a larger whiteboard!*
 
 ---
 
