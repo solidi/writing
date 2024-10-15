@@ -153,6 +153,12 @@
     1. How going from place to place, and being on time is killer
 1. A write up about The Right to be Remembered
     1. Product idea conclusion?
+1. A write up about the immigration actions
+1. "That one project" - noggin.
+1. When the boiler service comes
+    1. Just do enough
+    1. Enough to get it done, but may be a time liability later
+    1. Gaskets, cleaning, replacing parts
 
 ## Updates
 
@@ -194,6 +200,7 @@
     1. Assistant jumping in on conversation when it should not
     1. Apple maps directing us to a renaissance faire, but officals blocked road. 1.5+ more hours.
     1. Recovery of browser tab, with sensitive info of direct, of a teammate
+    1. AI takes meeting minutes, continues after meeting ends, secrets discussed. Then everyone gets the notes.
 1. How to Place on the Front Page of Hacker News
     1. Add "Angle of Attack" on how to write something
     1. Appeal to readers by telling them [how something complicated works](https://twitter.com/paulg/status/1553708274465140736)

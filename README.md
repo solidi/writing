@@ -103,6 +103,7 @@ Experiences distilled through writing.
 1. [All Wet In The Great American Water Balloon Fight](https://medium.com/@solidi/all-wet-in-the-great-american-water-balloon-fight-596312c7a0f2)
 1. [Theo and Ora: Toy Craft From Israel](https://medium.com/@solidi/theo-and-ora-toy-craft-from-israel-317112446e05)
 1. [Undercover Patented Toy Stories](https://medium.com/@solidi/undercover-patented-toy-stories-e49676a29477)
+1. [Wear Safety Glasses: Galoob's Sky Dancers](https://medium.com/@solidi/wear-safety-glasses-galoobs-sky-dancers-3c3b499288f3)
 
 ## Major Engagements
 

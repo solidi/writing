@@ -79,8 +79,8 @@ Picking up *Technical Toy Stories* provides the convenience of having everything
       *The waning of toy trains and military planes in America.*
 12. 1987: How The Orange Tip Became Standard Issue
       *Toy guns in America, Daisy, and the tragedy of Lenny Falcon.*
-13. 1994: Wear Eye Glasses: Galoob's Sky Dancers
-      *When toy makers launched a flying doll (and failed successfully.)*
+13. 1994: [Wear Eye Glasses: Galoob's Sky Dancers](https://medium.com/@solidi/wear-safety-glasses-galoobs-sky-dancers-3c3b499288f3)
+      *When toy makers launched a flying doll, and crash landed successfully.*
 14. 1997: Los Angeles Explosion at Imperial Toys
       *Worker safety in toys, explosion in a cap gun plant.*
 15. 2009: [Theo and Ora: Toy Craft From Israel](https://medium.com/@solidi/theo-and-ora-toy-craft-from-israel-317112446e05)
@@ -90,7 +90,7 @@ Picking up *Technical Toy Stories* provides the convenience of having everything
 17. Timeless: [Military Toy Complex: The Man Who Made Magic](https://medium.com/@solidi/the-man-who-made-magic-f2add97875c8)
       *The mystery and legacy of Jack E. Hartman, an All American toy inventor.*
 
-18. Conclusions
+18. Epilogue
 
 19. Appendix A: [Cognitive Dissonance: The Ultimate Hot Wheels Legend](https://medium.com/@solidi/the-ultimate-hot-wheels-legend-0e3b9e2b2d88)
       *Opinion on a prank in hiding supporting [A Tragic American Toy Story](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e).*
