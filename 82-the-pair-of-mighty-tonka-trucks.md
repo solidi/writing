@@ -4,6 +4,12 @@
 
 #Toys, History, #Tonka, #Business, #Nostalgia
 
+---
+
+*This draft is part of an American Toy Anthology. For information on the upcoming publication, see this author's announcement, [Undercover Toy Stories](https://medium.com/@solidi/upcoming-book-technical-toy-stories-80d5bfbd76c0): Volume One.*
+
+---
+
 In the late 1960s, *Minneapolis Star* staff writer Susan Abbasi published [a rhythmic photo](https://www.newspapers.com/image/188320695/) of stamped metal covered in yellow paint with bold plastic wheels. In the frame are toy front loader trucks, known as payloaders.
 
 It was a new plaything designed by [Ronald Pauly](https://www.srperspective.com/post/dump-truck-ride-down-memory-lane#google_vignette), who worked for model maker supervisor [Ted Zbikowski](https://patents.google.com/?inventor=Theodore+H+Zbikowski&country=US&num=100&sort=old). Both men worked for [Tonka Corporation](https://en.wikipedia.org/wiki/Tonka).

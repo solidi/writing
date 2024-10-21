@@ -14,7 +14,7 @@ To the uninitiated, [Toys "R" Us](https://en.wikipedia.org/wiki/Toys_%22R%22_Us)
 
 Children were escorted by loved ones throughout, many mismanaged and wonderfully lost in the aisles tall as the sky.
 
-It was a vision of [Charles Lazerus](https://en.wikipedia.org/wiki/Charles_Lazarus), one of many businesspeople of his generation who would take advantage of the [American Baby Boom](https://en.wikipedia.org/wiki/Baby_boomers). New marketers of the trade would secure the orders, and system engineers would invent the toys that filled the aisles.
+It was a vision of [Charles Lazarus](https://en.wikipedia.org/wiki/Charles_Lazarus), one of many businesspeople of his generation who would take advantage of the [American Baby Boom](https://en.wikipedia.org/wiki/Baby_boomers). New marketers of the trade would secure the orders, and system engineers would invent the toys that filled the aisles.
 
 ![The venerable [Sky Dancers patent](https://patents.google.com/patent/US5525086A/en).](images/87-02.jpeg)
 
