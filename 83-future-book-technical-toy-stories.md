@@ -4,7 +4,7 @@
 
 #Books, #Future, #Toys, #Stories, #Memories
 
-![A generated book cover of this author's proposed book.](images/83-01.jpeg)
+![The current book cover artiwork of this author.](images/83-01a.jpeg)
 
 What if a reader was treated like an adult, retelling the *best and worst* American inventive toy stories so few published works dare to write?
 
@@ -55,45 +55,61 @@ Picking up *Technical Toy Stories* provides the convenience of having everything
 *Technical Toy Stories* growing index follows. Each story contains a patent postlude(s). While focusing on "boy toys," alternative topics are being researched.
 
 ```
-1. Introduction
+i. [An Introduction To Undercover Toy Stories](https://medium.com/@solidi/undercover-patented-toy-stories-e49676a29477)
+ii. [Memorable Moments in Future American Toyland](https://medium.com/@solidi/memorable-moments-in-future-toyland-b919fdcbcba6)
 
-2. Orientation: [Memorable Moments in Future American Toyland](https://medium.com/@solidi/memorable-moments-in-future-toyland-b919fdcbcba6)
+I. A Time for Toy Stories
 
-3. 1959: On Jack Ryan: Sex and Speed in American Toys
-      *Adults inventing new American culture, adult vices.*
-4. 1967: [Rusting of America: A Pair of Mighty Tonka Trucks](https://medium.com/@solidi/the-pair-of-mighty-tonka-trucks-b361abe12c6e)
+1. 1959: On Jack Ryan: Sex and Speed in American Toys
+      *Adults inventing new toy culture. A modern battle for his acknowledgment.*
+2. 1967: [Rusting of America: A Pair of Mighty Tonka Trucks](https://medium.com/@solidi/the-pair-of-mighty-tonka-trucks-b361abe12c6e)
       *Toys based on real machines. Shifting US manufacturing.*
-5. 1968: [Obsessions in Conspiracy: A Tragic American Toy Story](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e)
+3. 1968: [Obsessions in Conspiracy: A Tragic American Toy Story](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e)
       *Wild science, injustice, supression. The Toy Industry's CYA moment.*
-6. 1970: [Toys from Aerospace: Wheels, Wings, and Electric Space Juice](https://medium.com/@solidi/push-play-and-put-em-away-the-hot-wheels-kid-powered-trains-and-planes-80f6c2edeb40)
+4. 1970: [Toys from Aerospace: Wheels, Wings, and Electric Space Juice](https://medium.com/@solidi/push-play-and-put-em-away-the-hot-wheels-kid-powered-trains-and-planes-80f6c2edeb40)
       *The toy company surrounded and influenced by Defense and Aerospace.*
-7. 1970: [The First American Toy Team: The Fisher-Price Action Garage](https://medium.com/@solidi/the-fisher-price-action-garage-15b6a9556e2a)
+5. 1970: [The First American Toy Team: The Fisher-Price Action Garage](https://medium.com/@solidi/the-fisher-price-action-garage-15b6a9556e2a)
       *Child injury, deaths, toxic paints within an iconc pre-school brand.*
-8. 1976: An Engineer's Mind: Broken Glass
-      *The mass shooting at Marvin Glass Associates.*
-9. 1977: [The Tomy Big Loader](https://medium.com/@solidi/the-tomy-big-loader-351139832616)
+6. 1976: [The Great Marvin Glass: Artists in a Fortress of Invention](https://medium.com/@solidi/the-great-marvin-glass-artists-in-a-fortress-of-invention-08e6a6da3399)
+      *The murderer of his associates, creators of toy culture, found on YouTube.*
+7. 1977: [East Remeets West: The Tomy Big Loader](https://medium.com/@solidi/the-tomy-big-loader-351139832616)
       *Japanese normalization Post WWII in American Toys before the 80s.*
-10. 1980: [The Toy That Drove Us: The Hot Wheels Sto & Go](https://medium.com/@solidi/the-toys-that-made-us-the-first-hot-wheels-sto-go-playset-2f051fbd33c3)
+8. 1980: [The Toy That Drove Us: The Hot Wheels Sto & Go](https://medium.com/@solidi/the-toys-that-made-us-the-first-hot-wheels-sto-go-playset-2f051fbd33c3)
       *When spaceage plastic meets the first portable car garagehouse.*
-11. 1983: [The Last Toy Express: Golden Era Kid Powered Trains](https://medium.com/@solidi/push-play-and-put-em-away-the-hot-wheels-kid-powered-trains-and-planes-caefc9c49042)
+9. 1983: [The Last Toy Express: Golden Era Kid Powered Trains](https://medium.com/@solidi/push-play-and-put-em-away-the-hot-wheels-kid-powered-trains-and-planes-caefc9c49042)
       *The waning of toy trains and military planes in America.*
-12. 1987: How The Orange Tip Became Standard Issue
+10. 1987: How The Orange Tip Became Standard Issue
       *Toy guns in America, Daisy, and the tragedy of Lenny Falcon.*
-13. 1994: [Wear Eye Glasses: Galoob's Sky Dancers](https://medium.com/@solidi/wear-safety-glasses-galoobs-sky-dancers-3c3b499288f3)
+11. 1994: [Wear Eye Glasses: Galoob's Sky Dancers](https://medium.com/@solidi/wear-safety-glasses-galoobs-sky-dancers-3c3b499288f3)
       *When toy makers launched a flying doll, and crash landed successfully.*
-14. 1997: Los Angeles Explosion at Imperial Toys
+12. 1997: Los Angeles Explosion at Imperial Toys
       *Worker safety in toys, explosion in a cap gun plant.*
-15. 2009: [Theo and Ora: Toy Craft From Israel](https://medium.com/@solidi/theo-and-ora-toy-craft-from-israel-317112446e05)
+13. 2009: [Theo and Ora: Toy Craft From Israel](https://medium.com/@solidi/theo-and-ora-toy-craft-from-israel-317112446e05)
       *Board games and toys; persecution survival and lasting impact.*
-16. 2014: [All Wet In The Great American Water Balloon Fight](https://medium.com/@solidi/all-wet-in-the-great-american-water-balloon-fight-596312c7a0f2)
+14. 2014: [All Wet In The Great American Water Balloon Fight](https://medium.com/@solidi/all-wet-in-the-great-american-water-balloon-fight-596312c7a0f2)
       *Patents, legal challenges and independent inventors in backyard toys.*
-17. Timeless: [Military Toy Complex: The Man Who Made Magic](https://medium.com/@solidi/the-man-who-made-magic-f2add97875c8)
+
+II. Opinion in Toy Making
+
+1. An Urban Legend Dies in Vietnam: Mattel's Rubber Rifle
+      *The story of the M-16 Marauder from Aerospace. No conspiracy we know of.*
+2. [Automotive Dissonance: The Ulitmate Hot Wheels Legend](https://medium.com/@solidi/the-ultimate-hot-wheels-legend-0e3b9e2b2d88)
+      *The prank hiding in toy history supporting [A Tragic American Toy Story](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e).*
+3. Jack's Injustice: Corruption Within the Great State of Californa
+      *Evidence suggests tensions which challenged Jack's warranted criminal manslaugther.*
+
+III. America's "Jack" of Toyland
+
+1. [Inside the Military Toy Complex: The Man Who Made Magic](https://medium.com/@solidi/the-man-who-made-magic-f2add97875c8)
       *The mystery and legacy of Jack E. Hartman, an All American toy inventor.*
-
-18. Epilogue
-
-19. Appendix A: [Cognitive Dissonance: The Ultimate Hot Wheels Legend](https://medium.com/@solidi/the-ultimate-hot-wheels-legend-0e3b9e2b2d88)
-      *Opinion on a prank in hiding supporting [A Tragic American Toy Story](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e).*
+        a. A Place to Create
+        b. A Moonshot Engine
+        c. Science by Press Conference
+        d. Belief vs. Research Fields
+        e. Investigating an Observer
+        f. A Toy Legacy Written in Prank
+        g. Toy Maker Crosses a Century
+        h. The Mystery and Legacy of an Inventor
 ```
 
 Each story is historically accurate based on sources. These stories capture the truth about the American toy business, for good or bad.
@@ -104,7 +120,7 @@ This author started the journey out of curiosity, reflecting on how toys impact 
 
 Countless inventors have shaped American culture without receiving credit. *Technical Toy Stories* highlights some of them. But not all stories can be found by this author alone.
 
-![Another example of the book cover. The goal is to display recognizable patent artwork.](images/83-04.jpeg)
+![Inside Undercover Toy Stories. Its goal is to tells tories around their recognizable patent artwork.](images/83-04a.jpeg)
 
 If the reader has a tip, please contact the author through the platform by commenting below. No story is too small, and no invention controversy is too difficult.
 
