@@ -168,11 +168,11 @@ Incorporating Frank G. Hough Co, they introduced the articulating turning radius
 
 [The [Articulated Motor Vehicle](https://patents.google.com/patent/US3101806A/en) was filed in 1961.](images/82-15.jpeg)
 
-Others copied and improved the machine designs. But miniaturizing these real-life machines for two small hands was cumbersome. Payloders were expensive to manufacture all the fiddly bits.
+Others copied and improved the machine designs. But miniaturizing these real-life machines for two small hands was cumbersome. Payloaders were expensive to manufacture all the fiddly bits.
 
 Mr. Pauly investigated how to produce a loader with these realities. Each toy demanded low cost, simplicity of the mechanisms, and, importantly, allowing a child to play well.
 
-Looking over specifications from [Catapiller](https://www.caterpillar.com/) Traxcavators, [International Harvester](https://en.wikipedia.org/wiki/International_Harvester), and other press kits, [Hough's materials](https://www.tractorparts.com/PDFs/HOUGH_H120C_%20WHEEL_LOADER_SALES%20LIT.pdf) jumped out.
+Looking over specifications from [Caterpillar](https://www.caterpillar.com/) Traxcavators, [International Harvester](https://en.wikipedia.org/wiki/International_Harvester), and other press kits, [Hough's materials](https://www.tractorparts.com/PDFs/HOUGH_H120C_%20WHEEL_LOADER_SALES%20LIT.pdf) jumped out.
 
 "But one of them, Hough - they had a tie-in, I believe, with International Harvester. [They] came out with a new front loader," said Ron.
 
@@ -212,7 +212,7 @@ Mr. Pauly later stamped the [Mighty Mixer](https://www.basicfun.com/product/tonk
 
 ![From an auction site, the Mighty Front Loader adorns a 1970s logo.](images/82-20.jpeg)
 
-"Tonka aims to make [a] realistic model." The [Mighter Loader](https://www.basicfun.com/product/tonka-steel-classics-front-loader/) is a quiet legacy cast in realism, surpassing a half-century. It hasn't changed... well, with more plastic and less metal.
+"Tonka aims to make [a] realistic model." The [Mighty Loader](https://www.basicfun.com/product/tonka-steel-classics-front-loader/) is a quiet legacy cast in realism, surpassing a half-century. It hasn't changed... well, with more plastic and less metal.
 
 ---
 
@@ -332,7 +332,7 @@ So, with this short story made possible by the Internet, they are now a paired l
 
 ---
 
-![* Without a doubt, the Tonka Dump truck imaginary powerplant was an [experimental](https://www.facebook.com/permalink.php/?story_fbid=363636877561047&id=363468377577897) [Allis-Chalmers](https://en.wikipedia.org/wiki/Allis-Chalmers).](images/82-30.jpeg)
+![* Without a doubt, the Tonka Dump truck imaginary power plant was an [experimental](https://www.facebook.com/permalink.php/?story_fbid=363636877561047&id=363468377577897) [Allis-Chalmers](https://en.wikipedia.org/wiki/Allis-Chalmers).](images/82-30.jpeg)
 
 ---
 
