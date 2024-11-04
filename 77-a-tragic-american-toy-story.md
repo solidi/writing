@@ -218,6 +218,8 @@ And so the reporter did. "[but] this was happening. It wasn't Korea or Vietnam. 
 
 *Jerry Oppenheimer (unrelated to J. Robert) would write a book, [Toy Monster](https://www.wiley.com/en-ie/Toy+Monster:+The+Big,+Bad+World+of+Mattel-p-9780470371268), covering another preliminary design leader, [Jack Ryan](https://en.wikipedia.org/wiki/Jack_Ryan_(designer)). Hartman shared one patent with him, which [Mattel filed in 1967](https://patents.google.com/patent/US3451160A). Preliminary design was where prototype toy invention occurred. Its setup (compartmentation) and attitude (secrecy) were influenced by aerospace.*
 
+*Jack Hartman was the first to challenge Jack Ryan in Mattel’s legendary research and development department.*
+
 *Hartman's name does not appear in American toymaking literature. His story was unknown to the historians this author spoke to, including a call to the curators at the [Strong Toy Museum](https://www.museumofplay.org/) in New York. However, a hoax toy engine prank coincides with the development timeline of [Hot Wheels](https://en.wikipedia.org/wiki/Hot_Wheels). That story is printed in a book bearing its trademarked logo.*
 
 ---
