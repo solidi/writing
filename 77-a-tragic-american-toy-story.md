@@ -206,7 +206,11 @@ And so the reporter did. "[but] this was happening. It wasn't Korea or Vietnam. 
 
 ---
 
-*Johnny P. O'Donnell was a pre-Watergate investigative journalist and muckraker. He covered Hollywood narcotics, which the Los Angeles Board of Supervisors lauded, and was a two-time Pulitzer nominee.*
+*Johnny P. O’Donnell was an investigative journalist and muckraker before Watergate. He covered Hollywood narcotics, which the Los Angeles Board of Supervisors lauded.*
+
+*Mr. O'Donnell was a freelance journalist for the Los Angeles Evening Citizen, Gardena Valley News, and Los Angeles Times, editor-in-chief of Asian News, and writer for Time Magazine and Penthouse. He was a two-time Pulitzer nominee in 1968 and 1969.*
+
+*Johnny died in August 2024, aged 88, surrounded by family.*
 
 *The newspaper's veracity and existence on microfilm in [which his story appears](https://josephpapp.com/gardena-valley-news-nov-21-1968/) had been confirmed by a Los Angeles civil servant through their resources department. It is the only paper in which Dr. Feynman's name was printed, tying him to the incident in both a third-person summary and a first-person quote.*
 
