@@ -4,65 +4,65 @@
 
 ![Software development is not a form of construction.](images/04-01.png)
 
-A few years ago, at an agile demo, a stakeholder made a special appearance. The team was closing in on a minimum viable product. The demonstration focused on sound effects and animations. The group revealed a configurable animation board to demo the results quickly. The experiences were easy to launch consecutively, isolated, and variably configured. The animation board did not depend on the more extensive system, but the intention was to tie each animation later.
+A few years ago, at an agile demo, a stakeholder made a special appearance. The team was closing in on a minimum viable product. The demonstration focused on sound effects and animations. The group revealed a configurable animation board to demo the results quickly. The experiences were easy to launch consecutively, in a isolated configuration. The animation board did not depend on the extensive system, but the intention was to tie-in each animation later.
 
-While the team demoed, the stakeholder asked if we evaluate the animation board for further experimentation. With this feedback, the group noted the ***unrealized*** value and quickly wrote down what to explore next. Of course, this wasn’t the first time the team used the technique. We made similar discoveries in [future demos](https://dev.to/solidi/how-to-crush-your-next-team-demo-2bb5). The team was aware the feature containment were incredibly powerful both for their demos and for product value.
+While the team demoed, the stakeholder asked if we could evaluate the animation board for further experimentation. With this feedback, the group noted the ***unrealized*** value and wrote down what to explore. Of course, this wasn’t the first time the team used the technique. They made similar discoveries in [future demos](https://dev.to/solidi/how-to-crush-your-next-team-demo-2bb5). The team learned that feature containment was powerful in their demos and provided product value.
 
-For us as engineers, naming things is hard. Harder still is how to communicate something. To the above story, there exists no vocabulary to describe the effort of execution. There is no description for the iterative containment orchestration in ***software engineering***.
+For us as engineers, naming things is hard. Harder still is how to communicate clearly. And in the story above, there is no vocabulary to describe their effort. There is no description for the iterative containment orchestration in ***software engineering***.
 
-So this is what I propose, a definition to describe the unique execution with its benefits and drawbacks. Developing and demoing in containment is an example of what I call the **springboard pattern**.
+So I propose a definition to describe the unique execution with its benefits and drawbacks. Developing and demoing in containment is an example of what I call the **springboard pattern**.
 
 Let’s describe what the pattern is.
 
-## What Is The Springboard Pattern?
+## What is the Springboard Pattern?
 
-The springboard pattern is known as a ***visual design*** pattern. Mobile operating systems that constrain viewing areas have used the pattern widely. The app launcher is an example.
+The springboard pattern is a ***visual design*** pattern. Mobile operating systems that constrain viewing areas have used the pattern widely. The app launcher is an example.
 
 ![Above are examples of the springboard visual design pattern within app launchers.](images/04-02.png)
 
-Our introductory story and its animation board also fit this model. We can think of the animation board as the contained screen launcher and each animation as an organized app with its configurations.
+Our introductory animation board fits this model. The animation board is a contained screen launcher and each animation is a section with its specific configuration.
 
-When applied to software development, the springboard pattern acts as a guardrail to develop features in isolated pieces that are easily ***demonstrable*** on the platform. There are many benefits to engineering and product. The design is a way to execute both iteratively and incrementally operationally.
+When applied to software development, the springboard pattern acts as a guardrail. Features are isolated areas that are easily ***demonstrable*** on the platform. There are many benefits to engineering and product. The spring board pattern is a way to execute iteratively and incrementally.
 
-The springboard pattern is a way to keep dependencies in check and develop features on a cycle centered around ***product demonstrations***. Here are the rules an engineer must follow while iterating.
+The springboard pattern keeps dependencies in check and develops features in a cycle centered around ***product demonstrations***. Here are the rules an engineer must follow while iterating.
 
 The feature:
 
-1. It launches from a board that includes other features.
-1. Can launch quickly with minimum setup.
-1. It can launch on its own and in any order.
-1. The configuration is possible to launch in any state.
-1. The feature resists larger system coupling and dependencies.
+1. Launches from a board that includes other features.
+1. Can spring up with minimum setup.
+1. Can launch on its own and in any order.
+1. Can launch in any state.
+1. Resists larger system coupling and dependencies.
 
-If we follow these rules during feature development, magic happens. Benefits include the promotion of modularity, testability, and build-time. Additional improvements include [product ideation](https://dev.to/solidi/what-is-a-product-manager-anyway-3pc4) that is unrealized, engineer efficiency, and advantages of the framework. Let’s discuss these next.
+If we follow these rules of feature development, magic happens. Benefits include the promotion of modularity, testability, and build-time. Additional improvements include [product ideation](https://dev.to/solidi/what-is-a-product-manager-anyway-3pc4) that is unrealized and engineer efficiency. Let’s discuss these next.
 
 ## Promotes Modularity
 
-The springboard pattern insists on developing features in isolation from one another. In each design segment, the team must do their best to create a solution in ***containment***.
+The springboard pattern enables development of features in isolation from one another. In each design segment, the team must do their best to create a solution in ***containment***.
 
-Dependencies will always be present, but the layers separate the feature for demonstration cleanly. The feature should be modularized and independent. As the iterations continue and demos succeed, the springboard items integrate into the extensive system. As this occurs, the team should continue to resist coupling and ensure the feature code cohesion is high. From start to finish, each item should have a weak measure of ***connascence***.
+Dependencies will always be present, but the layers separate the feature for demonstration cleanly. The feature should be modularized and independent. As the iterations continue and demos succeed, the springboard items integrate into the extensive system. As this occurs, the team  continues to resist coupling and ensure the feature code cohesion is high. From start to finish, each item should have a weak measure of ***connascence***.
 
 ![The springboard design pattern.](images/04-03.png)
 
-At any time during the cycle, pattern violation can diminish the return of the modularization. Therefore, the team must make ***prudent and deliberate*** decisions by leaning on tools of layering, wrapping, and flow of control using dependency inversion.
+During the cycle, pattern violation can diminish the return of the modularization. Therefore, the team must make ***prudent and deliberate*** decisions by leaning on tools of layering, wrapping, and flow of control using dependency inversion.
 
-## Supports Testability And Build Time
+## Supports Testability and Build Time
 
 The development of a demonstrable item from the springboard demands testability. The unit tests will also serve as documentation of the module.
 
 The concept of the springboard pattern is one that promotes testability. Its dependencies should be highly configurable. The feature should have available configurations available for its ***dependency injections***. Thus this supports ease of testing and mocking of all situations of the component.
 
-Build time also is maintained, and the complexity of the codebase is normalized with each feature. Incoming features can be ***flagged*** to be unbuilt by the toolset. Features that are rejected from demos are continuously removed.
+By using the springboard pattern, build time is reduced, and the complexity of the codebase is normalized with each feature. Incoming features can be ***flagged*** to be conditionally built by the toolset. Features that are rejected at demos are easily removed.
 
-Finally, a natural phenomenon of the springboard pattern can reveal ***diagnostic test tooling*** of that unique feature. The feature had started life without the extensive system. The springboard can make tools that test part of the feature in contra to the more comprehensive system as they are their subsystems.
+Finally, a natural phenomenon of the springboard pattern can reveal ***diagnostic test tooling*** of that feature. The springboard may develop tools that take on a life of their own, serving to test part of the system.
 
-## Product Ideation And Engineer Efficiency
+## Product Ideation and Engineer Efficiency
 
 Opportunities happen when products are deconstructed into independent pieces. In the case of the introduction example, there appeared to be an unrealized product value in the use of an animation board.
 
-Stakeholders refer to the features of their products as cohesive constructs and use vocabulary to describe them. Wouldn’t it be powerful to find the part without friction immediately? The springboard gives us a ***learning library*** and allows for ***cross-pollination*** between engineers and gives us a tool to locate each feature quickly.
+Stakeholders refer to the features of their products as cohesive constructs and use vocabulary to describe them. Wouldn’t it be powerful to find the part without friction immediately? The springboard gives us a ***learning library*** and allows for ***cross-pollination*** between engineers and gives us a tool to locate each feature.
 
-![Above is a screenshot of a springboard example with the use of the domain language.](images/04-04.png)
+![Above is a screenshot of a springboard with the use of the domain language.](images/04-04.png)
 
 As an additional benefit, the engineer’s work is ***always available*** for demonstration at a moment’s notice. An isolated solution offsets the typical cost of the time to prepare for the demo (you are giving time for the engineers to prep, yes?).
 
@@ -70,37 +70,37 @@ Mileage may vary depending on the domain and the reception from stakeholders. In
 
 ## Framework Support
 
-With the springboard pattern, there could be undiscovered ***efficiency*** benefits that coincide with features of the framework. The framework the team works with may vary. For this post, I’ll discuss Android concerning the use of a springboard.
+The springboard pattern provides ***efficiency*** benefits that coincide with features of the framework. For this post, I’ll discuss Android concerning the use of a springboard. Your framework may vary.
 
-Recently in the Android ecosystem, Google has launched [Instant Apps](https://developer.android.com/topic/instant-apps/index.html) and discussed at length the incorporation and break out of new concepts in the area called ***feature modules***. As we can see from above, everything that is demonstrable to stakeholders should be modular and isolated. As development continues, insulate each feature from significant dependencies and optimize them for every feature. The product team may want to launch these features separately or together.
+Recently in the Android ecosystem, Google has launched [Instant Apps](https://developer.android.com/topic/instant-apps/index.html) and discussed at length the incorporation and break out of new concepts in the area called ***feature modules***. As we can see from above, everything that is demonstrable to stakeholders should be isolated. As development continues, insulate each feature from significant dependencies and optimize them for every feature. The product team may want to launch these features separately or together.
 
-Another example of Android is the concept of isolated ***activities***. Each activity should be able to launch in isolation, taking what it needs to survive an experience. If features are built-in isolated activities, reconfiguration of the pieces of an application is possible.
+Another example of Android is the concept of isolated ***activities***. Each activity can launch in isolation, taking what it needs to survive an experience. If features are built-in isolated activities, reconfiguration of the pieces of an application is possible.
 
-Finally, with the latest versions of Android, its tooling have significantly improved. Independent modules allow for building abilities, which significantly reduce build time. Setups that use a ***flavored*** code organization may cause building delays, especially if the product dimensions are extensive.
+Finally, with the latest versions of Android, its tooling has improved. Independent modules allow for building abilities, which reduce build time. Setups that use a ***flavored*** code organization may cause building delays, especially if the product dimensions are extensive.
 
 Before we conclude, there are drawbacks to consider.
 
 ## Drawbacks
 
-There are possible drawbacks to this mode of execution. The team will have to make decisions that make the most sense to steer clear of over-engineering.
+There are drawbacks by developing with a springboard. The team will have to make decisions to steer clear of over-engineering.
 
 The springboard approach may:
 
 1. **Violate YAGNI** — “[You ain’t gonna need it](https://martinfowler.com/bliki/Yagni.html).” The team should build what they need, and not a single line more.
-1. **Accelerate decisions** — deferring architectural choices is an excellent strategy to keep complexity manageable. Operating this way may force challenging code decisions sooner.
+1. **Accelerate decisions** — deferring architectural choices is an excellent strategy to keep complexity manageable. Operating this way will encourage code decisions sooner.
 1. **Increase complexity** — additional logic to support layering and modularization may increase development time.
 
-However, keep in mind that the cost paid will most certainly provide a cost-benefit for code that is consistent and adaptable. ***Adaptability*** needs room to breathe. The code and products deserve that breathing room.
+However, keep in mind that the cost paid will certainly provide a cost-benefit for code that is consistent and adaptable. ***Adaptability*** needs room to breathe. The code and products deserve that breathing room.
 
 Now let’s wrap this up.
 
 ## Spring Into Action
 
-Developing for isolation and modularity is a practice all engineers should strive for. However, there had not been a pragmatic approach to these concepts and a way to describe how to execute on them. It is assumed engineers build this way, but the reality is that they do not.
+Developing for isolation and modularity is a practice all engineers should strive for. However, there hasn't been a pragmatic approach to these concepts and a way to describe the pattern. Now there is.
 
-The ***springboard pattern*** in software development finally gives us a word to communicate our intention both in software execution. When adhering to this pattern, we manage ***complexity*** and increase ***optionality***. As described above, the benefits are plenty, but be aware of the cost of drawbacks.
+The ***springboard pattern*** gives us a language to our intentions in software execution. When adhering to this pattern, we manage ***complexity*** and increase ***optionality***. Be aware of the cost of drawbacks.
 
-The springboard pattern takes effort and drive, but the benefits could be incredible to the team and their products. Center the way around the team demos and adhere to it.
+The springboard pattern takes effort and drive, but the benefits are incredible to the team cohesion and product impact. Implement the idea today!
 
 ---
 
