@@ -3,7 +3,7 @@
 
 ![Photo by Daniel K Cheung on Unsplash](images/64-01.jpeg)
 
-Reflecting on my [software experiences](https://dev.to/solidi/rediscovering-the-plan-file-4k1i), I've formed a list of deep curiosities. Here is my list of all the *not-so-small* things I learned about creating software.
+Reflecting on my [software experiences](https://dev.to/solidi/rediscovering-the-plan-file-4k1i), I've formed a catalog of deep curiosities. Here is my list of all the *not-so-small* things I learned about creating software.
 
 **Defaults rule the perceived experience** - what comes shipped in software is what sticks to its adopters. I've learned what is preset in software, such as settings and default preferences, shapes a first impression. That impression predicts an excellent experience from a flawed one. Adopters of my software rarely see past the defaults. Those who do are my power users.
 
@@ -11,7 +11,7 @@ Reflecting on my [software experiences](https://dev.to/solidi/rediscovering-the-
 
 **Communicate using video often** - a problem discussed in a conversation needs context. Today, sharing motion capture has become effortless. Why not [cut a gif or movie](https://www.cockos.com/licecap/) of the observation sooner? Since I've used gif creation, it has helped me cast a broader net to solve my problems faster.
 
-**The most straightforward answer is the right one** - debugging is a  process of deep information gathering and logical deduction. If my approach goes "off the ranch," I'll tie back the [fantastical thinking](https://dev.to/solidi/short-circuiting-fantastical-debugging-ig3) (or blaming the framework) for such woes. Instead, the solution to my problem is a straightforward answer.
+**The most straightforward answer is the right one** - debugging is a  process of deep information gathering and logical deduction. If my approach goes "off the ranch," I'll tie back the [fantastical thinking](https://dev.to/solidi/short-circuiting-fantastical-debugging-ig3) (or blame the framework) for such woes. Instead, the solution to my problem is a straightforward answer.
 
 **The answer comes the following day** - while rubbering ducking above is half the strategy to unstick my problem, the other half is to step away and let [my mind stew](https://medium.com/hackernoon/the-manager-stew-dd59cd653728). The solution to a problem will come the next day. Whether in the shower, exercising, or chewing breakfast, an explanation from yesterday's woes will bubble up.
 
@@ -21,7 +21,7 @@ Reflecting on my [software experiences](https://dev.to/solidi/rediscovering-the-
 
 **Scripting things remain essential for automation** - writing manual instructions is a step toward automation. I've achieved this by [do-nothing scripting](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/), a great way to capture actions performed in an environment. Taking the scripts I wrote, I'll hammer them into a future pipeline to build software in continuous integration later.
 
-**A route to innovation is through tooling** - creating tools for software engineers is a perfect environment to develop novel solutions to common problems. Tooling demands invention since it's hermetic to a problem that needs solving. Interestingly, since the tool's focus is the immediate resolution of someone's pain, there is a higher chance of discovering an untried solution.
+**A route to innovation is through tooling** - creating tools for software engineers is a perfect environment to develop novel solutions to common problems. Tooling demands invention since it's hermetic to a problem that needs solving. Interestingly, since the tool's focus is on the immediate resolution of someone's pain, there is a higher chance of discovering an untried solution.
 
 **Naming and grouping things remain complicated** - aliasing software components requires a choice of [cute](https://ntietz.com/blog/name-your-projects-cutesy-things/) versus descriptive. I've participated in teams of senior engineers where services are tagged "[creatively](https://dev.to/solidi/the-next-fantastic-software-project-code-name-bbd)." While labeling does not have an answer, organizing those names is clear. [Grouping by concern](https://twitter.com/housecor/status/1603428432091701252), not by type, is an excellent strategy to keep my sanity in check.
 
@@ -29,7 +29,7 @@ Reflecting on my [software experiences](https://dev.to/solidi/rediscovering-the-
 
 **Interviewing requires specific practice** - interviewing is a core part of [maintaining my career](https://dev.to/solidi/find-career-freedom-with-a-daily-code-workout-18e9). My interviewing experiences have been challenging. I've succeeded, but in others, I have failed, sometimes humiliated. While every interview I've participated in was fair, some felt like intellectual hazing. I say this because the complex challenges raised in discussions do not appear on the job. So practicing is a skill set in itself.
 
-**Distance between teams breeds contest** - having experience working with collaborative teams over the years, I've witnessed that distance equates to competition. As isolation increases, so does the perception. It takes filling the gaps between people to void the disharmony. But I learned sometimes I could not smooth out the edges, a reality of participating in a group of [software engineers](https://dev.to/solidi/what-is-a-software-engineer-anyway-3fb2). I had to let go.
+**Distance between teams breeds contest** - having experience working with collaborative teams over the years, I've witnessed that distance equates to competition. As isolation increases, so does the perception. It takes filling the gaps between people to avoid disharmony. But I learned sometimes I could not smooth out the edges, a reality of participating in a group of [software engineers](https://dev.to/solidi/what-is-a-software-engineer-anyway-3fb2). I had to let go.
 
 **Remote work is a mental game** - I support remote work and its flexibility for engineers to do [their job well](https://medium.com/@solidi/do-great-at-working-remotely-adbfe4b7452b). Just like interviews are a skill set, so is working remotely. Lately, the impact of a world-shifting pandemic has caught up to me. My journey has been [a long adventure](https://medium.com/@solidi/the-world-i-worked-into-no-longer-exists-732659963058) of becoming productive in the new environment.
 

@@ -3,7 +3,9 @@
 
 ![Working remotely contains beautiful sights.](images/23-01.jpeg)
 
-In this post, I'll share what I've learned from working remotely (and leading distributed teams) over the years. Working at home is a *mental game*. These tips will keep the reader productive, effective, and balanced.
+In this post, I'll share what I've learned from working remotely (and leading distributed teams) over the years.
+
+Working at home is a *mental game*. These tips will keep the reader productive, effective, and balanced.
 
 ## Before Arriving at Work
 
@@ -29,7 +31,7 @@ Once arriving home, here is what is essential "while at work."
 
 **Be intentional in communicating effectively.** The prominent benefit of remote working is the periods when one can be productive. In software, we enter deep work, and it's lovely. However, we must balance this with intentionality. Actively reaching out to others on the proper channels is essential. Whether it's for the team, a follow-up, or the role demands it, do it well.
 
-**Active follow-up in minutes, not hours.** The contract above goes both ways. For those that seek contact, be sure to answer incoming messages in a timely matter intentionally. If someone cannot actively engage, state this and a time for the query or chat. Swift acknowledgment is critical for all incoming team messages.
+**Active follow-up in minutes, not hours.** The contract above goes both ways. For those that seek contact, be sure to answer incoming messages in a timely manner intentionally. If someone cannot actively engage, state this and a time for the query or chat. Swift acknowledgment is critical for all incoming team messages.
 
 **Take lunch.** It is essential to step away from the desk during lunchtime. Take the time to decompress. Go out and get fresh air, too. As a subtle side effect, lunches will be cheaper and healthier since groceries are at home.
 
@@ -49,7 +51,7 @@ As the reader works, apart from the tips above, they can work "well with the tea
 
 ## After Work is Done
 
-Just as arriving at work, we must leave it. Here is what is essential, "leaving work."
+Just as we arrive at work, we must leave it. Here is what is essential, "leaving work."
 
 **Finish up and call it a day.** Be disciplined by saying goodbye to the team members. Do so at a particular time or logical break when it's time to leave! Finish up by letting them know and closing out the apps which connect us. For me, I transition to [a hobby](https://medium.com/@solidi/cq-personal-mastery-through-hobbies-f25aab2e49ad) for the last half hour that is unrelated to work.
 
@@ -59,7 +61,7 @@ Just as arriving at work, we must leave it. Here is what is essential, "leaving 
 
 ## Finally
 
-**The most critical skill set is written communication.** Remote working demands a higher form of [written communication](https://medium.com/@solidi/reply-all-considered-harmful-f895beb5eabc). Apart from actively doing work, continually improve skillsets on spelling, grammar, rhetoric, and being mindful of the impact on others. There are [tools out there](https://medium.com/@solidi/the-one-about-blogging-cd9e65a2055b) that can assist in writing well.
+**The most critical skill set is written communication.** Remote working demands a higher form of [written communication](https://medium.com/@solidi/reply-all-considered-harmful-f895beb5eabc). Apart from actively doing work, continually improve skill sets on spelling, grammar, rhetoric, and being mindful of the impact on others. There are [tools out there](https://medium.com/@solidi/the-one-about-blogging-cd9e65a2055b) that can assist in writing well.
 
 **Go for it! You got this!** Remote work requires purpose, intention, and transparency. You will do your best job with a bit of practice and keeping the tips in mind above. The benefits can be amazing.
 

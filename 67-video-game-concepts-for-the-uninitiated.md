@@ -9,6 +9,8 @@ As an [uninitiated developer](https://medium.com/super-jump/building-a-popular-h
 
 ## The List of Uninitiated Attributes
 
+So, I created a list to answer the question.
+
 **Physical possession of objects** - holding on to things is an essential ability. While video games have inventories of collecting possessions, few have allowed players to hold onto the objects in space. Grabbing onto two items is better. How about even more?
 
 **Picking up objects and throwing them** - while holding things is excellent; picking them up and manipulating them in space is perfect. Why not throw them at something? Better strength means adequate velocity. Start laughing because there is plenty to throw.
@@ -19,11 +21,11 @@ As an [uninitiated developer](https://medium.com/super-jump/building-a-popular-h
 
 **The permanence of objects** - objects which remain strewn across an area is an expression of disorder, especially if these objects are revisited later. Going back to what was placed earlier is of interest. Things are rarely accumulated in video games, as resources are reclaimed.
 
-**Repeat and retry** - nothing gets the kids going, like reprising one of the items above, doing it repeatedly. The same goes for these concepts in video games. A solid rewind/repeat mechanism is yet to be developed, but ideas have been tried.
+**Repeat and retry** - reprising one of the items above or below, doing it repeatedly. The same goes for these concepts in video games. A solid rewind/repeat mechanism is yet to be developed, but ideas have been tried.
 
 **Full brights and environment** - nothing gets the kids laughing if there is play at night, in the snow, or an environmental change. Environmental space is the same as in video games. There are copious amounts of effects. Recently, glowing objects, or full brights, are often used for improved visual style.
   
-**The fluidity of movement** - my kids climb to inaccessible areas. They jump around and laugh when their perspectives are altered, looking upside down! The same goes for video games; lately, games have opened up into fantastic "acrobatics," "parkour," vertical play, moving fast, and [flying upside down](https://medium.com/@solidi/read-these-5-passionate-software-engineering-books-this-holiday-6c6ad8fbd211). There are mechanics left undiscovered.
+**The fluidity of movement** - kids like to climb to inaccessible areas. They jump around and laugh when their perspectives are altered, looking upside down! The same goes for video games; lately, games have opened up into fantastic "acrobatics," "parkour," vertical play, moving fast, and [flying upside down](https://medium.com/@solidi/read-these-5-passionate-software-engineering-books-this-holiday-6c6ad8fbd211). There are mechanics left undiscovered.
 
 **Chaos in quantity** - increasing the number of objects makes kids go nuts. Think of a ball pit where there are thousands of similar items. So in video games, in a gray box or sandbox, with lots of abilities to spawn them. Chaos mode, where objects are at insane levels, makes for an exciting, time-consuming experience.
 

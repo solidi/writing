@@ -8,7 +8,7 @@ I've reviewed thousands of pull requests over my career. Here are my tips for bu
 
 ## For the Author and Reviewer
 
-**Keep it small and iterative.** By focusing on the intent, it gives the ability for the reviewer to provide a timely, high bandwidth review. It's hard, but resist batching work.
+**Keep it small and iterative.** By focusing on the intent, it gives the ability for the reviewer to provide a timely, high bandwidth review. It's hard, but the author should resist batching work.
 
 **Signal intentions with labels.** Whether it's with prefixes in the subject line or if the tool supports tagging, use these liberally to signal when work is in progress, the size of the review, or is associated with a milestone.
 
@@ -16,7 +16,7 @@ I've reviewed thousands of pull requests over my career. Here are my tips for bu
 
 **Review your commits and provide comments in the review.** Reduce the ambiguity by self reviewing your own newly minted pull request immediately. Provide proactive summary content to lines that need clarification so that the reviewer has a clear context.
 
-**Be open to feedback, always.** The reviewer likely has good intentions. Take the feedback well by asking questions and making suggestive edits now, or deferring them in an agreed matter. Respectful reviews are [useful ones](https://testing.googleblog.com/2019/11/code-health-respectful-reviews-useful.html).
+**Be open to feedback, always.** The reviewer likely has good intentions. Take the feedback well by asking questions and making suggestive edits now, or deferring them in an agreed manner. Respectful reviews are [useful ones](https://testing.googleblog.com/2019/11/code-health-respectful-reviews-useful.html).
 
 **Capture conversations in the tool.** Many times discussions had occurred around the pull request. However, that knowledge is missing for others. Follow up, and write the outcomes in the tool. This action will immensely add context to others.
 
@@ -26,7 +26,7 @@ I've reviewed thousands of pull requests over my career. Here are my tips for bu
 
 ## For the Team
 
-**Prefer pairing over pull requests.** Pairing is the same as a thorough pull request but is happening in real-time. Work toward a system that, if significant pairing has occurred, provide a way for those individuals to merge with advanced brevity.
+**Prefer pairing over pull requests.** Prefer pairing over pull requests. Pairing provides the same value as a pull request review with the benefit of real-time results. Work toward a system that, if significant pairing has occurred, the team should provide a way for those individuals to merge with advanced brevity.
 
 **Make it easy for those to receive a timely review.** Make the ritual of code review easy for newcomers to get a timely review. Some teams I've seen have set precise time ranges for review, others have set SLA's. Either way, be inclusive and welcoming. The reviewer pulls. The author shouldn't need to push.
 
