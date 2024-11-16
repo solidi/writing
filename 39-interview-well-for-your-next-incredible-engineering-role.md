@@ -1,5 +1,5 @@
 # Interview Well for Your Next Incredible Engineering Role
-## Tips that will improve the odds of landing your next role
+## Tips that Will Improve the Odds of Landing Your Next Role
 
 ![Photo: ThisisEngineering RAEng/Unsplash](images/39-01.jpeg)
 
@@ -21,13 +21,13 @@ Here are the core concepts of interviewing. By embracing these, the odds of achi
 
 Now that we discussed the interviewing principles, let's talk about committing to landing a new role.
 
-**Interviewing is a commitment.** In my own experience, interviews can take months of dedication before landing your first or next role. Success comes with discipline and practice. Commit to the fact that it is an outcome-based goal. The search ends as you start the new job. *Getting there is a journey*. Work in short increments daily. The commitment is essential to achieving success!
+**Interviewing is a commitment.** In my own experience, interviews can take months of dedication before landing your first or next role. Success comes with discipline and practice. The search ends as you start the new job. *Getting there is a journey*. Work in short increments daily. Commitment is essential to achieving success!
 
 **Know about the companies you apply to.** Take a look at their social media presence as well as previous employee reviews - i.e., Glassdoor.  Make sure these are places you can see yourself working. Knowing the perceived company culture is essential. Look for red flags such as large amounts of employees leaving at once, frequent turnover, a weak business model, and a volatile stock price. Seek the right parts that lead to high employee satisfaction, including mentorship, learning while delivering software, and room for career growth.
 
 **Consistent procession and tracking of applications.** After you commit, as each day goes by, apply to companies that align with your values and advancement. Consistently post your resume. Track your progress with a [Kanban board](https://en.wikipedia.org/wiki/Kanban_board), or a spreadsheet, so no application goes untracked. Do not be afraid to apply to jobs you *can fail at* or if the *skill sets do not precisely match*!
 
-**Sources are everywhere.** Whether it’s through friends, your university campus, LinkedIn, or your favorite tech blog, opportunities are highly available. Seek channels to post in, and spread out consistently. A variation of subscriptions can increase your chance for the next role. But don’t stop there! Most importantly, lean on the power of networks of friends and colleagues to find the next opportunity. Ask those you have relationships with. They may open the door to an opportunity not seen.
+**Sources are everywhere.** Whether it’s through friends, your university campus, Internet, or your favorite tech blog, opportunities are highly available. Seek channels to post in, and spread out consistently. A variation of subscriptions can increase your chance for the next role. But don’t stop there! Most importantly, lean on the power of networks of friends and colleagues to find the next opportunity. Ask those you have relationships with. They may open the door to an opportunity not seen.
 
 ## Once Interviewing Starts
 
@@ -37,11 +37,11 @@ After starting a small conveyor belt of submissions, it may take time for someon
 
 **Once the recruiter advances your candidacy, expect the interview loop.** If you are a fit, it's either a skills assessment or an initial conversation with the hiring manager. Be yourself and note the questions. If it's a skills assessment, expect a take-home assignment or a web-based one like HackerRank.
 
-**If you do well, you will advance to a final round.** In many cases, a half or full day at their company's office (or remote) with a mixture of two types of interviews. The Behavioral/Leadership type is where you will tell stories about what and how you work. The technical interview is a coding or [system design knowledge conversation](https://dataintensive.net/). Once complete, the process is over just as fast as it started.
+**If you do well, you will advance to the final round.** In many cases, a half or full day at their company's office (or remote) with a mixture of two types of interviews. The Behavioral/Leadership type is where you will tell stories about what and how you work. The technical interview is a coding or [system design knowledge conversation](https://dataintensive.net/). Once complete, the process is over just as fast as it started.
 
 ## The Offer and Starting the New Role
 
-The company may take a few days or weeks before they return with an answer. If it worked, congrats on getting your first offer! You are reflecting, improving, and finding the role of your dreams.
+The company may take a few days or weeks before they return with an answer. If it worked, congrats on getting your first offer! You are improving by finding the role of your dreams.
 
 **For no offer or decline.** Due to many candidates or liability considerations, most companies will decline feedback if you did not receive an offer. Ask! Some feedback can help you improve. Above all, be gracious and accept if you want to change.
 
@@ -57,15 +57,15 @@ The company may take a few days or weeks before they return with an answer. If i
 
 Now that you have a holistic picture of this process and what to expect, here are my hard-won tips after going through interviews over the years.
 
-**Interviewing is a skillset.** Just like programming, [interviewing is muscle memory](https://medium.com/swlh/the-one-about-software-engineering-interviewing-6f126e3a3171). The key is to practice continuously. Keep a running list of stories you can talk through about your accomplishments. Continually update the resume. Practice the coding skillset with LeetCode or HackerRank. Do it weekly, even if it's just twenty minutes.
+**Interviewing is a skill set.** Just like programming, [interviewing is muscle memory](https://medium.com/swlh/the-one-about-software-engineering-interviewing-6f126e3a3171). The key is to practice continuously. Keep a running list of stories you can talk through about your accomplishments. Continually update the resume. Practice the coding skill set with LeetCode or HackerRank. Do it weekly, even if it's just twenty minutes.
 
 **Career capital can help.** Blogging, podcasting, and having open-source projects will help make your work shine. Crafting a professional social image is essential and may bring great conversation at an interview, but it is unnecessary to secure your next role. *If you have a portfolio, highlight it*! On occasion, it may help “stand out” with opportunities to interview.
 
-**Find a long-term study buddy.** An excellent way to practice is to role-play. Find a study buddy. Real-time feedback goes a very long way. Meet weekly and rotate the interview formats from behavior/leadership to coding/system design. The most important use of time is to review the questions faced in an interview. Brainstorm together on how to formulate a better answer.
+**Find a long-term study buddy.** An excellent way to practice is to role-play. Find a study buddy. Real-time feedback goes a very long way. Meet weekly and rotate the interview formats from behavior/leadership to coding/system design. An important use of time is to review the questions faced in an interview. Brainstorm together on how to formulate a better answer.
 
-**There are different channels of feedback: external, internal, and role-play.** With each step in this ritual above, there are incoming learning notes. Whether you can clarify a question in your resume, update your LinkedIn profile, or had an impossible technical problem, review with a study buddy. Take these learnings and improve! 
+**There are different channels of feedback: external, internal, and role-play.** With each step in this ritual above, there are incoming learning notes. Whether you can clarify a question in your resume, update your career profile, or were asked an impossible technical problem, review with a study buddy. Take these learnings and improve! 
 
-**Connect with everyone you meet in your journey with kindness.** You will make connections along the way as you interview. Reach out to them, say thank you, and connect on LinkedIn or other methods. *Respect their process, no matter the outcome*. On occasion, new opportunities may arise, and your name may come up as being remembered as being a professional through the process.
+**Connect with everyone you meet in your journey with kindness.** You will make connections along the way as you interview. Reach out to them, say thank you, and connect on the Internet. *Respect their process, no matter the outcome*. On occasion, new opportunities may arise, and your name may come up as being remembered as being a professional through the process.
 
 **Interviewing is a hard skill to master.** Since the variables are infinite, there is no list to follow for the best outcome. The one takeaway is to be open to feedback and reflect on what you've learned. Preparation is essential, and the reflections are paramount as it's a campaign. If you keep these tips in mind, you're going to do great!
 
