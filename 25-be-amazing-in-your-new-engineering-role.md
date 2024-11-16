@@ -3,7 +3,7 @@
 
 ![](images/25-01.jpeg)
 
-Starting a new software engineering role can be an overwhelming experience. The first months are a dizzying mix of meetings, development, and people. There are many ways to become successful. Here are my top tips.
+Starting a new software engineering role can be an overwhelming experience. The first months are a dizzying mix of meetings, development, and people. But there are many ways to become successful. Here are my top tips.
 
 ## Build Trust With People
 
@@ -17,11 +17,11 @@ Starting a new software engineering role can be an overwhelming experience. The 
 
 **Show recognition.** For every contribution from others, a quick thank you can go a long way. Even more importantly, as you start working on initiatives together, and achieve results, recognize their accomplishments.
 
-## Add Value Every Day By Learning
+## Add Value Every Day by Learning
 
 As you build up relationships with people, get to know the work well.
 
-**Ask questions.** Whether it is about the work in flight, the product, or processes, ask questions so that you can build context. No question is off the table; in fact, it may reveal opportunities in which you may lead.
+**Ask questions.** Whether it is about the work in flight, the product, or processes, ask questions so that you can build context. No question is off the table; in fact, asking will reveal opportunities in which you may lead.
 
 **Jump in and contribute.** As you settle into your role, offer to take on a challenge by being proactive. Shadowing will help build context, build a relationship, and also move the team in the right direction. No matter how small, file your [first pull request.](https://dev.to/solidi/be-a-rockstar-at-pull-requests-1e4f)
 
@@ -29,7 +29,7 @@ As you build up relationships with people, get to know the work well.
 
 **Meet with your manager and discuss expectations.** As you learn about the people, work to understand expectations with your manager. Establish rapport by asking questions. Being on the same page is incredibly essential. 
 
-**Don't know a particular technology? Learn by watching.** As you start in the codebase, you will encounter technology that you may not have experience in. Build awareness by actively learning that technology through sites like LinkedIn learning or Pluralsight. A short 30-minute course will accelerate your understanding and drive.
+**Don't know a particular technology? Learn by watching.** As you start in the codebase, you will encounter technology that you may not have experience in. Build awareness by actively learning that technology through sites like video learning sites. A short 30-minute course will accelerate your understanding and drive.
 
 **Spend time learning the product.** Dogfooding your product is an excellent technique to understand the value you will eventually add. Having the product domain understanding will give you an extraordinary chance to contribute effectively. As a stretch, [offer to demo](https://dev.to/solidi/how-to-crush-your-next-team-demo-2bb5) product work at the next showcase.
 

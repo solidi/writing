@@ -1,16 +1,16 @@
 # What's in a Career Promotion?
-## Deconstructing a path of an individual's advancement
+## Deconstructing a Path of an Individual's Advancement
 #Careers #Sociology #Promotion #System #People
 
 ![What makes for a **Promotion** when working with other people?](images/55-01.png)
 
-Recently, my friend shared opinions on the promotion process between people. I found our discussion fascinating, drawing out its thinking. The result is an individual's path for seeking a promotion packet, which I'll call the **promotion lifecycle**.
+Recently, my friend shared opinions on the promotion process. I found our discussion fascinating, drawing out our thinking. The result is mapping an individual's path for seeking a promotion packet, which I'll call the **promotion life cycle**.
 
-The lifecycle defines points along the individual's journey within a business context. They are **skill sets**, **reputation**, **sponsorship**, **opportunity**, and **advancement**. These qualities are timeless but not intended as silver bullets. Their effectiveness depends on an individual's adaptability to their perceived business culture, quality of relationship with the manager, and calculating personal needs.
+The life cycle defines points along the individual's journey within a business context. They are **skill sets**, **reputation**, **sponsorship**, **opportunity**, and **advancement**. These qualities are timeless but not intended a panacea. They depend on an individual's adaptability to a business culture, quality of relationship with the manager, and meeting personal needs.
 
 While I cannot highlight every dimension, my goal is to draw a holistic trail for an individual's *advancement*, identifying qualities in a group of people performing work. Along the way, I'll uncover interesting bits of behaviors between people, providing hints to accelerate their relationships.
 
-## The Promotion Lifecycle
+## The Promotion Life Cycle
 
 Obtaining a promotion follows a sequence of events. First, *skill sets* and *reputation* develop *sponsors* providing *sponsorship*. Next, having *sponsors* unveils *opportunities*, concluding in a *promotion*. If an organization denies promotions, a motivated individual *exits* toward *advancement*. Let me break them down to provide context.
 
@@ -22,7 +22,7 @@ At the start of one's career or collaboration on a new project, one applies *ski
 
 ### Skill Sets
 
-An individual applies *skill sets* to complete work. Skill sets are the necessary application of knowledge in the environment when performing work. Whatever the domain, the group acknowledges levels of *skill sets*. The natural course of skills development provides *eminence*, optimally  tackling the job. Eminence demands an efficiency of delivery, exemplifying its orchestration to its peers.
+An individual applies *skill sets* to complete work. Skill sets are the necessary application of knowledge when performing work. Whatever the domain, the group acknowledges levels of *skill sets*. The natural course of skills development provides *eminence*, optimally  tackling the job. Eminence demands an efficiency of delivery, exemplifying its orchestration to its peers.
 
 ```
 **Skill Set Accelerants**
@@ -38,13 +38,13 @@ An individual applies *skill sets* to complete work. Skill sets are the necessar
 
 *Reputation* defines who completes the work and how. *Reputation* follows *skill sets*. Reputation aligns with how the person completes work, its recipient, and in what "bedside" matters. Reputation requires the right balance of achieving the result and doing it well with others.
 
-One can have unique *skill sets* but lack interpersonal achievements due to poor likability, or one has an excellent reputation but lack the required skills, requiring refinement in their craft.
+One can have unique *skill sets* but lack interpersonal achievements due to poor likability, or one has an excellent reputation but lacks the required skills, requiring refinement in their craft.
 
 ```
 **Reputation Accelerants**
 - Seeking what is essential in the work group 
 - Possess a [high form of valency](https://www.amazon.com/Experiences-Groups-Papers-W-R-Bion/dp/0415040205), combining with others to perform
-- Taking on risk and raising a hand when leadership needs a volunteer, but the leadership group is not selective
+- Taking on risk and raising a hand when leadership needs a volunteer
 - Securing designations that are recognized by the group
 - Inclusive mindset for tackling business problems
 - Bringing others in at the right times, improving [soft skills](https://twitter.com/heykahn/status/1551556521628094465)
@@ -58,7 +58,7 @@ Once there is enough *skill set* and *reputation* in a direction optimal for the
 
 ### Sponsorship
 
-*Sponsors* are who see or hear of the work and by whom. *Sponsors* socialize with who in the group is delivering the work. People raise awareness of what is happening in the environment and often talk to one another in an initiative context. Both *skill set* and *reputation* feed into these conversations. Being visible to leadership is often a key to promotion. Sponsorship aligns with extrinsic motivators such as money and intrinsic motivators such as providing impact.
+*Sponsors* are who observe the work and by whom. *Sponsors* socialize with who in the group is delivering the work. People raise awareness of what is happening in the environment and often talk to one another in an initiative context. Both *skill set* and *reputation* feed into these conversations. Being visible to leadership is often a key to promotion. Sponsorship aligns with extrinsic motivators such as money and intrinsic motivators such as providing impact.
 
 ```
 **Sponsorship Accelerants**
@@ -76,7 +76,7 @@ Once there is enough *skill set* and *reputation* in a direction optimal for the
 
 *Opportunity* is where the new work resides. *Sponsors* discover delegation opportunities. Finding an opportunity is an excellent step toward *promotion*. Operating in the context for some time is required before recognizing the individual.
 
-While enough *skill sets*, *reputation*, and *sponsorship* are essential, timing and luck factor into an opportunity. One can [optimize for the talent review process](https://levelup.gitconnected.com/getting-promoted-the-boring-work-youll-need-to-do-398e0c9defb2), but not all teams have ascending options. If they do, it may require waiting in a long line of succession or finding a way through the competition.
+While enough *skill sets*, *reputation*, and *sponsorship* are essential, timing and luck factor into an opportunity. One can [optimize for the talent review process](https://levelup.gitconnected.com/getting-promoted-the-boring-work-youll-need-to-do-398e0c9defb2), but not all teams have ascending options. If they do, it may require waiting in a line of succession or finding a way through the competition.
 
 ```
 **Opportunity Accelerants**
@@ -99,11 +99,11 @@ Suppose the individual cannot find *opportunitie*s*. Challenges within the envir
 
 ### Exiting and  Advancement
 
-Adding the final piece to the framework, if an individual has evidence where new *opportunities* do not exist in their environment, [one leaves the workgroup for an opportunity](https://betterprogramming.pub/in-software-when-an-engineer-exits-the-team-1e550303cff8). The schism is a ripcord to correct mistakes made with *reputation*, sensing their career in the organization is limited, or if *skill sets* no longer align. Leaving brings the individual a new promotion, money, or title. Hence, the *advancement* of their career.
+Adding the final piece to the framework, if an individual finds that new *opportunities* do not exist in their environment, [one leaves the workgroup for an opportunity](https://betterprogramming.pub/in-software-when-an-engineer-exits-the-team-1e550303cff8). The schism is a ripcord to correct mistakes made with *reputation*, sensing their career in the organization is limited, or if *skill sets* no longer align. Leaving brings the individual a new promotion, money, or title. Hence, the *advancement* of their career.
 
 ```
 **Exiting and Advancement Accelerants**
-- Following other trusted individuals through prior sponsorships
+- Following trusted individuals through prior sponsorships
 - Being informed on market rates for work performed
 - Keeping contacts and networking up to date
 - Being open to new opportunities
@@ -115,21 +115,23 @@ Adding the final piece to the framework, if an individual has evidence where new
 
 ### A Note About Portability
 
-Following one's *promotion* or *advancement*, a lifecycle repeats in timeframes. In a *promotion*, one gets to keep parts of their *reputation*. They obtain specific domain *skill sets* in a similar environment but trade-off potential accelerating *opportunities* and new *skill sets*. In *advancement*, the person returns part of their *reputation* and *sponsorship* to the organization, discovering new *skill sets* and *opportunities* instead.
+Following one's *promotion* or *advancement*, a life cycle repeats in timeframes. In a *promotion*, one gets to keep parts of their *reputation*. They obtain specific domain *skill sets* in a similar environment but trade-off potential accelerating *opportunities* and new *skill sets*.
 
-There is a myriad of reasons a schism occurs. Why someone leaves their workgroup includes seeking market rate for the work performed, limited individual or product growth, poor manager relationship, mismatch of recognition expectations, and contract expiration. Those that decide to leave may follow those who are trusted.
+In *advancement*, the person returns part of their *reputation* and *sponsorship* to the organization, discovering new *skill sets* and *opportunities* instead.
 
-Following either an exit or promotion, one begins seeking first goals, discovering the environment, and building a new reputation.
+There are a myriad of reasons a schism occurs. Why someone leaves their workgroup includes seeking market rate for the work performed, limited individual or product growth, poor manager relationship, mismatch of recognition expectations, and contract expiration. Those that decide to leave may follow those who are trusted.
+
+After following an exit or promotion, one begins seeking first goals, discovering the environment, and building a new reputation.
 
 ![A diagram of the time extension of new **Skill Sets** and **Reputation** after **Advancement**.](images/55-06.png)
 
 ## Conclusion
 
-Pursuing a promotion requires *skill sets*, *reputation*, *sponsorship*, and the *opportunity* to grow. The proverbial ripcord is the emerging *exit* to *advancement* if the environment is no longer optimal. Following an individual throughout the process is called the **promotion lifecycle**.
+Pursuing a promotion requires *skill sets*, *reputation*, *sponsorship*, and the *opportunity* to grow. The proverbial ripcord is the emerging *exit* to *advancement* if the environment is no longer optimal. Following an individual throughout the process is called the **promotion life cycle**.
 
 While this system is challenging to draw out, I attempted to visualize what is happening between people through an individualist's eyes. What follows is the final draft in an approximate three-year timescale.
 
-![The diagram includes exiting with the entire **Promotion Lifecycle**.](images/55-07.png)
+![The diagram includes exiting with the entire **Promotion Life Cycle**.](images/55-07.png)
 
 ## Social Post
 
