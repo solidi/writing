@@ -7,7 +7,7 @@ It's quite hard to define the tech lead role in a short post. But, here it goes.
 
 **The lead is the team liaison. The role shepherds change.** They focus on the future state. The rapid response. The pivots from management.
 
-**Tech leads play the role of mentor and sponsor to others.** They setup code reviews in a collaborative way. They handle [discourse](https://uvwx.github.io/hierarchy.html). They partner with the product on feasibility, on a roadmap, priority, and estimations.
+**Tech leads play the role of mentor and sponsor to others.** They set up code reviews in a collaborative way. They handle [discourse](https://uvwx.github.io/hierarchy.html). They partner with the product on feasibility, on a roadmap, priority, and estimations.
 
 **They are accountable for the developer's experience**. The technical debt and engineering velocity. The tooling and onboarding friction. The testing, product domain, and holding philosophies to approaches.
 
@@ -19,7 +19,7 @@ It's quite hard to define the tech lead role in a short post. But, here it goes.
 
 **The brutality of being a tech lead is the demand for the individual's technical and management capability.** Even though companies have split these into two ladders, the role of tech lead has intractable attributes of both. It is impossible to separate.
 
-**The team can blaze a path in the lead's absence.** Whereas the real drama happens in one's head, the pure emotion of the group occurs in front of the tech leads eyes. The lead follows through it and guides.
+**The team can blaze a path in the lead's absence.** Whereas the real drama happens in one's head, the pure emotion of the group occurs in front of the tech lead's eyes. The lead follows through it and guides.
 
 **They lead with a myriad of soft skills jujitsu**. With the technical tact unmatched. And if it all goes wrong, no worries. There are [marketing opportunities](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw).
 

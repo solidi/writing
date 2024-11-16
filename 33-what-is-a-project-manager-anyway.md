@@ -11,7 +11,7 @@ I’ve worked with excellent project managers (PM’s) over the years. Many of t
 
 **Visualize artifacts that inspire action.** Clearly defining and iterating the roadmap to project completion is essential, and they envision together with business. These artifacts can change behaviors into actions by showing the way clearly.
 
-**Have clarity on the technical feasibility.** PM’s are there to help communicate sophisticated technical feasibility or business viability to those non-technical stakeholders by “fisher-pricing” -- making concepts easy to understand. They can inform, consult, or act on that information with the team.
+**Have clarity on the technical feasibility.** PM’s are there to help communicate sophisticated technical feasibility or business viability to non-technical stakeholders by “fisher-pricing” -- making concepts easy to understand. They can inform, consult, or act on that information with the team.
 
 **PMs lead revelations about risks through discoveries.** Just as product managers help teams reveal solutions to business opportunities, project managers unearth solutions from risks. They seek to uncover uncertainty and reduce the feeling of “hope.” They resolve team blockers to meet delivery on time.
 
@@ -19,7 +19,7 @@ I’ve worked with excellent project managers (PM’s) over the years. Many of t
 
 **Also, know that any project can optimize on only three attributes.** Projects that are good, fast, and cheap are not done. And for those projects that are good, fast, and done are never cheap. By laying tracks, they work closely with the team to optimize what matters most, depending on the team's needs.
 
-**Are aware of the meta properties of any project.** That adding [engineers](https://dev.to/solidi/what-is-an-engineering-manager-anyway-4and) to a late project only makes it later. If the team has more time to complete a project than necessary, they [adequately fill it](https://en.wikipedia.org/wiki/Parkinson%27s_law). Project managers challenge and inspire those engineers with the partnership by asking for more.
+**Are aware of the meta properties of any project.** That adding [engineers](https://dev.to/solidi/what-is-an-engineering-manager-anyway-4and) to a late project only makes it later. If the team has time to complete a project than necessary, they [adequately fill it](https://en.wikipedia.org/wiki/Parkinson%27s_law). Project managers challenge and inspire those engineers with the partnership by asking for more.
 
 **Ask the right questions at the right time.** Project managers form powerful questioning to inspire team ownership of feasibility, deployment, testing, and business value. They are skillful at invoking [provocative operations](https://en.wikipedia.org/wiki/Po_(lateral_thinking)), asking thoughtful questions, so others think and act productively.
 

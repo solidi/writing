@@ -7,7 +7,7 @@ I've had the pleasure of working closely with talented engineers who excel in th
 
 **Lead team enablement initiatives.** Typically involved in looking ahead at [upcoming technical initiatives](https://medium.com/@solidi/in-software-philosophy-is-delegation-c786dd3a16cf), they rise above complexity to find a way to lead future missions. When that time comes, they enable and make teams effective.
 
-**Rapid response agents.** For initiatives that require extraordinary engineering talent, they jump into any team and partner carefully to lead them to sound technical solutions. As they break the efforts down, they work closely by guiding the software engineers through gaps.
+**Rapid response agents.** For initiatives that require extraordinary engineering talent, they jump into a team and partner carefully to lead them to sound technical solutions. As they break the efforts down, they work closely by guiding the software engineers through gaps.
 
 **Exert external influence.** The community recognizes principal engineers for their technical expertise and [knowledge sharing](https://dev.to/solidi/how-to-crush-your-next-team-demo-2bb5). They present practices, innovations, and inventions inside and outside of the organization.
 
@@ -19,11 +19,11 @@ I've had the pleasure of working closely with talented engineers who excel in th
 
 **Are monitoring the developer experience.** Principal engineers review and give recommendations on how to remove friction from the engineering toolset. They improve the delivery of software and help [onboard engineers](https://dev.to/solidi/be-amazing-in-your-new-engineering-role-1klc) effectively.
 
-**They help in design decisions.** Sometimes, if there is a conflict between engineers in agreeing on a design decision, principal engineers step in to help the team conclude. One of the ways is to show genuinely the pros and cons of every approach and how every approach can help in scaling the product in the long term. 
+**They help in design decisions.** Sometimes, if there is a conflict between engineers on a design decision, principal engineers step in to help the team conclude. They discuss the pros and cons of every approach and make a decision that best scales the product. 
 
-**Embody inclusive leadership.** While their technical contribution is impactful to many teams, they also lead by example. They communicate well, show the way, clarify the mission, and always have a can-do attitude by including others.
+**Embody inclusive leadership.** While their technical contribution is impactful to many teams, they also lead by example. They communicate well, show the way, clarify the mission, and have a can-do attitude by including others.
 
-**Are force multipliers without human directs.** While they do not have direct reporting lines, they influence [software engineers](https://dev.to/solidi/what-is-a-software-engineer-anyway-3fb2) throughout the organization. Through their stewardship, they help find the maximum potential of the engineers.
+**Are force multipliers without human directs.** While they do not have reporting lines, they influence [software engineers](https://dev.to/solidi/what-is-a-software-engineer-anyway-3fb2) throughout the organization. They help find the maximum potential of the engineers.
 
 **Even without designation, they accomplish the incredible.** Their attention to detail is indisputable. They achieve novel innovation to common problems. Sometimes they innovate and advance at the craft. They deliver great things by growing technology, and people, even without the acknowledgment.
 

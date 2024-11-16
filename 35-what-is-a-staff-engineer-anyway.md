@@ -5,7 +5,7 @@
 
 As a software engineer and software manager, I have worked closely with staff engineers on large strategic projects. They have responsibilities that are disparate from leading contributor roles. Here are my top recognized attributes.
 
-**The staff engineer is recognized as a leader.** The staff software engineer continues to grow in their role; they become the *storytellers* within the teams and organizations. They market a brand, continuing to improve their craft, skillset, and lead projects. They have obtained a title that matches the designation.
+**The staff engineer is recognized as a leader.** The staff software engineer continues to grow in their role; they become the *storytellers* within the teams and organizations. They market a brand, continuing to improve their craft, skill set, and lead projects. They have obtained a title that matches the designation.
 
 **Have a default bias toward action.** When problems and friction form in the systems and codebases they are associated with, they move forward not by just observing but acting and correcting the observation without asking for permission. They *self-authorize* to experiment and improve the systems.
 
@@ -17,7 +17,7 @@ As a software engineer and software manager, I have worked closely with staff en
 
 **Steer the business away from disastrous decisions.** These engineers are held to a standard of creative solutions and delivery. When the time comes to define technical feasibility, if the [business](https://dev.to/solidi/what-is-a-product-manager-anyway-3pc4) is going down the path of continuous short-term patching and mounting technical debt, they speak up. For those systems that may not survive long, they balance genuinely maintainable systems and delivery.
 
-**And also make the business find unrealized potential.** For the impossibly difficult technical feasibility projects, they recommend alternatives and find larger initiatives to improve the customer and the system’s longevity. They combine technologies, find opportunities for delivery, and balance skillsets with key results while keeping it interesting for the engineers. They advocate for systemic change.
+**And also make the business find unrealized potential.** For the impossibly difficult technical feasibility projects, they recommend alternatives and find larger initiatives to improve the customer and the system’s longevity. They combine technologies, find opportunities for delivery, and balance skill sets with key results while keeping it interesting for the engineers. They advocate for systemic change.
 
 **Their decisions have an impact.** For the systems they design with teams, they influence the organization’s critical product decisions. Understanding their impact is essential for both engineering and the business. They create the *engineering brand* of the organization and evangelize it to the community.
 
@@ -27,7 +27,7 @@ As a software engineer and software manager, I have worked closely with staff en
 
 **Align with business and leadership.** With initiatives they work on and their first step toward a direction, they realize that alignment is crucial. They understand that their perspective is one of many in the organization and work towards momentum toward a shared vision.
 
-**Are more than just tech leads.** While “[tech lead](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p)” is a common designation, organizations have crafted the staff engineer title to signal to others that this is an individual contributor with extraordinary broad impact and influence. They balance emotive and technical excellence, and they are recognized for it.
+**Are more than just tech leads.** While “[tech lead](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p)” is a common designation, organizations have crafted the staff engineer title to signal to others that this is an individual contributor with extraordinarily broad impact and influence. They balance emotive and technical excellence, and they are recognized for it.
 
 ---
 
