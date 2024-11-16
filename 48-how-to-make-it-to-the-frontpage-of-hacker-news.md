@@ -1,20 +1,22 @@
 # How to Place on the Front Page of Hacker News
-## Exploring content qualities that resonate with the community
+## Exploring Content Qualities that Resonate with the Community
 
 ![](images/48-01.jpeg)
 
-[Hacker News](https://news.ycombinator.com/) (HN) is a community that prioritizes posts about software engineering, technology, startups, and other related meta conversations. There is a continuous stream of topics that churn. The most engaged writings appear on the top thirty list.
+[Hacker News](https://news.ycombinator.com/) (HN) is a community that prioritizes posts about software engineering, technology, startups, and other related meta conversations. Within HN, there is a continuous stream of topics that churn. The most engaged writings appear on the top thirty list.
 
 Towards the end of my second decade in [software engineering](https://medium.com/@solidi/my-goal-is-to-ship-c772f63c278d), I began to write openly, exploring topics related to humans in software. A handful of my posts have reached its front page.
 
 Being a genuinely curious person, I questioned why my posts rocketed to the top. So I collected the relevant information, put together a few graphs, and will share what I learned.
 
-## Introvert by nature
+## Introvert by Nature
 
 My writing motivation has been an authentic outlet, a long-winded expression of myopic introversion. Making it to the front page of Hacker News is an exciting side effect of time invested.
 Speaking in crowds is exhausting, but my strength is talking privately to people. In those conversations, I prioritize writing ideas.
 
-## #4 [Touch-typing feels good but isn't for me](https://medium.freecodecamp.org/touch-typing-feels-good-but-isnt-for-me-2cfbafee2074) (2019) Placed [18th](http://news.ycombinator.com/item?id=19672434), 24hrs
+I’ll cover my essays that made it to the top of HN.
+
+## #4 [Touch-Typing Feels Good but Isn't for Me](https://medium.freecodecamp.org/touch-typing-feels-good-but-isnt-for-me-2cfbafee2074) (2019) Placed [18th](http://news.ycombinator.com/item?id=19672434), 24hrs
 ![http://hnrankings.info/19672434/](images/48-02.gif)![](images/48-03.png)
 
 **Motivation***: My in-depth conversations of mechanical keyboards made me furious, questioning the effectiveness of touch-typing, so I practiced.*
@@ -30,14 +32,14 @@ When I discovered writing, it opened up a creative outlet, transforming my overt
 
 **Learning***: TDD works well within small dogmatic groups but is too difficult to pull off at scale. I have not found a large shop that does it, nor do I practice anymore.*
 
-An essential attribute to a document is clarity. Writing requires an editing process, sometimes ongoing for weeks to achieve transparency. More so, it is when the content resonates with the reader. Connecting with an audience is the goal, so I will attempt to piece together a shortlist of what and how.
+An essential attribute to a document is clarity. Writing requires an editing process, sometimes ongoing for weeks to achieve transparency. More so, it is when the content resonates with the reader. Connecting with an audience is the goal, so I will piece together a shortlist of what and how.
 
-## The list of what
+## The List of What
 
-Of my writes that went the farthest, they were intensively exhaustive in a practice of technical craft. Here are a few specific content qualities I noticed.
+Of my entries that went the farthest, they were intensively exhaustive in a practice of technical craft. Here are a few specific content qualities I noticed.
 
 ```
-**Content qualities that place on Hacker News**
+**Content qualities that place on Hacker News:**
 
 - To the point, best attempt at clarity in thinking to writing
 - Seeks truth through practice, data, or first-hand experience
@@ -49,17 +51,17 @@ Of my writes that went the farthest, they were intensively exhaustive in a pract
 *But really: Content that resonates with the audience*
 ```
 
-## #2 [When an engineer exits the team](https://medium.com/@solidi/in-software-when-an-engineer-exits-the-team-1e550303cff8) (2021) Placed [2nd](http://news.ycombinator.com/item?id=28692059), 48hrs
+## #2 [When an Engineer Exits the Team](https://medium.com/@solidi/in-software-when-an-engineer-exits-the-team-1e550303cff8) (2021) Placed [2nd](http://news.ycombinator.com/item?id=28692059), 48hrs
 ![http://hnrankings.info/28692059](images/48-06.gif)![](images/48-07.png)
 
 **Motivation***: I lost numerous engineers within the continued "Great Resignation." I became a stoic for a while.*
 
-**Learning***: Most people leave their managers. However, I forgot one poignant sentence. As it is for me, it was mostly about money.*
+**Learning***: Most people leave their managers. However, I forgot one poignant fact. As it is for me, leaving a job was about money.*
 
 I don't know anyone in my circle  who accomplished a Hacker News placement, so there isn't a place to compare notes. But I know people who fear speaking into the void. I was shy too, until I realized time was short, and there was so much to say. Not being able to say it in person well is the perfect reason to write.
 
 ```
-**Possible shortcuts to reach the top**
+**Possible shortcuts to reach the top:**
 
 - Being popular in the community
 - An important statement concerning a product, company, etc
@@ -80,13 +82,13 @@ I don't know anyone in my circle  who accomplished a Hacker News placement, so t
 
 **Learning***: Constructive diversions, like a hobby, break the depressive cycle. My father recovered.*
 
-For my writes that reached the top, I noticed a pattern in private sharing. But available tools cannot show inference. So I guess these ideas touch a nerve, for good or bad. All I have are the lists above, an educated guess.
+For my entries that reached the top, I noticed a pattern in private sharing. But available tools cannot show inference. So I guess these ideas touch a nerve, for good or bad. All I have are the lists above, and how to place well on HN remains an educated guess.
 
-![A "non-scientific" sentiment combing the 300 comments of the four posts above. The graphs capture the HN threads at the first and second-level. The authors primarily posted on reflecting their experiences or sharing opinions with observation and practice.](images/48-10.png)![](images/48-11.png)![](images/48-12.png)
+![I created a "non-scientific" sentiment analysis combining the 300 comments of the four posts above. The graphs capture the HN threads at the first and second-level. The authors primarily posted on reflecting their experiences or sharing opinions with observation and practice.](images/48-10.png)![](images/48-11.png)![](images/48-12.png)
 
-## The process of how
+## The Process of How
 
-[Many of my writings](https://github.com/solidi/writing) have not found an audience, nor have they reached the front page of Hacker News. After publishing, these posts achieve a few hundred views with a tip of the hat from a motivated reader.
+[Many of my writings](https://github.com/solidi/writing) haven't found an audience, nor have they reached the front page of Hacker News. After publishing, these posts achieve a few hundred views with a tip of the hat from a motivated reader.
 While writing for years, I tracked each idea's inception to publication. Below is my thinking within a moving graphic.
 
 ## "How I write in this format" diagram
@@ -98,7 +100,7 @@ I apologize if the graphic is overwhelming. Looking from left to right highlight
 While every facet is essential, I'd like to bring in others who can grow from this draft review. Before publishing, sharing the editing process with a thinking person (secretly or overtly, as in social media) has led to deep conversations, improvements to a final draft, and the drive to publish.
 
 ```
-**Other meta points that are important**
+**Other meta points that are important:**
 
 - Experiencing something for good or bad, and sharing it
 - Privately discussing the idea with a human before publishing

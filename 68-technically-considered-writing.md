@@ -3,7 +3,7 @@
 
 ![Photo by Kelly Sikkema on Unsplash](images/68-01.jpeg)
 
-[Write](https://www.julian.com/guide/write/intro) to document what you're doing now, finding relief from its gripping subject. Set a publishing date as motivation. And where there isn't inspiration, tinker with the process of [writing](http://paulgraham.com/useful.html). Undoubtedly the muse will return in what you'll do later.
+[Write](https://www.julian.com/guide/write/intro) to document what you're doing now, finding relief from its gripping subject. Set a publishing date as motivation. And where there isn't inspiration, tinker with the process of [writing](http://paulgraham.com/useful.html). Undoubtedly the muse will return later.
 
 What you'll [write](https://blog.stephsmith.io/learning-to-write-with-confidence/) will become fuzzy. Re-read your past [writing](https://adamfaliq.wordpress.com/2020/10/28/write-well/) to remember where you were and laugh with the people you shared it with. [Writing](https://www.preetamnath.com/blog/why-you-should-write) transmits a once-lived perspective and style.
 
