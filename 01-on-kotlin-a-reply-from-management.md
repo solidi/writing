@@ -1,5 +1,5 @@
 # On Kotlin: A Reply From Management
-## Kotlin Has Become a First-Class Language At Google I/O 2017
+## Kotlin has Become a First-Class Language At Google I/O 2017
 
 ![](images/01-01.jpeg)
 
@@ -12,7 +12,7 @@ I've attended Google I/O's since 2012. I've sat through, in person, approximatel
 
 ---
 
-When the unexpected [announcement](https://blog.jetbrains.com/kotlin/2017/05/kotlin-on-android-now-official/) of official support for the language [Kotlin](http://kotlinlang.org/) was revealed at the keynote, many engineers appeared elated. They clapped and cheered. This included many of our engineers. I smiled and took in the experience.
+When the unexpected [announcement](https://blog.jetbrains.com/kotlin/2017/05/kotlin-on-android-now-official/) of official support for the language [Kotlin](http://kotlinlang.org/) was revealed at the keynote, engineers appeared elated. They clapped and cheered. This included many of our engineers. I smiled and took in the experience.
 
 > As managers, we must be curious. Continue to ask questions until there is understanding.
 
@@ -38,7 +38,7 @@ I let the engineers know on the chat channels that this one was important and, i
 
 ---
 
-Listening carefully to our engineers, there is an unspoken love for Jake and Christina. After many one-on-ones, team meetings, and discussing their work with the engineers, I've been watching previous conference videos by understanding that love and admiration. These are community leaders.
+Listening carefully to our developers, there is an unspoken love for Jake and Christina. After many one-on-ones, team meetings, and discussing their work with the engineers, I've been watched previous conference videos to understand that love and admiration. These are community leaders.
 
 They, too, are now the faces of Kotlin.
 
@@ -48,15 +48,15 @@ Please watch the session in its entirety. It's worth the time.
 
 ![](https://www.youtube.com/watch?v=fPzxfeDJDzY)
 
-The session was split into two halves. Jake started. He explained how to convert typical Android lines to Kotlin and built the examples to an advanced level where I was lost.
+The session was split into two halves. Jake started. He explained how to convert typical Android lines to Kotlin, building an example where I became lost in the details.
 
-I was so lost to a point in-which ten minutes of squinting, trying to look over others' heads, my eyes watered to focus. I had inadvertently rubbed them to regain focus but with fingers that had sunscreen on them.
+I was so lost to a point in which ten minutes of squinting, trying to look over others' heads, my eyes watered to focus. I had inadvertently rubbed them to regain focus but with fingers that had sunscreen on them.
 
-For a few minutes, my eyes stung, and my vision became blurry. I was fidgeting all over the place as Jake continued to smash through examples.
+My eyes began to sting, and my vision became blurry. I was fidgeting all over the place as Jake continued to smash through examples.
 
 The Java code disappeared just like that. If only I could see it.
 
-A few of our engineers were in the session, one right next to me. As the engineer was smiling and nodding to Jake's examples, I was having an anxiety attack. The thought of becoming permanently blinded by I/O branded sunscreen was ironic.
+A few of our engineers were in the session, one right next to me. As the engineer was smiling and nodding to Jake's examples, I was having an anxiety attack. The thought of becoming permanently blinded by I/O branded sunscreen.
 
 It could have been the overload of Kotlin.
 
@@ -64,7 +64,7 @@ But I stayed because I wanted to hear Christina and her portion of the presentat
 
 ---
 
-The session almost had a rockstar aura to it were, hearing later, people were waiting in line to the very last minute. This was Jake and Christina, so I was determined to stay even if I could not see.
+The session had a rockstar aura to it. People were waiting in line to the very last minute. This was Jake and Christina, so I was determined to stay even if I could not see.
 
 So, with Jake completing his half and my anxiety wearing off, I wondered what Christina would present. Perhaps more examples? A live demo of the conversion of an Android app to Kotlin?
 
@@ -78,9 +78,9 @@ The topic discussed was heavy. With an engineer on our team sitting to the right
 
 I kept looking center-left.
 
-I wondered if there were any other managers or stakeholders present? Was I the only one? Will they, the engineers, identify me and beat the crap out of me? Dragging me out of the tent?
+I wondered if there were other managers or stakeholders present? Was I the only one? Will they, the engineers, identify me and beat the crap out of me? Dragging me out of the tent?
 
-I only had sunscreen to blind them, a brilliant thought at the time.
+I had sunscreen to blind them, a brilliant thought at the time.
 
 But Christina's topic was unexpected. After debating with engineers, later on, I had come to appreciate the stance. This is rarely seen in the community in the way that it was presented.
 
@@ -94,31 +94,31 @@ When the session closed, I became so compelled to say something as an [engineeri
 
 ![](images/01-02.png)
 
-Let's remember Google is actively fixing [the wrongs](http://tools.android.com/tech-docs/jackandjill) that they have caused, and now Java 8 is actually here. Java continues to be the default, and Google is standing behind it prominently.
+Let's remember Google is  fixing [the wrongs](http://tools.android.com/tech-docs/jackandjill) that they have caused with Android, and now Java 8 is here. Java is the default, and Google is standing behind it prominently.
 
 Christina ended at the forty-minute mark, and there was no time for Q&A.
 
-I repeated that same question to the engineer sitting next to me. He looked at me, almost ashamed that I was, in fact, his manager. He had no answer for me. We walked out, management beating avoided.
+I repeated that same question to the engineer sitting next to me. He looked at me, ashamed that I was, in fact, his manager. He had no answer for me. We walked out, management beating avoided.
 
-> Management should encourage plans from engineers. Then select one. Be brave and accountable of that plan and a focal point of its execution.
+> Management should encourage plans from engineers. Then select one. Be brave and accountable for that plan and a focal point of its execution.
 
 ---
 
-My compulsion of this unanswered question and Christina's focus had driven me so much to write and share this experience here. Outside of business dealing and internal communication, I rarely do write.
+My compulsion of asking the unanswered question and Christina's focus had driven me so much to write and share this experience. Outside of business dealing and internal communication, I rarely do write.
 
-I have never seen anything quite like it in the twelve years of developing software and somewhere in the middle managing engineering teams. I can't remember a meeting, one-on-one, stakeholder meeting… and I felt like I did. I've experienced a lot of things over the years in business. I've employed the usual management tactics of suppressing and letting it "[soak](https://www.amazon.com/gp/aw/d/1484221575)." Other times I'd just let it go.
+I have never seen anything quite like it in the years of developing software and somewhere in the middle managing engineering teams. I can't remember a meeting, one-on-one, stakeholder meeting… and I felt like I did. I've experienced a lot of things over the years in business. I've employed the usual management tactics of suppressing and letting it "[soak](https://www.amazon.com/gp/aw/d/1484221575)." Other times I'd just let it go.
 
 I'm still learning.
 
-But this was just an odd feeling as if I wronged every team that I've lead. Did I wrong the team that asked about Kotlin?
+But this was just an odd feeling as if I wronged every team that I've led. Did I wrong the team that asked about Kotlin?
 
 ---
 
-The question - to default include Kotlin support - is one that needs to continue to be asked. I believe it is the only question to be answered. *It could be the definitive answer for Kotlin adoption.*
+The question - to default include Kotlin support - is continued to be asked. I believe it is the only question to be answered. *It could be the definitive answer for Kotlin adoption.*
 
-Remember, Google chose Java because there were more fish in the sea for initial adoption. Just think of all those Java examples that Google would need to update.
+Remember, Google chose Java because there were fish in the sea for initial adoption. Just think of all those Java examples that Google would need to update.
 
-Now that Christina had equipped engineers with fundamentals, and Google had green-lit Kotlin, how does the application of those fundamentals translate to the above to answer the question?
+Now that Christina had equipped engineers with fundamentals, and Google had green-lit Kotlin, how does the application of those fundamentals translate?
 
 > More adoption?
 
@@ -126,7 +126,7 @@ If the answer is yes, this has more questions than answers. The fundamental prob
 
 From what I heard from conversations, the main driver of Kotlin is developer happiness. Google even drops words like *enjoyable* and *fun* in their decision to make it official. Hell, even the method keywords in Kotlin are *fun*.
 
-> Management must balance happiness. Engineers do in fact build more things well when they are happy.
+> Management must balance happiness. Engineers do in fact build things well when they are happy.
 
 Kotlin makes developers happy. This is not a lie. Truly every engineer I spoke to who had experience with Kotlin is happy. My latest conversation about this happiness was with an Android engineer working on medical devices. He was happy, and he wasn't looking back at Java.
 
@@ -134,13 +134,13 @@ Can management become happy too?
 
 ---
 
-During the presentation, Christina discussed points as to why Kotlin is a clear choice. One slide discussed the [billion-dollar mistake](https://en.wikipedia.org/wiki/Tony_Hoare) of Java. Kotlin solves this by making nullability explicitly declared and discouraged its use.
+During the presentation, Christina discussed why Kotlin is a clear choice. One slide discussed the [billion-dollar mistake](https://en.wikipedia.org/wiki/Tony_Hoare) of Java. Kotlin solves the problem by making nullability explicitly declared.
 
-But then again, the interoperability of Kotlin is one hundred percent with Java. So is this barrier safe until Java goes away? Does [NPE](https://docs.oracle.com/javase/7/docs/api/java/lang/NullPointerException.html) now become a decaying problem? From one [trillion](https://twitter.com/JakeWharton/status/863083342215950336) to one billion to a million-dollar mistake?
+But then again, the interoperability of Kotlin is one hundred percent with Java. So is this barrier safe until Java goes away? Does [NPE](https://docs.oracle.com/javase/7/docs/api/java/lang/NullPointerException.html) become a decaying problem? From one [trillion](https://twitter.com/JakeWharton/status/863083342215950336) to one billion to a million-dollar mistake?
 
 > Management should encourage consistency. Make sure to communicate and promote that consistency.
 
-As a technical engineering manager, the powerful concept ranges of *explicit-implicit* and *consistent-inconsistent* usually steers codebases in either a clear direction or a one that is abandoned. [Philosophical choices](https://levelup.gitconnected.com/in-software-philosophy-is-delegation-c786dd3a16cf) on these spectrums do actually matter.
+As a technical engineering manager, the powerful concept ranges of *explicit-implicit* and *consistent-inconsistent* steers codebases in either a clear direction or a one that is abandoned. [Philosophical choices](https://levelup.gitconnected.com/in-software-philosophy-is-delegation-c786dd3a16cf) on these spectrums do actually matter.
 
 Kotlin is here. I hope not another rewrite.
 
@@ -148,19 +148,19 @@ In the case of NPE's, Java makes the null implicitly included. Big problem. I've
 
 Too many code reviews discuss null inconsistency, but solutions are deferred.
 
-Christina brought up the opposite problem. She described the concept of typed nullability and what does the community think about using null. Could this be another pitfall as an inconsistent pattern may emerge to actually using null? Remember, Kotlin gives us this ability because it's stuck to that interoperability until Java goes away.
+Christina brought up the opposite problem. She described the concept of typed nullability and how the community uses `null`. Could this be another pitfall as an inconsistent pattern may emerge to actually using null? Remember, Kotlin gives us this ability because it's stuck to that interoperability until Java goes away.
 
 > Management should promote the formation of style. Own the style and improve it.
 
-This will not be the case for [idiomatic Kotlin](https://www.reddit.com/r/androiddev/comments/6chi91/demand_for_a_kotlin_community_style_guide/), but what is idiomatic Kotlin anyway? If the above is an indicator, Kotlin maybe so expressive that it will introduce even more inconsistency among community usage and even in teams.
+This will not be the case for [idiomatic Kotlin](https://www.reddit.com/r/androiddev/comments/6chi91/demand_for_a_kotlin_community_style_guide/), but what is idiomatic Kotlin anyway? If the above is an indicator, Kotlin may be so expressive that it will introduce even more inconsistency among community usage and even in teams.
 
 Hey, but this one last library we can't get rid of is still in... Java.
 
-When the constraints of a previous language are lifted and the exhaustion of boilerplate removed, are there any unexpected outcomes due to that found expressiveness?
+When the constraints of a previous language are lifted and the exhaustion of boilerplate removed, are there any unexpected outcomes due to expressiveness?
 
 ---
 
-Christina also brought up the topic of letting the tooling do hard problems. We are not good at hard problems. I agree with this. Tools must do their job well. Otherwise, they are complained about until they are fixed. Google is proving this well, so well, with Gradle.
+Christina also brought up letting the tooling do hard problems. We are not good at hard problems. I agree with this. Tools must do their job well. Otherwise, they are complained about until they are fixed. Google is proving this well, so well, with Gradle.
 
 And lately, Java.
 
@@ -172,11 +172,11 @@ It's also about experimentation and innovation. With time in management, I have 
 
 However, since the Kotlin tooling, IDE, and language are well integrated, could we be heading in a direction where we are developing a [voodoo](https://en.wikipedia.org/wiki/Voodoo_programming) culture? If a generation of engineers grow on Kotlin, are we doing a disservice about how they grow? In which they are educated about the engineering rigors?
 
-In my brief review of the Kotlin language, there is blazing fast support that promotes code completion. In a way that is fundamentally different than writing the standard stores and loops. The compiler does, in-fact, hide and flex more.
+In my brief review of the Kotlin language, there is blazing fast support that promotes code completion. In a way that is fundamentally different from writing the standard stores and loops. The compiler does, in-fact, hide and flex more.
 
 There are magical wires that are optimized.
 
-The argument I've heard is that engineers should only be optimizing the "hard" parts. The "efficiency-must" parts. This is a solid argument. But with the many coding exercises I've been in… Google included the ask, "What is the time/complexity of this code? Can you do better?". On Kotlin code, what is the answer? "*shrugs*, depends. I don't know." That could be an acceptable answer.
+The argument I've heard is that engineers should only be optimizing the "hard" parts. The "efficiency-must" parts. This is a solid argument. But with the many coding exercises I've been in… Google included the ask, "What is the time/complexity of this code? Can you do better?". In Kotlin code, what is the answer? "*shrugs*, depends. I don't know." That could be an acceptable answer.
 
 Is it acceptable? "Okay, let's switch back to Java [style] for a second to answer..."
 
@@ -186,9 +186,9 @@ Shit.
 
 ---
 
-Christina brought up that engineers can provide apps that are stable for their users. Using Kotlin and its tooling will help avoid crashes "a lot," and the users will be happier.
+Christina brought up that engineers can develop apps that are stable for their users. Using Kotlin and its tooling will help avoid crashes "a lot," and the users will be happier.
 
-In a sense, this one is a tough sell to some management. Regardless of the tooling or language, it really does take a village to launch stable products. It takes a consistent style, and it takes a pipeline, and that engineers own the quality.
+In a sense, this one is a tough sell to some management. Regardless of the tooling or language, it takes a village to launch stable products. It takes a consistent style, and it takes a pipeline, and that engineers own the quality.
 
 Did I mention that engineers should own the quality?
 
@@ -203,15 +203,15 @@ Do you have a testing culture?
 
 I agree that Kotlin may help catch things sooner, but in a sense, what is the cost of that "catch sooner," and how much sooner?
 
-Whether it's Java or Kotlin, your code reviews, pair programmings, linting, unit tests, integration tests, and end-to-end tests should check items as far upstream as possible.
+Whether it's Java or Kotlin, your code reviews, pair programming, linting, unit tests, integration tests, and end-to-end tests should check items as far upstream as possible.
 
 Kotlin may decrement one to the risk, but again at what cost?
 
 ---
 
-Christina's presentation is one that challenges everyone to the maximum. I really do believe it deserves more attention. Everyone should share it broadly.
+Christina's presentation is one that challenges everyone to the maximum. I believe it deserves more attention. Everyone should share it broadly.
 
-I, too, also like to challenge engineers to the maximum with what we have. But in a meaningful way that is doable. This is why this session resonated so deeply.
+I, too, also like to challenge engineers to the maximum with what we have. But in a meaningful way that is doable. This is why this session resonated.
 
 With all this being said, I want to revisit the original question.
 
@@ -235,7 +235,7 @@ It's also an unexpected problem. It's a dual-track high-level language competiti
 
 Rare. Google never disappoints.
 
-> A brilliant example of a live A/B test on the community.
+> Advancing Kotlin adoption is a brilliant example of a live A/B test on the community.
 
 Was that too cruel to state?
 
@@ -243,13 +243,13 @@ It's the truth. Both languages have their strengths, and there will be no clear 
 
 ---
 
-Google will have to set a course of direction for Kotlin, and with continued heavy investments in Java and [winning](https://www.theverge.com/2016/5/26/11754002/oracle-google-verdict-copyright-infringement-ruling-api-fair-use) battles, the only sure bet is that a course is unclear.
+Google will set a course for Kotlin, and invest heavily in winning Java legal [battles](https://www.theverge.com/2016/5/26/11754002/oracle-google-verdict-copyright-infringement-ruling-api-fair-use) battles, the only sure bet is that a course is unclear.
 
-A Kotlin selection for production apps maybe the same as using [!!](https://kotlinlang.org/docs/reference/null-safety.html). It is a risk. Perhaps calculated if knowing the costs. However, we should encourage engineers to debate and set the tone of the future... of Android development.
+A Kotlin selection for production apps is the same as using [!!](https://kotlinlang.org/docs/reference/null-safety.html). It is a risk. Perhaps calculated, if knowing the costs. However, we should encourage engineers to debate and set the tone of the future... of Android development.
 
 > Management usually holds the stick in the middle. Instead, encourage management to support and raise both ends.
 
-Of course, we may use Kotlin eventually. Who doesn't want to be happy?
+Of course, we will use Kotlin eventually. Who doesn't want to be happy?
 
 ---
 

@@ -1,29 +1,31 @@
 # How I Learned to Onboard Effectively in an Engineer Manager Role
-## Understanding my behaviors from starting new roles over the years
+## Understanding my Behaviors from Starting New Roles Over the Years
 
 ![Photo by Zan on Unsplash](images/44-01.jpeg)
 
-Onboarding at a new company is an immensely engaging experience, where the difference between an effective or ineffective onboarding is an action away. As a [software engineer manager](https://dev.to/solidi/what-is-an-engineering-manager-anyway-4and), I've reflected on the unique behaviors I prioritize. This post will cover the gestalt of my successful onboarding experiences within the first 90 days.
+Onboarding at a new company is an immensely engaging experience, where the difference between an effective or ineffective onboarding is just an action away. As a [software engineer manager](https://dev.to/solidi/what-is-an-engineering-manager-anyway-4and), I've reflected on the unique behaviors I prioritize. This essay will cover the gestalt of my successful onboarding experiences within the first 90 days.
 
 ## Starting with Having Good Tact
 
-The onboarding process is a bit of luck, timing, and keeping in mind *good tact*. Good tact is the ability to deal with others to maintain good relations and avoid offense. To say and do the right things at the right time, to behave in a way that promotes cooperation and reciprocity.
+The onboarding process is a bit of luck, timing, and keeping in mind *good tact*. Good tact is the ability to deal with others to maintain good relations - to say and do the right things at the right time, to behave in a way that promotes cooperation and reciprocity.
 
-There is a wide range of impactful behaviors that I consider good tact. My go-to's are to *make myself available*, *never criticize a previous decision*, and *avoid being standoff-ish*. With these tips in mind, my initial actions include orienting within the company, shadowing, listening, building relationships, finding leaders, and succeeding at the first mission. First, I will familiarize myself with the organizational structure.
+There is a wide range of impactful behaviors that I consider good tact. My go-to's are to *make myself available*, *never criticize a previous decision*, and *avoid being standoff-ish*. With these tips in mind, my initial actions include orienting within the company, shadowing, listening, building relationships, finding leaders, and succeeding at the first mission.
+
+First, I will familiarize myself with the organizational structure.
 
 ## The "I Am Here" Metaphor
 
 In starting a new role, I orient myself within the organization. Above me, senior leaders. To the side of me, my peers, and my allies. Finally, below, my directs. Building this mental model provides areas to build relations. I call this the "I Am Here" model, a graph of people that will help make myself and others in my radius eventually effective.
 
-In the beginning, I draw this graph out, giving names, labels, and their accountable domains. This map prioritizes people to have conversations with, with proximity to my teams as the driving factor.
+In the beginning, I draw a graph, labeling names, and their accountable domains. This map prioritizes people to have conversations with, with proximity to my teams as the driving factor.
 
 ## Building Lateral Partnerships, the Skip Levels, and 1:1's
 
 While building a mental model of people around me, I get to know them. For peers, having a coffee or tea with them can be effective. These connections avoid ineffective future fire drills, such as when my team needs help. This new relationship can contribute to solving an emerging problem.
 
-I'll begin continuous rounds of 1:1's to build trust for the team members who report to me. I start the conversation as one team - in a newly minted reoccurring staff meeting. I will announce the 1:1 meetings, the goal of the discussions, and take on any questions they have. Then, [I roll them out](https://www.manager-tools.com/).
+I'll begin continuous rounds of 1:1's to build trust for the team members who report to me. I start the conversation as one team - in a newly minted reoccurring staff meeting. I will announce the 1:1 meetings, the goal of the discussions, and take on questions they have. Then, [I roll them out](https://www.manager-tools.com/).
 
-I'll also schedule skip-level meetings with other senior leaders above me. I start with having the support of my manager in this process. Once I have support, I'll meet with directorship and higher levels. I'll ask questions about the vision, direction, and the pain points of the organizations they lead, to calibrate where I can focus, building a horizon roadmap. These skip-levels inform me of the larger mission - the why of the work.
+I'll schedule skip-level meetings with other senior leaders above me. I start by supporting my manager in this process. Once I have support, I'll meet with directorship and higher levels. I'll ask questions about the vision, direction, and the pain points of the organizations they lead, to calibrate where I can focus, building a horizon roadmap. These skip-levels inform me of the larger mission - the why of the work.
 
 ## Listening, Seeing Inside the Team, and Setting Ground Rules
 
@@ -41,13 +43,13 @@ I call this "The first gnarly problem." Such problems include delivering a minim
 
 ## Be Explicit About Change
 
-I have been known to repeat an expectation numerous times in front of the team. In a room of ten people, I say the "thing" ten times for one person to "get it." Being specific about change means being *explicit*. One of the lessons I've learned as an engineer manager is being implicit or nuanced is considered *cruel* to the team.
+I have been known to repeat an expectation numerous times in front of the team. In a room of ten people, I say the "thing" ten times for one person to "get it." Being specific about change means being *explicit*. One of the lessons I've learned as an engineer manager, being implicit or nuanced is considered *cruel* to the team.
 
 Being explicit is an easing function of reducing the *cognitive load* of the team. Providing clarity about a difference, communicating, and enacting, allows the team members to focus on what matters. The practice will reduce second-guessing motivations. Setting *expectations* is essential, such as which measures we are optimizing.
 
 As I make the first real change to align to the gnarly problem, I identify the perceived *problematic behaviors* leaders frown upon and avoid acting that way, finding alternative routes. For example, complaining about the number of meetings but not presenting alternatives to increase their quality (such as experimenting before a pitch).
 
-My approach to change is to *continually ratchet* based on the evidence's the team's efforts. If a ground-rule must pivot in a positive direction, I will use evidence to prove this is a supported decision. In addition, I remind the team of *the why* of the work. Change builds upon other previous findings, sometimes documented.
+My approach to change is to *continually ratchet up* based on the evidence's the team's efforts. If a ground-rule must pivot in a positive direction, I will use evidence to prove this is a supported decision. In addition, I remind the team of *the why* of the work. Change builds upon other previous findings, sometimes documented.
 
 ## Change Means Documenting
 
@@ -61,15 +63,15 @@ Sitting on the same side of the team by actively working through a plan, a decis
 
 ## Healing the Gaps, and Future Plans
 
-In these first months of the gnarly problem, I attempt to *find gaps* where my specialty can shine, and I light the candle. My goal is to create a space to solve this problem. I see myself as a value add - actions like making a decision, finding others to help, applying a technical skillset, or creating the space for my team to work. I build *buffers* to solve the problem.
+In these first months of the gnarly problem, I attempt to *find gaps* where my specialty can shine, and I light the candle. My goal is to create a space to solve this problem. I see myself as a value add - actions like making a decision, finding others to help, applying a technical skill set, or creating the space for my team to work. I build *buffers* to solve the problem.
 
-As the mission is clarified, one of the more challenging problems I'll solve is to remove work *burdens* and *liabilities*. The team will have work in their queue that doesn't align with the mission. It is on me to work with [product](https://medium.com/hackernoon/the-decision-hypothesis-aa512e0113) and [project management](https://dev.to/solidi/what-is-a-project-manager-anyway-fbb) to refactor away. Creative thinking, rerouting, and renegotiating are the methods. It is always easier to add work than to remove work. To unburden the workstream, to cover, is a skill set I continue to hone for my teams.
+As the mission is clarified, one of the challenging problems I'll solve is to remove work *burdens* and *liabilities*. The team will have work in their queue that doesn't align with the mission. It is on me to work with [product](https://medium.com/hackernoon/the-decision-hypothesis-aa512e0113) and [project management](https://dev.to/solidi/what-is-a-project-manager-anyway-fbb) to refactor away. Creative thinking, rerouting, and renegotiating are the methods. It is always easier to add work than to remove work. To unburden the workstream, to cover, is a skill set I continue to hone for my teams.
 
 While the team is steering to delivery, I will also get involved in [OKR development](https://dev.to/solidi/what-is-a-project-manager-anyway-fbb), [KPI clarity](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884), and road mapping. These strategic exercises will become familiar, where my inputs will set the stage past the first win. Bringing in the team for estimation exercises is vital during future planning, even wild guesses. I incorporate estimation with letting the people on the team craft the plan, and in doing so, own the plan we come up with. This practice uncovers the *subsequent* gnarly problems.
 
 ## In The Gnarly Problem, Hire and Find The Next Leaders
 
-When work happens, I will see behaviors and patterns of potential leaders in the team. I keep an eye on those excelling at collaboration, skillset, unblocking others, and similar behaviors *I would like to see more of*. For what I can or hear directly, I set time to recognize their efforts and attributes.
+When work happens, I will see patterns of potential leaders in the team. I keep an eye on those excelling at collaboration, skill set, unblocking others, and similar behaviors *I would like to see more of*. For what I can or hear directly, I set time to recognize their efforts and attributes.
 
 There will be times of stress in execution. With this narrowing, [the natural leaders](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p) within the team rise. At the same time, I observe people doing the *glue work*, and the collaboration efforts are not visible to those who churn out the delivery. I consider glue work as daily mentorship, unblocking others, and filling gaps that aren't obvious. I call upon them and make them known to upper management.
 
@@ -87,7 +89,7 @@ These initiatives grow *a social network*, [ultimately helping my team(s)](https
 
 ## The First Celebration Moving Past the 90 Days
 
-In the journey, the gnarly problem will come close to a resolution. My plan continues as to what I described above. I keep clarifying, redirecting, filling gaps, and maintaining the motivation, ensuring the team delivers the outcome. And at the correct times, delegate work.
+In the journey, the gnarly problem will come close to a resolution. My plan continues as I described above. I keep clarifying, redirecting, filling gaps, and maintaining the motivation, ensuring the team delivers the outcome. And at the correct times, delegate work.
 
 Once the outcome is achieved, I coordinate the celebration with the people and team(s) that reached the results. For me, this is the validation of a successful onboard - *to follow through with something larger than myself.*
 
@@ -97,7 +99,7 @@ The celebration means the onboard is complete. The process repeats, with continu
 
 While onboarding as an engineer manager can be exhausting and exciting, there are points in between where there is extreme satisfaction. Seeing my team get their first win, impacting users with a superb product, promoting someone because of these accomplishments, and maturing processes.
 
-My onboarding goal is to keep good tact and know where I am in the organization. Then, listen, see how the team operates, be explicit when it becomes clear where I need to steer. I'll discover and solve the first gnarly problem. I'll hire, find the next leaders and give feedback to those who aren't performing. At the same time, I take on a side quest to grow my craft and the organization.
+My onboarding goal to apply good tact and know where I am in the organization. Then, listen, see how the team operates, be explicit when it becomes clear where I need to steer. I'll discover and solve the first gnarly problem. I'll hire, find the next leaders and give feedback to those who aren't performing. At the same time, I take on a side quest to grow my craft and the organization.
 
 Management is a complicated arrangement of *getting people to do what they don't necessarily want to do* and becoming an umbrella as a promoter, a shield for the team. But in the end, I enjoy being a manager. Onboarding effectively in [the first 90 days](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612) is challenging as it is rewarding.
 

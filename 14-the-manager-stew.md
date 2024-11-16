@@ -5,9 +5,9 @@
 
 I overheard someone say, “management is hard.” Thank you for the courageous statement. You inspired me to write this short.
 
-Management is extraordinarily hard. The perception of the profession is *thankless* because we play the role of business. And we get it from all sides. The company takes priority. The individual performing the role of a manager takes a back seat.
+Management is extraordinarily hard. The perception of the profession is *thankless* because we play the role of business. And we get it from all sides. The company takes priority and the individual performing the role of a manager takes a back seat.
 
-The *how* of management is by doing. Mentors are virtually [distant](https://randsinrepose.com/). I know through training and experience, it has many facets and methods. After some years, I have invented a style of moving ideas into action. And in my own opinion, most of the management’s work is completed before core working hours.
+The "*how*" of management is by doing. Mentors are virtually [distant](https://randsinrepose.com/). I know through training and experience, working has many facets and methods. And after some years, I have invented a style of moving ideas into action. In my own opinion, management’s hard work is completed before core working hours.
 
 > I’m steering what had been decided that morning.
 
@@ -17,9 +17,9 @@ The *how* of management is by doing. Mentors are virtually [distant](https://ran
 
 What is management? Perhaps it could be logically reduced to a standard set of tools. The one on ones, the staff meetings, the feedback, delegation, performance, and coaching models. Difficult conversations. *[You cannot be friends, but you can be friendly.](https://www.manager-tools.com/)*
 
-I like to introduce a new multitool, primarily a compass. With some years into the profession, I have formed a pattern called ***the stew***. It is time before work that determines the day, while simultaneously holding a vision of myself, the individuals, and teams in the future.
+I would like to introduce a new multitool, primarily a compass. With some years into the profession, I have formed a pattern called ***the stew***. It is time before work that determines the day, while simultaneously holding a vision of myself, the individuals, and teams in the future.
 
-> The stew happens during a lengthly walk before work.
+> The stew happens during a lengthy walk before work.
 
 A [Moleskine Cahier pocket](https://us.moleskine.com/cahier-journal-black/p0411) notebook supports thinking time. After the walk, I jot essential items that are bouncing around in my head. A lot of these thoughts are replays of conversations and exciting bits that accrete into vision and direction.
 
@@ -47,7 +47,7 @@ Over a few years, I have managed *with the stew*. When exhausted, I minimize the
 
 Management is about wading through the vagueness and ambiguity of interrelationships in the quest for alignment and business results. *The stew is a place to navigate*. It has revealed decision points that would not have come and have eased emotional frustration. The stew has unveiled larger visionary goals for the teams I’ve led.
 
-> The result is growth in relationships and heighten performance of myself and others.
+> The result is growth in relationships and heightened performance of myself and others.
 
 ![Sundown on the west coast.](images/14-04.jpeg)
 

@@ -1,5 +1,5 @@
 # In Software, When an Engineer Exits the Team
-## My perspective when a team member gives their notice
+## My Perspective When a Team Member Gives Their Notice
 #Software, #Management, #People, #Learning, #Emotions
 
 ![Photo: Eutah Mizushima on Unsplash](images/43-01.jpeg)
@@ -18,6 +18,8 @@ As we go through the motions, I listen, ask questions, and find levers to negoti
 
 When I close the video meeting, I settle. My mind is racing. "Can I try something to bring the person back?" A list of grievances sets in, and I go through a loss cycle for days. It's a breakup. I let go.
 As I execute communications with the team, crafting the transition plan and the celebratory send-off, I ask myself, "What could have been different?" There are answers. I could have improved the environment, the work, the team - myself. I write the conclusions down to be taken care of, reflecting on what I've learned.
+
+I’ll leave a note. "*It was probably about money.*"
 
 There are moments during the transition where I battle an aggravated ego. But I check myself, calm down, and refocus back on this individual. I want them to succeed, and me stepping to hinder that would be incorrect. I'll send recommendations and smile. They will become a better person because of this, and so will I.
 
