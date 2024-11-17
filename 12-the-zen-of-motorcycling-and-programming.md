@@ -3,15 +3,17 @@
 
 ![](images/12-01.png)
 
-I headed down the parkway parallel to the ocean through a hot summer breeze. My engine is slowly revving by keeping a legal speed limit. I was taking it all in on my motorcycle, with thoughts of inspiration and some doubt of nagging preservation. "Should I have checked that thing? What about this detail? Ah, whatever it is, enjoy this ride." Unfazed, I looked over to my right, nothing but dunes, on the left, the Great South Bay. There were wispy clouds in a blue sky and a bridge in the distance. I was making my way down to OBI, a parking lot in the middle of nowhere abut against the Atlantic ocean.
+I headed down the parkway parallel to the ocean through a hot summer breeze. My engine is slowly revving by keeping a legal speed limit. I was taking it all in on my motorcycle, with thoughts of inspiration and some doubt of nagging preservation. "Should I have checked that thing? What about this detail? Ah, whatever it is, enjoy this ride." Unfazed, I looked over to my right, nothing but dunes, on the left, the Great South Bay. There were wispy clouds in a blue sky and a bridge in the distance. I was making my way down to OBI, a parking lot in the middle of nowhere laid up against the Atlantic ocean.
 
 Once I parked, I removed my helmet, gloves, and jacket. The sweat from my padded kevlar jeans ran down my legs to my riding boots. I sat by my bike, on the shaded side. I wanted to think, but instead, I flipped out my phone and stared lonely at the emails and social posts.
 
-Some time passed. Finally, a bike pulled up, looking and inspecting if it was safe to park close. An older woman jumped off her well-worn bike. I looked over and had a judgment. "Hmm, she's all geared up. My kind of rider." She slowly approached, admiring my bike and me admiring hers.
+Some time passed. Finally, a bike pulled up, looking and inspecting if it was safe to park close. An older woman jumped off her well-worn bike. I looked over and made a judgment. "Hmm, she's all geared up. My kind of rider." She slowly approached, admiring my bike and me admiring hers.
 
 We chatted about bikes and philosophies of riding. The lady had more riding experience than I and spoke vividly about riding adventures. Then she asked about my profession.
 
-> But what is… software programming?
+"What do you do for work?" she asked.
+
+> But what is... software programming?
 
 **Me:** "Well, in the simplest terms, we are readers. And more rarely, we are writers of code. And when we write, we likely follow checks."
 
@@ -31,13 +33,13 @@ We chatted about bikes and philosophies of riding. The lady had more riding expe
 
 **Me:** "Of course. Even if it's legal, these programmers are *lane splitters*. They go fast past others, and they win sometimes. But eventually, their odds run out, and they hurt themselves and others."
 
-**Me:** "My respect for the machine is of the front of mind, always. Just like I know that bike over there can hurt me and others, I know that the respect I have will keep me in check so *I can live to ride another day.*"
+**Me:** "My respect for the machine is at the front of my mind, always. Just like I know that our bikes over there can hurt me and others, I know that the respect I have will keep me in check so *I can live to ride another day.*"
 
 **Her:** "You got a good head on your shoulders. But back to this software programming thing. So you are readers, and sometimes writers. Apart from these checks and tests, how do you read and write well?"
 
-**Me:** "Just like we should practice our figure eights, stops, swerves, and our finesse, we do need to practice our reading and writing. We should do this continuously regardless of how long we've been in the game. I didn't believe this until I recently had a very close call. I was too lazy, but I learned that if I practiced the skill continuously, it would have been mundane."
+**Me:** "Just like we should practice our figure eights, stops, swerves, and our finesse, we need to practice our reading and writing. We should do this continuously regardless of how long we've been in the game. I didn't believe this until I recently had a very close call. I was too lazy, but I learned that if I practiced the skill continuously, it would have been mundane."
 
-**Her:** "Yeah, it's about seat time. But it's also rider attitude and risk assessment."
+**Her:** "Yeah, it's about seat time. But it's also about rider attitude and risk assessment."
 
 **Me:** "But here is the thing. Practicing has context, and we must be deliberate on how. It must be a campaign of focus. There is quite a bit of hype all over, and you can get dragged over reading and writing things that become irrelevant. *You do need to ride your own ride.*"
 
@@ -47,17 +49,21 @@ We chatted about bikes and philosophies of riding. The lady had more riding expe
 
 **Her:** "Got it. And the computers read these writings (code)?"
 
-**Me:** "Indeed, and hence how these programs work. *Just like motorcycles, the software is everywhere!* But it's mostly about people. The machines can handle all the writings just fine. They can optimize, such that they bounce over edge traps, navigate sand, and handle all sorts of different weather and traffic conditions. But humans cannot always. Sometimes ego gets in the way."
+**Me:** "Indeed, and hence how these programs work. *Just like motorcycles, software is everywhere!* But it's about people. The machines can handle all the writings just fine. They can optimize, such that they bounce over edge traps, navigate sand, and handle all sorts of different weather and traffic conditions. But humans cannot always. Sometimes ego gets in the way."
 
 **Her:** "Kind of like those riders who never throw down the peace sign after you threw down first?"
 
-**Me:** "Yes. But there are others out there that are oblivious and need to learn what it means to throw down that peace sign. We need to mentor well and take the opportunity to show them our programming *craft*. And learning to read a lot and writing a little is a challenging thing. It gets even more difficult since what I described is mainly performed in *teams*. And you know how difficult it is to keep group rides together."
+**Me:** "Yes. There are others out there that are oblivious and need to learn what it means to throw down that peace sign. We need to mentor well and take the opportunity to show them our programming *craft*. And learning to read a lot and write a little is a challenging thing. It gets difficult since what I described is mainly performed in *teams*. And you know how difficult it is to keep group rides together."
+
+**Her:** "Yeah. Every four to six riders need leads."
+
+**Me**: "Right. And just like motorcycling, programming cannot be mastered."
 
 **Me:** "Just like motorcycling, programming cannot be mastered."
 
-**Her:** "So, you are teams of readers and rarely writers. The machines handle the optimizations, and quality is paramount to the profession. Mentoring is an important aspect, just like I have shown others of what I know and how to ride safely. It sounds to me that after all this, you can enjoy the ride?"
+**Her:** "So, you are a team of readers and rarely writers. The machines handle the optimizations, and quality is paramount to the profession. Mentoring is an important aspect, just like I have shown others how to ride safely. It sounds to me that after all this, can you *ever* enjoy the ride?"
 
-**Me:** "I do. These concepts are my opinions, but others may see it differently. Quality? The quality reminds me of that book, Zen and the Art of Motorcycle Maintenance."
+**Me:** "I do. These concepts are my opinions, but others may see it differently. Quality? The quality reminds me of that book, *Zen and the Art of Motorcycle Maintenance*."
 
 ![](images/12-02.png)
 

@@ -1,4 +1,4 @@
-# In Software, When an Engineer Exits the Team
+# When a Software Engineer Exits the Team
 ## My Perspective When a Team Member Gives Their Notice
 #Software, #Management, #People, #Learning, #Emotions
 

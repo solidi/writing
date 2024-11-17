@@ -9,7 +9,7 @@ As I was chatting on [Workplace](https://www.facebook.com/workplace) with our SV
 
 The IDE has been and still is the extension of the developer's hands. The IDE and its tooling are what make developers productive. From the individual to the collective, IDEs can cradle and support extensive team efforts. One of the many great examples is what transpired over at [Uber](https://eng.uber.com/android-monorepo/). The IDE played a crucial role in that success.
 
-While there are many environments to choose from, my focus will revolve around JetBrains' [IntelliJ](https://www.jetbrains.com/idea/). I decided IntelliJ because there is an exciting improvement trend unfolding that I'd like to explore in its user interface. We will discuss three additions added to IntelliJ 2016.2, 2016.3, and 2018.1. There could be more to come in the version series.
+While there are many environments to choose from, my focus will revolve around JetBrains' [IntelliJ](https://www.jetbrains.com/idea/). I decided on IntelliJ because there is an exciting improvement trend unfolding that I'd like to explore in its user interface. We will discuss three additions added to IntelliJ 2016.2, 2016.3, and 2018.1. There could be more to come in the version series.
 
 We will review these user interface improvements with the perceived pros of readability, proper labeling, and discoverability. We will also review the cons of visual noise, code quality consequences, and non-deterministic code.
 
@@ -95,17 +95,17 @@ Since the annotation's inception, JetBrains realized its benefits and applied th
 
 While there is a continuing debate about the effectiveness of the annotation in these languages, it has been extensively iterated upon by JetBrains.
 
-For example, annotations help call out and reduce the amount of Java NullPointer exceptions in code. IntelliJ also introduced a static analysis tool that infers nullity. This tool scans code in an ad hoc matter. Then it annotates areas of the code where `null` concerns were present. These annotations became a part of a project's source control.
+For example, annotations help call out and reduce the amount of Java NullPointer exceptions in code. IntelliJ also introduced a static analysis tool that infers nullity. This tool scans code in an ad hoc manner. Then it annotates areas of the code where `null` concerns were present. These annotations became a part of a project's source control.
 
 However, IntelliJ improved this concept by taking the next step with an automatic inline inference of nullity. Instead of running the tool and committing the annotations in code, it is now dynamic and happening in real-time.
 
 ![@NotNull is both inlined and inferred. It does not exist in the code but is a construct that is handled by the IDE.](images/02-04.png)
 
-As seen above, the `@NotNull` the annotation does not exist in code. It appears with an IDE option turned on. As a developer types code, these annotations appear. Nullity checking is now constantly vigilant about changing code.
+As seen above, the `@NotNull` annotation does not exist in code. It appears with an IDE option turned on. As a developer types code, these annotations appear. Nullity checking is now constantly vigilant about changing code.
 
 These are beautiful automatic orchestrations of code analysis. The appearance of the annotation is fascinating.
 
-While the automatic appearance of the annotation could be helpful and perhaps may reduce issues with our code, it is not apart of the source code.
+While the automatic appearance of the annotation could be helpful and perhaps may reduce issues with our code, it is not a part of the source code.
 
 Like magic, if the option is unchecked, all of the generated annotations go away as well.
 

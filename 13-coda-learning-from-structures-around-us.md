@@ -16,13 +16,13 @@ Searching for data is fundamental to our science. To do so, we organize the data
 
 An *unbalanced tree* is a metaphor to describe an unwanted structure. The structure is not optimal for searching the data it contains. Unbalanced trees are naively grown and trimmed. They begin to slow us down due to their unchecked height. They become too high on one side.
 
-## How To Balance an Unbalanced Tree
+## How to Balance an Unbalanced Tree
 
 In saving customers from service interruption, power utility authorities trim left or right. They cut where the risk is significant. The result is unhealthy trees that are unsightly. They think that the tree is performing its function, but instead, it is sick trying to survive.
 
 ![Courtesy: Google](images/13-03.png)
 
-There are ways to save the sick tree programmatically as it grows. Depending on the tree, we can transverse, rotate left, rotate right, or double rotate. We attempt to balance the tree so that it’s healthy. Its structure becomes more compact, more beautiful, and elegant than its current shape.
+There are ways to save the sick tree programmatically as it grows. Depending on the tree, we can transverse, rotate left, rotate right, or double rotate. We attempt to balance the tree so that it’s healthy. Its structure becomes compact, beautiful, and elegant than its current shape.
 
 If the unbalanced tree has enough space in front of it, there is a way to solve their blight at the root. We cut down and start over. We grow the new tree intelligently on the next pass.
 
@@ -32,9 +32,9 @@ The mutilation of trees to make way for utility lines invokes conflict. An abstr
 
 ![Courtesy: Google](images/13-04.png)
 
-The beauty of [computer science](https://dev.to/solidi/what-is-a-software-engineer-anyway-3fb2) is *we can invent and grow structures based on our physical observations*. Ancient tree pruning techniques such as *Topping* or more modern technologies such as *Drop-Crotching* may apply to computer science. Utility lines that are strung or laid may also have their analog. How they work together may be of interest to research.
+The beauty of [computer science](https://dev.to/solidi/what-is-a-software-engineer-anyway-3fb2) is *we can invent and grow structures based on our physical observations*. Ancient tree pruning techniques such as *Topping* or modern technologies such as *Drop-Crotching* may apply to computer science. Utility lines that are strung or laid may also have their analog. How they work together may be of interest to research.
 
-The message is to *look around outside to learn and apply what we observe, virtually*. Question if it could be a chance to translate a structure or system into leverage for beauty and efficiency. If we embrace the problem, there is a chance for an opportunity for *structural invention*.
+The message is to *look around outside to learn and apply what we observe, virtually*. Question if it could be a chance to translate a structure or system into leverage for beauty and efficiency. If we embrace the problem, there is a chance for *structural invention*.
 
 ---
 

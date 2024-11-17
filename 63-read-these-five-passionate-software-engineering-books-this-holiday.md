@@ -1,5 +1,5 @@
 # Read These 5 Passionate Software Engineering Books This Holiday
-## Recommendations That Inspire Building Something
+## Recommendations that Inspire Building Something
 
 While we sit by the holiday's proverbial fireplace, why not read what we love most? Classic stories that highlight human heat, passion, and the inner workings of software engineering projects. Here are my five *timeless* must-read books which capture the imagination.
 

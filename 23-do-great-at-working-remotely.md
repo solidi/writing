@@ -3,7 +3,7 @@
 
 ![Working remotely contains beautiful sights.](images/23-01.jpeg)
 
-In this post, I'll share what I've learned from working remotely (and leading distributed teams) over the years.
+In this essay, I'll share what I've learned from working remotely (and leading distributed teams) over the years.
 
 Working at home is a *mental game*. These tips will keep the reader productive, effective, and balanced.
 
@@ -53,13 +53,15 @@ As the reader works, apart from the tips above, they can work "well with the tea
 
 Just as we arrive at work, we must leave it. Here is what is essential, "leaving work."
 
-**Finish up and call it a day.** Be disciplined by saying goodbye to the team members. Do so at a particular time or logical break when it's time to leave! Finish up by letting them know and closing out the apps which connect us. For me, I transition to [a hobby](https://medium.com/@solidi/cq-personal-mastery-through-hobbies-f25aab2e49ad) for the last half hour that is unrelated to work.
+**Finish up and call it a day.** Be disciplined by saying goodbye to the team members. Do so at a particular time or logical break when it's time to leave! Finish up by letting them know and closing out the apps which connect us. For me, I'll slide into [a hobby](https://medium.com/@solidi/cq-personal-mastery-through-hobbies-f25aab2e49ad) that is unrelated to work.
 
 **Close the door.** As discussed above, with a separate space, exit the area as if we left the office. Signal the end of the day by closing the door. No further work will be done today, physically and digitally.
 
 **Build relationships outside work.** While most of our time is now at home or in a transitional space, continue strengthening relationships outside work. Being intentional about maintaining [old and new bonds](https://medium.com/@solidi/the-world-i-worked-into-no-longer-exists-732659963058) will be essential for wellness!
 
 ## Finally
+
+Here are my parting items on remote work.
 
 **The most critical skill set is written communication.** Remote working demands a higher form of [written communication](https://medium.com/@solidi/reply-all-considered-harmful-f895beb5eabc). Apart from actively doing work, continually improve skill sets on spelling, grammar, rhetoric, and being mindful of the impact on others. There are [tools out there](https://medium.com/@solidi/the-one-about-blogging-cd9e65a2055b) that can assist in writing well.
 

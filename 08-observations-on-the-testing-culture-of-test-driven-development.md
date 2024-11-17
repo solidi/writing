@@ -16,9 +16,9 @@ I have a respect for Kent's life work not only because of his software creations
 
 TDD is a **principle** and a **discipline** that is followed by the XP community. The field has been present for nineteen years.
 
-In this post, I will describe my opinion of where TDD stands in its adoption. Following this, we will explore intriguing personal observations as we perform TDD. Finally, we will conclude by postulating why TDD hasn’t become standard practice.
+In this essay, I will describe my opinion of where TDD stands in its adoption. Following this, we will explore intriguing personal observations as we perform TDD. Finally, we will conclude by postulating why TDD hasn’t become standard practice.
 
-## TDD, Studies, And Professionalism
+## TDD, Studies, and Professionalism
 
 Decades since its invention, the practice of TDD remains a debate in the development community.
 

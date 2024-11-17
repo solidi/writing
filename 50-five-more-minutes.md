@@ -11,9 +11,9 @@ I'm over here thinking about if I should enact the "five more minutes" decree. S
 
 ## When it's Done
 
-I briefly teleport back to previous software engineering projects in my past. The managers would serve up the rules of play "Five more minutes," the managers would say as the engineers blissfully played with frameworks, proof of concepts, and the art of balancing bits and bytes running around the _digital_ hallways.
+I briefly teleport back to previous software engineering projects in my past. The managers would serve up the rules of play "Five more minutes," the managers would say as the engineers blissfully play with frameworks, proof of concepts, and the art of balancing bits and bytes running around the _digital_ hallways.
 
-"Five more minutes" was met with "[when it's done.](https://medium.com/super-jump/building-a-popular-half-life-mod-during-the-rise-of-counter-strike-fec6a5b9fd8f?sk=6d1427b3f1d832df06bd5b07aaa456bb)" The managers pushed back, finding ways to get the project in scope and out the door. They enjoyed deploying tactful briberies. Those who recently crossed the chasm from engineering to [management](https://dev.to/solidi/what-is-an-engineering-manager-anyway-4and) knew how to reel them in by speaking their language.
+"Five more minutes" was met with "[when it's done.](https://medium.com/super-jump/building-a-popular-half-life-mod-during-the-rise-of-counter-strike-fec6a5b9fd8f?sk=6d1427b3f1d832df06bd5b07aaa456bb)" The managers pushed back, finding ways to get the project in scope and out the door. They enjoyed deploying tactful bribes. Those who recently crossed the chasm from engineering to [management](https://dev.to/solidi/what-is-an-engineering-manager-anyway-4and) knew how to reel them in by speaking their language.
 
 Coming back to the playground scene, I needed "five more minutes." My spouse was looking to me to make the call. I was wrestling with whether to solve the problem this way or work around it. "Daddy, I want to go higher," one of my daughters was on the swing next to me. I kept pushing mentally and physically.
 

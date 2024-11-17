@@ -48,7 +48,7 @@ But we, as a community, try to do better. I'll continue to search for a clear mo
 
 ## Introducing LatestVer
 
-While having good intentions, many versioning schemes are at the fringes. I've rarely seen these in the wild, maybe [zer0Ver](https://0ver.org/) or [calVer](http://calver.org/), smiling when I do. Creating a new versioning system requires creative thinking *and* invoking a community change which takes exponential marketing. SemVer surrounds our work, and I'll label my libraries like yours. But there is something meta that occurs as I interact with the labeling. Something first-ordered.
+While having good intentions, many versioning schemes are at the fringes. I've rarely seen these in the wild, maybe [zer0Ver](https://0ver.org/) or [calVer](http://calver.org/), smiling when I do. Creating a new versioning system requires creative thinking *and* invoking a community change which takes exponential marketing. SemVer surrounds our work, and I'll label my libraries like yours. And what I care about is one number, the major version.
 
 As an adopter, I don't sweat over minor versions. It's always about the best, the latest, the major, and the now. If I am building something new, I shop for the latest. Since dependencies are a land of extreme abundance, it is unlikely I will pin my hopes on an out-of-date library. So, while I construct a "shiny thing", perhaps what is happening in my trenches is occurring elsewhere. As a consumer, I choose the latest version while making a new thing. Otherwise, I place myself, the team, and the project in explicit protection until the pinned forcefield depletes, and I must do something. There is rarely an in-between. SemVer is correct thinking, and anything that increments on the far side is what matters to me.
 
@@ -56,7 +56,7 @@ So what is this pattern? Let's call my realistic library versioning scheme **lat
 
 **[LatestVer](https://latestver.org/)** is a shortsighted but truthful versioning scheme. As an author, it encourages "[accretion](http://blog.ezyang.com/2016/12/thoughts-about-spec-ulation-rich-hickey/)" as Rich Hickey said. As an adopter, it is my reality. Understandably I cannot speak for all since there are strict guidelines for implementing dependencies in different environments. But for those in my part of the world where philosophies are unrestricted, it's a general heave-ho, and **latestVer's** motto captures the mood well.
 
-> If I'm not on latestVer, let me get there soon. Otherwise, I'll be forced there as a priority by something out of my control. If unfixed, I'll drop the library for its alternative. And when building anything new, it's always the latest.
+> If I'm not on latestVer, let me get there soon. Otherwise, I'll be forced there as a priority by something out of my control. If my problem is not addressed, I'll drop the library for its alternative. And when building anything new, it's always the latest.
 
 Seldom do I have to cherry-pick a specific an "in-between" version that will raise a project from a sinking hole. A feeling sets in while I do it, corresponding vaguely to purchasing something expensive but of little value. Feeling regret, I'll bootstrap my way to the latest, finding the courage to drive in the newest version of *their* shiny thing at the cost of my mental labor. In the end, it feels so good to have something new.
 

@@ -10,7 +10,7 @@ Recently, a friend asked a question about the particular skills possessed by sof
 
 Drawing from my experience led me to an opinion. I enjoy the meta of programming. The skill of learning the *meta*, or how to do what we do better, includes reading well-known books in context. I took specific examples of what I read over the years, applied it to my observations practicing in the field, and I answered in a way that I believed was most pragmatic.
 
-> *Me: In my opinion, if we think universally, I would say it is the practice of correctness and pattern recognition. These are some of the skills that are unique to software engineers.*
+> *In my opinion, if we think universally, I would say it is the practice of correctness and pattern recognition. These are some of the skills that are unique to software engineers.*
 
 Let's examine these skills to add context.
 

@@ -1,5 +1,5 @@
 # How I Learned to Onboard Effectively in an Engineer Manager Role
-## Understanding my Behaviors from Starting New Roles Over the Years
+## Understanding My Behaviors from Starting New Roles Over the Years
 
 ![Photo by Zan on Unsplash](images/44-01.jpeg)
 
@@ -17,7 +17,7 @@ First, I will familiarize myself with the organizational structure.
 
 In starting a new role, I orient myself within the organization. Above me, senior leaders. To the side of me, my peers, and my allies. Finally, below, my directs. Building this mental model provides areas to build relations. I call this the "I Am Here" model, a graph of people that will help make myself and others in my radius eventually effective.
 
-In the beginning, I draw a graph, labeling names, and their accountable domains. This map prioritizes people to have conversations with, with proximity to my teams as the driving factor.
+Starting the new role, I draw a graph, labeling names, and their accountable domains. This map prioritizes people to have conversations with, with proximity to my teams as the driving factor.
 
 ## Building Lateral Partnerships, the Skip Levels, and 1:1's
 

@@ -9,7 +9,7 @@ I've had the pleasure of being an engineering manager (EM) for years. For EMs wh
 
 **Managers and leaders are different!** Managers shepherd who does what by when. Leaders show the here to there and can articulate the *why*. The best strive to do both.
 
-**Management is not a promotion. It's an orthogonal discipline.** Managing is different from engineering. Their [toolchain](https://resilient-management.com/) is mentoring, coaching, feedback, and sponsorship wrapped in initiatives. These tools take a lifetime to master and is an art between people and technology.
+**Management is not a promotion. It's an orthogonal discipline.** Managing is different from engineering. Their [toolchain](https://resilient-management.com/) is mentoring, coaching, feedback, and sponsorship wrapped in initiatives. These tools take a lifetime to master – an art orchestrating people and technology.
 
 **Managers ruthlessly delegate.** EMs entrust with painting the picture of done. They discuss the mission, *the why*, and give guidance. Managers leave the *how* to the [leads](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p) and teams so they can scale.
 
@@ -33,9 +33,9 @@ I've had the pleasure of being an engineering manager (EM) for years. For EMs wh
 
 **They have to make tough decisions.** Sometimes a decision is necessary. Information will be incomplete, and it will be hard. But the weight of not making the decision is worse than making one no matter how unclear the outcome.
 
-**With their decisions, fairness, and no surprises.** EMs make decisions that weigh options fairly. They communicate effectively by having 1-on-1s, staff meetings and are right there with the team. There are no surprises. 
+**With their decisions, fairness, and no surprises.** EMs make decisions that weigh options fairly. They communicate effectively by having one-on-ones, staff meetings and are right there with the team. There are no surprises. 
 
-**And impact the lives of others.** What managers say has an impact on others. If done right, they see those grow, and in turn, see [themselves grow](https://www.atlassian.com/blog/leadership/new-manager-tips). Above all, they served the business well with their tenure.
+**And impact the lives of others.** What managers say has an impact on others. If done right, they see those grow, and in turn, see [themselves grow](https://www.atlassian.com/blog/leadership/new-manager-tips). Above all, they serve the business well.
 
 ---
 

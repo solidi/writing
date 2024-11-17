@@ -11,7 +11,7 @@ Picture a normal triangle in your head. Now picture a triangle without its area.
 
 It’s as if the three angles of the triangle are flattened. In theory, the triangle exists, but all that remains are overlapping linear lines.
 
-While this post is not about mathematics, it will attempt to classify certain A/B testing methodology as *degenerate* using patterns that approach a line of user deception, also known as *dark patterns*. Then, we will review questionable large scale tests in the tech industry. Finally, we will conclude by giving recommendations on avoiding this deception by making clear statements to our users.
+While this essay is not about mathematics, it will attempt to classify certain A/B testing methodology as *degenerate* using patterns that approach a line of user deception, also known as *dark patterns*. Then, we will review questionable large scale tests in the tech industry. Finally, we will conclude by giving recommendations on avoiding this deception by making clear statements to our users.
 
 Before we begin, let’s discuss what A/B testing is.
 
@@ -97,7 +97,7 @@ A group of users was recently on an application that offered paid content behind
 
 Access became “unlocked,” and a group of users could view content for free without the paid subscription. Then time passed, and it was gone.
 
-Some users liked the product–they purchased.
+Some users liked the content–and so they purchased the product.
 
 ### Motto: “Curious Engagement Through Shock”
 

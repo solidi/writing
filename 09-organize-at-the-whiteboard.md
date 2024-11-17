@@ -59,9 +59,9 @@ Here, very rough pseudocode, steps, and visualizations occur. Let your interview
 
 The left box will demonstrate something very interesting in that it should reveal holes in our questions. As you write and think out your approach, stop your thought process if a question is not answered. Walk back to the right section, and write out the question and try to receive the answer.
 
-At the absolute minimum, this will happen a few times as you recognize the average cases, best cases, and worst cases. It depends on the strategy, the limits and the constraints. Request relaxation on approach such as “For this example, can I use a small set of data?” “Can I assume the input array is sorted?” Input validation is also another question generator.
+At the absolute minimum, this will happen a few times as you recognize the average cases, best cases, and worst cases. It depends on the strategy, the limits and the constraints. Request relaxation on approaches such as “For this example, can I use a small set of data?” “Can I assume the input array is sorted?” Input validation is also another question generator.
 
-### Step 4: code implementation
+### Step 4: Code Implementation
 
 Once enough assumptions and approach material are generated, this means that you are now ready to write through your implementation with confidence. You will be supported by both sides. Highlight and point to each step as you write the code. Carefully step through the approach, listed to your left. As you write your implementation, go back and forth double-checking the assumptions.
 

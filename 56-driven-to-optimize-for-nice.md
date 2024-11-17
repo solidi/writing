@@ -4,7 +4,9 @@
 
 ![](images/56-01.jpg)
 
-Driving on [Massachusetts Route 28](https://en.wikipedia.org/wiki/Massachusetts_Route_28) in Cape Cod made me think. When we arrived for a [family vacation](https://dev.to/solidi/10-self-care-tips-for-a-great-vacation-2jgp), drivers bent the understood rules of the road. Their misbehavior made me pump the brakes, inconveniencing our last mile. What the hell was going on?
+Driving on [Massachusetts Route 28](https://en.wikipedia.org/wiki/Massachusetts_Route_28) in Cape Cod made me think. When we arrived for a [family vacation](https://dev.to/solidi/10-self-care-tips-for-a-great-vacation-2jgp), drivers bent the understood rules of the road. Their misbehavior made me pump the brakes, inconveniencing our last mile.
+
+What the hell was going on?
 
 ## A Driver's Primary Goal is Kindness
 
@@ -16,7 +18,9 @@ The misbehavior occurred on Route 28, a single-laned two-way thoroughfare with b
 
 After passing through the area twice, I itched to do the same. I let go of my hardened New Yorker attitude, dropping a defensive posture. [I optimized for nice](https://twitter.com/diannaeanderson/status/1557155725796941830), no longer shaking my mental fist. Instead, I'd blink my lights at abandoned drivers, peer pressuring the opposing lane to yield. Laughing loudly, my family in tow thought I had gone mad. But instead, I'd become coherent with the syntax of the arranged system.
 
-On the outside, nobody was angry. Everyone else was doing it without a care for the legal ramifications of liabilities. Why not?
+On the outside, nobody was angry. Everyone else was doing it without a care for the legal ramifications of liabilities.
+
+Why should we care?
 
 ## Mood Generator Unavailable Within Trained Models
 
@@ -30,25 +34,29 @@ Indeed, automation would learn the profile in time, trading off waiting on the s
 
 Teams will train narrow models to predict routes, feeding copious amounts of data from previous reports, but no way I've heard they capture a mood of helping out someone who needs to get in the "right of way" when they do not qualify based on legal rules. There are *happy radicals* everywhere.
 
+Highways and byways are easy to train, but here in the mess of "locality" is where the impossible problems cruise along. 
+
 > To solve this problem, you'll have to train for **kind and fair**, not to be predictably safe. Yikes, is it even possible?
 
-The interpretation of the real-time situation's optimal path would be to cooperate immediately or risk a poor travel experience. From what I've read about artificial intelligence, developing a fleeting cooperative mood that bends the rules is crazy hard. Humans are all about *uncontained self-perspectives*. Machines, *deterministically optimized* through a metaphor of learning in their ways, not so much.
+The interpretation of the real-time situation's optimal path would be to cooperate immediately or risk a poor travel experience. From what I've read about artificial intelligence, developing a fleeting cooperative mood that bends the rules is crazy hard. Humans are all about *uncontained self-perspectives*. Machines, *deterministically optimized* through a metaphor of learning on a matrix map of infinite ones and zeros – not so much.
 
 ## To Be Nice on the Road, Humans and Computers Must Share Critical Context
 
-Let me be clear. I am not skeptical about the automation of driverless cars or the AI that will power them. Consumer driverless vehicles will happen, [but at what timescale](https://blog.codinghorror.com/the-2030-self-driving-car-bet/)? For instance, if humans are in the mix, these situations will make the coming driverless vehicles hard to implement safely. In my vacation scenario, humans are making up rules for utility, feeling for others' pain of having to wait long times to enter the right of way. They want to feel good, to serve another.
+Let me be clear. I am not skeptical about the automation of driverless cars or the AI that will power them. Consumer driverless vehicles will happen, [but at what timescale](https://blog.codinghorror.com/the-2030-self-driving-car-bet/)? For instance, if humans are in the mix, these situations will make the coming driverless vehicles hard to implement safely.
+
+In my vacation scenario, humans are making up rules for utility, feeling for others' pain of having to wait long times to enter the right of way. They want to feel good, to serve another.
 
 > There could be a paradox where no one wins in convenience or security. Developers will train robots to travel safely. Humans want to get there fast. Kind humans with robots wish to do both at the same time.
 
-If automatons are driving in these conditions, riders *within* the automatic car will be dumbfounded that their all-seeing-brain hadn't made the apparent turn. An hour would pass when it was clear opportunities existed. With each friendly human waving them on in happy anger, the AI confidence level would never hit a proper threshold to make a move in fear of self-preservation. Empathy is not in their vocabulary.
+If automatons are driving in these conditions, riders *within* the automatic car will be dumbfounded that their all-seeing-brain hadn't made the apparent turn. An hour would pass when it was clear opportunities existed. With each friendly human waving them on in happy anger, the AI's confidence level would never hit a proper threshold to make a move in fear of self-preservation. Empathy is not in their vocabulary.
 
-Suppose we continue to grant human driving while Autobot vehicles ramp up. When predictably safe seems paramount, how do you optimize for "friendly" within systems? It starts with mood context. People are on vacation in a land of leisure, you know? Local context is critically important to a safe ride. And context can be contra to agreed rules.
+Suppose we continue to grant human driving while Autobot vehicles ramp up. When predictably safe seems paramount, how do you optimize for "friendly" within systems? It starts with mood context. People are on vacation in a land of leisure, you know? Local context is critically important to a safe ride. And context can be contrary to agreed rules.
 
 > Anyone who says engineers cannot solve the technical problem is wrong (in spite, a tenacious individual will fight through.) Finding the vector of attack by faking behavior until it becomes genuine is how they will solve it. In the process, lots of care is needed - these are mission-critical systems where life is at stake.
 
 Do we need to remove the fallible humans, eventually?
 
-## Wheel Resistance Is Less Than Futile, and It's Mixed Tire Pressure Of Political Results
+## Wheel Resistance is Less Than Futile, and it's Mixed Tire Pressure of Political Results
 
 In my view, there is continuing resistance to automating formal driving rules in my community. People love their driving. Their associations go deep with nostalgia, speed, and everything culturally ingrained in people spanning generations. Included are car shows, night cruises, drag racing, and everything reminding us of years past. Would anyone want to see bots driving when racing is [about human drama](https://www.espn.com/f1/story/_/id/33319352/lewis-hamilton-lost-little-bit-faith-f1-abu-dhabi-gp)? With driving, it's all human feeling.
 
@@ -74,11 +82,13 @@ My understanding of automation trials of humans not at the wheel has been [succe
 
 While no one in the auto automation business cares about my observation of human driving attitudes at this time, once the game scales to serve many, I suspect these edge cases will flare up as potential consumer resistance. If there is a poor reception to the results of the automatons driving with mixed-in human compatriots, there will be a rejection, with favoritism of the familiar. No, I'm not talking about *safety to protect life*, but piss poor travel experiences as the humans command their preference - until they do not. Along the way, news of "[death by computation](https://en.wikipedia.org/wiki/Death_of_Elaine_Herzberg)" will shape future reactionary perspectives.
 
-Let's watch which controls humans have on driving as we head into the mid-21st century. There will be challenges to the progress of technology, not in terms of the technology itself but the cultural significance and prestige of driving.
+Let's watch what control humans have on driving as we head into the mid-21st century. I suspect challenges will be raised because of the cultural significance and prestige of driving.
 
 > We need mix-controls (not invented) to mend technology operating within erratic human behavior. Redundant sensory controls with the red "stop button" are not enough. If capabilities fail politically, perhaps it's a side-car approach where [robots fly](https://en.wikipedia.org/wiki/Flying_car), and humans remain terrestrial in what they love.
 
-It will be a tremendous strategy to lobby these controls *while* keeping humans happy. But for now, we will continue to ratchet the human safety features incrementally. So let's enjoy the lovely humans in "thickly settled" areas. Let those wheels spin as drivers blink their headlights to allow entry onto Route 28.
+It will be a tremendous strategy to lobby these controls *while* keeping humans happy. But for now, we will continue to ratchet the human safety features incrementally.
+
+So, for now, enjoy the lovely human pilots in "thickly settled" areas. Let those wheels spin as drivers blink their headlights - to allow entry onto Route 28.
 
 ## Social Post
 

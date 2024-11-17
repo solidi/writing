@@ -5,7 +5,7 @@
 
 In approaching twenty-five years of software engineering, I live within a growing loop of [memorable projects](https://dev.to/solidi/the-next-fantastic-software-project-code-name-bbd), recently delivering again. In the haze of its accomplishment, I asked myself the question, "what motivates me to develop?" I've learned the answer - to embrace the never-ending chase of shipping the next thing.
 
-## Smoothing these rough edges
+## Smoothing These Rough Edges
 
 Shipping has been my goal all along. My measured reactions to people's behaviors help me see things through. When I began, this exercise was uncomfortable, but now I'll adjust to find common ground, with humor, prioritizing [what is to be solved](http://www.paulgraham.com/gh.html).
 
@@ -15,7 +15,7 @@ For what I can control, I've overcome these challenges by mellowing combative op
 
 Once disagreements settle and we see eye to eye, I find pure joy when a project aligns and exceeds escape velocity. There is a familiar feeling of being "on." The result is [I'll ship with a team](https://dev.to/solidi/what-is-an-engineering-manager-anyway-4and), sharing it with the world.
 
-### In shipping, I cannot switch off
+### In Shipping, I Cannot Switch Off
 
 Even with years of newfound tact, what frustrates me profoundly are projects that sit on shelves. I've learned to push them to a conclusion, negotiating their way out the door. If I sensed a project was permanently stuck, I'd leave it behind, despite others who chip away at it.
 
@@ -25,7 +25,7 @@ In these years, I've learned how to handle these inconsistencies gracefully. For
 
 In pursuing the solutions where my motivation peaks, nothing around me seems beautiful until this burden is taken care of. When it's "on," I push others away. When it's defeated, I'm happy for a moment, hugging my loved ones. Then I come crashing back down again, discovering danger at these peaks.
 
-### When I burned out
+### When I Burned Out
 
 Sometimes in these long-tailed moments, mistakes happen. I sacrificed my family time. The decision depended on what it meant to ship. Failing to keep balance had consequences.
 
@@ -35,15 +35,15 @@ It isn't a wonder that this pursuit is my addiction. I know that if I  open the 
 
 Being "on" is a thrilling rush, but I no longer prescribe heroics. I understand there are times I must push myself to ship. Triangulating this sacred trigger has happened a handful of times in my career, and lately, my acceptance has a higher bar.
 
-## Seeing it through is what I valued most
+## Seeing it Through is What I Value Most
 
 For products I've participated in, [a familiar observation has formed](https://medium.com/hackernoon/the-decision-hypothesis-aa512e0113). Projects break apart after they are delivered. A new process begins, measured by the magnitude of its intended impact. Finishing a new project will require months or years of searching for it, then when I find it, time invested until it's released.
 
-## It’s a regular wash cycle
+## It’s a Regular Wash Cycle
 
 Preparing to deliver the next requires recharged personal momentum. I learned there is limited time, so when I ship, I must be diligent by [setting a date, prioritizing its list, and cutting scope](https://www.joelonsoftware.com/2002/04/09/picking-a-ship-date/). This process repeats with variable excitement in a never-ending cycle. My wisdom, as in naming familiar phenomena I'd discovered along this journey, makes it easier.
 
-There is a growing list of products I've contributed to in these twenty-five years. Many have shut down, and a rare few engaged by millions. What is certain after I left, a new team rewrote these popular products.
+There is a growing list of products I've contributed to in these twenty-five years. Many have shut down, and a rare few engaged by millions. What is certain is that after I left, a new team rewrote these popular products.
 
 Perhaps it's a regular wash cycle. I understand these releases inherently create a perpetual maintenance burden to serve a lack of engagement. For products that kept going, iterations of [teams dissolved into the ether](https://betterprogramming.pub/in-software-when-an-engineer-exits-the-team-1e550303cff8). All is not lost. I'll export the learnings to the next project. It's threading this needle and seeing the next through is what I valued most.
 
@@ -51,7 +51,7 @@ Perhaps it's a regular wash cycle. I understand these releases inherently create
 
 As I age, memories have formed from my first IRC login, traveling to offices, and recently joining [a Webex](https://dev.to/solidi/recognizing-remote-romantic-bibliophilia-255f), Discord, or whatever they choose. I desire to surround myself with dedicated people who contribute solutions to a beautiful conveyer of intractable problems. Not only because we will ship together, but because I'll learn so much from their creative thinking.
 
-It's clear what is most important to me in all these years. To finish things I begin, my individualist pursuit of dedicated execution. *My goal is to ship*. That has never changed in this beautiful dream of crafting stuff in the sand.
+It's clear what is important to me in all these years. To finish things I begin, my individualist pursuit of dedicated execution. *My goal is to ship*. That has never changed in this beautiful dream of crafting stuff in the sand.
 
 Here is to another twenty-five.
 

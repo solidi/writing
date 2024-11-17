@@ -70,7 +70,7 @@ Mileage may vary depending on the domain and the reception from stakeholders. In
 
 ## Framework Support
 
-The springboard pattern provides ***efficiency*** benefits that coincide with features of the framework. For this post, I’ll discuss Android concerning the use of a springboard. Your framework may vary.
+The springboard pattern provides ***efficiency*** benefits that coincide with features of the framework. For this essay, I’ll discuss Android concerning the use of a springboard. Your framework may vary.
 
 Recently in the Android ecosystem, Google has launched [Instant Apps](https://developer.android.com/topic/instant-apps/index.html) and discussed at length the incorporation and break out of new concepts in the area called ***feature modules***. As we can see from above, everything that is demonstrable to stakeholders should be isolated. As development continues, insulate each feature from significant dependencies and optimize them for every feature. The product team may want to launch these features separately or together.
 

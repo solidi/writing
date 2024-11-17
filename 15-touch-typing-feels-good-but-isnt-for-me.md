@@ -3,13 +3,13 @@
 
 ![](images/15-01.jpeg)
 
-**MY RECENT OBSERVATIONS** of “humans with keyboards” motivated me to write this post. It seemed, people around me type in a belabored “hunt and peck” style. Even a friend proclaimed he “typed more proficiently with two fingers than ten.” And so we fell into a debate. Strong opinions arose from our conversation, without an agreement if touch-typing was worth the practice.
+**MY RECENT OBSERVATIONS** of "humans with keyboards" motivated me to write this essay. It seemed, people around me type in a belabored “hunt and peck” style. Even a friend proclaimed he “typed more proficiently with two fingers than ten.” And so we fell into a debate. Strong opinions arose from our conversation, without an agreement if touch-typing was worth the practice.
 
 I prefer the "hunt and peck style" too.
 
 Of course, typing style is a personal choice. No one will ever force you to do it differently. Those who are curious discover their choice. And my curiosity set me off on a diversion of improving my typing. The question to myself was "With all these years behind the keyboard, how does my own style measure up? Can I do better?"
 
-This post explores my typing trials on learning touch-typing with speed and error measurements. I’ll conclude on what touch-typing feels like and why I will not switch from my self-taught typing strategy.
+This exercise explores my typing trials on learning touch-typing with speed and error measurements. I’ll conclude on what touch-typing feels like and why I will not switch from my self-taught typing strategy.
 
 ## Motivation
 
@@ -21,7 +21,7 @@ With twenty years behind the keyboard, my typing style is embarrassingly ineffic
 
 **From these points of my self taught typing strategy, I’ll label it as it looks: float typing.** I have a sense that my speed is decent but do not have a precise measurement. So, let’s find out.
 
-## My typing baseline
+## My Typing Baseline
 
 To measure, we need a tool. I chose the website keybr.com to perform typing measurements on speed and error rate. What I liked about keybr is its no-nonsense learning. No typing games. It has algorithms that detect weakness in learning keys. Samples of commonly strung letters in the English language are recorded. The user interface is clear, straightforward, and the statistics are excellent.
 
@@ -43,7 +43,7 @@ Above, we can see the course of 132 samples taken over the course of 35 minutes.
 
 Over the course of 132 samples my typing speed is generally "fast," with clarity of keys that are "slow." I chalk this up to unique word combinations that made me look down at the keyboard.
 
-## Touch-typing
+## Touch-Typing
 
 My motivation during this exercise is to gain speed and reduce error rate. More fingers, less hand movement, and focus on the screen. After brief research, the style that addresses all three concerns is touch-typing.
 
@@ -66,27 +66,27 @@ As I become confident in touch-typing, each key becomes green and typing speed w
 
 Finally, we come to errors. The review of the hit/miss ratio or relative miss frequency per key is clear. The green bar is representative of touch-typing and the purple is float typing. The lower the bar, the better. Since I am learning, it is natural that there is a higher tendency of missed keys with touch-typing. Twenty of the 26 keys report a higher error count.
 
-## Touch-typing takeaways
+## Touch-Typing Takeaways
 
 The measures are clear. We can make an early conclusion. For me, there isn't a benefit in speed or error rate using touch-typing. But all is not lost. Here are important takeaways.
 
-### It feels really good
+### It Feels Really Good
 
 Related to muscle memory, touch-typing provided a sensation of "feels good" when it came to middle, ring and pinky articulation. For example, typing words that consist of adjacent keys produce a good feeling. Examples of words like "were," "wards," and "sad." As numerous fingers "rolled" through the keys my dopamine peaked.
 
-### Finger muscle identification
+### Finger Muscle Identification
 
 Keybr identified weakness on my left fingers and right hand extremities. My middle, ring, and pinky fingers hurt as I practiced. At first, it was difficult to type sequences like "as" and keys like O versus I and finding P and Q. However, over time the use of the individual fingers became easier. I also noticed that my extremity fingers felt independent, especially the middle and ring finger.
 
-### Discipline with home keys
+### Discipline with Home Keys
 
 It was very difficult to understand my location on the keyboard so I forced myself to “find the bumps”. After every word I forcefully “reset” to the F and J home keys, felt them, then continued with the next word. This slowed me down.
 
-### Difficulty with keys closest to palms
+### Difficulty with Keys Closest to Palms
 
-An interesting result of touch-typing is it minimizes the movement of hands in a horizontal fashion and focused my fingers on the vertical axis. I noticed that keys M and X commanded my hands to move somewhat downward, unnaturally. This could be due to the length of my middle fingers and the natural inclination of my fingers pointing upward as I rested my palms.
+For me, touch-typing minimized the movement of hands in a horizontal fashion and maximized my fingers movement on the vertical axis. I noticed that keys M and X commanded my hands to move somewhat downward, unnaturally. This could be due to the length of my middle fingers and the natural inclination of my fingers pointing upward as I rested my palms.
 
-### Looking at the keys inflates numbers
+### Looking at the Keys Inflates Numbers
 
 I had a tendency to look at the keyboard when my hands began to stray from the home keys. Words that begin with B and G made me look as I typed. As noted above, it was either stop in motion to find the bumps then go for the key or look quick and readjust. Sometimes the latter felt faster. Let’s prove this.
 

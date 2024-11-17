@@ -1,11 +1,11 @@
 # A Love Letter To My YouTube Subscriptions
-## Cutting Cable Turned Me Into a Couch Farrier
+## Cutting Cable Turned Me into a Couch Farrier
 
 #youtube, #culture, #socialmedia, #technology, #streaming
 
 ![Photos by Christian Wiediger and Christopher Beloch on Unsplash](images/66-01-edit.jpeg)
 
-When I ditched my cable bundle, a transformation happened on my couch. I became a voyeur of a comforting formula, peering into the souls of once-ordinary individuals. Every day, they post content on [YouTube](https://www.youtube.com/). Before bed, I stream their warez to my screen. This post is a love letter to their content after the collapse of reality TV, but before we [roll it back up again](https://www.engadget.com/disney-is-bringing-the-first-episode-of-the-mandalorian-to-broadcast-tv-231407016.html).
+When I ditched my cable bundle, a transformation happened on my couch. I became a voyeur of a comforting formula, peering into the souls of once-ordinary individuals. Every day, they post content on [YouTube](https://www.youtube.com/). Before bed, I stream their warez to my screen. This essay is a love letter to their content after the collapse of reality TV, but before we [roll it back up again](https://www.engadget.com/disney-is-bringing-the-first-episode-of-the-mandalorian-to-broadcast-tv-231407016.html).
 
 ## New To You (and Their Content)
 
@@ -29,13 +29,13 @@ It is without question there are YouTubers out there who unbox and review cool s
 
 [![](https://img.youtube.com/vi/Pcksk-zY1MA/0.jpg)](https://www.youtube.com/watch?v=Pcksk-zY1MA)
 
-CrazyRussianHacker has influenced me to say, "*Let's put it to the test!*" and the joy of speaking, "*Safety is number one priority.*" In real life, I'll say these quips in jest where preparation wasn't planned, as CrazyRussianHacker performs dangerous tests regularly. The repetitive hooks in his language have seeped into mine. And if you have been watching, I'm sure you are also doing it.
+CrazyRussianHacker has influenced me to say, "*Let's put it to the test!*" and the joy of speaking, "*Safety is number one priority.*" In real life, I'll say these quips in jest where preparation wasn't planned, as CrazyRussianHacker performs dangerous tests regularly. The repetitive hooks in his language have seeped into mine. And if you have been watching, I'm sure you are doing it, too.
 
 With almost twelve million subscribers, his influence is "*No joke guys.*"
 
 ### Xiaomanyc 小马在纽约
 
-Better known as Arieh Smith, [Xiaomanyc](https://www.youtube.com/@xiaomanyc) drives smiles when articulating an unsuspecting language to native speakers. He's famous because the looks do not match his impressive Mandrian and [Fuzhounese](https://en.wikipedia.org/wiki/Fuzhou_dialect) skillsets. It's incredible to watch Arieh order food in an unfamiliar language while I experience anxiety about ordering a cheeseburger in my *only* language.
+Better known as Arieh Smith, [Xiaomanyc](https://www.youtube.com/@xiaomanyc) drives smiles when articulating an unsuspecting language to native speakers. He's famous because his looks do not match his impressive Mandarin and [Fuzhounese](https://en.wikipedia.org/wiki/Fuzhou_dialect) skill sets. It's incredible to watch Arieh order food in an unfamiliar language while I experience anxiety about ordering a cheeseburger in my *only* language.
 
 [![](https://img.youtube.com/vi/qxSSKKf9S9s/0.jpg)](https://www.youtube.com/watch?v=qxSSKKf9S9s)
 
@@ -49,7 +49,7 @@ One of my latest subscriptions, [Tom Williet](https://www.imdb.com/name/nm093251
 
 [![](https://img.youtube.com/vi/I-r4VTKPtSA/0.jpg)](https://www.youtube.com/watch?v=I-r4VTKPtSA)
 
-Featureman is a pleasant guy talking about high-processed food concerned with its economy. Until I realized he's saltier than the TV dinners. Tom has worked with Hollywood's greatest actors as a stand-in, extra, and double, spanning forty years in Hollywood. From [Rock Hudson](https://en.wikipedia.org/wiki/Rock_Hudson) to Leslie Nielsen, he's worked with outstanding actors and actresses. And this is why I come back. Featureman's stories would make any mortal smile. God bless my vanilla pudding time with him.
+Featureman is a pleasant guy talking about high-processed food concerned with its economy. Until I realized he's saltier than the TV dinners. Tom has worked with Hollywood's greatest actors as a stand-in, extra, and double, spanning forty years in Hollywood. From [Rock Hudson](https://en.wikipedia.org/wiki/Rock_Hudson) to Leslie Nielsen, he's worked with outstanding actors and actresses. And this is why I watch. Featureman's stories would make any mortal smile. God bless my vanilla pudding time with him.
 
 Astoundingly, Tom has four hundred thousand subscribers as of 2023.
 
@@ -85,11 +85,11 @@ Steve un-cans potential botulism I'll never have to experience. Since watching, 
 
 ### SB Mowing
 
-In the land of YouTubers, watching people work is no joke. In the case of mowing lawns, that's a business with lots of money to be made. Spencer over at his channel, [SB Mowing](https://www.youtube.com/c/sbmowing), uploads videos where he gifts his landscaping services to abandoned properties and neighbors. I'll spend hours with Spencer with his formula of revealing what once was considered lawn and brushes.
+In the land of YouTubers, watching people work is no joke. In the case of mowing lawns, that's a business with lots of money to be made. Spencer over at his channel, [SB Mowing](https://www.youtube.com/c/sbmowing), uploads videos where he gifts his landscaping services to abandoned properties. I'll spend hours with Spencer with his formula of revealing what once was considered lawn and brushes.
 
 [![](https://img.youtube.com/vi/HhtpKfzxVlA/0.jpg)](https://www.youtube.com/watch?v=HhtpKfzxVlA)
 
-SB Mowing is doing something extraordinary with half a million subscribers watching... which is mowing lawns? I arrive for those delicious sideway reveals. Lifting sod off the concrete makes for a soothing experience if you are a mind-bended, neat freak like me. I come back for the straight rhythmic shots of clean edges.
+SB Mowing is doing something extraordinary with half a million subscribers watching... which is mowing lawns? I arrive for those delicious sidewalk reveals. Lifting sod off the concrete makes for a soothing experience if you are a mind-bended, neat freak like me. I come back for the straight rhythmic shots of clean edges.
 
 ### Hydraulic Press Channel
 
@@ -97,13 +97,15 @@ In the case of Lauri and Anni from the [Hydraulic Press Channel](https://www.you
 
 [![](https://img.youtube.com/vi/q9BtYEnrkg4/0.jpg)](https://www.youtube.com/watch?v=q9BtYEnrkg4)
 
-Hydraulic Press Channel touches my inner soul of being a child. I liked destroying my playthings, specifically my toy cars with hammers, or at least this is what my Mom said. But with Lauri and Anni, I'm in good company without anyone yelling at me. I like this duo, what they do, and how hazardous the activity of crushing ballbearings produces authentic military-grade shrapnel.
+Hydraulic Press Channel touches my inner soul of being a child. I liked destroying my playthings, specifically my toy cars with hammers, or at least this is what my Mom said. But with Lauri and Anni, I'm in good company without anyone yelling at me. I like this duo, what they do, and how hazardous the activity of crushing ball bearings produces authentic military-grade shrapnel.
 
 With close to four million subscribers, people enjoy this dynamic dual with Lauri's classic Finnish response, "*Holy Shit!*" as the shards fly.
 
 ### LA Beast
 
-My final YouTuber on the list is Kevin Strahle. Better known as [LA Beast](https://www.youtube.com/@LABEAST), a competitive eater whose videos reflect his nature of doing crazy things like eating cakes off a moving toy train while upside down on a yoga stand. LA Beast became famous for [chugging a twenty-year-old Crystal Pepsi](https://www.youtube.com/watch?v=CGwibPdEOVk) and throwing it all up. I connect with Kevin and make his videos my priority.
+My final YouTuber on the list is Kevin Strahle. Better known as [LA Beast](https://www.youtube.com/@LABEAST), a competitive eater whose videos reflect his nature of doing crazy things like eating cakes off a moving toy train while upside down on a yoga stand. LA Beast became famous for [chugging a twenty-year-old Crystal Pepsi](https://www.youtube.com/watch?v=CGwibPdEOVk) and throwing it all up.
+
+I connect with Kevin and make his videos my priority.
 
 [![](https://img.youtube.com/vi/s-10rEbLWnk/0.jpg)](https://www.youtube.com/watch?v=s-10rEbLWnk)
 
@@ -113,11 +115,11 @@ With close to three million subscribers, he's doing it well, while others are no
 
 ## Link and Subscribe Below (and Click the Bell)
 
-Of course, there are others on my list. From [riding trains](https://www.youtube.com/@RailCowGirl) in Scandinavia, sipping scotch in a [Manx bothy](https://www.youtube.com/@ralfydotcom), riding expensive [naked motorcycles](https://www.youtube.com/@royaljordanian) in Europe, and reviewing [delicious US fast food](https://www.youtube.com/@TheReportOfTheWeek), these individuals are privately celebrated and publically embarrassing to share. But we are all watching a flavor of their creative content.
+Of course, there are others on my list. From [riding trains](https://www.youtube.com/@RailCowGirl) in Scandinavia, sipping scotch in a [Manx bothy](https://www.youtube.com/@ralfydotcom), riding expensive [naked motorcycles](https://www.youtube.com/@royaljordanian) in Europe, and reviewing [delicious US fast food](https://www.youtube.com/@TheReportOfTheWeek), these individuals are privately celebrated and publicly embarrassing to share. But we are all watching a flavor of their creative content.
 
-I've chosen these people because they are my new media consumption. They are doing something incredible by keeping me entertained on YouTube. And since my separation from cable, I've subscribed to these individuals, and I hope more will come. Well, *until the next big thing arrives*.
+I've chosen these people because they are my new media consumption. They are doing something incredible by keeping me entertained on YouTube. And since my separation from cable, I've subscribed to these individuals, *until the next big personality arrives*.
 
-And with liberty, as [Lauri](https://en.wikipedia.org/wiki/Hydraulic_Press_Channel) says on the Hydraulic Press Channel, "*Thank you for **reading**, and have a nice day.*"
+I salute you all! And as [Lauri](https://en.wikipedia.org/wiki/Hydraulic_Press_Channel) says on the Hydraulic Press Channel, "*Thank you for watching, and have a nice day.*"
 
 ## Social Post
 

@@ -7,7 +7,7 @@ Debugging things requires a level head. Problem-solving is an art of the *anti-f
 
 ## Roaming Circuits
 
-When relocating an electric circuit breaker box at a residence, there is a "certified" way to add contiguous line. It requires a large plastic box hanging on an exterior wall containing wire splices for each circuit. These conjunctions make an exemplar engineer perpetually anxious, as splices are known to fail over time.
+When relocating an electric circuit breaker box at a residence, there is a "certified" way to add contiguous lines. It requires a large plastic box hanging on an exterior wall containing wire splices for each circuit. These conjunctions make an exemplary engineer perpetually anxious, as splices are known to fail over time.
 
 When we moved my home's electrical source, I became apprehensive. With an invisible electric force compounding my nerves, I was afraid that things would go wrong. Sure enough, something did go wrong, at least in my head. Fantastical visions of squirrels chewing on the lines, nefarious agents dismantling the box to disable alarms, and the elementals attacking from a well-placed lighting strike, in the night, without any sound.
 
@@ -45,7 +45,7 @@ Bingo. Fix applied.
 
 While the nightlight saw its end in the bin, I suspiciously blamed the system in error. While an established system is not often blameless, the focus should be on its added appendages. Looking into the core system is rarely necessary.
 
-I've worked with these *splice boxes* in the past, both certified and not. In the end, the most straightforward source is to blame. It's probably a **configuration problem**, with force recently being applied to it.
+I've worked with these *splice boxes* in the past, both certified and not. In the end, the most straightforward source is to blame. It's probably a **configuration problem**, with force applied to it.
 
 ## Social Post
 

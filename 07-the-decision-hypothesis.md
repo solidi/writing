@@ -3,33 +3,35 @@
 
 ![A Qumran Cave Scroll (iStock)](images/07-01.jpeg)
 
-Some weeks ago, I completed a re-read of the [Mythical Man-Month (MM-M)](https://www.pearson.com/us/higher-education/program/Brooks-Mythical-Man-Month-The-Essays-on-Software-Engineering-Anniversary-Edition-2nd-Edition/PGM172844.html) by Frederick P. Brooks, Jr. The read was my third sitting over the years in software development.
+Some weeks ago, I completed my third re-read of the [Mythical Man-Month (MM-M)](https://www.pearson.com/us/higher-education/program/Brooks-Mythical-Man-Month-The-Essays-on-Software-Engineering-Anniversary-Edition-2nd-Edition/PGM172844.html) by Frederick P. Brooks, Jr.
 
-MM-M is a dramatic piece of authoring excellence in our young craft. I consider it a constitution that continues to hide delightful discoveries. Anyone who practices [software development](https://medium.com/hackernoon/software-is-unlike-construction-c0284ee4b723) will benefit if they read MM-M. However, reading once is not enough! Much pleasure and wisdom will come reading numerous times. The work highlights forty-five-year-old observations that hold to this day.
+MM-M is a dramatic piece of authoring in software development. I consider it a constitution that contains delightful discoveries. Anyone who practices [software development](https://medium.com/hackernoon/software-is-unlike-construction-c0284ee4b723) should read MM-M. And reading once is not enough! Pleasure and wisdom will come from reading numerous times. The work highlights forty-five-year-old observations that hold true to this day.
 
-This post will describe loose findings in MM-M that may hint on how we can document the *why of software development decisions.* It will also analyze a technique our team inconsistently deployed to capture software decisions.
+This essay will describe findings in MM-M that describe how we document the *why of software development decisions.* It will also analyze a technique my team practiced to document software decisions, providing graphs along the way.
 
 # Chapter 10: The Documentary Hypothesis
 
-In MM-M, Fred postulates scholarly labor to applied practical application in four short pages.
+In MM-M, Fred postulates scholarly labor and its practical application in four short pages.
 
-> Amid a wash of paper, a small number of documents become the critical pivots around which every project's team revolves …
+> Amid a wash of paper, a small number of documents become the critical pivots around which every project's team revolves...
 
-Fred goes on to describe neatly in three sections the required documents for a *computer product, university department,* and finally documents for a *software project*.
+Fred goes on to describe in three sections the required documents for a *computer product, university department,* and documents of a *software project*.
 
 He concludes with the topic of **why**.
 
-> First, writing the decisions down is essential… Second, the documents will communicate the decisions to others… Finally, … documents give … a database and checklist.
+> First, writing the decisions down is essential... Second, the documents will communicate the decisions to others... Finally,... documents give... a database and checklist.
 
-From the quotes, Fred sets up the thinking and fundamentals of documentation that a developer should strive for. While he may have targeted documents such as schedule and requirements, how does this apply to a software project in terms of code?
+From the quote, Fred presents the practice of developer documentation. He targets documents such as schedule and requirements, but how does this apply to a software code?
 
 ## DECISIONS.md
 
-Some years ago, there was a discussion in our team to decide on a mechanism on how to communicate the **why** of team decisions. We came up with a way to record the decisions that were made. The document was to provide attention to code direction, construct usage, structure, and style in a way that explains the conclusion of such decisions.
+Some years ago, there was a decision in my team to document the **why** of team decisions. We created a document, called `decisions.md`, to provide rich detail to code architecture, dependencies, and style in a way that explains their reasoning.
+
+Our guiding principle was documentation is code. And if we had to document, do it in the version control system or as close to the software workspace as possible.
 
 Our guiding principle was that the **documentation is code**. If we had to document, *do it in the version control system* or as close to the software workspace as possible.
 
-Then we found this post; [every project should have a decision making file](https://akazlou.com/posts-output/2015-11-09-every-project-should-have-decisions/) by [Aliaksandr Kazlou](https://medium.com/u/93bb84d49d5c?source=post_page-----aa512e0113----------------------). The post introduced the concept of a version-controlled `DECISIONS.md`. It's a brilliant write up, and I suspect the author is also a fan of MM-M.
+Then we found a post; [every project should have a decision making file](https://akazlou.com/posts-output/2015-11-09-every-project-should-have-decisions/) by [Aliaksandr Kazlou](https://medium.com/u/93bb84d49d5c). The post introduced the concept of a version-controlled `DECISIONS.md`. It's a brilliant write up, and I suspect the author is a fan of MM-M.
 
 ![It's evident in our DECISIONS.md that code organization and dependency management are dominant.](images/07-02.png)
 
@@ -39,7 +41,7 @@ So, we followed and adopted it in our way. I'll share a short section of ours be
 # DECISIONS.md
 ...
 ## Logging
-As a platform team, we have decided to utilize Timber [https://github.com/JakeWharton/timber] for all logging calls within the application. This is due to a few reasons. Our biggest gain is the removal of an overbearing Log wrapper we had to maintain. We wanted to get rid of its complexity.
+As a platform team, we have decided to utilize Timber [https://github.com/JakeWharton/timber] for all logging calls within the application. Our biggest gain is the removal of an overbearing Log wrapper we had to maintain. We wanted to get rid of its complexity.
 Some other reasons for utilization of Timber are as follows:
 * Automatic tagging.
 * Easy extensibility.
@@ -47,58 +49,61 @@ Some other reasons for utilization of Timber are as follows:
 ...
 ```
 
-Once adopted, we had problems with timeliness of `DECISIONS.md` since it required constant maintenance. We also observed two truths. First, software development decisions are relentless and persistent. They can vary in intensity but are always present. Two, we have trouble having developers owning `DECISIONS.md` like its code by keeping it timely.
+Once adopted, we had problems with timeliness of `DECISIONS.md` since it required constant maintenance. We also observed two truths. First, software development decisions are relentless and persistent. They can vary in intensity but are always present. Two, we have trouble having developers keeping `DECISIONS.md` timely.
 
-## Julius Wellhausen's Work Was Lost To Many Hands
+## Julius Wellhausen's Work was Lost to Many Hands
 
-This post was inspired by observations between the team, MM-M, the many projects launched and maintained, and Aliaksandr's post on DECISIONS.md. However, ultimately I decided to write this because of a lunch I recently had with a senior developer. The lunch brought it all together for me.
+This composition was inspired by observations between the team, MM-M, the projects launched and maintained. Ultimately, I decided to write because of a lunch I had with a senior developer. The lunch brought it all together for me.
 
-![Software decisions vary during a project but prefer to be constant over time.](images/07-03.png)
+![Software decisions vary during a project. Decisions prefer to be constant over time.](images/07-03.png)
 
-We debated about a pull request trend in our monolithic repo that seemed to be going awry with specific uses of `@VisibleForTesting` and others uses such as ReactiveX `Subject`. Additionally, a team decision was not made on the consistent use of `@Nullable` and `@NonNull` in preparation for our Kotlin production migration. Of course, the technical details are not necessary, and these issues are just the flavor of the week.
+We debated about pull requests in our monolithic repo that went awry with inconsistent annotations and framework bloat. No team decision was made on the consistent use of nullability in preparation for our code language migration. Of course, sharing the technical details are not necessary, and these issues were the flavor of the week.
 
-As we ate, many developers were contributing and improving our code based on an idealistic development philosophy, but no philosophy is wrong if we are going in the same direction. A "wink" to Fred would suggest that the *Fragmentary or Supplementary Hypothesis* is always in full effect when it comes to code contribution.
+As we ate, developers were contributing to the code on an idealistic development philosophy. And no philosophy is wrong if it shares a direction. Freds *Fragmentary Hypothesis* is in full effect when it comes to code contribution, as each contributor adds alittle to its whole.
 
-Sure enough, our lunch concluded that we had to present decisions and that the communication of these concerns was highly significant. We have to start a discussion, a debate with data, and then update the `DECISIONS.md` document. Otherwise, the integrity of the tests and production code may degrade over time by violating conceptual integrity.
+Sure enough, our lunch concluded, and we made decisions on the framework usage. When we returned, we started a discussion with the team, debated with data, and updated the `DECISIONS.md` document. If we hadn’t, the integrity of the code will degrade over time by violating its conceptual integrity.
 
-## Fred Concluded With Self Documentation
+## Fred Concluded with Self Documentation
 
-In MM-M, it is plain to see that Fred had a difficult time grappling with separate documentation. He supported its value but pondered why developers do not do it well. In the end, he gave direction in some way that I consider pragmatic.
+In MM-M, Fred had difficulty grappling with separate documentation. He supported its value but pondered why developers fail to document. In the end, he stated:
 
-> Most documentation fails in giving too little overview. The trees are described, the bark and leaves are commented, but there is no map of the forest. To write a useful prose description, stand way back and come in slowly…
+> Most documentation fails in giving too little overview. The trees are described, the bark and leaves are commented, but there is no map of the forest. To write a useful prose description, stand way back and come in slowly...
 
-The most prominent contrast about written language to Fred is the following.
+Fred then paints a contrast to spoken language. He said:
 
 > English, or any other human language, is not naturally a precision instrument for such definitions. Therefore the manual writer must strain himself and his language to achieve the precision needed.
 
-However,
+But Fred found value in explaining meaning. He said:
 
-> With English prose one can show structural principles, delineate structure in stages or levels, and give examples. One can readily mark exceptions and emphasize contrasts. Most important, one can explain ***why***.
+> With English prose one can show structural principles, delineate structure in stages or levels, and give examples. One can readily mark exceptions and emphasize contrasts. Most importantly, one can explain ***why***.
 
 ![Developers do not like to document. Mundane external processes hurt developer happiness. [ 1 ]](images/07-04.png)
 
-Fred finally breaks down and writes a chapter on marrying documentation to code.
+Fred breaks down and writes a chapter on marrying documentation to code. He said:
 
 > Yet our practice in programming documentation violates our own teaching. We typically attempt to maintain a machine-readable form of a program and an independent set of human-readable documentation, consisting of prose and flow charts.
+
 > The results in fact confirm our teachings about the folly of separate files. Program documentation is notoriously poor, and its maintenance is worse. Changes made in the program do not promptly, accurately, and invariably appear in the paper.
+
 > The solution, I think, is to merge the files, to incorporate the documentation in the source program. This is at once a powerful incentive toward proper maintenance, and an insurance that the documentation will always be handy to the program user. Such programs are called ***self-documenting***.
 
-Fred was close to a solution, but he did not accomplish the follow through with code as documentation. It appears that human language and machine language repel each other, just as if two magnets are forced together at the same pole. More energy is required to keep the connection as they move closer.
+Fred was close to a solution, but he did not accomplish the follow through with code as documentation. It appears that human language and machine language repel each other, just as if two magnets are forced together at the same pole. Force is required to keep the connection as they move closer.
 
 Forty-five years later, *tests are the documentation on specification*. However, they, too, cannot explain why code exists as it does. There is a high value to keep the why that allows the system to pivot and survive. Therefore, some documentation has its place in the workspace.
 
-## Code Cannot Explain The Why To Humans
+## Code Cannot Explain the Why to Humans
 
-Every project will have plenty of software decisions that will demand constant attention at varying intensities. The recommendation is to document the significant software development decisions continuously, carefully, in one place. Try a technique like `DECISIONS.md`.
+Every software project has decisions which demand constant attention. The recommendation is to *document* the significant software development branches continuously, carefully, in one place. My suggestion is to try a technique like `DECISIONS.md`.
 
-This document could serve the team by encouraging new debates and focusing the resolution to a highly transparent file revision. The process focuses on developers comfortably at a real point that is neutral - an imperfect electronic arbiter.
+This practice serves the team by encouraging debate and focusing the resolution to a transparent file revision. The process is an imperfect electronic arbiter, serving as knowledge to onboarding engineers.
 
-![Decreasing code complexity and increasing code consistency appears to be the whys.](images/07-05.png)
+![Decreasing code complexity and increasing code consistency appears to be our whys.](images/07-05.png)
 
-Finally, we must explain the **why of our software decisions** because the code has a daft ability to communicate its origins poorly. Tribal knowledge, hallway conversations, team dynamics change, and fade. Version controls are changed, and history is broken. All that remains are the many contributors that graphed the pieces together over short periods.
+Code has a daft ability to communicate software decisions and their origins. Team knowledge, hallway conversations, relationship dynamics change, and fade. Version control systems change, and history is broken. All that remains are the contributors that crafted pieces together over short periods.
 
 > The decision hypothesis:
-> Amid constant software decisions, those of complexity and consistency become the critical pivots around which every software system survives. The decision document is a key to its revelation.
+
+> Amid constant software decisions, those of complexity and consistency become the critical pivots around which a software system survives. The decision document is a key to its revelation.
 
 ---
 

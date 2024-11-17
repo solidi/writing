@@ -71,7 +71,7 @@ One would argue that the pull request merge commit is the essential description,
 
 There is no right answer to this difficulty. The only real constant is the pull request template, the opportunity described and recorded in a version control system.
 
-## A Value Is A Description
+## Description has Value
 
 Pull requests take time just as much as writing code that follows consistent patterns. We value pull requests because they serve cross-pollination in engineering teams and protect user experiences valued to business.
 

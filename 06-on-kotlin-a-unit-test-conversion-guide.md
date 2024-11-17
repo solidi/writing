@@ -16,7 +16,9 @@ Approaching Kotlin Island. Courtesy: Google
 This conversion is just a starting point and there is much to learn. So before we dive in, let me set the stage on how we made the decision.
 
 ## Setting The Stage
-Modularization As The Conversion Vehicle
+
+### Modularization As The Conversion Vehicle
+
 As 2017 came to a close, our team began a migration to Kotlin. Our team had also started to move to a modular codebase to break up the heavy complexity of our monolithic app projects. These Android projects included many flavors from which tv and mobile applications were produced. We realized that modularization was the vehicle that we could utilize in our language migration.
 Modularization of code has a lot of benefits even to Android. It includes the ability to obtain a consistent code style within each module. Consistency is an underrated property of many software engineering projects. In my opinion, code that is consistently wrong is always better than code that is inconsistently right! This is because a pivot later may be favorably trivial when code consistency is present. Optionality is possible when things have a predicted structural rhythm throughout.
 We steered in this direction because consistency is critically linked to keep our organizational capacity high. Engineering expertise is usually constrained. Constraint is a property shared by many, perhaps all businesses. We decided to move forward with Kotlin in a consistent way without a drag on that organizational capacity. This is to mitigate risk of regressions and to help build the knowledge of the language. However, the cost to this strategy is the speed of adoption.
@@ -30,7 +32,7 @@ We would eventually follow up with production code of each module when the timin
 
 The first part of the process has already started and we have converted a decent percentage of unit tests. We have many more modules to go and have upwards of eight thousand unit tests. For those modules that have been converted or are uncovered, Kotlin will be the preferred language moving forward.
 
-## The Book
+### The Book
 
 In this profession it is important to invest a lot of time in learning. The key is to find the excitement and drive in the subject. I find a significant value in printed books to support learning and engage in the excitement.
 Why books? Simple! Unlike Medium posts or the internet as an information source, a book is finite and completable. Completing things to obtain information and to increase a skill is underrated activity.

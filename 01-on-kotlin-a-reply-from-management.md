@@ -116,7 +116,7 @@ But this was just an odd feeling as if I wronged every team that I've led. Did I
 
 The question - to default include Kotlin support - is continued to be asked. I believe it is the only question to be answered. *It could be the definitive answer for Kotlin adoption.*
 
-Remember, Google chose Java because there were fish in the sea for initial adoption. Just think of all those Java examples that Google would need to update.
+Remember, Google chose Java because many developers know the language. Just think of all those Java examples that Google would need to update.
 
 Now that Christina had equipped engineers with fundamentals, and Google had green-lit Kotlin, how does the application of those fundamentals translate?
 
@@ -160,7 +160,7 @@ When the constraints of a previous language are lifted and the exhaustion of boi
 
 ---
 
-Christina also brought up letting the tooling do hard problems. We are not good at hard problems. I agree with this. Tools must do their job well. Otherwise, they are complained about until they are fixed. Google is proving this well, so well, with Gradle.
+Christina recommends using tooling on hard problems. I agree with this. Tools must do their job well. Otherwise, they are complained about until they are fixed. Google is proving this well, so well, with Gradle.
 
 And lately, Java.
 
