@@ -105,6 +105,8 @@ Experiences distilled through writing.
 1. [Undercover Patented Toy Stories](https://medium.com/@solidi/undercover-patented-toy-stories-e49676a29477)
 1. [Wear Safety Glasses: Galoob's Sky Dancers](https://medium.com/@solidi/wear-safety-glasses-galoobs-sky-dancers-3c3b499288f3)
 1. [The Great Marvin Glass: Artists in a Fortress of Invention](https://medium.com/@solidi/the-great-marvin-glass-artists-in-a-fortress-of-invention-08e6a6da3399)
+1. [Upcoming Book: Deconstructive Software Ramblings](https://medium.com/@solidi/upcoming-book-deconstructive-software-ramblings-905b8c04b830)
+
 
 ## Major Engagements
 
