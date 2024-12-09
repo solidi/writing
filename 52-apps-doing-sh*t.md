@@ -39,6 +39,14 @@ What have *you* experienced?
 
 ---
 
+## Even More Sh*t
+
+I've maintained a running note of laugh-out-loud experiences, such as AI recommending sending roses to an ex-partner and an assistant sending minute notes, including the post-meeting "secret" break-out session to all attendees.
+
+The list continues to grow.
+
+---
+
 ## Social Post
 
 Sometimes my #consumer #app #experiences are working well, maybe too well. In this write, I share spectacular moments when apps have #failed me beautifully. Have they done the same to you?
