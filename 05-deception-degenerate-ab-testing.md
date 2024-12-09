@@ -17,29 +17,29 @@ Before we begin, let’s discuss what A/B testing is.
 
 ## What Is A/B Testing?
 
-A/B testing is loosely based on statistical mathematics and theoretical *psychological* experimentation. There is a control “A” and a variation “B.” An author of a test sends these two types to a controlled percentage of users for a variation of time in the product under test. The percentage and groups of users can be controlled by *targeting*.
+A/B testing is based on statistical mathematics and theoretical *psychological* experimentation. There is a control “A” and a variation “B.” An author of a test sends these two types to a controlled percentage of users for a variation of time in the product under test. The percentage and groups of users can be controlled by *targeting*.
 
 Once the A/B test is completed, the data is analyzed. The analysis allows the team to [steer the product in a direction](https://dev.to/solidi/what-is-a-product-manager-anyway-3pc4) based on the results. These data points are inferred by the team, driving performance indicators such as *customer retention* and *growth*, *call to action*, *revenue*, *conversion*, or to find new indicators.
 
-Traditionally A/B testing acts on user experience, visual design, or the customer journey of the targeted system to reduce user *friction* and maximize *engagement*. Most tests are on the *surface* where the colors, layouts, or navigation flow/behavior are altered.
+Traditionally A/B testing alters user experience, visual design, or the customer journey of the targeted system to reduce user *friction* and maximize *engagement*. Most tests are on the *surface* where the colors, layouts, or navigation flow/behavior are altered.
 
 ![A basic A/B test example. Note the difference in button color.](images/05-03.png)
 
-[A/B testing](https://hbr.org/2017/06/a-refresher-on-ab-testing) has gained a particular *perception*. Consultancies have formed businesses around the discipline, just how they formed around search engine optimization (SEO). SEO was popular in the 2000s. A/B testing is now popular in the 2010s. While SEO was beholden to secret algorithms that can immediately change from direct control of companies like Google, A/B test logic is owned wholly by the authors who execute them to meet goals for their stakeholders.
+[A/B testing](https://hbr.org/2017/06/a-refresher-on-ab-testing) has gained a particular *perception*. Consultancies have formed businesses around the discipline, just how they formed around search engine optimization (SEO). SEO gained popularity in the 2000s. A/B testing followed soon after. While SEO was beholden to secret algorithms that can change from direct control of companies like Google, A/B test logic is owned by the authors who execute them to meet goals for their stakeholders.
 
-Data collection and tooling has increased dramatically over the past few years. The authors of A/B tests have the power to walk a fine line on a code of ethics. Let’s explore this next by defining high-level dark patterns, with the first classification leverages urgent platform tools.
+Data collection and tooling has increased dramatically over the past few years. The authors of A/B tests have the power to walk a fine line on a code of ethics. Let’s explore these practices by defining high-level dark patterns, with the first classification under platform tools.
 
 ## Pattern 1: Act on Urgency
 
-Those that have used Android or iOS applications know well what a notification badge is. Notification badges are visual indicators on the app icon that cue the user to important events. The badge is usually a brightly colored circle with a number associated with the notifications waiting.
+Those that have used Android or iOS applications know what a notification badge is. Notification badges are visual indicators on the app icon that cue the user to important events. The badge is a brightly colored circle with a number associated with the notifications waiting.
 
 ![A typical, highly visible notification badge.](images/05-04.png)
 
 ### Example
 
-Imagine if we push a badge with a deceptive count to represent subjective notification activity. Even when the user is logged out, they'll receive badges without user activity. The badge is engagement bait.
+Imagine if we push a badge with a deceptive count to represent subjective notification activity. Even when the user is logged out, they'll receive badges without significant user activity. The badge is engagement bait.
 
-For those who are targeted, users will repeatedly engage with the application to understand what was urgent. They'll engage many times, increasing chances of an outcome, because of their presence.
+For those who are targeted, users will engage with the application to understand what was urgent. They'll engage many times, increasing chances of an outcome, because of their presence.
 
 ### Motto: “Urgent Notification”
 
@@ -55,7 +55,7 @@ Of course, there are many parts of a digital product that haven’t been built c
 
 Recently, a group of users navigated a site looking to watch a particular movie genre. As the users typed in the search result, they were steered to partial matches.
 
-The users engaged further with similar content.
+The users engaged with the content.
 
 ### Motto: “Canned Search Results”
 
@@ -69,13 +69,13 @@ Now, let’s test with scarcity.
 
 Manipulating critical numbers such as item stock, content number, and ratings are well known to consumer marketing. While these tricks  work temporarily, they will backfire.
 
-We do have the power to adjust numbers to increase the outcome of engagement–to a point.
+We have the power to adjust numbers to increase the outcome of engagement–to a point.
 
 ### Example
 
 Recently a group of users had been shopping on a website—and the customers are experienced with commerce sites.
 
-Let’s say that one of those items that the customer absolutely needed was in stock, but only "one left." Of course, this will motivate the  user to act–purchasing  in a timely manner.
+Let’s say that one of those items that the customer absolutely needed was in stock, but only "one left." Of course, scarcity will motivate the user to act–purchasing  in a timely manner.
 
 The next day the user returned to the site to research another similar purchase—sixteen items were available. Their trust will quickly erode.
 
@@ -93,25 +93,25 @@ Sometimes if we give or take away major items of the platform, it may manipulate
 
 ### Example
 
-A group of users was recently on an application that offered paid content behind a paywall. This app was freemium in nature.
+A group of customers on an application that offered paid content behind a paywall. This app was freemium in nature.
 
 Access became “unlocked,” and a group of users could view content for free without the paid subscription. Then time passed, and it was gone.
 
 Some users liked the content–and so they purchased the product.
 
-### Motto: “Curious Engagement Through Shock”
+### Motto: "Curious Engagement Through Shock"
 
-Opening the gates in an A/B test could be a potential opportunity to engage users. The process here is to select known identities to engage them further.
+Opening the gates in an A/B test could be a potential opportunity to engage users. The process here is to select identities to them.
 
 ![A paywall can have many testable options.](images/05-07.gif)
 
-Additionally, moving or closing things unexpectedly will stimulate engagement and increase returns. If services that are relied on are missing, those users will return frequently until it re-establishes.
+Additionally, moving or closing things unexpectedly will stimulate engagement and increase returns. If services that are relied on are missing, the users will return frequently until the content returns.
 
 Finally, we can hide things.
 
 ## Pattern 5: Platform Information Hiding
 
-One final example is the creative use of information. Here, we conduct an A/B test that manipulates information relevant to the users at the proper time and context. We either shift the information upstream or manipulate it so that it is diluted. We reduce the *friction* of information to obtain a result. Sometimes lack of information is that friction.
+One final example is the creative use of information. Here, we conduct an A/B test that manipulates information relevant to the users at the proper time and context. We either shift the information upstream or dilute it. We reduce the *friction* of information to obtain a result. Sometimes lack of information is that friction.
 
 ### Example
 
@@ -121,57 +121,59 @@ An example is a service that relies on the live location of the available liveri
 
 ### Group: “Shift, Adjust and Filter Information”
 
-We will try to adjust information or direct the user into a desired action by either giving or taking information away at measured points. Taking it a step further in tests, information manipulation can be targeted to identified groups of users.
+We will try to alter information or direct the user to a desired action by either giving or taking information away at measured points. Taking it a step further, information manipulation can be targeted to identified groups of users.
 
 This wraps up the pattern examples. **Urgency**, **faking**, **scarcity**, **giving**, **hiding** are subjectively divisive. Are they unethical?
 
-## Degenerate Tests May Be Unethical Tests
+## Degenerate Tests may be Unethical Tests
 
 In mathematics, a degenerate triangle exists in the overarching term of degeneracy cases:
 
-> A **degenerate** case is a limiting case in which an element of a class of objects is qualitatively different from the rest of the class and hence belongs to another, usually simpler, class. **Degeneracy** is the condition of being a **degenerate** case.
+> A **degenerate** case where an element of a class of objects is qualitatively different from the rest of the class and hence belongs to another, usually simpler, class. **Degeneracy** is the condition of being a **degenerate** case.
 
 The degenerate triangle is deceptive, and so are the patterns defined above. All tests are doable without the user understanding it had happened nor platforms catching authors in the act. These A/B tests are a degenerate class of the typical e-commerce tricks such as *urgency*, *scarcity*, and *human fallacy*. These techniques are, in most cases, harmless but act on *deception*. The question posed here is when the human is unknowingly participating, is it ethical to run these tests?
 
-The question may have already been answered because large technology companies have published their results.
+The question has been answered by large technology companies which published their results.
 
 ## A/B/Code/Deception Testing
 
-Some years ago, both Facebook and OkCupid deceived their users by running controversial A/B tests surrounding content engagement by companion matching. Then, they posted the results to the public. Opponents suggested that manipulating emotions and incorrectly matching incompatible date companions was wrong. This started a very long chain of responses from the [community](https://techcrunch.com/2014/06/29/ethics-in-a-data-driven-world/).
+Some years ago, both Meta and OkCupid deceived their users by running controversial A/B tests surrounding content engagement by companion matching. Then, they posted the results to the public. Opponents suggested that manipulating emotions and they matching incompatible companions was wrong. This started a long chain of responses from the [community](https://techcrunch.com/2014/06/29/ethics-in-a-data-driven-world/).
 
 ![The increasing data and tooling power will be the deciding factor. [Post here](https://www.gwern.net/docs/psychology/okcupid/weexperimentonhumanbeings.html).](images/05-09.png)
 
-One excellent research paper focused on this test fallout. You can read it [here](https://journals.sagepub.com/doi/pdf/10.1177/1747016116680664). Raquel Benbunan-Fitch dubbed these as A/B/C/D testing, where she states:
+One excellent research paper focused on this [test fallout.](https://journals.sagepub.com/doi/pdf/10.1177/1747016116680664). Raquel Benbunan-Fitch dubbed these as A/B/C/D testing, where she states:
 
 > This is a deep form of testing, which I propose to call **Code/Deception** or **C/D** experimentation to distinguish it from the surface level testing associated with A/B testing.
 
-Are the tests ethical? Well, the debate rages on.
+Are the tests ethical? Well, the debate continues today.
 
 The position of this author is to communicate to your customers. Let me suggest ways in which we can state our testing code of conduct.
 
-## Ethics May Start By Saying We Are "Ethical"
+## Ethics May Start by Saying We Are "Ethical"
 
-While the industry is attempting to figure out how to roll out and scale A/B testing to their advantage, I’d like to define how we can avoid these types of C/D tests. Here are a few ideas that are centered around communicating the use of live user testing.
+While the industry rolls out and scales A/B testing to their advantage, I’d like to define how we can avoid these types of C/D tests.
 
-1. Clearly specifying an A/B testing section in a Terms of Service.
-1. Publish an ethical statement and guiding principles of A/B testing.
-1. Visually indicating an A/B test is being performed with an opt-out.
+Here are a few ideas that are centered around communicating the use of live user testing.
+
+1. Clearly specifying an A/B testing section in a Terms of Service
+1. Publish an ethical statement and guiding principles of A/B testing
+1. Visually indicate an A/B test is being performed with opt-out
 
 The messaging presented is up to the stakeholders, and should be plain language. The boundaries of testing must be clear.
 
-For item three, test evangelists would agree that this behavior would highly disrupt the results, and the test would not be valid. The test author does not expect the user to feel that they are in a test “A” or “B” mode. The author wants the user to act as normal to measure correctly.
+For item three, test evangelists agree that this behavior would disrupt the results, and the test would not be valid. In "A" or "B" mode, the author requires the user to act as normal to measure correctly.
 
-While that might be true, we would still want to give the option at an appropriate time, in user preferences or sign-up. We want to measure and satisfy the user's concern which is the *product's value.*
+While that might be true, we would want to give the option at an appropriate time, in user preferences or sign-up. We want to measure and satisfy the user's concern which is the *product's value.*
 
 ---
 
-In the future, state and government agencies will define C/D testing limitations as public knowledge increases and problematic tests are uncovered. Companies may be caught performing highly degenerate tests that none of us could fathom.
+In the future, state and government agencies will define C/D testing limitations as public knowledge increases and problematic tests are uncovered. Companies have been caught performing highly degenerate tests that none of us could fathom.
 
 What would be the consequence of being deceptive? At this time, there are **no examples** of crossing a line. We have the power to ask whether to *associate* with the authoring team that *knowingly* deploys these questionable tests or *opt-out* of these deceptive practices.
 
 ![Impactful wisdom by [Daniel Weber](https://news.ycombinator.com/item?id=8230442).](images/05-10.png)
 
-Time will tell how deceptive testing shakes out. Data, tooling and their alignment will continue to increase testing power. Increased public awareness will spur hard questions.
+Time will tell how deceptive testing shakes out. Data, tooling and their alignment will continue to improve testing. And increase public awareness will spur hard questions.
 
 If there is one lasting advice, try not to deceive... too much.
 

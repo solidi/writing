@@ -5,7 +5,7 @@
 
 Starting a new software engineering role can be an overwhelming experience. The first months are a dizzying mix of meetings, development, and people. But there are many ways to become successful. Here are my top tips.
 
-## Build Trust With People
+## Build Trust with People
 
 **My philosophy starts with people.** As a [software engineer](https://dev.to/solidi/what-is-a-software-engineer-anyway-3fb2), good technical fundamentals support the day to day work. Software, at its core, is fundamentally about people working as a team. Focus on getting to know your teammates well.
 
@@ -13,7 +13,7 @@ Starting a new software engineering role can be an overwhelming experience. The 
 
 **Find a partner that can pair with you.** There are teammates out there that will want to see you be successful. Pair up with them and learn together.
 
-**Communication helps build partnerships.** Not all communication needs to be purposeful. Be open to team lunches. Share with the team about your interests outside of work. Socializing will help forge powerful working relationships over time.
+**Communication helps build partnerships.** Not all communication requires purpose. Be open to team lunches. Share with the team about your interests outside of work. Socializing will help forge powerful working relationships over time.
 
 **Show recognition.** For every contribution from others, a quick thank you can go a long way. Even more importantly, as you start working on initiatives together, and achieve results, recognize their accomplishments.
 
@@ -45,7 +45,7 @@ Now that you are understanding people, and adding value by contributing, organiz
 
 **Build a glossary of acronyms.** Each company has its own set of abbreviations and acronyms. As you discover them through conversation, ask what they mean, and write it down. Start a glossary, and share it with the next new employee.
 
-**Structured knowledge with a wiki.** As you discover the product, it is a good idea to write out what you are learning. A personal wiki or a small library of markdown files can document your progress. The documents will reveal gaps to formulate new questions to ask. The bonus is that you can openly share with others over time.
+**Structured knowledge with a wiki.** As you discover the product, it is a good idea to write out what you are learning. A personal wiki or a small library of markdown files can document your progress. The documents will reveal gaps to formulate new questions to ask. The bonus is that you can share with others over time.
 
 ## Take on Your First Initiative
 
@@ -53,11 +53,11 @@ As you are onboarding well, now is an excellent opportunity to build. Take owner
 
 **Understand the why behind the work.** As you get into taking on your first challenge for the team, it is good to ask why your work is essential. Understand the mission and shape the context so it will drive your impact.
 
-**Start small, and build up.** Take on work that is achievable to build up understanding. Small accomplishments build your confidence.
+**Start small, and build up.** Take on work that is achievable to build up understanding. Small accomplishments fortify your confidence.
 
 **Bring in previous learnings.** As you learn from the codebase, and respect team efforts, show your way of thinking by solving the first initiative collaboratively. It's an excellent opportunity to mentor and learn even more from others.
 
-**Solve a gnarly problem.** The team has many important initiatives ahead of them. Find a problem that [can help the organization](https://devjourney.info/Guests/98_DougArcuri.html), the product, or the environment. By taking on a gnarly issue, and solving it, will build the trust and respect of the team.
+**Solve a gnarly problem.** The team has many important initiatives ahead of them. Find a problem that [can help the organization](https://devjourney.info/Guests/98_DougArcuri.html), the product, or the environment. By taking on a gnarly issue, you will build the trust and respect of the team.
 
 ## Finally
 

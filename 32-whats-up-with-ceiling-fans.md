@@ -2,7 +2,7 @@
 #watercooler, #productivity, #ux, #design
 
 <figure>
-  <img src="images/32-1.jpg">
+  <img src="images/32-01.jpg">
   <figcaption>A ceiling fan rotation switch.</figcaption>
 </figure>
 
@@ -23,7 +23,7 @@ To understand air direction, Googling pointed me to watch fan rotation. It took 
 I don't care if the fan is going counter or clockwise, as stated by many posts. It is hard to discern if this is true on all fans, depending on the "cut" of the blades.
 
 <figure>
-  <img src="images/32-2.jpg">
+  <img src="images/32-02.jpg">
   <figcaption>A preferable fan rotation switch.</figcaption>
 </figure>
 

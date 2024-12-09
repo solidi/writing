@@ -3,7 +3,9 @@
 
 ![Photo by ThisisEngineering RAEng on Unsplash](images/40-01.jpeg)
 
-During my time in the industry, I have worked with talented software development engineers in test (SDETs). Also known as software automation engineers, QA engineers ([QAEs](https://dropbox.github.io/dbx-career-framework/qae-_appendix.html)), and other associated titles, they practice a discipline of skill sets to assert the quality and affirm the user experience. Here are my top appreciated attributes.
+During my time in the industry, I have worked with talented software development engineers in test (SDETs). Also known as software automation engineers, QA engineers ([QAEs](https://dropbox.github.io/dbx-career-framework/qae-_appendix.html)), and other associated titles, they practice a discipline to assert the quality and affirm the user experience.
+
+Here are my top appreciated attributes.
 
 **They find issues sooner.** Test engineers find ways to diminish quality concerns early. Whether reviewing requirements, participating in code review, asking engaging questions, they help identify bugs to reduce the cost of fixing defects later. As a result, they catch defective releases well before going out the door, protecting user experiences and company reputation.
 
@@ -13,7 +15,7 @@ During my time in the industry, I have worked with talented software development
 
 **Actively brings in new test techniques.** Whether it be [mutation testing](https://testing.googleblog.com/2021/04/mutation-testing.html), property-based testing, unit, integration, or new mocking approaches, they find ways to use these techniques and frameworks to test comprehensively. They organize and lead *game days*, *bug bashes*, and actively invest in applying methods in chaos engineering. Finally, they actively educate the team to leverage these tools.
 
-**Organizes test suites for effectiveness.** When [unit](https://proandroiddev.com/on-kotlin-a-unit-test-conversion-guide-71e0597bb45d) and integration tests are developed, they promote continual improvement, organizing fixtures, stubs, and mocks efficiently. These tests support new implementations. They add end-to-end tests to assert the intentional functionality of the system. Above all, the tests are logically separated and ordered, making it easy to run the desired tests at any time.
+**Organizes test suites for effectiveness.** When [unit](https://proandroiddev.com/on-kotlin-a-unit-test-conversion-guide-71e0597bb45d) and integration tests are developed, they promote continual improvement, organizing fixtures, stubs, and mocks efficiently. These tests support new implementations. They add end-to-end tests to assert the intentional functionality of the system. Above all, the tests are logically separated and ordered, making it easy to run the desired tests.
 
 **And promote refactoring and automation.** For every test suite, test engineers improve the confidence of the product. They empower the software engineers to move forward with refactors. By doing so, their actions promote the effectiveness and investment of each codebase under test. All these tests serve as living documentation and are *hermetic* in nature.
 
@@ -25,7 +27,7 @@ During my time in the industry, I have worked with talented software development
 
 **Are aware that flaky tests discourage testing.** They actively find ways for the test suites to run smoothly. And they confirm tests either succeed or fail deterministically. They quickly stomp out test suites that are best [flaky](https://testing.googleblog.com/2020/12/test-flakiness-one-of-main-challenges.html). In the end, they continue to harden the suite, so there is continued trust in the tests.
 
-**They are well educated in all the iterations of test philosophy.** Testing is complex. And SDETs know all of the visual metaphors of test suites. Whether it's honeycombs, [pyramids](https://martinfowler.com/articles/practical-test-pyramid.html), [trophies](https://kentcdodds.com/blog/write-tests), hourglasses, or ice cream cones, what is most important is to build extendable test suites that find issues sooner.
+**They are well educated in all the iterations of test philosophy.** Testing is complex. And SDETs know all of the visual metaphors of test suites. Whether it's honeycombs, [pyramids](https://martinfowler.com/articles/practical-test-pyramid.html), [trophies](https://kentcdodds.com/blog/write-tests), hourglasses, or ice cream cones, they build extendable test suites that find issues.
 
 **Much more than janitorial, a discipline that must happen.** While slogans such as *the engineers assert the quality and QA should find nothing* encourage test ownership, and the tech companies that post insightful testing techniques in restrooms to share burdens collectively, better outcomes can be achieved with SDETs on the team. They are the humility makers, shape business reality, and execute well in this maturing craft.
 

@@ -7,11 +7,11 @@ Every so often, I get caught in a thirst trap of a newly spun Twitter bot. Aptly
 
 My consumer app experiences can feel the same. Imagine a continuing thread of five second head-slapping experiences where reality is amiss. Apps are doing sh*t, either for good or bad, as I clap for joy or scream into the ether to those who make my life easier at a small price of WTF.
 
-## It Happens From Time To Time
+## It Happens from Time to Time
 
 You see, apps doing sh*t *are not* slow to load or crash. No, it's more like when things are working well, maybe too well. Their experience rises above the competition - spectacularly failing the customer without intending to do so.
 
-Let's assume everyone experiences degrees of apps doing sh*t. I aim to unearth a list of "*check out these awful/amazing things I experienced!*". Then maybe, after a long thread of examples, those who craft our complex experiences will mold the app world into a beautiful place.
+Let's assume everyone experiences degrees of apps doing sh*t. I aim to unearth a list of "*check out these awful/amazing things I experienced!*" Then maybe, after a long thread of examples, those who craft our complex experiences will mold the app world into a beautiful place.
 
 So here are mine in no particular order.
 
@@ -31,11 +31,13 @@ So here are mine in no particular order.
 
 ## Context Matters
 
-I'm sure I missed other examples of apps doing sh*t. My hunch is we are moving through an awkward age of *tween* personalized recommendation systems. Mature experiences require a higher resolution of related information, its correctness, and providing personal choice - increasing questions and actions to protect privacy.
+I'm sure I missed other examples of apps doing sh*t. My hunch is we are moving through an awkward age of *tween* personalized recommendation systems. Mature experiences require a higher resolution of related information, its correctness, and providing personal choice — raising questions of privacy.
 
 Aiming for smooth app adventures requires tuning context. I think solving this complexity is possible in time - it's not a technological problem but a cooperative human one. As the saying goes, we criticize within a context. And when apps are doing sh*t, *the lack of* context is to blame.
 
 What have *you* experienced?
+
+---
 
 ## Social Post
 

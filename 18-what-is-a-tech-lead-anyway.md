@@ -11,7 +11,7 @@ It's quite hard to define the tech lead role in a short post. But, here it goes.
 
 **They are accountable for the developer's experience**. The technical debt and engineering velocity. The tooling and onboarding friction. The testing, product domain, and holding philosophies to approaches.
 
-**They write down the philosophies so that decisions are apparent.** They are the guide with respect — a leader who delegates as well as leads by example.
+**They write down the philosophies so that decisions are apparent.** They guide others with respect — a leader who delegates as well as leads by example.
 
 **Being a tech lead can be a challenge.** Managers pressure them to do the impossible. Priorities come to them in all directions. Their impact is good or bad, whether the team is [pathological or generative](https://changelog.com/posts/how-to-build-a-generative-engineering-culture).
 

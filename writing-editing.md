@@ -24,7 +24,8 @@
 1. Many
 1. Some
 1. Mainly
-1. May
+1. May -> Will (or remove)
+1. Maybe -> Are (or remove)
 1. Can (one per paragraph)
 1. Try
 1. Still
@@ -42,14 +43,26 @@
 1. This (one per paragraph) -> the
 1. Had / had to (one per paragraph)
 1. Once
+1. Continue
+1. It -> Noun instead
+1. Only
+1. Allow
+1. Should
+1. Both
+1. Attempting
+1. Other / Others
+1. Almost
 
 ## Banned Phrasings
 
 1. I think
 1. I believe
 1. It seems
+1. Seem to
 1. At the time
 1. Will be -> is (make present)
+1. "Of course"
+1. "This means that"
 
 ## Other Bits
 
@@ -59,6 +72,10 @@
 1. "Of" filter - walk write to eliminate "of" if repeating in the same sentence
 1. "Can" filter - walk write to eliminate "can" completely
 1. "ly" filter - walk write to eliminate advrbs and modifiers that fill the writing without substance
+1. "to" ... "to" .. - cap sentence.
+
+## Other editing
+
 1. "Active voice" filter - walk write and flip verbs -> nouns to nouns -> verbs
 1. Scan for Escher sentences - Example: "More people been to Berlin than have I."
 1. Scan for tautologies - Example: "Your best bet is to make the right choice."

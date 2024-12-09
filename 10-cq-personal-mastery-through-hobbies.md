@@ -5,7 +5,7 @@
 
 Software engineering is my passion and profession. My focus is to improve the craft and build great teams. But from time to time, I explore the skill of learning by leveraging ***engineering thinking***. My goal is to find ways to improve communication, mentorship, and leadership. One way to discover techniques is through hobbies. What follows is my personal view on ***how*** hobbies lead to self-improvement.
 
-For me, it is a great moment to communicate a logical deduction since I started a new hobby of amateur radio. The ***"why"*** is challenging to place in words, but what I can say is that it gives access to a ***specific and distinct*** communication style. It requires ***technical effort*** to reach people without multi-billion dollar infrastructure. Like many hobbies, amateur radio contains a rich ***vocabulary*** of understanding.
+For me, it is a great moment to communicate a logical deduction since I started a new hobby of amateur radio. The ***"why"*** is challenging to place in words, but what I can say is that my new hobby reveals a ***specific and distinct*** communication style. It requires ***technical effort*** to reach people without multi-billion dollar infrastructure. And like many hobbies, amateur radio contains a rich ***vocabulary*** of understanding.
 
 ![My father's transceiver thirty-five years later.](images/10-02.jpeg)
 
@@ -15,7 +15,7 @@ Amateur radio, or "ham radio," is a way to communicate without financial interes
 
 We select modulations like voice, continuous wave (International Morse Code), data packets, or video. We transmit and receive for fun. Contests are run to build contacts from all over the world. But on occasion, the hobby transforms to support the resolution of an emergency or a long-running disaster. And the world has seen many natural and human-made disasters where "hams" have stepped up to help facilitate communication.
 
-Amateur radio is intense with history, electronics, applied theory, bizarre phenomenon, and ridiculous maths when touching the edges of the hobby. Innovative technologies originate out of Ham Radio. From the latest on cloaking with fractal antennas to that mobile phone in your pocket, they all are inventions of the hobby.
+Amateur radio is rich with history, electronics, applied theory, bizarre phenomenon, and ridiculous maths when touching the edges of the hobby. Innovative technologies originate out of Ham Radio. From the latest on cloaking with fractal antennas to mobile phones in our pockets, they all are inventions of the hobby.
 
 ![An old SWR (standing wave ratio) meter that monitors attenuation.](images/10-03.jpeg)
 
@@ -23,13 +23,13 @@ Amateur radio is intense with history, electronics, applied theory, bizarre phen
 
 Now that we know what amateur radio is, I want to pose a short formula. The key is personal mastery through a deduction of how these axioms improve ourselves and our proficiency in things.
 
-First, we start with ***personal mastery***. Personal mastery is the attempt to execute a vision of yourself in the future. It has to start with ***discipline*** from within to see through your goal. It is a series of practices of principles laid out and applied through the journey of reaching those goals. That is personal mastery. It is a quest to seek the truth of a matter, like in a hobby.
+First, we start with ***personal mastery***. Personal mastery is the attempt to form a vision of yourself in the future. It has to start with ***discipline*** from within to see through your goal. It is a series of practices of principles laid out and applied through the journey of reaching those goals. That is personal mastery. It is a quest to seek the truth of a matter, like in a hobby.
 
-Next, as we seek those truths, let's examine what an ***axiom*** is. An axiom is a shorthand for a kernel of fact, a poster sign. It is a spoken reduction of events and their goals that are self-evident. Personal mastery and their axioms feed on one another. And the axioms contain ***vocabularies*** that allow us to understand skill and culture.
+Next, as we seek those truths, let's examine what an ***axiom*** is. An axiom is a shorthand for a kernel of fact, a poster sign. It is a spoken reduction of events and their goals that are self-evident. Personal mastery and their axioms feed on one another. And the axioms contain ***vocabularies*** that define skill and culture.
 
 ![An analog transmitter tuner.](images/10-04.jpeg)
 
-But how do personal mastery and axioms interrelate with one another? The relation would be by ***successive approximation***. The ability to course-correct our skill and zone in on the axioms so that we check, apply, correct, and repeat. It is a relative comparison of what we can do better.
+But how do personal mastery and axioms interrelate with one another? The relation would be by ***successive approximation***. The ability to course-correct our skill and hone in on the axioms so that we check, apply, correct, and repeat. The process is a relative comparison of what we can do better.
 
 With personal mastery, their axioms, and successive approximation, we attempt to achieve the goal. The goal requires the examination of successive approximations saddled around ***constraints***. Constraints are challenges to our axioms and limit validation on how we can achieve maximum personal mastery.
 
@@ -43,15 +43,15 @@ Hobbies have a wonderful ability to connect people together. Personal mastery of
 
 Now that we have the formula, let's move forward with an example as we explore my thought process. Let us focus squarely on the hobby of amateur radio.
 
-As I learn the techniques out in the wild, I try to find my first axiom. And as of a few weeks ago, I concluded.
+As I learn the techniques out in the world, I try to find my first axiom. And as of a few weeks ago, I concluded.
 
-> Communicate to any other operator clear enough so that they understand and can respond (QSO).
+> Communicate to another operator clear enough so that they understand and can respond (QSO).
 
 Easy enough. From here, we have an axiom for our mastery. The maxim will reveal vocabulary as we go. But how does one communicate clear enough? Clarity is where personal ability comes into play. We must experiment. We must successively approximate to level up at our hobby relative to the last failure. After that exploration, here is a refined axiom of the hobby.
 
 > DX (Communicate a far distance) to an operator to QSO.
 
-As we look at this axiom, we find that there are constraints. These types of restrictions capture and challenge us to personal mastery. These constraints pull us into ways which make us uncomfortable. **Time**, **money**, or **mental effort** are scales of being uncomfortable. Another strict examination, maybe. More time in research. More money to apply. ***Vulnerability*** in front of someone who knows an answer. But these challenges are there to make us better.
+As we look at this axiom, we find that there are constraints. These types of restrictions challenge us to personal mastery. These constraints pull us into ways which make us uncomfortable. **Time**, **money**, or **mental effort** are scales of being uncomfortable. Another strict examination, maybe. More time in research. More money to apply. ***Vulnerability*** in front of someone who knows an answer. But these challenges are there to make us better.
 
 > With as little power as you can (QRP), DX an operator to QSO.
 
@@ -61,31 +61,31 @@ One way to achieve a distant connection is by using the International Morse Code
 
 Hobbies are ***interdependent*** exercises of personal mastery and require communication with others to improve. My father told me a story about this key in the picture above. Back in the early 1970s, he worked at the Mobil Building in New York City for Rand McNally as a trip planner.
 
-Like most days, my father was at the desk, waiting for the next customer to draw out a road trip. An older gentleman walks in. One thing leads to another, and amateur radio is on topic. The gentleman is a high-level license holder. My father explained that he was having difficulty overcoming a crude requirement of the then license exam. The exam required a CW portion at a minimum word per minute. The gentleman gave him old Coast Guard audio tapes to help him practice. He, through his help, succeeded.
+Like most days, my father was at the desk, waiting for the next customer to draw out a road trip. An older gentleman walks in. One thing leads to another, and amateur radio is of topic. The gentleman is a high-level license holder. My father explained that he was having difficulty overcoming a crude requirement of the then license exam. The exam required a CW portion at a minimum word per minute. The gentleman gave him old Coast Guard audio tapes to help him practice. He, through his help, succeeded.
 
 > With QRP power and with 13 wpm (words per minute), DX an operator to QSO.
 
-The man above in my father's story is called an "Elmer" in the hobby. In short, a ***mentor***. And hence, the cycle of personal mastery continues until a limit. The axioms continue are tweaked until there is a collective mastery.
+The man in my father's story is called an "Elmer" in the hobby. In short, a ***mentor***. And hence, the cycle of personal mastery continues until a limit. The axioms continue are tweaked until there is a collective mastery.
 
 ![A high level visual of the ideation.](images/10-07.jpeg)
 
-Of course, other axioms are ***congruent*** with the primary adage. In the example above, I've highlighted the primary driver of mastery. There are others to identify and explore.
+Of course, other axioms are ***congruent*** with the primary adage. In the example, I've highlighted the primary driver of mastery. There are others to identify and explore.
 
 ## 73! (Best Regards)
 
-Hobbies are paths to personal mastery. We use axioms to form vocabulary, use a successive approximation to identify the constraints. Finally, we reach out for interdependence in becoming better.
+Hobbies are paths to personal mastery. We use axioms to form vocabulary, use a successive approximation to identify the constraints. Finally, we reach out for interdependence to become comptent.
 
 Personal mastery clarifies what is important to us. What is important to me ***is how to improve the result of communication*** because the practice has a desired consequence, forming a wonderful relationship with another. And the radio communication metaphor was the right fit. I could not resist but to try in this essay. And I know I've failed beautifully at it.
 
 ![Learning fundamentals from old magazines and books.](images/10-08.jpeg)
 
-Hobbies ignite searching for a path to the truth inside one's self. When we focus our attention on learning, it may be uncomfortable. We should look for the axioms, and educate on adjusting their constraints. Find Elmers. They will open a world of learning, which is a beautiful thing. Ponder about your hobbies and their axioms for just a moment. Are you on a path to personal mastery?
+Hobbies ignite a path to the truth inside one's self. When we focus our attention on learning, it i uncomfortable. We should look for the axioms, and educate on adjusting their constraints. Find Elmers. They will open a world of learning, which is a beautiful thing. Ponder about your hobbies and their axioms for just a moment. Are you on a path to personal mastery?
 
 --
 
 And thanks, Dad, for all this equipment to learn on. I got my first license even if it took way longer than you had hoped.
 
-![](images/10-09.png)
+![My successful examination card.](images/10-09.png)
 
 ---
 

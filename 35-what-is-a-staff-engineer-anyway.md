@@ -23,11 +23,11 @@ As a software engineer and software manager, I have worked closely with staff en
 
 **Staff Engineers set the contribution track.** For initiatives related to engineering brand, toolchains, and ease of contribution, they scale discipline in part with [principal engineers](https://dev.to/solidi/what-is-a-principal-engineer-anyway-55n0). Forming tests, decision documents, and showing the way are vital to being a reliable staff engineer.
 
-**As with principal engineers, they run initiatives.** From aiming to reduce developer friction, moving to a new architecture, incident reduction, and velocity and magnitude improvement projects, they are the first engineers engaged to have a broad impact. Involved in interview loops, they advocate for systemic change and operate inside and outside the teams to achieve results.
+**As with principal engineers, they run initiatives.** From aiming to reduce developer friction, moving to a new architecture, incident reduction, and velocity and magnitude improvement projects, they are the first engineers engaged to deliver broad impact. Involved in interview loops, they advocate for systemic change and operate inside and outside the teams to achieve results.
 
 **Align with business and leadership.** With initiatives they work on and their first step toward a direction, they realize that alignment is crucial. They understand that their perspective is one of many in the organization and work towards momentum toward a shared vision.
 
-**Are more than just tech leads.** While “[tech lead](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p)” is a common designation, organizations have crafted the staff engineer title to signal to others that this is an individual contributor with extraordinarily broad impact and influence. They balance emotive and technical excellence, and they are recognized for it.
+**Are more than just tech leads.** While “[tech lead](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p)” is a common designation, organizations have crafted the staff engineer title to signal to others that this is an individual contributor with extraordinary impact and influence. They balance emotive and technical excellence, and they are recognized for it.
 
 ---
 

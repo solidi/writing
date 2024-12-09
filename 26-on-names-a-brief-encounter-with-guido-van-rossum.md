@@ -5,15 +5,15 @@
 
 Last year, we celebrated the arrival of our child. One exciting aspect of having children is how others pronounce the new name.
 
-Interestingly, the name was misconstrued unexpectedly. While traditional mangling includes mispronunciation or spelling errors, ours includes erroneous postfixes such as "Anne," and "Anna," where the root name would be sufficient and complete. I believe this resides in generational confusion where the short name was once popular, waned, and then resurged with popular conjunctive postfixes.
+Interestingly, our child's name was misconstrued unexpectedly. While traditional mangling includes mispronunciation or spelling errors, ours includes erroneous postfixes such as "Anne," and "Anna," where the root name would be sufficient and complete. I believe this resides in generational confusion where the short name was once popular, waned, and then resurged with popular conjunctive postfixes.
 
 Frustratingly, this led to repeatedly clarifying the original name. Since our child is an infant, the disposition of the error appears higher than one that traditionally fits in the expected generational age group.
 
 ---
 
-Recency bias had set in, and name wrangling was on my mind. Naming made me reflect on the previous post on [correctness and pattern matching](https://medium.com/hackernoon/meta-skills-of-a-software-engineer-bed411f6685e), which are core attributes for software engineers. So, when I traveled to Cleveland for the [PyCon 2019](https://us.pycon.org/2019/about/) conference as a community newbie, I picked up on a repeating pattern. Numerous talk track presenters pronounced Guido van Rossum's name differently, the creator of the Python programming language.
+Recency bias had set in, and name wrangling was on my mind. Naming made me reflect on my post on [correctness and pattern matching](https://medium.com/hackernoon/meta-skills-of-a-software-engineer-bed411f6685e), which are core attributes for software engineers. So, when I traveled to Cleveland for the [PyCon 2019](https://us.pycon.org/2019/about/) conference as a community newbie, I picked up on a repeating pattern. Numerous talk track presenters pronounced Guido van Rossum's name differently, the creator of the Python programming language.
 
-Since my sense was heightened, and this inconsistency presented itself, I decided to go right to the **source of truth** in the matter. I seem to seek [extreme detail](https://medium.com/hackernoon/the-zen-of-motorcycling-and-programming-620907dbab2c), even if trivial, with its resolution, a critical factor in uncompromising correctness.
+Since my sense was heightened, and this inconsistency presented itself, I decided to go right to the **source of truth** in the matter. I seem to seek [detail](https://medium.com/hackernoon/the-zen-of-motorcycling-and-programming-620907dbab2c), even if trivial, with its resolution, a critical factor in uncompromising correctness.
 
 With a penchant for seeking correctness, I submitted a clarifying question at Sunday morning's Python Software Foundation Steering Committee keynote. Unfortunately, no answer. Perhaps they weren't accepting of levity with the heaviness of his exit as BDFL (benevolent dictator for life). I left empty-handed and proceeded to the posters segment of the conference.
 
@@ -33,7 +33,9 @@ And he politely declined other queries as we spoke.
 
 Our conversation made me reflect. Why did I ask this question - surely, there are important questions for the inventor? Perhaps it is the affliction of my name, and everyone's who works in software since we are distributedly diverse.
 
-I've heard my name in various ways while working and managing globally distributed teams. "Dough," "Dog and "Duck" are common variants. I am humble and politely acknowledge a correction. And preferred names, which I prefer "Doug." I've grown to be sensitive and inclusive in attempting to understand other's pronunciations.
+I've heard my name in various ways while working and managing globally distributed teams. "Dough," "Dog and "Duck" are common variants. I politely acknowledge a correction. And preferred names, I recommend "Doug."
+
+I've grown to be sensitive and inclusive to other's pronunciations.
 
 But with each given correction to those I have just met, there is a sense of embarrassment, and having the chance to correct the error by causing minimal social and professional pain. **It's hard to do it gracefully**.
 

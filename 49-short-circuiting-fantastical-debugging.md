@@ -15,9 +15,11 @@ Over the years, circuits have tripped for good reasons. The source of the proble
 
 ## An Example of How to Freak Out Properly
 
-Weeks into playing a well-loved [JRPG video game](https://superjumpmagazine.com/secret-of-mana-an-oral-history-of-playing-the-jrpg-in-the-1990s-39029a28584f) with my daughter, the power unexpectedly went out. My mind began to race. Was it water seeping into a specific splice, violating this circuit? Did that bluejay nest in the right place? Did the thirty-year-old 16-bit system have a malfunctioning capacitor, drawing amperage, frying the line? Fear sank in as I considered this splice box dangerously janky.
+Weeks into playing a well-loved [JRPG video game](https://superjumpmagazine.com/secret-of-mana-an-oral-history-of-playing-the-jrpg-in-the-1990s-39029a28584f) with my daughter, the power unexpectedly went out. My mind began to race. Was it water seeping into a specific splice, violating this circuit? Did that bluejay nest in the right place? Did the thirty-year-old 16-bit system have a malfunctioning capacitor, drawing amperage, frying the line? 
 
-We lost power again; I reset the breaker, squarely focused on looking at the splice box exposed in the elements. It was toying with me, and sure enough, I made the mistake of the insane, doing the same again, hoping for a new conclusion.
+Fear sank in as I considered this splice box dangerously janky.
+
+We lost power again; I reset the breaker, squarely focusing the blame on the splice box in the elements. The device was toying with me, and sure enough, I made the mistake of the insane, flipping the breaker again, hoping for a new conclusion.
 
 ## What Happened
 
@@ -43,9 +45,23 @@ Bingo. Fix applied.
 
 ## Usually, it's the Simplest Solution
 
-While the nightlight saw its end in the bin, I suspiciously blamed the system in error. While an established system is not often blameless, the focus should be on its added appendages. Looking into the core system is rarely necessary.
+While the nightlight saw its end in the trash bin, I suspiciously blamed the system in error. While an established system is not often blameless, the focus should be on its added appendages. Looking into the core system is rarely necessary.
 
 I've worked with these *splice boxes* in the past, both certified and not. In the end, the most straightforward source is to blame. It's probably a **configuration problem**, with force applied to it.
+
+---
+
+## A system problem, for sure.
+
+This real event is actually fantastical, and is a true story.
+
+The story above demonstrates the frailty of the North American electrical outlet. Because a gap develops above the hot and neutral prongs as a plug is stressed, there is a possibility of an object wedging itself within, bridging the gap.
+
+Where liquids and thin metal instruments are numerous, North American hospitals avoid this problem by installing outlets upside down. The gap is guarded by the grounded plug.
+
+At the time of this publication, the National Electric Code does not specify a recommended orientation.
+
+---
 
 ## Social Post
 

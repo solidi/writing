@@ -13,13 +13,15 @@ I'm over here thinking about if I should enact the "five more minutes" decree. S
 
 I briefly teleport back to previous software engineering projects in my past. The managers would serve up the rules of play "Five more minutes," the managers would say as the engineers blissfully play with frameworks, proof of concepts, and the art of balancing bits and bytes running around the _digital_ hallways.
 
-"Five more minutes" was met with "[when it's done.](https://medium.com/super-jump/building-a-popular-half-life-mod-during-the-rise-of-counter-strike-fec6a5b9fd8f?sk=6d1427b3f1d832df06bd5b07aaa456bb)" The managers pushed back, finding ways to get the project in scope and out the door. They enjoyed deploying tactful bribes. Those who recently crossed the chasm from engineering to [management](https://dev.to/solidi/what-is-an-engineering-manager-anyway-4and) knew how to reel them in by speaking their language.
+"Five more minutes" was met with "[when it's done.](https://medium.com/super-jump/building-a-popular-half-life-mod-during-the-rise-of-counter-strike-fec6a5b9fd8f?sk=6d1427b3f1d832df06bd5b07aaa456bb)" The managers pushed back, finding ways to get the project in scope and out the door. They enjoyed deploying tactful bribes. Those who recently crossed the chasm from engineering to [management](https://dev.to/solidi/what-is-an-engineering-manager-anyway-4and) knew how to reel them in by speaking their language — and those wise didn’t care.
 
-Coming back to the playground scene, I needed "five more minutes." My spouse was looking to me to make the call. I was wrestling with whether to solve the problem this way or work around it. "Daddy, I want to go higher," one of my daughters was on the swing next to me. I kept pushing mentally and physically.
+Coming back to the playground scene, I needed "five more minutes." My spouse was looking to me to make the call. I was wrestling with whether to solve the problem this way or work around it. "Daddy, I want to go higher," one of my daughters was on the swing next to me.
+
+My spouse looked at me with raised eyebrows.
 
 ## Cutting up the Pie
 
-Oh fine. "Five more minutes." I let the kids know the _project_ was coming to an end and we needed to ship out. "But, but!" "No, we have to go," I said to my kids. They pushed back again. "Yeah, there will be a surprise when we go." Their sad eyes told the story but brightened up to the thought of something new.
+Oh fine. "Five more minutes." I let the kids know the _project_ was coming to an end and we needed to ship out. "But, but!" "No, we have to go," I said to my kids. They pushed back again — for two minutes. "Yeah, there will be a surprise when we go." Their sad eyes told the story but brightened up to the thought of something new.
 
 In the distance was another family, also declaring "five more minutes," as if there was a [recurring pattern](https://dev.to/solidi/the-joy-of-collecting-timeless-engineering-posts-5el3), an odd pub/sub system continued its way to each of their delegates. Another parent said the same after I committed to our departure.
 

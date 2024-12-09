@@ -16,11 +16,11 @@ The misbehavior occurred on Route 28, a single-laned two-way thoroughfare with b
 
 > I later discovered drivers gave access to the road, which otherwise would be denied entry for a significant time. As I made [wild turns](https://medium.com/@solidi/apps-doing-sh-t-f5ffa72140db) into busy intersections, my screaming kids egged me on. But fear not, I got a blink of the headlight before I entered.
 
-After passing through the area twice, I itched to do the same. I let go of my hardened New Yorker attitude, dropping a defensive posture. [I optimized for nice](https://twitter.com/diannaeanderson/status/1557155725796941830), no longer shaking my mental fist. Instead, I'd blink my lights at abandoned drivers, peer pressuring the opposing lane to yield. Laughing loudly, my family in tow thought I had gone mad. But instead, I'd become coherent with the syntax of the arranged system.
+After passing through the area twice, I itched to do the same. I let go of my hardened New Yorker attitude, dropping a defensive posture. [I optimized for nice](https://twitter.com/diannaeanderson/status/1557155725796941830), no longer shaking my fist. Instead, I'd blink my lights at abandoned drivers, peer pressuring the opposing lane to yield. Laughing loudly, my family in tow thought I had gone mad. But instead, I'd become coherent with the syntax of the arranged system.
 
 On the outside, nobody was angry. Everyone else was doing it without a care for the legal ramifications of liabilities.
 
-Why should we care?
+Why should we care? All the drivers were kind.
 
 ## Mood Generator Unavailable Within Trained Models
 
@@ -62,9 +62,9 @@ In my view, there is continuing resistance to automating formal driving rules in
 
 For example, in the same area of Route 28, the federally mandated realignment of exit numbers proved so opinionated it has cost taxpayers money to reprint beautiful "[Old Exit signs](https://www.capecodtimes.com/story/news/2020/11/27/route-6-exit-signs-days-numbered/6410312002/)." The advocate's passion ran deep for exiting off nostalgic single-digit numbers. Or a time when my community [rejected speed cameras](https://www.nbcnewyork.com/news/local/nassau-county-shuts-down-school-zone-speed-cameras/2015385/) in places where children cross streets right in front of their schools.
 
-> People dislike the peering eyes of virtual referees which surround their cars. They fight to protect their privacy and privilege. Politically? I'll brand it now, the ideas will become the "[Third Lane](https://en.wikipedia.org/wiki/Third_rail_%28politics%29)." Surveillance can solve our problem by knowing all the pieces on the gameboard, but humans will prevent it.
+> People dislike the peering eyes of virtual referees which surround their cars. They fight to protect their privacy and privilege. Politically? I'll brand it now, the ideas will become the "[Third Lane](https://en.wikipedia.org/wiki/Third_rail_%28politics%29)." Surveillance can solve our problem by knowing all the pieces on the gameboard, but humans will hinder progress.
 
-If this indicates human resistance ahead, there is a continued price to privilege, which is tallied yearly by the National Highway Traffic Safety Administration (NHTSA). As I type, the numbers of fatalities are going in [the wrong direction](https://www.nhtsa.gov/press-releases/early-estimate-2021-traffic-fatalities). With automation, I like the promise of fewer deaths, lower emissions, and what it will do for us collectively, but I am not the one who needs convincing.
+If behaviors indicate human resistance ahead, there is a continued price to privilege, which is tallied yearly by the National Highway Traffic Safety Administration (NHTSA). As I type, the numbers of fatalities are going in [the wrong direction](https://www.nhtsa.gov/press-releases/early-estimate-2021-traffic-fatalities). With automation, I like the promise of fewer deaths, lower emissions, and what it will do for us collectively, but I am not the one who needs convincing.
 
 I savor the idea of not having to drive. But then again, I've had years of driving experience. I am content to hang up my shoes, telling stories to younger humans of how I earned my road rash battle scars. Living to tell tails of [low-siding](https://en.wikipedia.org/wiki/Lowsider) motorcycles, getting [t-boned](https://en.wikipedia.org/wiki/Side_collision) more than once, and having dreams of being covered in shattered glass as my mother screamed my full legal name seems pedestrian in my culture. The young ones will want to experience it too when we say "No" to their brilliant [Red Barchetta](https://en.wikipedia.org/wiki/Red_Barchetta) from a better vanished time.
 

@@ -15,7 +15,7 @@ The "*how*" of management is by doing. Mentors are virtually [distant](https://r
 
 ## The Stew
 
-What is management? Perhaps it could be logically reduced to a standard set of tools. The one on ones, the staff meetings, the feedback, delegation, performance, and coaching models. Difficult conversations. *[You cannot be friends, but you can be friendly.](https://www.manager-tools.com/)*
+What is management? Perhaps it could be logically reduced to a standard set of tools. The one-on-ones, the staff meetings, the feedback, delegation, performance, coaching models and difficult conversations. *[You cannot be friends, but you can be friendly.](https://www.manager-tools.com/)*
 
 I would like to introduce a new multitool, primarily a compass. With some years into the profession, I have formed a pattern called ***the stew***. It is time before work that determines the day, while simultaneously holding a vision of myself, the individuals, and teams in the future.
 
@@ -45,7 +45,7 @@ Over a few years, I have managed *with the stew*. When exhausted, I minimize the
 
 ## Conclusion
 
-Management is about wading through the vagueness and ambiguity of interrelationships in the quest for alignment and business results. *The stew is a place to navigate*. It has revealed decision points that would not have come and have eased emotional frustration. The stew has unveiled larger visionary goals for the teams I’ve led.
+Management is about wading through the vagueness and ambiguity of interrelationships in the quest for alignment of business results. *The stew is a place to navigate*. It has revealed decision points that would not have come and have eased emotional frustration. The stew has unveiled larger visionary goals for the teams I’ve led.
 
 > The result is growth in relationships and heightened performance of myself and others.
 

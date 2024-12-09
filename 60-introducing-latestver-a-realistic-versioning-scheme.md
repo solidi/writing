@@ -3,7 +3,7 @@
 
 > *This post is my opinion on versioning software. After a questioning dive into acknowledging fantastic alternative schemes, it introduces [latestVer](https://latestver.org/), my myopic software versioning technique. Please share with your friends!*
 
-Often, a swell versioning scheme appears on a link aggregator. I mutter, "*yeah, that's great.*" Then I'll add it to a collection that has become a shrine of excellent thinking. In between, an opinion will come along on approaching versioning. Of the few posts I read, [the cargo cult of versioning](http://akkartik.name/post/versioning) made me rise off the chair and clap—until the author recanted the phrase:
+Often, a swell versioning scheme appears on a link aggregator. I mutter, "*yeah, that's great.*" Then I'll add it to a collection that has become a shrine of excellent thinking. In between, an opinion will come along on approaching versioning. Of the posts I read, [the cargo cult of versioning](http://akkartik.name/post/versioning) made me rise off the chair and clap—until the author recanted the phrase:
 
 > You could even remove the version altogether and use the commit hash on rare occasions when we need a version identifier.
 
@@ -15,11 +15,11 @@ Fast-forward years from the write-up, [SemVer 2.0.0](https://semver.org/) remain
 
 And if an adopter updates a library, it's typically to the latest, knowing the risks even with a suite of ten-thousand tests.
 
-Since I am a consumer of someone else's work (like everyone else), I'll avoid bumping the library today or bump it slightly through constrained pinning until I must update it to the latest. I don't have much time to decode the version numbers. It's a linear function where risk *increases* with time. Each bump means a subjectively *more* perfect implementation enveloped with possible dreadful outcomes.
+Since I am a consumer of someone else's work (like everyone else), I'll avoid bumping the library today or bump it slightly through constrained pinning until I must update it to the latest. I don't have time to decode the version numbers. A version is a linear function where risk *increases* with number. Each bump is a subjectively *more* perfect implementation enveloped with possible dreadful outcomes.
 
-So with versioning stuff, it depends on the intent of the change. Numbers don't communicate intentions well. Even when Rich Hickey says, "change behavior, rename!" it often fails to decode the message. Regardless, I'll *pin* versions in the hope no one will [force me to update](https://dev.to/solidi/cancel-this-app-update-dammit-5f6j) until I don't have the option. I'll throw my hands up, declaring that nothing is complete in the software, even [when someone else states it's complete](https://vivqu.com/blog/2022/09/25/outdated-apps/). No code is complete. It expires because labor is consistently involved, costing scarce human, social, or monetary capital to keep it running. We are all at the mercy of becoming outdated.
+So with versioning stuff, it depends on the intent of the change. Numbers don't communicate intentions well. Even when Rich Hickey said, "change behavior, rename!" relabeling fails to express intent. Regardless, I'll *pin* versions in the hope no one will [force me to update](https://dev.to/solidi/cancel-this-app-update-dammit-5f6j) until I don't have the option. Then I'll throw my hands up, declaring that nothing is complete in the software, even [when someone else states it's complete](https://vivqu.com/blog/2022/09/25/outdated-apps/). No code is complete nor expires because labor is consistently involved, costing scarce human, social, or monetary capital to keep it running. We are all at the continuing mercy of becoming outdated.
 
-But we, as a community, try to do better. I'll continue to search for a clear modern version scheme. So this got me contemplating. What is out there, encoded in its thinking? Let me share my incomplete child list of SemVer, the current de facto versioning standard. I will share brief opinions about them. By the way, I love all of these and tip my hat to these thinkers.
+But we, as a community, try to do better and I search for a clear version scheme. So this got me contemplating. Why not create a new versioning scheme? I will share brief opinions about them. By the way, I love all of these and tip my hat to these thinkers.
 
 | Label | Depiction | Introduced | Where to Use | Reality |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -46,21 +46,23 @@ But we, as a community, try to do better. I'll continue to search for a clear mo
 | [SetVer](https://github.com/RocketRace/setver) | Set patterns | 2022 | Not at the job | Wildly satisfying |
 | [LatestVer](https://latestver.org/) | The reality | 2022 | At the job | Cool, this one is mine |
 
+*Versioning schemes over the years.*
+
 ## Introducing LatestVer
 
-While having good intentions, many versioning schemes are at the fringes. I've rarely seen these in the wild, maybe [zer0Ver](https://0ver.org/) or [calVer](http://calver.org/), smiling when I do. Creating a new versioning system requires creative thinking *and* invoking a community change which takes exponential marketing. SemVer surrounds our work, and I'll label my libraries like yours. And what I care about is one number, the major version.
+While having good intentions, many versioning schemes are at the fringes. I've rarely seen alternatives in the wild, maybe [zer0Ver](https://0ver.org/) or [calVer](http://calver.org/), smiling when I do. Creating a new versioning system requires creative thinking *and* invoking a community change which takes exponential marketing. SemVer surrounds our work, and I'll label my libraries like yours. And what I care about is one number, the major version.
 
 As an adopter, I don't sweat over minor versions. It's always about the best, the latest, the major, and the now. If I am building something new, I shop for the latest. Since dependencies are a land of extreme abundance, it is unlikely I will pin my hopes on an out-of-date library. So, while I construct a "shiny thing", perhaps what is happening in my trenches is occurring elsewhere. As a consumer, I choose the latest version while making a new thing. Otherwise, I place myself, the team, and the project in explicit protection until the pinned forcefield depletes, and I must do something. There is rarely an in-between. SemVer is correct thinking, and anything that increments on the far side is what matters to me.
 
-So what is this pattern? Let's call my realistic library versioning scheme **latestVer**. [LatestVer](https://latestver.org/) is a simplistic approach to versioning. Choose whatever system—numbers, dates, or hashes. Let's call it a *LABEL*. Then ensure the adopters follow the latest version. The reality is that consumers will be looking elsewhere anyway, challenged by pull requests of technical superiors, or dealing with well-intended contributors. Whatever happens, the author and adopter must bump up to the **latestVer** before an ever-present dystopian cybersecurity vulnerability future. Implementers, including myself, will not have time to understand what has changed until getting into the weeds. When I unpack the work, the latest is what matters.
+So what is this pattern? Let's call my realistic library versioning scheme **latestVer**. [LatestVer](https://latestver.org/) is a simplistic approach to versioning. Choose whatever system—numbers, dates, or hashes. Let's call it a *LABEL*. Then ensure the adopters follow the latest version. The reality is that consumers will be looking elsewhere anyway, challenged by pull requests of technical superiors, or dealing with well-intended contributors. Whatever happens, the adopter must bump up to the **latestVer** in an ever-present dystopian cybersecurity vulnerability future. Implementers, including myself, will not have time to understand what has changed until getting into the weeds. When I unpack the work, the latest is what matters.
 
 **[LatestVer](https://latestver.org/)** is a shortsighted but truthful versioning scheme. As an author, it encourages "[accretion](http://blog.ezyang.com/2016/12/thoughts-about-spec-ulation-rich-hickey/)" as Rich Hickey said. As an adopter, it is my reality. Understandably I cannot speak for all since there are strict guidelines for implementing dependencies in different environments. But for those in my part of the world where philosophies are unrestricted, it's a general heave-ho, and **latestVer's** motto captures the mood well.
 
-> If I'm not on latestVer, let me get there soon. Otherwise, I'll be forced there as a priority by something out of my control. If my problem is not addressed, I'll drop the library for its alternative. And when building anything new, it's always the latest.
+> If I'm not on latestVer, let me get there soon. Otherwise, I'll be forced to as a priority by something out of my control. If my problem is not addressed, I'll drop the library for its alternative. And when building anything new, it's always the latest.
 
 Seldom do I have to cherry-pick a specific an "in-between" version that will raise a project from a sinking hole. A feeling sets in while I do it, corresponding vaguely to purchasing something expensive but of little value. Feeling regret, I'll bootstrap my way to the latest, finding the courage to drive in the newest version of *their* shiny thing at the cost of my mental labor. In the end, it feels so good to have something new.
 
-I love **latestVer** because it's my reality of working software - [and wrote its specification to rally around](https://latestver.org/).
+I love **latestVer** because it's my reality of working software. I wrote its specification at [latestver.org](https://latestver.org/).
 
 ## Social Post
 

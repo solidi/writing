@@ -21,7 +21,7 @@ Once arriving home, here is what is essential "while at work."
 
 **Find a particular place in the home.** Having a different space in the house is vital as a dedicated place to work. Preferably a room with a door is best. However, this is a luxury for many. So carve an area that is work only.
 
-**Equipment does matter.** Having a fast computer and a reliable internet connection is vital. And the accessories are also crucial. Having noise-canceling headphones helps to reduce distractions. For those that want to go further, a separate boom stand and professional mic to improve the presence of audio-video conferences can be amazing.
+**Equipment does matter.** Having a fast computer and a reliable internet connection is vital. And the accessories are also crucial. Having noise-canceling headphones helps to reduce distractions. For those that want to go further, buy a professional mic and a boom stand to improve presence of quality in audio-video conferences.
 
 **Standing up is essential.** There is a reason why standup desks are pedantic in the [software industry](https://medium.com/gitconnected/be-amazing-in-your-new-engineering-role-2fe005cf3e0). They do matter. While many do not have one at home, it will be a good investment. Regardless, it is essential to switch between sitting down and standing up when working. Do this frequently, like at the office.
 
@@ -35,7 +35,7 @@ Once arriving home, here is what is essential "while at work."
 
 **Take lunch.** It is essential to step away from the desk during lunchtime. Take the time to decompress. Go out and get fresh air, too. As a subtle side effect, lunches will be cheaper and healthier since groceries are at home.
 
-## Work with the Team Well
+## Work With the Team Well
 
 As the reader works, apart from the tips above, they can work "well with the team."
 
@@ -65,7 +65,7 @@ Here are my parting items on remote work.
 
 **The most critical skill set is written communication.** Remote working demands a higher form of [written communication](https://medium.com/@solidi/reply-all-considered-harmful-f895beb5eabc). Apart from actively doing work, continually improve skill sets on spelling, grammar, rhetoric, and being mindful of the impact on others. There are [tools out there](https://medium.com/@solidi/the-one-about-blogging-cd9e65a2055b) that can assist in writing well.
 
-**Go for it! You got this!** Remote work requires purpose, intention, and transparency. You will do your best job with a bit of practice and keeping the tips in mind above. The benefits can be amazing.
+**Go for it! You got this!** Remote work requires purpose, intention, and transparency. You will do your best job with a bit of practice and keeping these tips in mind. The benefits can be amazing.
 
 ---
 

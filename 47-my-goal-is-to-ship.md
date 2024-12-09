@@ -31,7 +31,7 @@ Sometimes in these long-tailed moments, mistakes happen. I sacrificed my family 
 
 With years in software and a passion for completing things, my probability of burning out was certain. In the middle of my journey, I did. I endured physical pain for months, unable to take care of myself. Amid this broken mind, my love looked after me as I recovered and to [my parents](https://medium.com/@solidi/cq-personal-mastery-through-hobbies-f25aab2e49ad), who supported me through the trial.
 
-It isn't a wonder that this pursuit is my addiction. I know that if I  open the book [Hackers](https://www.oreilly.com/library/view/hackers/9781449390259/), in exactly the middle, it reads, "It will consume all of your spare time, and even your vacation if you let it." For me, it had. As I exited the suffering, I learned a toolset, a support network, to mitigate its future advancement.
+It isn't a wonder that this pursuit is my addiction. I know that if I  open the book [*Hackers*](https://www.oreilly.com/library/view/hackers/9781449390259/), in exactly the middle, it reads, "[Software] will consume all of your spare time, and even your vacation if you let it." For me, it had. As I exited the suffering, I learned a toolset, a support network, to mitigate its future advancement.
 
 Being "on" is a thrilling rush, but I no longer prescribe heroics. I understand there are times I must push myself to ship. Triangulating this sacred trigger has happened a handful of times in my career, and lately, my acceptance has a higher bar.
 

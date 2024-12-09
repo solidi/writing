@@ -28,7 +28,7 @@ In software engineering, these are the system's critical points that require a r
 
 ## Testing (Tasting)
 
-As the system is seen and heard, it is tested for **taste**. Taste is a subjective sense, and there are many forms that people enjoy. For this system, we are **testing** by isolating, separating, and pinning dependencies. We are asserting and validating the taste of the structure. Tasting takes a few forms, whether we taste for saltiness, sweet or sour, or blend for savory. We inspect at certain **levels or scales**, including unit, feature, and system testing. Tasting in the system is a important continuous exercise.
+As the system is seen and heard, it is tested for **taste**. Taste is a subjective sense, and there are many forms that people enjoy. For this system, we are **testing** by isolating, separating, and pinning dependencies. We are asserting and validating the taste of the structure. Tasting takes a few forms, whether we taste for saltiness, sweet or sour, or blend for savory. We inspect at certain **levels or scales**, including unit, feature, and system testing. Tasting in the system is a continuous exercise.
 
 ![A mind map on concepts of testing.](images/17-04.png)
 
@@ -54,7 +54,7 @@ While we are operating with all senses, there is a **sixth sense**. In the human
 
 This metaphor combines orientation, coordination, and movement of the software system. It is **engineering velocity**. We work together by empathizing and understanding others and the customer. Some *intangibles* and *tangibles* make up the concept of velocity, as seen below.
 
-![Mind map on some concepts of engineering velocity.](images/17-07.png)
+![Mind map on concepts of engineering velocity.](images/17-07.png)
 
 Proprioception is tied to engineering velocity since it is a metaphor for movement awareness, with friction or ease in the system. Software is ultimately about people who develop and those who consume the value. Developing an acute sensibility of velocity requires long periods of time with experimentation throughout the organization.
 
@@ -67,6 +67,18 @@ Just like senses, engineering practices can be honed and optimized. By seeking i
 ![Bringing it all together.](images/17-08.png)
 
 What are other facilities typically found in software engineering?
+
+---
+
+## A missed opportunity.
+
+Changing the respective makes for a powerful essay.
+
+And not many essays exist on assistive technologies which programmers with impairments rely on—such as one engineer I managed who used magnification software and voice assisted technology.
+
+There are many assistive tools, but I haven’t read a critical review in one place—for those that seek assistance, and for those that are sponsors, such as managers.
+
+Finding a comprehensive essay, a living document on the amplification of senses of each assistive technology, would be greatly appreciated.
 
 ---
 

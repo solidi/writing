@@ -4,9 +4,9 @@
 
 ![Software development is not a form of construction.](images/04-01.png)
 
-A few years ago, at an agile demo, a stakeholder made a special appearance. The team was closing in on a minimum viable product. The demonstration focused on sound effects and animations. The group revealed a configurable animation board to demo the results quickly. The experiences were easy to launch consecutively, in a isolated configuration. The animation board did not depend on the extensive system, but the intention was to tie-in each animation later.
+A few years ago, at an agile demo, a stakeholder made a special appearance. The team was closing in on a minimum viable product. The demonstration focused on sound effects and animations. The group revealed a configurable animation board to demo the results. The experiences were easy to launch consecutively, in a isolated configuration. The animation board did not depend on the extensive system, but the intention was to tie-in each animation later.
 
-While the team demoed, the stakeholder asked if we could evaluate the animation board for further experimentation. With this feedback, the group noted the ***unrealized*** value and wrote down what to explore. Of course, this wasn’t the first time the team used the technique. They made similar discoveries in [future demos](https://dev.to/solidi/how-to-crush-your-next-team-demo-2bb5). The team learned that feature containment was powerful in their demos and provided product value.
+While the team demoed, the stakeholder asked if we could evaluate the animation board for further experimentation. With this feedback, the group noted the ***unrealized*** value and wrote down what to explore. Of course, this wasn’t the first time the team used the technique. They made similar discoveries in [future demos](https://dev.to/solidi/how-to-crush-your-next-team-demo-2bb5). The team learned that feature containment provided product value in their demos.
 
 For us as engineers, naming things is hard. Harder still is how to communicate clearly. And in the story above, there is no vocabulary to describe their effort. There is no description for the iterative containment orchestration in ***software engineering***.
 
@@ -20,27 +20,27 @@ The springboard pattern is a ***visual design*** pattern. Mobile operating syste
 
 ![Above are examples of the springboard visual design pattern within app launchers.](images/04-02.png)
 
-Our introductory animation board fits this model. The animation board is a contained screen launcher and each animation is a section with its specific configuration.
+Our introductory animation board fits this model. The animation board is a screen launcher and each animation is a section with its specific configuration.
 
-When applied to software development, the springboard pattern acts as a guardrail. Features are isolated areas that are easily ***demonstrable*** on the platform. There are many benefits to engineering and product. The spring board pattern is a way to execute iteratively and incrementally.
+When applied to software development, the springboard pattern acts as a guardrail. Features are isolated areas that are ***demonstrable*** on the platform. There are many benefits to engineering and product. The spring board pattern is a way to execute features incrementally.
 
 The springboard pattern keeps dependencies in check and develops features in a cycle centered around ***product demonstrations***. Here are the rules an engineer must follow while iterating.
 
 The feature:
 
-1. Launches from a board that includes other features.
-1. Can spring up with minimum setup.
-1. Can launch on its own and in any order.
-1. Can launch in any state.
-1. Resists larger system coupling and dependencies.
+1. Launches from a board that includes other features
+1. Can spring up with minimum setup
+1. Can launch on its own and in any order
+1. Can launch in any state
+1. Resists larger system coupling and dependencies
 
-If we follow these rules of feature development, magic happens. Benefits include the promotion of modularity, testability, and build-time. Additional improvements include [product ideation](https://dev.to/solidi/what-is-a-product-manager-anyway-3pc4) that is unrealized and engineer efficiency. Let’s discuss these next.
+If we follow these rules of feature development, magic happens. Benefits include the promotion of modularity, testability, and build-time. Additional improvements include [product ideation](https://dev.to/solidi/what-is-a-product-manager-anyway-3pc4) and unrealized engineering efficiency. Let’s discuss these next.
 
 ## Promotes Modularity
 
 The springboard pattern enables development of features in isolation from one another. In each design segment, the team must do their best to create a solution in ***containment***.
 
-Dependencies will always be present, but the layers separate the feature for demonstration cleanly. The feature should be modularized and independent. As the iterations continue and demos succeed, the springboard items integrate into the extensive system. As this occurs, the team  continues to resist coupling and ensure the feature code cohesion is high. From start to finish, each item should have a weak measure of ***connascence***.
+Dependencies will always be present, but the layers separate the feature for demonstration cleanly. The feature should be modularized and independent. As the iterations continue and demos succeed, the springboard items integrate into the extensive system. As this occurs, the team resists coupling and ensures the feature code cohesion is high. From start to finish, each item should have a weak measure of ***connascence***.
 
 ![The springboard design pattern.](images/04-03.png)
 
@@ -48,13 +48,13 @@ During the cycle, pattern violation can diminish the return of the modularizatio
 
 ## Supports Testability and Build Time
 
-The development of a demonstrable item from the springboard demands testability. The unit tests will also serve as documentation of the module.
+The development of a demonstrable item from the springboard demands testability. The unit tests will serve as documentation of the module.
 
-The concept of the springboard pattern is one that promotes testability. Its dependencies should be highly configurable. The feature should have available configurations available for its ***dependency injections***. Thus this supports ease of testing and mocking of all situations of the component.
+The concept of the springboard pattern promotes testability. Its dependencies should be highly configurable. Each feature should have available configurations for its ***dependency injections***. Thus the pattern supports ease of testing and mocking of the component.
 
-By using the springboard pattern, build time is reduced, and the complexity of the codebase is normalized with each feature. Incoming features can be ***flagged*** to be conditionally built by the toolset. Features that are rejected at demos are easily removed.
+By using the springboard pattern, build time is reduced, and the complexity of the codebase is normalized with each feature. Incoming features are ***flagged,*** conditionally built by the toolset. Features that are rejected at demos are removed.
 
-Finally, a natural phenomenon of the springboard pattern can reveal ***diagnostic test tooling*** of that feature. The springboard may develop tools that take on a life of their own, serving to test part of the system.
+Finally, a natural phenomenon of the springboard pattern reveals ***diagnostic test tooling*** of that feature. The springboard develops tools that take on a life of their own, serving to test parts of the system.
 
 ## Product Ideation and Engineer Efficiency
 
@@ -70,13 +70,13 @@ Mileage may vary depending on the domain and the reception from stakeholders. In
 
 ## Framework Support
 
-The springboard pattern provides ***efficiency*** benefits that coincide with features of the framework. For this essay, I’ll discuss Android concerning the use of a springboard. Your framework may vary.
+The springboard pattern provides benefits that coincide with features of the framework. For this essay, I’ll discuss Android concerning the use of a springboard. Your framework may vary.
 
-Recently in the Android ecosystem, Google has launched [Instant Apps](https://developer.android.com/topic/instant-apps/index.html) and discussed at length the incorporation and break out of new concepts in the area called ***feature modules***. As we can see from above, everything that is demonstrable to stakeholders should be isolated. As development continues, insulate each feature from significant dependencies and optimize them for every feature. The product team may want to launch these features separately or together.
+In the Android ecosystem, Google has launched [Instant-Play Apps](https://developer.android.com/topic/instant-apps/index.html). To support the concept, Google introduced ***feature modules***. As we can see from above, everything that is demonstrable should be isolated. As development continues, insulate each feature from significant dependencies and optimize them for every feature. The product team will want to launch these features separately or together.
 
-Another example of Android is the concept of isolated ***activities***. Each activity can launch in isolation, taking what it needs to survive an experience. If features are built-in isolated activities, reconfiguration of the pieces of an application is possible.
+Another example of Android is the concept of isolated ***activities***. Each activity launches in isolation, taking what it needs to provide an experience. If features are built-in isolated activities, reconfiguration of the pieces of an application is possible.
 
-Finally, with the latest versions of Android, its tooling has improved. Independent modules allow for building abilities, which reduce build time. Setups that use a ***flavored*** code organization may cause building delays, especially if the product dimensions are extensive.
+Finally, with the latest versions of Android, its tooling has improved. Independent modules allow for building abilities, which reduce build time. Setups that use a ***flavored*** code organization improve the developer's experience, especially if the product dimensions are extensive.
 
 Before we conclude, there are drawbacks to consider.
 
@@ -87,14 +87,14 @@ There are drawbacks by developing with a springboard. The team will have to make
 The springboard approach may:
 
 1. **Violate YAGNI** — “[You ain’t gonna need it](https://martinfowler.com/bliki/Yagni.html).” The team should build what they need, and not a single line more.
-1. **Accelerate decisions** — deferring architectural choices is an excellent strategy to keep complexity manageable. Operating this way will encourage code decisions sooner.
+1. **Accelerate decisions** — deferring architectural choices is an excellent strategy to keep complexity manageable. Operating this way will encourage code decisions.
 1. **Increase complexity** — additional logic to support layering and modularization may increase development time.
 
-However, keep in mind that the cost paid will certainly provide a cost-benefit for code that is consistent and adaptable. ***Adaptability*** needs room to breathe. The code and products deserve that breathing room.
+However, keep in mind that the cost paid will certainly provide a cost-benefit for code that is consistent and adaptable. ***Adaptability*** adds to the code complexity.
 
 Now let’s wrap this up.
 
-## Spring Into Action
+## Spring into Action
 
 Developing for isolation and modularity is a practice all engineers should strive for. However, there hasn't been a pragmatic approach to these concepts and a way to describe the pattern. Now there is.
 

@@ -3,7 +3,7 @@
 # Building a Popular Half-Life Mod During the Rise of Counter-Strike
 ## My Personal Account of Building "Cold Ice", an Underground Half-Life Mod
 
-**When we purchased a home computer in 1998, I was consumed by PC video games. Particularly first-person shooters *[Quake II](https://en.wikipedia.org/wiki/Quake_II)*, *SiN*, and *Unreal Tournament*.** Out of all of them, my favorite was *[Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game))*. The gameplay felt solid. The ambiance of the environment was immersive. The weapons felt heavy and responsive. The cast was engaging — [Marc Laidlaw’s](http://www.marclaidlaw.com/writing-half-life/) plausible scenario where theoretical scientists open a portal to an alien universe.
+**When we purchased a home computer in 1998, I was consumed by PC video games. Particularly first-person shooters *[Quake II](https://en.wikipedia.org/wiki/Quake_II)*, *SiN*, and *Unreal Tournament*.** Out of all of them, my favorite was *[Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game))*. The gameplay felt solid. The ambiance of the environment was immersive. The weapons felt heavy and responsive. The cast was engaging — [Marc Laidlaw’s](http://www.marclaidlaw.com/writing-half-life/) plausible scenario where theoretical scientists open a portal to an alien universe was believable.
 
 ![Half-Life, with its silent protagonist Gordon Freeman.](images/34-02.jpeg)
 
@@ -19,7 +19,7 @@ At about the same time I engaged with others in these online matches, the compan
 
 Before discovering *Half-Life*, I dabbled in custom configuration changes in games like *Red Alert* and *Rainbow Six*. But *Half-Life* was my gateway to real customization with computer programming — [modding](https://en.wikipedia.org/wiki/Mod_(video_games)) to a community.
 
-> “I remember Dad buying a copy of Microsoft Visual Studio Professional from Circuit City. He looked at me, “What is this for?” I shrugged, “I want to mod games.””
+> “I remember Dad buying a copy of Microsoft Visual Studio Professional from Circuit City. He looked at me, 'What is this for?' I shrugged, 'I want to mod games.'”
 
 My curiosity engaged. How could I modify the weapons in the game to play differently? Then, without any prior programming knowledge, I started a modification later to be called *[Cold Ice](https://www.moddb.com/mods/cold-ice)*.
 
@@ -47,7 +47,7 @@ It just so happened that the inverted texture looked cold. And hence, the mod na
 
 ![From Quake II, and one patron’s perspective.](images/34-10.jpeg)
 
-When I first picked up the SDK, I knew nothing about game concepts and how to produce results. With research, I found the instruments to make the modifications. This included a toolchain of applications and 3D modeling software. What assisted discovery was the investigation of other’s modification project structures. I would download, unpack, and review their materials.
+When I first picked up the SDK, I knew nothing about game concepts and how to produce results. With research, I found the instruments to make the modifications. This included a toolchain of applications and 3D modeling software. What assisted my discovery was the investigation of other’s modification project structures. I would download, unpack, and review their materials.
 
 > “And in some cases, creative liberty was taken to "borrow" others' project artifacts. In fact, I borrowed everything.”
 
@@ -62,7 +62,7 @@ Tools like Microsoft Visual Studio Professional 6.0, Paint Shop Pro 5.0, 3D Stud
 ![Valve’s Hammer and mapping tools, and my first map attempt, [Training Facility](https://github.com/solidi/hl-mods/tree/b57c4f608782014af36b88587f894c892829be76/cold-ice/maps/training). I remember thinking, “this place needs a swimming pool.” And so, I created one.](images/34-13.gif)
 ![](images/34-14.gif)
 
-I wore many different “hats” while experimenting with modding. One day I would be working on developing a web page to market the modification, the following day, I would be plugging a [vbsp](https://developer.valvesoftware.com/wiki/Source_BSP_File_Format) ray trace “leak” on compiling a map. The next day I would be editing the game mechanics. The intensity of the exploration sapped a majority of hours away from socializing in High School.
+I wore many different "hats" while experimenting with modding. One day I'd develop a web page to market the modification, the following day, I'd plug a [vbsp](https://developer.valvesoftware.com/wiki/Source_BSP_File_Format) ray trace "leak" to compile a map. The next day I'd code new game mechanics. The intensity of the exploration sapped a majority of hours away from socializing in High School.
 
 ![Half-Life model viewer, .pak explorer, and sprite mapping tools. USAS-12 Shotgun model by Coconutmonkey28.](images/34-15.gif)
 ![](images/34-16.png)
@@ -77,7 +77,7 @@ I wore many different “hats” while experimenting with modding. One day I wou
 
 ![[Wally](https://web.archive.org/web/20080624180351/http://www.atomicgamer.com/wally/), a texture exploration/editor from the Quake mod community. Textures are what are bonded to brushes (polygon surfaces) to give a visual appearance.](images/34-21.gif)
 
-The tooling for Half-Life was a disparate toolchain. It was a grab-bag from various companies and modding teams. Since *Half-Life’s* tech incremented off [John Carmack’s](https://en.wikipedia.org/wiki/John_Carmack) (inventor of the base technology for *Half-Life*) brilliance in design decisions and logical organization, *Quake's* tools were useful. They were implements to look deeper in detail.
+The tooling for Half-Life was a disparate toolchain. It was a grab-bag from various companies and modding teams. Since *Half-Life’s* tech incremented off [John Carmack’s](https://en.wikipedia.org/wiki/John_Carmack) (inventor of the core technology for *Half-Life*) brilliance in design decisions and logical organization, *Quake's* tools were useful. They were implements to look deeper in detail.
 
 I was driven by the discovery of making things different. At that time, I was involved online with a team of players who wanted to see what we could do. This is what fueled me to keep going.
 
@@ -121,9 +121,9 @@ As *Cold Ice’s* development went on, individuals came forward to usher the mod
 
 ![[Apo](https://web.archive.org/web/20000815070032/http://www.planethalflife.com/apo/), a prolific level designer who contributed to Cold Ice as well as many other mods.](images/34-34.png)
 
-This allowed me to concentrate on my expertise area. For me, it was about game mechanics and improving the gameplay, making it balanced. I really liked the programming aspect and building the libraries called *.dlls*. The libraries contained the logic to make the weapons act differently. Every time I changed gaming behavior, it would have to be recompiled, and the game relaunched. This loop took at least three minutes for every change.
+This enabled me to concentrate on my expertise area. For me, it was about game mechanics and improving the gameplay, making it balanced. I really liked the programming aspect and building the libraries called *.dlls*. The libraries contained logic to make the weapons act differently. Every time I changed gaming behavior, it would have to be recompiled, and the game relaunched. This loop took at least three minutes for every change — a time before hot-swappable code.
 
-2D art was also of interest. I enjoyed fiddling with the HUD (heads up display), the information printed on the screen. I spent many hours developing a “smart hud notification system,” experimenting with mapping sprites (varying-transparency graphics). The goal was to improve real-time information and to enhance the play experience.
+2D art was also of interest. I enjoyed fiddling with the HUD (heads up display), the information printed on the screen. I spent hours developing a “smart hud notification system,” experimenting with mapping sprites (varying-transparency graphics). The goal was to improve real-time information and to enhance the play experience.
 
 ![Before ticketing systems, a .plan-ideas file, with notes on future game modes. Also known as a delta file.](images/34-35.png)
 
@@ -149,7 +149,7 @@ Contributors poured in from all channels. Whether it be voice-overs, writing doc
 ![](images/34-40.png)
 ![](images/34-41.gif)
 
-And it also went the other way. See above and below. We were invited to contribute code and artistry in the community, which we did. The mods were popular at the time. In fact, both modifications, *Trinity Command* and *[Wasteland HL](http://wastelandhalflife.com/screenshots.shtml)* (WHL), were associated with early contributors of *Cold Ice*.
+And sharing assets also went the other way. See above and below. We were invited to contribute code and artistry in the community, which we did. The mods were popular at the time. In fact, both modifications, *Trinity Command* and *[Wasteland HL](http://wastelandhalflife.com/screenshots.shtml)* (WHL), were associated with early contributors of *Cold Ice*.
 
 
 ![[WastelandHL](https://web.archive.org/web/20010128102300/http://www.planethalflife.com/features/motw/wastelandhl.shtm), a mix between Mad Max, Fallout, and “[John Woo](https://en.wikipedia.org/wiki/Hard_Boiled)” akimbo styled weapons.](images/34-42.gif)
@@ -165,11 +165,11 @@ I personally loved *[WHL](https://www.youtube.com/watch?v=OkEqjQbOMPw)* and *Tri
 
 Mod making was collaborative at that time — in the summer of 1999, we were invited to alpha test *[Counter-Strike](https://web.archive.org/web/20010803113019/http://planethalflife.com/features/motw/cstrike2.shtm)* with the map *cs_siege*. I gave notes back to the “test party.” Unfortunately, these notes are lost, but I remember that the mod was absolutely excellent. *Counter-Strike* became quite popular. So popular...that Valve eventually acquired them, and the mod became a globally recognized household brand.
 
-## Software is About Outcomes and Consequences, Not About Technology
+## Software is about Outcomes and Consequences, Not About Technology
 
 ![Tutorials from [HL Programming Planet](https://web.archive.org/web/20000418130604/http://hlpp.valveworld.com/clienttut.htm), where we contributed back.](images/34-47.png)
 
-We went forward in developing *Cold Ice*, rarely using version control, unit tests, product testing, or anything that would remotely resemble a modern development shop.
+*Cold Ice*, rarely using version control, unit tests and product testing that would remotely resemble a modern development shop.
 
 However, we launched the modification versions anyway, and when things broke, we quickly launched patches where they were needed (which happened frequently). It was a real R&D (research and development) setup.
 
@@ -177,7 +177,7 @@ However, we launched the modification versions anyway, and when things broke, we
 
 > “Craftsmanship is a new business we buy into; which didn’t exist at this time in software. Clean wasn’t in the vernacular. But we all needed serious personal linting.”
 
-Between developers and artists, the process was libertarian. We shared most files through private FTP’s (file transfer protocol) and sparingly used patch files. We furiously messaged each other when changes occurred. We appreciated the quickness of the releases. Nothing ever stopped the team from delivering an update due to quality concerns.
+Between developers and artists, the process was libertarian. We shared files through private FTP’s (file transfer protocol) and sparingly used patch files. We furiously messaged each other when changes occurred. We appreciated the quickness of the releases. Nothing ever stopped the team from delivering an update due to quality concerns.
 
 ![Use used [WS_FTP](https://en.wikipedia.org/wiki/WS_FTP) to upload files to shared places for mod contributions.](images/34-49.gif)
 
@@ -195,15 +195,15 @@ The outcomes of the modification were never completely validated. But what is ce
 ![](images/34-53.jpeg)
 ![](images/34-54.gif)
 
-There is a lot to be said about software quality in association with predictability. To think, after writing tens of thousands of tests over my career and nudging others to do the same, we once launched new software without the automatic checks. We celebrated our *beta testers*, and that was refreshing, liberating, and free.
+There is a lot to be said about software quality in association with predictability. To think, after writing tens of thousands of tests over my career and nudging others to do the same, we launched software without the automatic checks. We celebrated our *beta testers*, and that was refreshing, liberating, and free.
 
-## 1999–2000. Success in the Community
+## Success in the Community (1999-2000)
 
-After several versions, Cold Ice made it to the *[mod of the week](https://web.archive.org/web/20000816001652/http://www.planethalflife.com:80/community/motw/coldice2.shtm)* located at [Kevin “Fragmaster” Bowen’s](https://www.vice.com/en/article/nzg4yw/fuck-you-and-die-an-oral-history-of-something-awful) Planet Half-Life (PHL). PHL was the central community hub located on the defunct [Gamespy](http://www.gamespy.com/) network.
+After several versions, Cold Ice made it to the *[mod of the week](https://web.archive.org/web/20000816001652/http://www.planethalflife.com:80/community/motw/coldice2.shtm)* located at [Kevin "Fragmaster" Bowen’s](https://www.vice.com/en/article/nzg4yw/fuck-you-and-die-an-oral-history-of-something-awful) Planet Half-Life (PHL). PHL was the central community hub located on the defunct [Gamespy](http://www.gamespy.com/) network.
 
 ![[PHL](https://web.archive.org/web/20010124074200/http://www.planethalflife.com/features/motw/) in early 2000.](images/34-55.png)
 
-Others in the community noticed. I remember being invited to [Valve’s 1999 Mod Expo](https://combineoverwiki.net/wiki/Half-Life_Mod_Expo) in San Francisco, which I did not show —
+Others in the community noticed. I remember being invited to [Valve’s 1999 Mod Expo](https://combineoverwiki.net/wiki/Half-Life_Mod_Expo) in San Francisco, which I declined the invite.
 
 ![Cold-Ice game menu.](images/34-56.gif)
 
@@ -216,11 +216,11 @@ And then there was the regular [PHL mailbag](http://planethalflife.gamespy.com/V
 ![PHL POTD (Picture of the day), Cold Ice Featured, in 1999 and 2000.](images/34-57.png)
 ![](images/34-58.jpeg)
 
-Having our mod on the mail list was like being #1 on the Apple app store in a major category and receiving tens of thousands of retweets an hour. This was validation that we were doing things correctly and that the community was receptive.
+Having our mod on the mail list was like being number one on an app store in a major category and receiving tens of thousands of downloads an hour. This was validation that we were doing things correctly and that the community was receptive.
 
 ![[ci_suspension](https://github.com/solidi/hl-mods/tree/b57c4f608782014af36b88587f894c892829be76/cold-ice/maps), by Laserus, a dazzling map dedicated to open areas and tinkering with gravity.](images/34-59.gif)
 
-Lots of people liked the play. Version 1.75, our cherished version, was the golden master build (GM) — a time when the software was burned to CDs and marked as 1.0 for manufacturing.
+Lots of people liked the play. Version 1.75, our beloved version, was the golden master build (GM) — a time when the software was burned to CDs and marked as 1.0 for manufacturing.
 
 ![Updated modern logo.](images/34-60.gif)
 
@@ -228,7 +228,7 @@ Lots of people liked the play. Version 1.75, our cherished version, was the gold
 
 ![[A poll at the time](http://www.angelfire.com/hi2/tfclassic/poll.html), noting dissatisfaction with the updated gameplay.](images/34-61.png)
 
-We paused the development of *Cold Ice* as I contributed to other modifications and started to branch out to other areas, learning about pure deathmatch play. *[Half-Life Pro](https://web.archive.org/web/20000815070305/http://www.planethalflife.com/hlpro/)* was an experiment inspired by *[Oz Deathmatch](https://steamcommunity.com/groups/halflife-ozdm)*. HLPro contained a mountain of configurable cvars (console variables) that included game modes, mutators (rules that change the way the game is played), and a redesigned heads up display.
+After a time, we paused the development of *Cold Ice* as I contributed to other modifications and started to branch out, learning about pure deathmatch play. *[Half-Life Pro](https://web.archive.org/web/20000815070305/http://www.planethalflife.com/hlpro/)* was an experiment inspired by *[Oz Deathmatch](https://steamcommunity.com/groups/halflife-ozdm)*. HLPro contained a mountain of configurable cvars (console variables) that included game modes, mutators (rules that change the way the game is played), and a redesigned heads up display.
 
 ![Cold Ice game modes were transferred to [our mod HLPro](https://web.archive.org/web/20010129181800/http://www.err-network.com/i_hlpro.shtml) Its night ops mode was unique. The forum was the place to communicate.](images/34-62.jpeg)
 ![](images/34-63.png)
@@ -240,11 +240,11 @@ In mid-2000, while work was going on *HLPro*, we launched a [“Cold Ice SDK” 
 
 ![Contributing to mods that were [recognized by PHL.](https://web.archive.org/web/20010124074200/http://www.planethalflife.com/features/motw/)](images/34-65.png)
 
-As we grew, we realized that the production version was highly naive. We wanted to improve. As we were working on other things, Valve broke the ecosystem by launching a non-backward compatible 1.1.0.0 update to the game. This caused labor for modders. Unless a non-trivial patch was attempted, the full crop of mods — *up to Spring 2000* — crashed on loading.
+As we grew, we realized that the production version was highly naive. We wanted to improve. As we were working on features, Valve broke the ecosystem by launching a non-backward compatible 1.1.0.0 update to the game. This caused labor for modders. Unless a non-trivial patch was attempted, the full crop of mods — *up to Spring 2000* — crashed on loading.
 
 > “Valve fixed the netcode by optimizing server messaging, which was welcomed. But in the process, the patch created an unwashed caste of mods that would forever be locked in the 1990’s.”
 
-And then we made a decision. Fix forward 1.75/2.x *Cold Ice* or attempt bigger changes? So we went with the latter and started our *failed rewrite*. We called it *Cold Ice Resurrection (CIR)*. I’ll share some of that work now, as it’s never been seen.
+And then we made a decision. Fix forward 1.75/2.x *Cold Ice* or attempt bigger changes? So we went with the latter and started our *rewrite*. We called it *Cold Ice Resurrection (CIR)*. I’ll share some of that work now, as it’s never been seen.
 
 ![Examples of CIR with “body part damage system” in the maps cir_stalkyard. “Runes” (power-ups) in the map cir_warehouse.](images/34-66.gif)
 ![](images/34-67.jpeg)
@@ -252,7 +252,7 @@ And then we made a decision. Fix forward 1.75/2.x *Cold Ice* or attempt bigger c
 
 ![CIR’s [concept blaster.](https://github.com/solidi/hl-mods/tree/b57c4f608782014af36b88587f894c892829be76/cold-ice-resurrection/models/pulsegun)](images/34-69.gif)
 
-The work was of much higher quality than the first versions, and the maturity of the approach was light-years ahead than when we started. We matured as developers. The *evolution* was tangible.
+The work was of higher quality than the first versions, and the maturity of the approach was light-years ahead than when we started. We grew as developers. The *evolution* was tangible.
 
 Hundreds of hours of work were labored over the project between contributors.
 
@@ -279,15 +279,15 @@ Over time, the project became heavy, and motivation dipped to *zero*. We stopped
 
 > “Without a community jeering us on, we failed to [grind through and ship](https://www.bluesnews.com/abrash/chap70.shtml). “When it’s done” never came.”
 
-After the beta 1 source code was lost due to a hard-drive failure, we briefly started a beta 2. My last memory of *CIR* was that I wanted to modify the engine to make it snow — and then we gave up. The project was shelved in 2002.
+After the beta 1 source code was lost due to a hard-drive failure, we briefly started a beta 2. My last memory of *CIR* was that I wanted to modify the engine to make it snow — and then we gave up. The project was shelved in 2002, becoming our failed rewrite.
 
-> “I was pissed off. We restarted the work on a second beta with Infinity (lead contributor), but that fizzled out — and just like that, we were gibs all over the floor.”
+> "I was pissed off. We restarted the work on a second beta with Infinity (lead contributor), but that fizzled out — and just like that, we were gibs all over the floor."
 
 ## Retaining and Sharpening Skills After Failure(s)
 
 ![An unreleased photo of Cold Ice Resurrection in a map called [ci_themill](https://github.com/solidi/hl-mods/tree/b57c4f608782014af36b88587f894c892829be76/cold-ice-resurrection/maps/cir_themill32).](images/34-79.png)
 
-Unfortunately, there isn’t a fairytale ending like what happened to other modifications. The biggest was that of Counter-Strike and [Day of Defeat](https://www.dayofdefeat.com/), which we were a part of their community.
+Unfortunately, there isn’t a fairytale ending like what happened to other modifications. The biggest was that of *Counter-Strike* and [*Day of Defeat*](https://www.dayofdefeat.com/), which we were a part of their community.
 
 And that of Valve with [Gabe Newell's](https://en.wikipedia.org/wiki/Gabe_Newell) vision. They grew the gaming ecosystem pie by creating the massive [Steam Network](https://store.steampowered.com/).
 
@@ -298,7 +298,7 @@ What I can say is that for those who participated, we used *Cold Ice* to hone ou
 
 ![Remote bomb concept.](images/34-82.gif)
 
-> “The experience was like a cold night in a “digital” football game where we won on the High-School internet. But no one was there, the bleachers were empty. But Mom kept calling me for dinner.”
+> "The experience was like a cold night in a 'digital' football game where we won on the High-School Internet. But no one was there, the bleachers were empty. Mom kept calling me for dinner."
 
 My interesting lesson as a new [software engineer](https://dev.to/solidi/what-is-a-software-engineer-anyway-3fb2) was *even in failure; I grew a vast skill set*. I wanted to see what may happen next, what I could learn. *I would not surrender to solving a problem* — a shower or a walk helped with unlocking a solution.
 
@@ -348,11 +348,23 @@ With all my creative energy expended, [Half-Life 2](https://en.wikipedia.org/wik
 
 > “In a golden era of mod making, Valve forever changed the scene. This wasn’t the plain old piping data in databases, it was an exploration of a new digital art form.”
 
-Others picked up *Cold Ice’s* development. A small team [launched a 2.5 version](https://www.moddb.com/mods/cold-ice/downloads/cold-ice-v-beta-25). But over the years, it’s been inactive. Interestingly, *Cold Ice* remains a small group of people on the [vast internet](https://forums.tomshardware.com/threads/cold-ice-a-hot-half-life-mod.137751/) asking [how to set up the mod](https://steamcommunity.com/app/70/discussions/0/1489992713697672376/) two decades later.
+Others picked up *Cold Ice’s* development. A small team [launched a 2.5 version](https://www.moddb.com/mods/cold-ice/downloads/cold-ice-v-beta-25). But over the years, it’s been inactive. Interestingly, *Cold Ice* remains a small group of people on the [vast internet](https://forums.tomshardware.com/threads/cold-ice-a-hot-half-life-mod.137751/) asking [how to set up the mod](https://steamcommunity.com/app/70/discussions/0/1489992713697672376/) decades later.
 
 ---
 
 *The years have rolled by — I have much gratitude to those I modded with and to Valve. See my Github for [those interested in contributing to the project material](https://github.com/solidi/hl-mods). The code, files, and screenshots above were located on an old hard-drive I found in storage. Unfortunately, artifacts are permanently missing. Maybe you have something to share to make it complete on Github? Leave a comment below; or contact above.*
+
+---
+
+## Cold Ice Remastered launches.
+
+After this post was published, the rewrite Cold Ice Remastered was launched.
+
+After 100,000 and thousands of downloads, the old modification was back—finalizing the vision that I held in my head.
+
+The Internet remains a fascinating place of creation. And I learned the lesson—whatever you put your mind to, can be done.
+
+Cold Ice Remastered can be found on ModDB at moddb.com/mods/cold-ice-remastered
 
 ---
 

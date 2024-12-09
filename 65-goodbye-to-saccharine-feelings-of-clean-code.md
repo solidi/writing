@@ -5,7 +5,7 @@
 
 A surprisingly soured reaction has come over me. Feeling giddy about sweeping up code is now absent. It sucks because I find myself middle-aged. The bursts of dopamine are no longer an assertion of *knowing* as time accelerates [hyperlinearly](https://twitter.com/paulg/status/1619480259556179968) within my text editor.
 
-I'm giving up on clean code and consistency, coming full circle in a game of [sparking joy](https://www.dailymail.co.uk/news/article-11687263/Marie-Kondo-says-shes-kind-given-tidying-having-three-kids.html). If I feel good about mopping up code, I'll remind myself that it's lost time, which steals from what needs doing. Whatever I'm working on will be [sullied over or thrown out](https://xkcd.com/2730/), anyway.
+I'm giving up on clean code, coming full circle in a game of [sparking joy](https://www.dailymail.co.uk/news/article-11687263/Marie-Kondo-says-shes-kind-given-tidying-having-three-kids.html). If I feel good about mopping up code, I'll remind myself that it's lost time, which steals from what needs doing. Whatever I'm working on will be [sullied over or thrown out](https://xkcd.com/2730/), anyway.
 
 ---
 

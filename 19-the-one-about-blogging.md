@@ -1,7 +1,7 @@
 # The One About Blogging
 ## Mapping the Process After Years of Learning
 
-I’ve learned a lot about my motivations while blogging over the past years  – everything from self-reflection to clarifying intentions. I’ve also learned a lot about the process itself. While I could write a long-winded post about this meta, let me share what I’ve learned in a visual. Since the majority of the population are visual learners, the following graphic should suffice.
+I’ve learned a lot about my motivations while blogging over the past years  – everything from self-reflection to clarifying intentions. I’ve also discovered process itself. While I could write a long-winded post about this meta, let me share what I’ve learned in a visual. Since the majority of the population are visual learners, the following graphic should suffice.
 
 ![A sequence diagram of my blogging process.](images/19-01.png)
 

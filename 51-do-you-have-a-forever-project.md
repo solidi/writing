@@ -3,7 +3,7 @@
 
 ![Photo by freddie marriage on Unsplash](images/51-01.jpeg)
 
-My interests tend to have a long tail, re-blooming decades later. Their revival is shaped by a *life-altering* catalyst, sparking a renewed interest in good feelings.
+My interests tend to have a long tail - re-blooming decades later. Their revival is shaped by a *life-altering* catalyst, sparking a renewed interest in good feelings.
 
 Lately, I've dug deeper into these curiosities, nurturing a set of passions. [Retro-gaming](https://twitter.com/dougarcuri/status/1516025802957242377) is one of them, and [short-form writing](https://medium.com/@solidi/the-one-about-blogging-cd9e65a2055b) is another, but most important is reviving my exhaustion in software development.
 
@@ -41,7 +41,7 @@ So, what defines the attributes of a *forever project*?
 
 Rediscovering my *forever project*, I've been engaging with the effort for over a year. Its attributes are *invisible*, and why I write to memorialize my experience in pursuit of the medium. 
 
-Perhaps having numerous interests increases the chance of discovering the next *forever project*. But more so, having just one has made me happy. I'm creating again without all the rules, formalities, or politics.
+Perhaps having numerous interests increases the chance of discovering the next *forever project*. But more so, having one has made me happy. I'm creating again without all the rules, formalities, or politics.
 
 Do you have a *forever project*?
 

@@ -6,7 +6,7 @@
 
 Recently, my friend shared opinions on the promotion process. I found our discussion fascinating, drawing out our thinking. The result is mapping an individual's path for seeking a promotion packet, which I'll call the **promotion life cycle**.
 
-The life cycle defines points along the individual's journey within a business context. They are **skill sets**, **reputation**, **sponsorship**, **opportunity**, and **advancement**. These qualities are timeless but not intended a panacea. They depend on an individual's adaptability to a business culture, quality of relationship with the manager, and meeting personal needs.
+The life cycle defines points along the individual's journey within a business context. They are **skill sets**, **reputation**, **sponsorship**, **opportunity**, and **advancement**. These qualities are timeless but are not intended a panacea. They depend on an individual's adaptability to a business culture, quality of relationship with the manager, and meeting personal needs.
 
 While I cannot highlight every dimension, my goal is to draw a holistic trail for an individual's *advancement*, identifying qualities in a group of people performing work. Along the way, I'll uncover interesting bits of behaviors between people, providing hints to accelerate their relationships.
 
@@ -22,7 +22,7 @@ At the start of one's career or collaboration on a new project, one applies *ski
 
 ### Skill Sets
 
-An individual applies *skill sets* to complete work. Skill sets are the necessary application of knowledge when performing work. Whatever the domain, the group acknowledges levels of *skill sets*. The natural course of skills development provides *eminence*, optimally  tackling the job. Eminence demands an efficiency of delivery, exemplifying its orchestration to its peers.
+An individual applies *skill sets* to complete work. Skill sets are the necessary application of knowledge when performing work. Whatever the domain, the group acknowledges levels of *skill sets*. The natural course of skills development provides *eminence*, optimally tackling the job. Eminence demands an efficiency of delivery, exemplifying orchestration to their peers.
 
 ```
 **Skill Set Accelerants**
@@ -32,6 +32,7 @@ An individual applies *skill sets* to complete work. Skill sets are the necessar
 - Taking on unestimated work, orchestrating path finding
 - An attitude of persistence, not giving up on a solution
 - Having curiosity of how something works
+- Knowing the right time to seek help
 ```
 
 ### Reputation
@@ -52,13 +53,15 @@ One can have unique *skill sets* but lack interpersonal achievements due to poor
 
 ## Skill Sets, Reputation, and Sponsorships Promote Opportunity
 
-Once there is enough *skill set* and *reputation* in a direction optimal for the environment, sponsors find *opportunities*, directing the needs of new problems that require solving. Those with potential *eminence* take on these challenges.
+Once an individual has enough *skill set* and *reputation* which is optimal for the environment, sponsors find them *opportunities*, directing the needs of new problems that require solving.
+
+Those with potential *eminence* take on these challenges.
 
 ![A diagram of how an **Opportunity** develops between **Skill Sets**, **Reputation**, and **Sponsorship**.](images/55-03.png)
 
 ### Sponsorship
 
-*Sponsors* are who observe the work and by whom. *Sponsors* socialize with who in the group is delivering the work. People raise awareness of what is happening in the environment and often talk to one another in an initiative context. Both *skill set* and *reputation* feed into these conversations. Being visible to leadership is often a key to promotion. Sponsorship aligns with extrinsic motivators such as money and intrinsic motivators such as providing impact.
+*Sponsors* observe the work and by whom. *Sponsors* socialize with who in the group is delivering the work. People raise awareness of what is happening in the environment and often talk to one another in an initiative context. Both *skill set* and *reputation* feed into these conversations. Being visible to leadership is often a key to promotion. Sponsorship aligns with extrinsic motivators such as money and intrinsic motivators such as providing impact.
 
 ```
 **Sponsorship Accelerants**
@@ -68,7 +71,7 @@ Once there is enough *skill set* and *reputation* in a direction optimal for the
 - Take on new initiatives without deferring current work 
 - [Mature their presentation skill set](https://dev.to/solidi/how-to-crush-your-next-team-demo-2bb5) and group communication
 - Increase visible achievements in execution
-- Develop [brag sheet management](https://jvns.ca/blog/brag-documents/)
+- Develop [brag sheet with a manager](https://jvns.ca/blog/brag-documents/)
 - Being able to operate autonomously
 ```
 
@@ -121,7 +124,7 @@ In *advancement*, the person returns part of their *reputation* and *sponsorship
 
 There are a myriad of reasons a schism occurs. Why someone leaves their workgroup includes seeking market rate for the work performed, limited individual or product growth, poor manager relationship, mismatch of recognition expectations, and contract expiration. Those that decide to leave may follow those who are trusted.
 
-After following an exit or promotion, one begins seeking first goals, discovering the environment, and building a new reputation.
+After following a *promotion* or *exit*, one begins seeking first goals, discovering the environment, and building a new reputation.
 
 ![A diagram of the time extension of new **Skill Sets** and **Reputation** after **Advancement**.](images/55-06.png)
 

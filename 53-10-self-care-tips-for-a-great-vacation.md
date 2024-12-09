@@ -11,13 +11,13 @@ A great vacation starts with a good relationship with [my manager](https://dev.t
 Occasionally, stepping away from what I own is a challenge. By checking in periodically, my pattern had caused stressful vacations, a regular occurrence [until I burned out](https://medium.com/@solidi/my-goal-is-to-ship-c772f63c278d). After breaking down, I said no to my illicit behaviors.
 
 ## Self-Care Tips for a Better Vacation
-Assuming relations with the manager are great, and [project management](https://dev.to/solidi/what-is-a-project-manager-anyway-fbb) applies schedule adjustments to meet goals, practicing self-constraint begins with a list of reasonable guidelines. What are my patterns of self-care?
+Assuming relations with the manager are great, and [project management](https://dev.to/solidi/what-is-a-project-manager-anyway-fbb) applies resource adjustments to meet goals, practicing self-constraint begins with a list of reasonable guidelines. What are my patterns of self-care?
 
 **1. Pressing pause on meetings** - committing to meetings during a break, especially in the middle, is a recipe for a ruined holiday. The worst is to acquire information during the meeting that is a time-sensitive action item. It's best to leave the sessions until I return.
 
 **2. Setting away messages** - to signal clear intentions, I set an away message, decline meetings in the vacation path, and place an out-of-office block on the calendar. If an appointment is necessary, I'd know by the owner's response to my declined invite. We will reschedule when I return.
 
-**3. Emails and Slack can wait** - [responding to a message](https://medium.com/@solidi/reply-all-considered-harmful-f895beb5eabc) can interrupt vacation. Checking for who sent a message has an exacting mechanism, as I may be called to action, which inflicts stress.
+**3. Emails and Slack can wait** - [responding to a message](https://medium.com/@solidi/reply-all-considered-harmful-f895beb5eabc) can interrupt my vacation. Checking for who sent a message has an exacting mechanism, as I may be called to action, which inflicts stress.
 
 **4. Reassign stories and tasks** - my assigned duties may be incomplete as I step away for vacation. Before leaving, I'll communicate expectations to those who await results, asking for a team reassignment or alternative closing strategy. To uphold my reputation, I'd like to leave with questions answered about unfinished work.
 
@@ -25,7 +25,7 @@ Assuming relations with the manager are great, and [project management](https://
 
 **6. Limit screen time** - since computers and phones are accessible around me, I'd sometimes drift into working on [passion projects during vacation](https://dev.to/solidi/do-you-have-a-forever-project-kpk). Balancing this time is a conscious effort, and it's *sometimes* essential to say no, stepping away from the screen.
 
-**7. Balance domain knowledge** - while being an expert in a particular [product area](https://dev.to/solidi/what-is-a-product-manager-anyway-3pc4) has its benefits, it has a way of coming back to me while taking a vacation. So if I suspect I am the primary contact, I proactively share knowledge, promoting a convo of support. I'll work towards providing the team with a delegate in my absence.
+**7. Balancing domain knowledge** - while being an expert in a particular [product area](https://dev.to/solidi/what-is-a-product-manager-anyway-3pc4) has its benefits, it has a way of coming back to me while taking a vacation. So if I suspect I am the primary contact, I proactively share knowledge, promoting a convo of support. I'll work towards providing the team with a delegate in my absence.
 
 **8. Consider contiguous days** - achieving decompression within a few short days can be challenging for me—taking a Friday to extend the weekend for relief usually falls short. So, I try to take contiguous work days. My ideal length of time is a work week.
 

@@ -3,7 +3,7 @@
 
 ![Photo by June Gathercole on Unsplash](images/36-01.jpeg)
 
-Hiding on the Internet are brilliant software engineering posts. They idle behind a few strokes of a query, having a quality set apart from the endless but helpful Stack Overflow threads.
+Hiding on the Internet are brilliant software engineering posts. They idle behind a few strokes of a query, having a quality set apart from the endless but helpful question and answer threads.
 
 I recently discovered another collectible gem. This one is titled *[When Bad Things Happen to Good Characters](http://hcibib.org/multilingual/badchars.htm)*. I'm not exactly sure who the author is.
 
@@ -21,9 +21,11 @@ What I enjoy about posts are their unassailable attributes. They unquestionably 
 
 **The content is timeless in nature.** A post like *When Bad Things Happen to Good Characters* is unlikely to age. It lives for years without decay. It will always make me happy now I have it in my possession.
 
-I came across the post as my teammate and I pursued a damned character encoding defect. For a moment, I thought, "wow, a language to describe this awful mojibake." I shared it, and we laughed nervously together about the *wild animals* eating umlauts for breakfast.
+---
 
-And so, *When Bad Things Happen to Good Characters* is added [to my list](https://github.com/solidi/learning-notes/blob/master/mentoring/shared-links.md), primed for the future.
+I came across *When Bad Things Happen to Good Characters* as my teammate pursued a damned character encoding defect. For a moment, I thought, "wow, a language to describe this awful mojibake." I shared it, and we laughed nervously together about the *wild animals* eating umlauts for breakfast.
+
+And so, the post was added [to my list](https://github.com/solidi/learning-notes/blob/master/mentoring/shared-links.md), primed for the future.
 
 I appreciate its pragmatic approach. It fits in a wide spectrum of engineering posts of principle or practice that invoke feelings of joy, brilliance, and supreme craft. Oh, how such an author distills experience into so little writing and then makes it timelessly shareable.
 

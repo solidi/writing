@@ -3,7 +3,7 @@
 
 I've had the pleasure of working closely with talented engineers who excel in their roles. Known as principal engineers, they are leaders in their craft. Here is what I observed as I worked closely with them.
 
-**Show the team the way with plans.** Principal engineers start with an idea and work toward team buy-in. They orchestrate the plan by motivating other team members and collaborating closely in achieving it. In short, they are leaders. 
+**Form technical plans with the team.** Principal engineers start with an idea and work toward team buy-in. They orchestrate the plan by motivating other team members and collaborating closely in achieving it. In short, they are leaders. 
 
 **Lead team enablement initiatives.** Typically involved in looking ahead at [upcoming technical initiatives](https://medium.com/@solidi/in-software-philosophy-is-delegation-c786dd3a16cf), they rise above complexity to find a way to lead future missions. When that time comes, they enable and make teams effective.
 
@@ -11,7 +11,7 @@ I've had the pleasure of working closely with talented engineers who excel in th
 
 **Exert external influence.** The community recognizes principal engineers for their technical expertise and [knowledge sharing](https://dev.to/solidi/how-to-crush-your-next-team-demo-2bb5). They present practices, innovations, and inventions inside and outside of the organization.
 
-**They partner with leadership on recruiting.** While principal engineers present to the community, they partner with management to find new potential talent in developer communities. They recruit for talent at developer conferences and meetups.
+**They partner with leadership on recruiting.** While principal engineers present to a broad audience, they partner with management to find new potential talent in developer communities. They recruit for talent at developer conferences and meetups.
 
 **They mentor all engineers.** Principal engineers mentor engineers to take them to the next level of their careers. They create an environment to allow them to grow. For those that are junior, they mentor. For those who are senior, they coach.
 

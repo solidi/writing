@@ -23,7 +23,7 @@ I’ll cover my essays that made it to the top of HN.
 
 **Learning***: My result was inconclusive. However, after I published, I tried an alternative keyboard. It improved my typing by 20 words per minute. The hardware made a difference.*
 
-When I discovered writing, it opened up a creative outlet, transforming my overthinking into a constructive habit. But writing isn't easy to do well. The blank page is open but constrained to my natural writing voice. Most of all, it's easy to start but tough to continue.
+When I discovered writing, it opened up a creative outlet, transforming my overthinking into a constructive habit. But writing isn't easy to do well. The blank page is constrained to my natural writing voice. Most of all, it's easy to start but tough to continue.
 
 ## #3 [Observations on Test Driven Development](https://medium.freecodecamp.org/8-observations-on-test-driven-development-a9b5144f868) (2018) Placed [17th](http://news.ycombinator.com/item?id=17756835), 36hrs
 ![http://hnrankings.info/17756835/](images/48-04.gif)![](images/48-05.png)
@@ -58,7 +58,7 @@ Of my entries that went the farthest, they were intensively exhaustive in a prac
 
 **Learning***: Most people leave their managers. However, I forgot one poignant fact. As it is for me, leaving a job was about money.*
 
-I don't know anyone in my circle  who accomplished a Hacker News placement, so there isn't a place to compare notes. But I know people who fear speaking into the void. I was shy too, until I realized time was short, and there was so much to say. Not being able to say it in person well is the perfect reason to write.
+Friends in my circle have yet to accomplish a Hacker News placement, so there isn’t a peer available to compare notes. But I know people who fear speaking into the void. I was shy too, until I realized time was short, and there was so much to say. Not being able to say it in person well is the perfect reason to write.
 
 ```
 **Possible shortcuts to reach the top:**
@@ -78,11 +78,13 @@ I don't know anyone in my circle  who accomplished a Hacker News placement, so t
 ## #1 [Ham Radio - CQ: Personal Mastery Through Hobbies](https://medium.com/@solidi/cq-personal-mastery-through-hobbies-f25aab2e49ad) (2018) Placed [1st](http://news.ycombinator.com/item?id=18635362), 60hrs
 ![http://hnrankings.info/18635362](images/48-08.gif)![](images/48-09.png)
 
-**Motivation***: When my father was battling depression for a second time, I learned and practiced a hobby he loved - writing about it to him.*
+**Motivation***: When my father was battling depression for a second time, I practiced a hobby he loved - writing about it to him.*
 
 **Learning***: Constructive diversions, like a hobby, break the depressive cycle. My father recovered.*
 
-For my entries that reached the top, I noticed a pattern in private sharing. But available tools cannot show inference. So I guess these ideas touch a nerve, for good or bad. All I have are the lists above, and how to place well on HN remains an educated guess.
+For my entries that reached the top, I noticed a pattern in private sharing. But available tools cannot show inference. So I guess these ideas touch a nerve, for good or bad. How to place well on HN remains an educated guess.
+
+Next let’s explore comments from the HN community.
 
 ![I created a "non-scientific" sentiment analysis combining the 300 comments of the four posts above. The graphs capture the HN threads at the first and second-level. The authors primarily posted on reflecting their experiences or sharing opinions with observation and practice.](images/48-10.png)![](images/48-11.png)![](images/48-12.png)
 
@@ -112,7 +114,9 @@ While every facet is essential, I'd like to bring in others who can grow from th
 *Or: Be genuine with an idea and explore it to your ability, openly*
 ```
 
-All of my writing on Hacker News had that treatment. To invest in a conversation is to understand what *a* reader seeks. Targeting timeless, durable content that weathers aging may scale to *many* readers. But more so, it must resonate with the intended audience.
+All of my writing on Hacker News had that treatment. To invest in a conversation is to understand what *a* reader seeks. Targeting timeless, durable content that weathers aging may scale to *many* readers. To place on HN, like anywhere else, the content must resonate with the intended audience.
+
+Hacker News is a fascinating place to share writings. Be prepared for constructive criticism. There is no specific formula to achieve its top spot.
 
 ## Social Post
 

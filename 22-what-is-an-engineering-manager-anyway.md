@@ -1,15 +1,15 @@
 # What is an Engineering Manager Anyway?
 #career, #team, #leadership, #learning
 
-I've had the pleasure of being an engineering manager (EM) for years. For EMs who are new, I wanted to share a handful of essential tips. Here is what I learned.
+I've had the honor of being an engineering manager (EM) for years. For EMs who are new, I wanted to share a handful of essential tips. Here is what I learned.
 
 **The most important action of a manager is to hire.** Hiring is an intricate habit, from recruitment to onboarding. EMs are accountable for its successful orchestration. They lead team growth in the organization.
 
-**And delivery and retention are essential.** Trust and continued engagement of each engineer fuel project delivery. EMs are accountable for these results and retaining talent. Aligning goals and having the right engineers at the table is how they execute.
+**And delivery and retention are essential.** Trust and continued engagement of each engineer fuel project delivery. EMs are accountable for results and retaining talent. Aligning goals and having the right engineers at the table is how they execute.
 
 **Managers and leaders are different!** Managers shepherd who does what by when. Leaders show the here to there and can articulate the *why*. The best strive to do both.
 
-**Management is not a promotion. It's an orthogonal discipline.** Managing is different from engineering. Their [toolchain](https://resilient-management.com/) is mentoring, coaching, feedback, and sponsorship wrapped in initiatives. These tools take a lifetime to master – an art orchestrating people and technology.
+**Management is not a promotion. It's an orthogonal discipline.** Managing is different from engineering. Their [toolchain](https://resilient-management.com/) is mentoring, coaching, feedback, and sponsorship wrapped in initiatives. These tools take a lifetime to master – an art of orchestrating people and technology.
 
 **Managers ruthlessly delegate.** EMs entrust with painting the picture of done. They discuss the mission, *the why*, and give guidance. Managers leave the *how* to the [leads](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p) and teams so they can scale.
 
@@ -17,13 +17,13 @@ I've had the pleasure of being an engineering manager (EM) for years. For EMs wh
 
 **Staying technical is essential.** In software, discreteness and rational thought are paramount. The language and discipline of engineering ignite the performance of others. Managers know their limits and stay higher-ordered. Whereas the team has latitude with the craft, EMs develop a toolbox to elevate that craft further.
 
-**Like software, managers follow rituals.** They follow the same feedback loop of developing software. First, make it work, then make it right, finally make it fast. In management, EMs build trust, place people in areas to grow, and then optimize. Developing software sometimes requires walking away for a solution - to return with [options for the team](https://medium.com/hackernoon/the-manager-stew-dd59cd653728).
+**Like software, managers follow rituals.** They follow the same feedback loop of developing software. First, make a solution work, then make it right, finally they make it fast. In management, EMs build trust, place people in areas to grow, and then optimize. Developing software sometimes requires walking away for a solution—to return with [options for the team](https://medium.com/hackernoon/the-manager-stew-dd59cd653728).
 
 **And optimization is praise.** The accelerant of culture is praise. Develop a test culture by praising those that uphold quality. Develop collaboration by those that collaborate. Do some of the initial work. No matter how small, *catch them doing the right things* and recognize it.
 
 **But the brutality of management is the lengthy feedback loop.** EMs practice patience. The satisfaction of delivery and growing those is long-tailed. Whereas the engineering feedback loop is seconds to minutes, the manager's feedback loop is weeks to months.
 
-**EMs promote a learning culture.** Software is creative work. They work to build a culture that learns from the delivery of software. They encourage and capture shared learnings for others in the organization. EMs set time for their engineers to explore.
+**EMs promote a learning culture.** Software is creative work. They work to build a culture that learns from the delivery of software. They encourage and capture shared learnings in the organization. EMs set time for their engineers to explore.
 
 **And they invest in their management craft.** A manager invests in continuous learning. They read books, listen to podcasts, and experiment to source for others. There are leaders out there with the right advice. Asynchronous mentorship is all around.
 

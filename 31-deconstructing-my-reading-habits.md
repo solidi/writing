@@ -3,11 +3,11 @@
 
 Recently I had a conversation about my reading habits. Speaking through it, I realized the process I follow is *purposeful*. To better understand my motivations, I drew a diagram, similar to [how I blog](https://medium.com/@solidi/the-one-about-blogging-cd9e65a2055b). In this write, I will step through and highlight the essential parts. Sharing my process with others will memorialize my goal - writing a book.
 
-## My Inspiration for Reading Books Comes From Others
+## My Inspiration for Reading Books Comes from Others
 
-When I choose books to read, commitment sparks from a conversation with another individual, mentor, or leader combined with a *motivation* factor. This recommendation aligns with a challenge I am experiencing or a skill set to improve. For instance, when I wanted a more holistic view of distributed systems in software [in system design interviews](https://medium.com/swlh/the-one-about-software-engineering-interviewing-6f126e3a3171),  *Designing Data-Intensive Applications* improved my proficiency.
+When I choose books to read, commitment sparks from a conversation with another individual, mentor, or leader combined with a *motivation* factor. This recommendation aligns with a challenge I am experiencing or a skill set to improve. For instance, when I wanted a holistic view of distributed systems in software [in system design interviews](https://medium.com/swlh/the-one-about-software-engineering-interviewing-6f126e3a3171),  *Designing Data-Intensive Applications* improved my proficiency.
 
-![Part 1](images/31-01.png)
+![Inputs and motivation](images/31-01.png)
 
 There are many routes to how I discover books. I am radically open to recommendations, and in some instances, I openly ask others. Book recommendations are also sourced from *asynchronous mentorship* — listening carefully to podcasts, YouTube, or crawling Amazon book recommendation lists.  If the recommendation is *timely* and has potential *return on discovery*, I will commit to reading the book.
 
@@ -15,37 +15,39 @@ There are many routes to how I discover books. I am radically open to recommenda
 
 My reading habits are sporadic, occuring in a gap of time when I am sitting or idling. Scheduling this time is usually not sustainable. The crucial point is I read at least a few pages a day, even if it’s not chunked (such as reading one full chapter in a sitting). The books follow me, and I prefer the physical book over a digital format to keep focused.
 
-![Part 2](images/31-02.png)
+![Idling time is reading time](images/31-02.png)
 
-# When Reading, I Note What is Interesting
+# When Reading, Note What is Interesting
 
 I do not entirely understand my “interesting” scale, but I know how they appear in the text. These artifacts are impactful quotes, interesting ideas, or applied applications. Things that are **terse and succinct** positively engage me. I thought about this one for a while where interest originated from morals, values, and beliefs of my upbringing, culture, and experiences. From a skill set point of view, my "interests" are detailed information and novel application methods.
 
-![Part 3](images/31-03.png)
+![Flag what is interesting](images/31-03.png)
 
-Like Robert Heatons *[How I Read](https://robertheaton.com/2018/06/25/how-to-read/)*, the way I track "interests" is a small system of Post-It flags and essential note-taking. My organization system needs improvement. Regardless, every book I’ve read has a handful of concepts and symbols that stick with me creating a never-ending snowball of knowledge.
+Like Robert Heatons *[How I Read](https://robertheaton.com/2018/06/25/how-to-read/)*, the way I track "interests" is a small system of Post-It flags and note-taking. My organization system needs improvement. Regardless, every book I’ve read has a handful of concepts and symbols that stick with me creating a never-ending snowball of knowledge.
 
 ## Completing Books is Important to Me
 
-When committing to a book, it is a combination of recommendations, timeliness in context, and extracting interesting points, actions, and understanding. Books I start, I finish. I believe it is essential to complete a reading because it supports my momentum to start the next book. Books that I abandon form a new story as to why I disliked the work.
+When committing to a book, it is a combination of recommendations, timeliness, extracting interesting points, and understanding actions. Books I start, I finish. I believe it is essential to complete a reading because it supports my momentum to start the next book.
 
-![Part 4](images/31-04.png)
+Books that I abandon form a new story as to why I disliked the work.
+
+![Completing the book](images/31-04.png)
 
 ## My Outcomes and Tangibles of Reading Books
 
-For me, reading is a process of gathering new pieces of the context. Information and the experience they contain are valuable, for example, understanding *anchoring* from *Thinking Fast and Slow*, the *STARS* model from *The First 90 Days*, *the task-relevant maturity* model of *High Output Management*, and *mastering the art of letting go* from *Eleven Rings*.
+For me, reading is a process of gathering new pieces of the context. Information and the experience they contain are valuable, for example, understanding *anchoring* from *Thinking Fast and Slow*, the *STARS* model from *The First 90 Days*, the *task-relevant maturity* model of *High Output Management*, and *mastering the art of letting go* from *Eleven Rings*.
 
-Foraging **improves vocabulary**. Discovering the vocabulary builds a **mental model of the idea** expressed. The tangibles of the outcomes are clear —  exercising thoughts and speaking through the topic enhances connections to others, and it is a never-ending cycle of approximation. In some instances, books connect ideas from different viewpoints, and in the end, forming a new opinion for me.
+Foraging **improves vocabulary**. Discovering the vocabulary builds a **mental model of the idea** expressed. The tangibles of the outcomes are clear —  exercising thoughts and speaking through the topic enhances connections to others, and the process is a never-ending cycle of approximation. In some instances, books connect ideas from different viewpoints, and in the end, form new opinions for me.
 
-![Part 5](images/31-05.png)
+![Outcomes](images/31-05.png)
 
 ## My Reading Leads to Mentorship
 
-As I read books that are purposeful in context, it has become clear my goal is to *mentor others*. Telling stories of books builds trustful relationships. And the side effect is the inspiration to write openly to a community.
+As I read books that are purposeful in context, my goal is to *mentor others*. Telling stories of books builds trustful relationships. And the side effect is the inspiration to write openly to a community.
 
 For example, when I read the book, *Hackers and Painters*, I connected the disparate, describing mentoring others [about a hobby](https://medium.com/the-innovation/cq-personal-mastery-through-hobbies-f25aab2e49ad) through “successive approximation.” Reading meta books on software engineering — such as *Programming Pearls*, *Pragmatic Programmer*, and *The Philosophy of Software Design* — equipped me the vocabulary of [correctness and pattern matching](https://medium.com/hackernoon/meta-skills-of-a-software-engineer-bed411f6685e).
 
-![Part 6](images/31-06.png)
+![Mentorship](images/31-06.png)
 
 ## My Reading Leads to Writing a Book
 
@@ -53,7 +55,7 @@ My future goal is clear. The books I’ve read have **influenced me to write a b
 
 The purpose of why I read books is to write a new book for someone else - **to share what I’ve learned**. However, I am unsure of what *concept* to cover. I trust [it will come in time](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html).
 
-![Part 7](images/31-07.png)
+![Writing a book](images/31-07.png)
 
 As I noted in the diagram above, *100x posts* is a critical concept. Writing enough and receiving feedback guides me to achieve the goal. The format will be essay-based — exploring *concepts* to a narrative arc.
 
@@ -65,7 +67,7 @@ Reading books is a delightful process of learning. And writing is a result of re
 
 ![My current process in which I read and consume books.](images/31-08.png)
 
-My motivation to read is to develop a purposeful skill set and to give back content — a creative exhaust as described by Brad Frost. Your reasons may be very different from mine. What works for you?
+My reading motivation is to develop a purposeful skill set and to give back content — a creative exhaust as described by Brad Frost. Your reasons may be different from mine. What works for you?
 
 ---
 

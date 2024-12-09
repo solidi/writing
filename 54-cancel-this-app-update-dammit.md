@@ -16,7 +16,8 @@ These apps enjoy finding random suckers like me at their morning launch. A long-
 
 Then I'll contemplate. As [a person who develops software](https://dev.to/solidi/what-is-an-engineering-manager-anyway-4and), it doesn't need to be this way. What is the problem with updating the app after I leave a meeting? Or execute when the day is over? I ask you, *damn app*, stay outside my critical path, please.*
 
-## Update to Perfect Critical Frustration For All
+## Update to Critically Frustrate All
+
 I'm confident apps sap millions of hours from poor souls needing to perform *on time*. Everything is at stake when updates wag their finger—such as a critical presentation, meeting a customer, joining an interview, or failing to join a one-on-one where the manager is stressed-out.
 
 As I type, an angel investor is tapping their fingers, tending to their boatloads of cash, as their high growth potential screams at the best-looking progress bar on the other side of a digital pipe.
@@ -27,7 +28,7 @@ Yeah, today another app is doing sh*t by disrespecting my time and yours. We all
 
 Do you know who doesn't screw around? It's the people that demand mission-critical software experiences because they are always on the critical path. Do astronauts receive updates while their rocket escapes the atmosphere?
 
-But we all can't be astronauts. It is at this moment my rocket ship leaves the tower, my VPN disconnects, and I am staring into this effing stalled app update. ***Sigh***.
+But we all can't be starchildren. It is at this moment my rocket ship leaves the tower, my VPN disconnects, and I am staring into this effing stalled app update. ***Sigh***.
 
  ---
 

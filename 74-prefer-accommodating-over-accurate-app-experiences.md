@@ -25,10 +25,22 @@ Nonetheless, [many experiences suck](https://medium.com/@solidi/apps-doing-sh-t-
 
 ## Prefer Accommodating Over Accurate
 
-If we reverse our thinking, preferring ***accommodating over accurate***, it will positively change user experiences. For instance, choose to provide upfront rich information, being realistic of an Internet connection, and give the consumer confidence when the transaction has yet to go through but will as soon as possible. Mercilessly scrutinize the error paths, rooting out accuracy, and provide ***accommodation*** instead.
+If we reverse our thinking, preferring ***accommodating over accurate***, it will positively change user experiences. For instance, choose to provide upfront rich information, being realistic of a flaky Internet connection, and give the consumer confidence when the transaction has yet to go through [but will] as soon as possible. Mercilessly scrutinize the error paths, rooting out accuracy, and provide ***accommodation*** instead.
 
 Yes, ***accommodating*** experiences costs development time and incurs intense technical complexity to achieve. There isn't an easy way around managing statefulness, and technological inventions are waiting to be found to blunt the digital trauma. But it's worth an inquiry within your team, especially if the app is in production and the rush to launch has easied.
 
 I've seen it many times. When racing to get a product out, ***accommodating*** actions get [cut out of scope](https://medium.com/@solidi/my-goal-is-to-ship-c772f63c278d) as teams repeat in chorus, "Nice to have!" Ask the question, "Why so?" If we don't ask, few experiences will become smooth, and cooperation in intra-app experiences will remain unexplored.
 
 Fluid, ***accommodating*** interactions do not have to be something of science fiction in software. It is worth taking steps to improve the experience starting now.
+
+---
+
+## Effort Factor
+
+Today’s driving navigation apps select the fastest route to its programmed destination. However, their app experiences do not optimize for minimizing human driving effort.
+
+Would anyone want to arrive at their destination five minutes faster if it required three times the physical effort? Certainly not, but these apps forget "at what cost?"
+
+So the next time "Similar ETA" appears on a route — take it! This author banks on its comfortable rate of return.
+
+---

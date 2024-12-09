@@ -3,11 +3,11 @@
 
 ![A Qumran Cave Scroll (iStock)](images/07-01.jpeg)
 
-Some weeks ago, I completed my third re-read of the [Mythical Man-Month (MM-M)](https://www.pearson.com/us/higher-education/program/Brooks-Mythical-Man-Month-The-Essays-on-Software-Engineering-Anniversary-Edition-2nd-Edition/PGM172844.html) by Frederick P. Brooks, Jr.
+Some weeks ago, I completed my third re-read of the [*Mythical Man-Month* (MM-M)](https://www.pearson.com/us/higher-education/program/Brooks-Mythical-Man-Month-The-Essays-on-Software-Engineering-Anniversary-Edition-2nd-Edition/PGM172844.html) by Frederick P. Brooks, Jr.
 
 MM-M is a dramatic piece of authoring in software development. I consider it a constitution that contains delightful discoveries. Anyone who practices [software development](https://medium.com/hackernoon/software-is-unlike-construction-c0284ee4b723) should read MM-M. And reading once is not enough! Pleasure and wisdom will come from reading numerous times. The work highlights forty-five-year-old observations that hold true to this day.
 
-This essay will describe findings in MM-M that describe how we document the *why of software development decisions.* It will also analyze a technique my team practiced to document software decisions, providing graphs along the way.
+This essay will describe findings in MM-M that describe how we document the *why of software development decisions.* It will analyze a technique my team practiced to document software decisions, providing graphs along the way.
 
 # Chapter 10: The Documentary Hypothesis
 
@@ -21,7 +21,7 @@ He concludes with the topic of **why**.
 
 > First, writing the decisions down is essential... Second, the documents will communicate the decisions to others... Finally,... documents give... a database and checklist.
 
-From the quote, Fred presents the practice of developer documentation. He targets documents such as schedule and requirements, but how does this apply to a software code?
+From the quotes, Fred presents the practice of developer documentation. He targets documents such as schedule and requirements, but how does this apply to a software code?
 
 ## DECISIONS.md
 
@@ -35,13 +35,14 @@ Then we found a post; [every project should have a decision making file](https:/
 
 ![It's evident in our DECISIONS.md that code organization and dependency management are dominant.](images/07-02.png)
 
-So, we followed and adopted it in our way. I'll share a short section of ours below.
+So, we followed Aliaksandr's idea and adopted `DECISIONS.md` in our way. I'll share a short section of ours below.
 
 ```
 # DECISIONS.md
+
 ...
 ## Logging
-As a platform team, we have decided to utilize Timber [https://github.com/JakeWharton/timber] for all logging calls within the application. Our biggest gain is the removal of an overbearing Log wrapper we had to maintain. We wanted to get rid of its complexity.
+As a platform team, we have decided to utilize Timber [https://github.com/JakeWharton/timber] for all logging calls within the application. Our gain is the removal of an overbearing Log wrapper we had to maintain. We wanted to get rid of its complexity.
 Some other reasons for utilization of Timber are as follows:
 * Automatic tagging.
 * Easy extensibility.
@@ -57,7 +58,7 @@ This composition was inspired by observations between the team, MM-M, the projec
 
 ![Software decisions vary during a project. Decisions prefer to be constant over time.](images/07-03.png)
 
-We debated about pull requests in our monolithic repo that went awry with inconsistent annotations and framework bloat. No team decision was made on the consistent use of nullability in preparation for our code language migration. Of course, sharing the technical details are not necessary, and these issues were the flavor of the week.
+We debated about pull requests in our monolithic repo that went awry with inconsistent annotations and framework bloat. No team decision was made on the consistent use of nullability in preparation of our code language migration. Of course, sharing the technical details are not necessary, and these issues were the flavor of the week.
 
 As we ate, developers were contributing to the code on an idealistic development philosophy. And no philosophy is wrong if it shares a direction. Freds *Fragmentary Hypothesis* is in full effect when it comes to code contribution, as each contributor adds alittle to its whole.
 
@@ -67,9 +68,9 @@ Sure enough, our lunch concluded, and we made decisions on the framework usage. 
 
 In MM-M, Fred had difficulty grappling with separate documentation. He supported its value but pondered why developers fail to document. In the end, he stated:
 
-> Most documentation fails in giving too little overview. The trees are described, the bark and leaves are commented, but there is no map of the forest. To write a useful prose description, stand way back and come in slowly...
+> Most documentation fails in giving too little overview. The trees are described, the bark and leaves are commented, but there is no map of the forest. To write a useful prose description, stand way back and come in slowly-.
 
-Fred then paints a contrast to spoken language. He said:
+Fred paints a contrast to spoken language. He said:
 
 > English, or any other human language, is not naturally a precision instrument for such definitions. Therefore the manual writer must strain himself and his language to achieve the precision needed.
 
@@ -79,7 +80,7 @@ But Fred found value in explaining meaning. He said:
 
 ![Developers do not like to document. Mundane external processes hurt developer happiness. [ 1 ]](images/07-04.png)
 
-Fred breaks down and writes a chapter on marrying documentation to code. He said:
+Fred writes a chapter on marrying documentation to code. He said:
 
 > Yet our practice in programming documentation violates our own teaching. We typically attempt to maintain a machine-readable form of a program and an independent set of human-readable documentation, consisting of prose and flow charts.
 
@@ -87,9 +88,9 @@ Fred breaks down and writes a chapter on marrying documentation to code. He said
 
 > The solution, I think, is to merge the files, to incorporate the documentation in the source program. This is at once a powerful incentive toward proper maintenance, and an insurance that the documentation will always be handy to the program user. Such programs are called ***self-documenting***.
 
-Fred was close to a solution, but he did not accomplish the follow through with code as documentation. It appears that human language and machine language repel each other, just as if two magnets are forced together at the same pole. Force is required to keep the connection as they move closer.
+Mr. Brooks was close to a solution, but he did not accomplish the follow through with code as documentation. Fred found that human language and machine language repel each other, just as if two magnets are forced together at the same pole. Force is required to keep the connection as they move closer.
 
-Forty-five years later, *tests are the documentation on specification*. However, they, too, cannot explain why code exists as it does. There is a high value to keep the why that allows the system to pivot and survive. Therefore, some documentation has its place in the workspace.
+Fifty years later, *tests are the documentation on specification*. However, they, too, cannot explain why code exists as it does. There is a high value to documenting *why* the system survives. Therefore, documentation has its place in the workspace.
 
 ## Code Cannot Explain the Why to Humans
 

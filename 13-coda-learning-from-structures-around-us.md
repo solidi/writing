@@ -1,5 +1,5 @@
-# Coda: Learning From Structures Around Us
-## An Observation on Software Engineering From Our Environment
+# Coda: Learning from Structures Around Us
+## An Observation on Software Engineering from Our Environment
 
 ![A tree in the neighborhood.](images/13-01.png)
 Trees in my neighborhood seem to grow unnaturally. They appear as sick twisted living creatures. The reason for their ugliness is related to their proximity to electric utility lines. Their closeness is familiar in the northeast of the United States, where trees exist in the right-of-way, and extreme weather patterns are present.

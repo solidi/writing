@@ -1,13 +1,15 @@
 # The One About Software Engineering Interviewing
-## Mapping the Process After Years of Learning
+## Mapping the Process after Years of Learning
 
-I've recently reflected on my experiences as an interviewee in software engineering. As I trace through each interview, I have learned and improved. I'd like to share these learnings with a diagram I'd built from my last search and highlight the significant bits.
+I've recently reflected on my experiences as an interviewee in software engineering. As I trace through each interview, I have learned and improved.
 
-![Interview process map from personal experience. It will continue to improve.](images/28-01.png)
+I'd like to share these learnings with a diagram I'd built from my last search and highlight the significant bits.
+
+![Interview process map from personal experience.](images/28-01.png)
 
 ## Practice Role-Playing
 
-My most impactful learning is the value of practicing weekly with a friend. What I learned is that interviewing is a muscle. Finding a study buddy helped simulate [real interview situations](https://medium.com/free-code-camp/how-to-organize-your-thoughts-on-the-whiteboard-and-crush-your-technical-interview-b668de4e6941). This practice had a tangible improvement in offers. After securing a new job, we continue to practice once a week for an hour to be sharp at the interviewing, recalling professional stories.
+My most impactful learning is discovering the value of practicing weekly with a friend. What I learned is that interviewing is a muscle. Finding a study buddy helped simulate [real interview situations](https://medium.com/free-code-camp/how-to-organize-your-thoughts-on-the-whiteboard-and-crush-your-technical-interview-b668de4e6941). This practice had a tangible improvement in offers. After securing a new job, we continue to practice once a week for an hour to be sharp at the interviewing, recalling professional stories.
 
 ## Partnering with Recruiting
 
@@ -15,7 +17,7 @@ I found success in partnering with recruiting as I went through the process. Bei
 
 ## Optimal Months to Start a Search
 
-My personal interviewing experience revealed that searching during certain months increased job opportunities and responses. These optimal months were January, April, and September. It became evident that the time range preceded vacation times from typical holidays and breaks - where companies advance their talent searches.
+My personal interviewing experience revealed that searching during certain months increased job opportunities and responses. These optimal months were January, April, and September. It became evident that the time range preceded vacation times from American holidays - where high paying companies advance their talent searches.
 
 ## Feedback is Rare
 
@@ -31,15 +33,17 @@ Since [software engineering](https://dev.to/solidi/what-is-a-software-engineer-a
 
 ## Expect Technical Variations
 
-The technical interviews required knowledge of data types and operations. More importantly, some exercises were pair based, solving a problem together. Finally, I encountered three variations of system design. The three types included building something from requirements, debugging a mal-performing system, and talking through a system established by the team and discussing tradeoffs.
+The technical interviews required knowledge of data types and operations. Importantly, some exercises were pair based, solving a problem together. Finally, I encountered three variations of system design. The three types included building something from requirements, debugging a mal-performing system, and talking through a system established by the team and discussing tradeoffs.
 
-## Keeping at it
+## Keep Interviewing
 
-Interviewing is tough because you are being judged for a role. There were times where I'd disagreed with the outcome. There were times I completely bombed and felt humiliated days after the interview. But by thinking objectively on performance and persevering through difficulty drove me to succeed. Keep at it! 🎉
+Interviewing is tough because you are being judged for a role. There were times where I'd disagreed with the outcome. There were times I completely bombed and felt humiliated days after the interview. On occasion, organizations have requested additional interviews with me! But by thinking objectively on performance and persevering through difficulty drove me to succeed. Keep at it! 🎉
 
 ## Conclusion
 
-My approach to finding the next opportunity is to understand the system [meta](https://medium.com/@solidi/the-many-senses-of-software-engineering-aba9f289498c). The result is the diagram above. By improving how I explained my experience concisely, I achieved offers. While there is no formula to interview well, I hope this read will help with your upcoming interviews.
+My approach to finding the next opportunity is to understand the system [meta](https://medium.com/@solidi/the-many-senses-of-software-engineering-aba9f289498c). The result is the diagram above. By improving how I explained my experience concisely, I achieved offers.
+
+While there is no formula to interview well, I hope this read will prepare you for your upcoming interviews.
 
 ---
 

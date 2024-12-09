@@ -7,7 +7,7 @@ Some months ago, one of my colleagues suggested a book. Out of curiosity, I read
 
 It was a fascinating read. With themes interweaving throughout the chapters, one idea bubbled up that was thought provoking.
 
-[Yuval Noah Harari](http://www.ynharari.com/) described humans in large groups cooperate by inventing orderly patterns that are understood and valued. As illustrated, a *mythical glue*.
+[Yuval Noah Harari](http://www.ynharari.com/) described humans in large groups invent orderly patterns that are understood and valued. As described, a *mythical glue*.
 
 I questioned, is there [such a glue](https://medium.com/hackernoon/software-is-unlike-construction-c0284ee4b723) that applies to our engineering profession? Do we, as engineering professionals, have a mythical bond we value?
 
@@ -80,7 +80,7 @@ Engineers are required to solve difficult problems. The first step is to write w
 > There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
 > - [Unknown](https://twitter.com/codinghorror/status/506010907021828096?lang=en)
 
-*Naming* things is hard. However, *describing* things is harder and rife with errors. As professionals, we must define the intent of change with *context* to the best of our ability.
+*Naming* things is hard. However, *describing* things is harder and rife with errors. As professionals, we define the intent of change with *context* to the best of our ability.
 
 > The most correct code is that which is not written but the most correct description is one that is.
 
@@ -90,15 +90,15 @@ So how do we capture the value of context description, so other engineering prof
 
 ## Extending Uncle Bob's Programmer's Oath
 
-Conversations are happening in our community about our engineering profession as an organized body. We should look no further than [Uncle Bob](https://sites.google.com/site/unclebobconsultingllc/) sending these smoke signals.
+Conversations are happening in our community about our engineering profession as an organized body. We should look no further than [Uncle Bob](https://sites.google.com/site/unclebobconsultingllc/) sending these signals.
 
 For some time, he has urged us as engineers, or *programmers*, to embody a set of concrete principles; otherwise, government agencies will do it for us.
 
 Uncle Bob's argument consists of comparisons to other professional groups. One such example describes just how patients died from lack of sterilization in the medical profession; a swath of people will be at risk as software eats the world.
 
-To correct these problems, the medical professionals organized and formed guidelines adhered to like sterilization techniques. These medical professionals were able to hand the agencies their mottos, and hence they made their own rules. So too is what Uncle Bob is asking from us.
+To correct these problems, the medical professionals organized and formed guidelines adhered to like sterilization techniques. These medical professionals handed the agencies their mottos, and hence they made their own rules. So too is what Uncle Bob is asking from us.
 
-He will be proven correct, and it will happen in our lifetime. However, the question is, are we ready to take this on as an organized group of professionals? To answer this dilemma, Uncle Bob created the [Programmer's Oath](http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html).
+However, the question is, are we ready to take this on as an organized group of professionals? To answer this dilemma, Uncle Bob created the [Programmer's Oath](http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html).
 
 ![](images/03-06.png)
 
@@ -113,6 +113,20 @@ Rule number ten enhances all other rules in the oath. We are writers that commun
 ---
 
 The mystical glue that binds us as [software engineers](https://dev.to/solidi/what-is-a-software-engineer-anyway-3fb2) is the pull request. Let's do our part to describe the context of the *problem* and *solution* in detail so that others can contribute promptly. It starts with thinking and explaining "what" the problem is. Then we must describe the solution with the *opportunities* at hand. Ultimately communicating the intent of change is a duty of all engineering professionals.
+
+---
+
+## The Right Place?
+
+After this chapter was written, my friend Danny Preussler [replied with](https://medium.com/hackernoon/find-the-right-place-1e3c9f0496a2) the following:
+
+> When reading Doug’s article I was wondering if pull requests are the right place for documenting changes. I agree that those need to be documented but I disagree with the place.
+
+Over time, I tend to agree. Pull requests have their place in software practice, but is it the right place for the team? That depends. Another “place” is the practice of design documents. These files capture system context through conversion.
+
+How it's done is up to the team.
+
+In one organization, I witnessed a simplified Python PEP process to serve conversations of large features and architecture decisions.
 
 ---
 

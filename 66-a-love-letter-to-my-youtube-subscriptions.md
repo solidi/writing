@@ -11,7 +11,7 @@ When I ditched my cable bundle, a transformation happened on my couch. I became 
 
 Until now, my list of YouTube subscriptions was a well-held secret. The enigma was shattered after I confided with a co-worker in front of others. We got deep into the detail of [unperturbed farriers](https://en.wikipedia.org/wiki/Farrier) shaving the hoofs of their prized heifers. From there, I realized I wasn't alone.
 
-It's clear to me I've gone down the rabbit hole with these beautiful people. I'm in the comfort of individuals I'll never know. But is it reflections of me against the LCD mirror? Who are they, and what do they do? Let me share because I know you consume lovely weird shit deep down too.
+It's clear to me I've gone down the rabbit hole with these beautiful people. I'm in the comfort of individuals I'll never know. But are these heroes reflections of me against the LED mirror? Who are they, and what do they do? Let me share because I know you consume lovely weird shit deep down too.
 
 ### Nate The Hoof Guy
 
@@ -21,7 +21,7 @@ My co-worker and I bonded with [Nate The Hoof Guy's](https://www.youtube.com/@Na
 
 His formula is straightforward. Nate comforts the animal and gets to work. Exciting discoveries like [white line defects](https://en.wikipedia.org/wiki/White_line_disease) are seen as he carves away with precision. When the abscess is cleaned up, Nate slaps on salicylic acid so no bacteria enter. He glues on a block on the opposite hook for proper balance. The cow is released, and so am I, discharging the beautiful animal to graze.
 
-Nate's formula repeats with three-quarters of a million subscribers as of 2023.
+Nate's formula repeats with one and a half million subscribers.
 
 ### CrazyRussianHacker
 
@@ -41,7 +41,7 @@ Better known as Arieh Smith, [Xiaomanyc](https://www.youtube.com/@xiaomanyc) dri
 
 Xiaoma's experiences are the deepest nightmare of an introvert and the key to mastering a second language. Lately, he's been exploring additional languages, which appears uncomfortable to this polyglot. I come back because of the human reaction of others. People indeed connect on a level when their language is respected and, stunningly, when they speak their language imperfectly with passion. 
 
-Arieh is one of those people that make the human race worth preserving. Xiaoma has five and a half million subscribers as of 2023.
+Arieh is one of those people that make the human race worth preserving. Xiaoma has six and a half million subscribers.
 
 ### Featureman
 
@@ -51,7 +51,7 @@ One of my latest subscriptions, [Tom Williet](https://www.imdb.com/name/nm093251
 
 Featureman is a pleasant guy talking about high-processed food concerned with its economy. Until I realized he's saltier than the TV dinners. Tom has worked with Hollywood's greatest actors as a stand-in, extra, and double, spanning forty years in Hollywood. From [Rock Hudson](https://en.wikipedia.org/wiki/Rock_Hudson) to Leslie Nielsen, he's worked with outstanding actors and actresses. And this is why I watch. Featureman's stories would make any mortal smile. God bless my vanilla pudding time with him.
 
-Astoundingly, Tom has four hundred thousand subscribers as of 2023.
+Astoundingly, Tom has four hundred thousand subscribers.
 
 ### 11foot8plus8 (Originally 11foot8)
 
@@ -61,7 +61,7 @@ Vehicle accidents are scary, life-changing, and downright horrific. And in the I
 
 Jürgen Henn has been running the camera surveillance on this bridge for a decade. He has a library of at least 150 truck and RV *rip-roaring* incidents that will make you cringe and then laugh at their stupidity. I mean, there is a sign flashing "*OVERHEIGHT!*"
 
-Even after the locality raised the bridge another eight inches in 2019, videos roll in, albeit less lately! Please wait for it before the roof pops open. Boom! Ah, there it is. 11foot8plus8 has a quarter million subscribers as of 2023.
+Even after the locality raised the bridge another eight inches in 2019, videos roll in, albeit less lately! Please wait for it before the roof pops open. Boom! Ah, there it is. 11foot8plus8 has a half million subscribers.
 
 ### Mr. Heang Update
 
@@ -75,31 +75,31 @@ Mr. Heang has close to eight million subscribers.
 
 ### Steve1989MREInfo
 
-It is without question there is poignant interest in nostalgia. But to unbox and then eat that nostalgia is weird and *very satisfying*. Steve Thomas, or [Steve1989MREInfo](https://www.youtube.com/@LetsGetThisOutOntoATrayNice), is making these videos of collecting, showcasing, and then eating MREs ([meals ready to eat](https://en.wikipedia.org/wiki/Meal,_Ready-to-Eat)) your great grandfathers and grandmothers ate during the World Wars and your parents and friends later. And like him, I'm saying, "*Let's get this out on a tray, nice!*" and "*Catch you on the next one. Cool. See ya.*"
+It is without question there is poignant interest in nostalgia. But to unbox and then eat that nostalgia is weird and *very satisfying*. Steve Thomas, or [Steve1989MREInfo](https://www.youtube.com/@LetsGetThisOutOntoATrayNice), is making these videos of collecting, showcasing, and then eating MREs ([meals ready to eat](https://en.wikipedia.org/wiki/Meal,_Ready-to-Eat)) your great grandfathers and grandmothers ate during the World Wars and your parents and friends later. And like him, I'm saying his trademarks, "*Let's get this out on a tray, nice!*" and "*Catch you on the next one. Cool. See ya.*"
 
 [![](https://img.youtube.com/vi/hm8f5Kj_CrY/0.jpg)](https://www.youtube.com/watch?v=hm8f5Kj_CrY)
 
-When Steve blows the finest asbestos hickory smoke from century-old [Chesterfield cigarettes](https://en.wikipedia.org/wiki/Chesterfield_(cigarette)), I'm relaxed like I've never been. What's interesting about his channel is the deep knowledge I've obtained by watching the unpackaging. The engineering, craft, and intensity of developing long-distance food delivery in combat is an incredible science.
+When Steve blows the finest asbestos hickory smoke from century-old [Chesterfield cigarettes](https://en.wikipedia.org/wiki/Chesterfield_(cigarette)), I'm relaxed like I've never been before. What's interesting about his channel is the deep knowledge I've obtained by watching the unpackaging. The engineering, craft, and intensity of developing long-distance food delivery in combat is an incredible science.
 
-Steve un-cans potential botulism I'll never have to experience. Since watching, I've savored a few modern MREs. And with Steve1989MREInfo's two million subscribers, the flavor is always good.
+Steve un-cans potential botulism I'll never have to experience. Since watching, I've become a savor-survivalist in modern MREs. And with Steve1989MREInfo's two million subscribers, the flavor is always good.
 
 ### SB Mowing
 
-In the land of YouTubers, watching people work is no joke. In the case of mowing lawns, that's a business with lots of money to be made. Spencer over at his channel, [SB Mowing](https://www.youtube.com/c/sbmowing), uploads videos where he gifts his landscaping services to abandoned properties. I'll spend hours with Spencer with his formula of revealing what once was considered lawn and brushes.
+In the land of YouTubers, watching people work is no joke. In the case of mowing lawns, that's a business with lots of money to be made. Spencer over at his channel, [SB Mowing](https://www.youtube.com/c/sbmowing), uploads videos where he donates his landscaping services to abandoned properties. I'll spend hours with Spencer with his formula of revealing what once was considered lawn and brushes.
 
 [![](https://img.youtube.com/vi/HhtpKfzxVlA/0.jpg)](https://www.youtube.com/watch?v=HhtpKfzxVlA)
 
-SB Mowing is doing something extraordinary with half a million subscribers watching... which is mowing lawns? I arrive for those delicious sidewalk reveals. Lifting sod off the concrete makes for a soothing experience if you are a mind-bended, neat freak like me. I come back for the straight rhythmic shots of clean edges.
+SB Mowing is doing something extraordinary with two and a half million subscribers watching... which is mowing lawns? I arrive for those delicious sidewalk reveals. Lifting sod off the concrete makes for a soothing experience if you are a mind-bended, neat freak like me. I come back for the straight rhythmic shots of clean edges.
 
 ### Hydraulic Press Channel
 
-In the case of Lauri and Anni from the [Hydraulic Press Channel](https://www.youtube.com/@HydraulicPressChannel), they have been at it since 2015. They crush things with their expensive press equipment. And I'm back, again and again, watching this duo from Finland destroying objects I've never dreamed of. And lately, they play with fire and explosives on their frozen lake outside, making it all the better. Finnish people are *cool*.
+In the case of Lauri from the [Hydraulic Press Channel](https://www.youtube.com/@HydraulicPressChannel), he has been at it since 2015. He crush things with expensive press equipment. And I'm back, again and again, watching this fascinating man from Finland destroying objects I've never dreamed of. And lately, he plays with fire and explosives on his frozen lake, making it all the better. Finnish people are *cool*.
 
 [![](https://img.youtube.com/vi/q9BtYEnrkg4/0.jpg)](https://www.youtube.com/watch?v=q9BtYEnrkg4)
 
-Hydraulic Press Channel touches my inner soul of being a child. I liked destroying my playthings, specifically my toy cars with hammers, or at least this is what my Mom said. But with Lauri and Anni, I'm in good company without anyone yelling at me. I like this duo, what they do, and how hazardous the activity of crushing ball bearings produces authentic military-grade shrapnel.
+Hydraulic Press Channel touches my inner soul of being a child. I liked destroying my playthings, specifically my toy cars with hammers, or at least this is what my Mom said. But with Lauri, I’m in good company without anyone yelling at me. I like him, what he does, and how hazardous the activity of crushing ball bearings produces authentic military-grade shrapnel.
 
-With close to four million subscribers, people enjoy this dynamic dual with Lauri's classic Finnish response, "*Holy Shit!*" as the shards fly.
+With close to ten million subscribers, people enjoy this dynamic man with his classic Finnish response, "*Holy Sh*t!*" as the shards fly.
 
 ### LA Beast
 
@@ -111,15 +111,29 @@ I connect with Kevin and make his videos my priority.
 
 LA Beast lines his rooms with physical nostalgia, which connects to my deepest childhood, including Ghostbusters, WWF, Nintendo, and other oddities. With the peculiarities he accomplishes, I drop everything to watch his next challenge. With his recent video [completing a 50-mile jog](https://www.youtube.com/watch?v=s-10rEbLWnk), I rose off my chair, clapped, and then began crying with him on his win. Watching LA Beast is the peak of a good person trying his best at YouTube.
 
-With close to three million subscribers, he's doing it well, while others are not. As Kevin would say, "*Have a good day!*"
+With three million subscribers, he's doing it well, while others are not. As Kevin would say, "*Have a good day!*"
 
 ## Link and Subscribe Below (and Click the Bell)
 
-Of course, there are others on my list. From [riding trains](https://www.youtube.com/@RailCowGirl) in Scandinavia, sipping scotch in a [Manx bothy](https://www.youtube.com/@ralfydotcom), riding expensive [naked motorcycles](https://www.youtube.com/@royaljordanian) in Europe, and reviewing [delicious US fast food](https://www.youtube.com/@TheReportOfTheWeek), these individuals are privately celebrated and publicly embarrassing to share. But we are all watching a flavor of their creative content.
+Of course, there are others on my list. From [riding trains](https://www.youtube.com/@RailCowGirl) in Scandinavia, sipping scotch in a [Manx bothy](https://www.youtube.com/@ralfydotcom), riding expensive [naked motorcycles](https://www.youtube.com/@royaljordanian) in Europe, and reviewing [delicious US fast food](https://www.youtube.com/@TheReportOfTheWeek), these individuals are privately celebrated and publicly embarrassing to share.
+
+We are all watching a flavor of their creative content — captured by YouTube’s awesome algorithm.
 
 I've chosen these people because they are my new media consumption. They are doing something incredible by keeping me entertained on YouTube. And since my separation from cable, I've subscribed to these individuals, *until the next big personality arrives*.
 
 I salute you all! And as [Lauri](https://en.wikipedia.org/wiki/Hydraulic_Press_Channel) says on the Hydraulic Press Channel, "*Thank you for watching, and have a nice day.*"
+
+---
+
+## Youtube channel popularity comes in waves.
+
+While we think we control the content we watch, it's clear that there are suggestive forces at work.
+
+Waves of these individuals have risen and fallen over the decade of YouTube watching.
+
+I dont think it was a coincidence that at least one other person got hooked on the obscure but necessary trade of farriering.
+
+---
 
 ## Social Post
 
