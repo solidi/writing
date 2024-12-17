@@ -35,7 +35,7 @@ It isn't a wonder that this pursuit is my addiction. I know that if I  open the 
 
 Being "on" is a thrilling rush, but I no longer prescribe heroics. I understand there are times I must push myself to ship. Triangulating this sacred trigger has happened a handful of times in my career, and lately, my acceptance has a higher bar.
 
-## Seeing it Through is What I Value Most
+## Seeing it Through Is What I Value Most
 
 For products I've participated in, [a familiar observation has formed](https://medium.com/hackernoon/the-decision-hypothesis-aa512e0113). Projects break apart after they are delivered. A new process begins, measured by the magnitude of its intended impact. Finishing a new project will require months or years of searching for it, then when I find it, time invested until it's released.
 
@@ -47,7 +47,7 @@ There is a growing list of products I've contributed to in these twenty-five yea
 
 Perhaps it's a regular wash cycle. I understand these releases inherently create a perpetual maintenance burden to serve a lack of engagement. For products that kept going, iterations of [teams dissolved into the ether](https://betterprogramming.pub/in-software-when-an-engineer-exits-the-team-1e550303cff8). All is not lost. I'll export the learnings to the next project. It's threading this needle and seeing the next through is what I valued most.
 
-### Here is to another twenty-five
+### Here Is to another twenty-five
 
 As I age, memories have formed from my first IRC login, traveling to offices, and recently joining [a Webex](https://dev.to/solidi/recognizing-remote-romantic-bibliophilia-255f), Discord, or whatever they choose. I desire to surround myself with dedicated people who contribute solutions to a beautiful conveyer of intractable problems. Not only because we will ship together, but because I'll learn so much from their creative thinking.
 

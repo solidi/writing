@@ -35,7 +35,7 @@ So, what defines the attributes of a *forever project*?
 
 **Without a concrete plan but has a form** - a *forever project* will tap into skill sets by growing them, for example, [shipping things over perfecting them](https://medium.com/@solidi/my-goal-is-to-ship-c772f63c278d). Participating will exercise the skills picked up over the years, with control and finesse, without all the rules. Its actualization is learning with an impactful result.
 
-**Promotes progeny and resists fading away** - *forever projects* continue even after their original authors stepped away. Or if the contributors are [forcibly removed from their creative chairs](https://twitter.com/GunshipMarkII/status/1506563631189745664). The project is open for anyone to contribute, preferring to share it now over the risk of losing it soon. No matter how *personal* a forever project may feel, it attracts contributors because of its inevitable community impact.
+**Promotes progeny and resists fading away** - *forever projects* continue even after their original authors stepped away. Or if the contributors are [forcibly removed from their creative chairs](https://twitter.com/GunshipMarkII/status/1506563631189745664). The project is open for anyone to contribute, preferring to share its passion now over the risk of losing enthusiasm soon. No matter how *personal* a forever project may feel, it attracts contributors because of its inevitable community impact.
 
 ## Creating Without Many Constraints
 

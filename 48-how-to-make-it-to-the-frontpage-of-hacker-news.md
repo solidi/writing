@@ -30,7 +30,7 @@ When I discovered writing, it opened up a creative outlet, transforming my overt
 
 **Motivation***: The debate about test-driven development (TDD) went long in the shop, so I had to say something - supporting it - finding helpful patterns.*
 
-**Learning***: TDD works well within small dogmatic groups but is too difficult to pull off at scale. I have not found a large shop that does it, nor do I practice anymore.*
+**Learning***: TDD works well within small dogmatic groups but is difficult to pull off at scale. I have not found a large shop that does it, nor do I practice anymore.*
 
 An essential attribute to a document is clarity. Writing requires an editing process, sometimes ongoing for weeks to achieve transparency. More so, it is when the content resonates with the reader. Connecting with an audience is the goal, so I will piece together a shortlist of what and how.
 
@@ -84,7 +84,7 @@ Friends in my circle have yet to accomplish a Hacker News placement, so there is
 
 For my entries that reached the top, I noticed a pattern in private sharing. But available tools cannot show inference. So I guess these ideas touch a nerve, for good or bad. How to place well on HN remains an educated guess.
 
-Next let’s explore comments from the HN community.
+Next, let’s explore comments from the HN community.
 
 ![I created a "non-scientific" sentiment analysis combining the 300 comments of the four posts above. The graphs capture the HN threads at the first and second-level. The authors primarily posted on reflecting their experiences or sharing opinions with observation and practice.](images/48-10.png)![](images/48-11.png)![](images/48-12.png)
 

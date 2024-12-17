@@ -13,7 +13,7 @@ Frustratingly, this led to repeatedly clarifying the original name. Since our ch
 
 Recency bias had set in, and name wrangling was on my mind. Naming made me reflect on my post on [correctness and pattern matching](https://medium.com/hackernoon/meta-skills-of-a-software-engineer-bed411f6685e), which are core attributes for software engineers. So, when I traveled to Cleveland for the [PyCon 2019](https://us.pycon.org/2019/about/) conference as a community newbie, I picked up on a repeating pattern. Numerous talk track presenters pronounced Guido van Rossum's name differently, the creator of the Python programming language.
 
-Since my sense was heightened, and this inconsistency presented itself, I decided to go right to the **source of truth** in the matter. I seem to seek [detail](https://medium.com/hackernoon/the-zen-of-motorcycling-and-programming-620907dbab2c), even if trivial, with its resolution, a critical factor in uncompromising correctness.
+Since my sense was heightened, and this inconsistency presented itself, I decided to go right to the **source of truth** on the matter. I sought [detail](https://medium.com/hackernoon/the-zen-of-motorcycling-and-programming-620907dbab2c), even if trivial, with its resolution, a critical factor in uncompromising correctness.
 
 With a penchant for seeking correctness, I submitted a clarifying question at Sunday morning's Python Software Foundation Steering Committee keynote. Unfortunately, no answer. Perhaps they weren't accepting of levity with the heaviness of his exit as BDFL (benevolent dictator for life). I left empty-handed and proceeded to the posters segment of the conference.
 
@@ -33,7 +33,7 @@ And he politely declined other queries as we spoke.
 
 Our conversation made me reflect. Why did I ask this question - surely, there are important questions for the inventor? Perhaps it is the affliction of my name, and everyone's who works in software since we are distributedly diverse.
 
-I've heard my name in various ways while working and managing globally distributed teams. "Dough," "Dog and "Duck" are common variants. I politely acknowledge a correction. And preferred names, I recommend "Doug."
+I've heard my name in various ways while working and managing globally distributed teams. "Dough," "Dog and "Duck" are common variants. I politely acknowledge a correction. And when asked my preferred name, I recommend "Doug."
 
 I've grown to be sensitive and inclusive to other's pronunciations.
 

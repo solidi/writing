@@ -21,7 +21,7 @@ So, I created a list to answer the question.
 
 **The permanence of objects** - objects which remain strewn across an area is an expression of disorder, especially if these objects are revisited later. Going back to what was placed earlier is of interest. Things are rarely accumulated in video games, as resources are reclaimed.
 
-**Repeat and retry** - reprising one of the items above or below, doing it repeatedly. The same goes for these concepts in video games. A solid rewind/repeat mechanism is yet to be developed, but systems have been tried.
+**Repeat and retry** - reprising one of the items above or below, doing it repeatedly. The same goes for these concepts in video games. A solid rewind/repeat mechanism is yet to [be developed](https://frictionalgames.com/2011-11-the-problem-of-repetition/), but systems have been tried.
 
 **Full brights and environment** - nothing gets the kids laughing if there is play at night, in the snow, or an environmental change. Environmental space is the same as in video games. There are copious amounts of effects. Recently, glowing objects, or full brights, are often used for improved visual style.
   

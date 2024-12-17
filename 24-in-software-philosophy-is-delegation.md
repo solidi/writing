@@ -35,7 +35,7 @@ The environment in which we work and the constraints around us shape philosophie
 
 In the case above, we realized the items flowing through our pipes in a B2B system were constrained, leading to mapping customer pain on one monitor. Additional inputs came from the environment around us. One such example is heightened organizational sensitivity of observability throughout all systems — and the abundance of external support.
 
-Philosophies crystalize delegation effectively because if a team believes in the ideaology, they will work furiously in that direction. Like [software delegation](https://wiki.c2.com/?WhatIsDelegation), ***a team’s signature resolves by design.*** This design is the [commander’s intent](https://hbr.org/2010/11/dont-play-golf-in-a-football-g). Software engineering is often opinionated, so philosophies matter. *They are virtual commanders*.
+Philosophies crystalize delegation effectively because if a team believes in the ideaology, they will work furiously in that direction. Like [software delegation](https://wiki.c2.com/?WhatIsDelegation), ***a team’s signature resolves by design.*** This design is the [commander’s intent](https://hbr.org/2010/11/dont-play-golf-in-a-football-g). Software engineering is often opinionated, so philosophies matter. *The repeated statements are virtual commanders*.
 
 By stating the philosophy, every engineer in the team has a unified mental model. They work through a potential framework to satisfy it. And if there is disagreement, the philosophy needs to be retooled. Ideally, anyone on the team can reshape and re-delegate.
 

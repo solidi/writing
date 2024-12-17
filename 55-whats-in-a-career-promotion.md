@@ -29,7 +29,7 @@ An individual applies *skill sets* to complete work. Skill sets are the necessar
 - Staying up to date with latest techniques
 - Credentials such as badges and certificates
 - Finding and participating in side projects
-- Taking on unestimated work, orchestrating path finding
+- Taking on difficult work, orchestrating path finding
 - An attitude of persistence, not giving up on a solution
 - Having curiosity of how something works
 - Knowing the right time to seek help
@@ -132,7 +132,7 @@ After following a *promotion* or *exit*, one begins seeking first goals, discove
 
 Pursuing a promotion requires *skill sets*, *reputation*, *sponsorship*, and the *opportunity* to grow. The proverbial ripcord is the emerging *exit* to *advancement* if the environment is no longer optimal. Following an individual throughout the process is called the **promotion life cycle**.
 
-While this system is challenging to draw out, I attempted to visualize what is happening between people through an individualist's eyes. What follows is the final draft in an approximate three-year timescale.
+What follows is the final draft in an approximate three-year timescale.
 
 ![The diagram includes exiting with the entire **Promotion Life Cycle**.](images/55-07.png)
 

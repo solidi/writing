@@ -5,7 +5,9 @@
 
 ![Photos by Christian Wiediger and Christopher Beloch on Unsplash](images/66-01-edit.jpeg)
 
-When I ditched my cable bundle, a transformation happened on my couch. I became a voyeur of a comforting formula, peering into the souls of once-ordinary individuals. Every day, they post content on [YouTube](https://www.youtube.com/). Before bed, I stream their warez to my screen. This essay is a love letter to their content after the collapse of reality TV, but before we [roll it back up again](https://www.engadget.com/disney-is-bringing-the-first-episode-of-the-mandalorian-to-broadcast-tv-231407016.html).
+When I ditched my cable bundle, a transformation happened on my couch. I became a voyeur of a comforting formula, peering into the souls of once-ordinary individuals. Every day, they post content on [YouTube](https://www.youtube.com/).
+
+And before bed, I stream their warez to my screen. This essay is a love letter to their content after the collapse of reality TV, but before we [roll it back up again](https://www.engadget.com/disney-is-bringing-the-first-episode-of-the-mandalorian-to-broadcast-tv-231407016.html).
 
 ## New To You (and Their Content)
 
@@ -45,7 +47,9 @@ Arieh is one of those people that make the human race worth preserving. Xiaoma h
 
 ### Featureman
 
-One of my latest subscriptions, [Tom Williet](https://www.imdb.com/name/nm0932517/), or [Featureman](https://www.youtube.com/@Featureman), was a pure joy to find. At first, I was intrigued by a wise-looking man reviewing TV dinners at their low price points. And recently, I have been watching during my lunch when I eat alone. I'm drooling at his "secret dessert" reveal in every video; sometimes, they are fantastic. But shut up and listen. He's speaking.
+One of my latest subscriptions, [Tom Williet](https://www.imdb.com/name/nm0932517/), or [Featureman](https://www.youtube.com/@Featureman), was a pure joy to find. At first, I was intrigued by a wise-looking man reviewing TV dinners at their low price points. And recently, I have been watching during my lunch when I eat alone. I'm drooling at his "secret dessert" reveal in every video; sometimes, they are fantastic.
+
+But shut up and listen. He's speaking.
 
 [![](https://img.youtube.com/vi/I-r4VTKPtSA/0.jpg)](https://www.youtube.com/watch?v=I-r4VTKPtSA)
 
@@ -61,7 +65,9 @@ Vehicle accidents are scary, life-changing, and downright horrific. And in the I
 
 Jürgen Henn has been running the camera surveillance on this bridge for a decade. He has a library of at least 150 truck and RV *rip-roaring* incidents that will make you cringe and then laugh at their stupidity. I mean, there is a sign flashing "*OVERHEIGHT!*"
 
-Even after the locality raised the bridge another eight inches in 2019, videos roll in, albeit less lately! Please wait for it before the roof pops open. Boom! Ah, there it is. 11foot8plus8 has a half million subscribers.
+Even after the locality raised the bridge another eight inches in 2019, videos roll in, albeit less lately! Please wait for it before the roof pops open. Boom! Ah, there it is.
+
+11foot8plus8 has a half million subscribers.
 
 ### Mr. Heang Update
 
@@ -79,7 +85,7 @@ It is without question there is poignant interest in nostalgia. But to unbox and
 
 [![](https://img.youtube.com/vi/hm8f5Kj_CrY/0.jpg)](https://www.youtube.com/watch?v=hm8f5Kj_CrY)
 
-When Steve blows the finest asbestos hickory smoke from century-old [Chesterfield cigarettes](https://en.wikipedia.org/wiki/Chesterfield_(cigarette)), I'm relaxed like I've never been before. What's interesting about his channel is the deep knowledge I've obtained by watching the unpackaging. The engineering, craft, and intensity of developing long-distance food delivery in combat is an incredible science.
+When Steve blows the finest asbestos hickory smoke from century-old [Chesterfield cigarettes](https://en.wikipedia.org/wiki/Chesterfield_(cigarette)), I'm relaxed like I've never been before. What's interesting  is the deep knowledge I've obtained by watching the unpackaging. The engineering, craft, and intensity of developing long-distance food delivery - in combat - is an incredible science.
 
 Steve un-cans potential botulism I'll never have to experience. Since watching, I've become a savor-survivalist in modern MREs. And with Steve1989MREInfo's two million subscribers, the flavor is always good.
 
@@ -89,7 +95,7 @@ In the land of YouTubers, watching people work is no joke. In the case of mowing
 
 [![](https://img.youtube.com/vi/HhtpKfzxVlA/0.jpg)](https://www.youtube.com/watch?v=HhtpKfzxVlA)
 
-SB Mowing is doing something extraordinary with two and a half million subscribers watching... which is mowing lawns? I arrive for those delicious sidewalk reveals. Lifting sod off the concrete makes for a soothing experience if you are a mind-bended, neat freak like me. I come back for the straight rhythmic shots of clean edges.
+SB Mowing is doing something extraordinary with two and a half million subscribers watching - which is mowing lawns. I arrive for those delicious sidewalk reveals. Lifting sod off the concrete makes for a soothing experience if you are a mind-bended, neat freak like me. I come back for the straight rhythmic shots of clean edges.
 
 ### Hydraulic Press Channel
 
@@ -109,9 +115,9 @@ I connect with Kevin and make his videos my priority.
 
 [![](https://img.youtube.com/vi/s-10rEbLWnk/0.jpg)](https://www.youtube.com/watch?v=s-10rEbLWnk)
 
-LA Beast lines his rooms with physical nostalgia, which connects to my deepest childhood, including Ghostbusters, WWF, Nintendo, and other oddities. With the peculiarities he accomplishes, I drop everything to watch his next challenge. With his recent video [completing a 50-mile jog](https://www.youtube.com/watch?v=s-10rEbLWnk), I rose off my chair, clapped, and then began crying with him on his win. Watching LA Beast is the peak of a good person trying his best at YouTube.
+LA Beast lines his rooms with physical nostalgia, which connects to my deepest childhood, including Ghostbusters, WWF, Nintendo, and other oddities. He accomplishes the amazing, I drop everything to watch his next challenge. With his recent video [completing a 50-mile jog](https://www.youtube.com/watch?v=s-10rEbLWnk), I rose off my chair, clapped, and then began crying with him on his win. Watching LA Beast is the peak of a good person trying his best at YouTube.
 
-With three million subscribers, he's doing it well, while others are not. As Kevin would say, "*Have a good day!*"
+With three million subscribers, he's doing it well, while others are not. And as Kevin would say, "*Have a good day!*"
 
 ## Link and Subscribe Below (and Click the Bell)
 
@@ -125,13 +131,15 @@ I salute you all! And as [Lauri](https://en.wikipedia.org/wiki/Hydraulic_Press_C
 
 ---
 
-## Youtube channel popularity comes in waves.
+## Seeking an Inner YouTube Personality
 
 While we think we control the content we watch, it's clear that there are suggestive forces at work.
 
-Waves of these individuals have risen and fallen over the decade of YouTube watching.
+Waves of these individuals have risen and fallen over the decades of YouTube watching.
 
-I dont think it was a coincidence that at least one other person got hooked on the obscure but necessary trade of farriering.
+I don't think it was a coincidence that at least one other person got hooked on the obscure but necessary trade of farriering.
+
+Perhaps subscriptions are a window into one’s soul.
 
 ---
 

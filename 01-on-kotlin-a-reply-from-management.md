@@ -12,7 +12,7 @@ I've attended Google I/O's since 2012. I've sat through, in person, approximatel
 
 ---
 
-When the unexpected [announcement](https://blog.jetbrains.com/kotlin/2017/05/kotlin-on-android-now-official/) of official support for the [Kotlin programming language](http://kotlinlang.org/) was revealed at the keynote, engineers appeared elated. They clapped and cheered. This included many of our engineers. I smiled and took in the experience.
+When the unexpected [announcement](https://blog.jetbrains.com/kotlin/2017/05/kotlin-on-android-now-official/) of official support for the [Kotlin programming language](http://kotlinlang.org/) was revealed, engineers appeared elated. They clapped and cheered. This included many of our engineers. I smiled and took in the experience.
 
 > As managers, we must be curious. Continue to ask questions until there is understanding.
 
@@ -50,7 +50,7 @@ Please watch the session in its entirety. It's worth the time.
 
 The session was split into two halves. Jake started. He explained how to convert Java code to Kotlin, building an example where I became lost in the details.
 
-I was so lost to a point in which ten minutes of squinting, trying to look over others' heads, my eyes watered to focus. I had inadvertently rubbed them to regain focus but with fingers that had sunscreen on them.
+I was so lost to a point in which ten minutes of squinting, trying to look over others' heads, my eyes watered to focus. I had inadvertently rubbed them to regain focus - with fingers that had sunscreen on them.
 
 My eyes began to sting, and my vision became blurry. I was fidgeting all over the place as Jake continued to smash through examples.
 
@@ -122,7 +122,7 @@ Now that Christina had equipped engineers with fundamentals, and Google had gree
 
 > More adoption?
 
-If the answer is yes, the implication has more questions than answers. The fundamental problem is always the following. What is the problem you are trying to solve? Is it the right problem? Why? Yeah, boilerplate is a problem, but what else?
+If the answer is yes, the implication has more questions than answers. The fundamental problem is always the following. What is the problem you are trying to solve? Is it the right problem? Why? Yeah, boilerplate is a problem, but what else? New staffing, upskilling, and legacy system management will be a challenge.
 
 From what I heard, the main driver of Kotlin is developer happiness. Google even drops words like *enjoyable* and *fun* in their decision to make it official. Hell, even the method keywords in Kotlin are `fun`.
 
@@ -148,7 +148,7 @@ In the case of NPE's, Java makes the null implicitly included. Big problem. I've
 
 Too many code reviews discuss null inconsistency, but solutions are deferred.
 
-Christina brought up the opposite problem. She described the concept of typed nullability and how the community uses `null`. Could this be another pitfall as an inconsistent pattern may emerge to actually using null? Remember, Kotlin gives us nullability because it's tied to interoperability until Java goes away.
+Christina also described the concept of typed nullability and how the community uses `null`. Could this be another pitfall as an inconsistent pattern may emerge to actually using null? Remember, Kotlin gives us nullability because it's tied to interoperability until Java goes away.
 
 > Management should promote the formation of style. Own the style and improve it.
 
@@ -166,7 +166,7 @@ And lately, Java.
 
 I actively encourage the engineers to focus on the interesting and fun stuff and let the other tooling do the job. It's not all about operations, features, and execution, but business requires it.
 
-It's also about experimentation and innovation. With time in management, I have proven to myself that execution is valiant, but that engineering creativity is king, driving esults through the fog of development.
+Software engineering is about experimentation and innovation. With time in management, I have proven to myself that execution is valiant, but that engineering creativity is king, driving esults through the fog of development.
 
 > Just like engineers, management should be [lazy and impatient](http://wiki.c2.com/?LazinessImpatienceHubris). But in the way they think.
 
@@ -246,11 +246,15 @@ It's the truth. Both languages have their strengths, and there will be no clear 
 
 Google will set a course for Kotlin, and invest heavily in winning Java legal [battles](https://www.theverge.com/2016/5/26/11754002/oracle-google-verdict-copyright-infringement-ruling-api-fair-use) battles, the only sure bet is that a course is unclear.
 
-A Kotlin selection for production apps is the same as using [!!](https://kotlinlang.org/docs/reference/null-safety.html). It is a risk. Perhaps calculated, if knowing the costs. However, we should encourage engineers to debate and set the tone of the future... of Android development.
+A Kotlin selection for production apps is the same as using [!!](https://kotlinlang.org/docs/reference/null-safety.html). It is a risk. Perhaps calculated, if knowing the costs. However, we should encourage engineers to debate and set the tone of the future.
 
 > Management usually holds the stick in the middle. Instead, encourage management to support and raise both ends.
 
 Of course, we will use Kotlin eventually. Who doesn't want to be happy?
+
+---
+
+After this essay was published, Google followed through with Kotlin as the project default—years later. Obviously, this write-up was a hot take, highlighting timeless technological struggles.
 
 ---
 

@@ -1,11 +1,13 @@
 # The Zen of Motorcycling and Programming
-## An Inquiry into Values of Software Engineering
+## An Inquiry into Safety of Software Engineering
 
 ![](images/12-01.png)
 
-I'm heading down the parkway parallel to the ocean through a hot summer breeze. My engine is slowly revving by keeping a legal speed limit. I was taking it all in on my motorcycle, with thoughts of inspiration and some doubt of nagging preservation. "Should I have checked that thing? What about this detail? Ah, whatever it is, enjoy this ride." Unfazed, I looked over to my right, nothing but dunes, on the left, the Great South Bay. There were wispy clouds in a blue sky and a bridge in the distance. I was making my way down to OBI, a parking lot in the middle of nowhere laid up against the Atlantic ocean.
+I'm heading down the parkway parallel to the ocean, riding through a hot summer breeze. My engine is slowly revving by keeping a legal speed limit. I was taking it all in on my motorcycle, with thoughts of inspiration and some doubts of preservation. "Should I have checked that thing? What about this detail? Ah, whatever it is, enjoy this ride."
 
-Once I parked, I removed my helmet, gloves, and jacket. The sweat from my padded kevlar jeans ran down my legs to my riding boots. I sat by my bike, on the shaded side. I wanted to think, but instead, I flipped out my phone and stared lonely at the emails and social posts.
+Unfazed, I looked over to my right, nothing but dunes, on the left, the Great South Bay. There were wispy clouds in a blue sky and a bridge in the distance. I was making my way down to OBI, a parking lot in the middle of nowhere laid up against the Atlantic ocean.
+
+Once I parked, I removed my helmet, gloves, and jacket. The sweat from my padded kevlar jeans ran down my legs to my riding boots. I sat by my bike, on the shaded side. I wanted to think, but instead, I flipped out my phone and stared at the emails and social posts.
 
 Some time passed. Finally, a bike pulled up, looking if it was safe to park close. An older woman jumped off her well-worn bike. I looked over and made a judgment. "Hmm, she's all geared up. My kind of rider." She slowly approached, admiring my bike and me admiring hers.
 
@@ -71,7 +73,13 @@ She replied, "But what is... software programming?"
 
 **Me:** "Whether I'm classical or a romantic, I am not sure. When I read or write code or I perform an oil change or replace a stator, I keep looking at the gauges like a manic. 'Did I do it right? How can I be sure? Research, apply, and *trust*!' I am stuck looking into all the details of how to do things well."
 
-**Me:** "But, I…, we must do more than *look*; *we* all must see and *be seen*."
+**Me:** "But, I..., we must do more than *look*; *we* all must see and *be seen*."
+
+**Her**: "Safety Third."
+
+**Me**: "What do you mean?"
+
+**Her**: "Just like riders are responsible for their safety, so too is every programmer."
 
 ---
 

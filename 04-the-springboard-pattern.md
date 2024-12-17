@@ -4,15 +4,15 @@
 
 ![Software development is not a form of construction.](images/04-01.png)
 
-A few years ago, at an agile demo, a stakeholder made a special appearance. The team was closing in on a minimum viable product. The demonstration focused on sound effects and animations. The group revealed a configurable animation board to demo the results. The experiences were easy to launch consecutively, in a isolated configuration. The animation board did not depend on the extensive system, but the intention was to tie-in each animation later.
+A FEW YEARS AGO at an agile demo, a stakeholder made a special appearance. The team was closing in on a minimum viable product. The demonstration focused on sound effects and animations, revealing a configurable animation board. Each media experience was easy to launch in an isolated configuration. And the animation board did not depend on the extensive system. The intention was to tie-in animations of which the stakeholder agreed with.
 
-While the team demoed, the stakeholder asked if we could evaluate the animation board for further experimentation. With this feedback, the group noted the ***unrealized*** value and wrote down what to explore. Of course, this wasn’t the first time the team used the technique. They made similar discoveries in [future demos](https://dev.to/solidi/how-to-crush-your-next-team-demo-2bb5). The team learned that feature containment provided product value in their demos.
+While the team demoed, the stakeholder asked if we could evaluate the animation board for experimentation. With this feedback, the group noted the ***unrealized*** value and wrote down what to explore. Of course, this wasn’t the first time the team used the technique. They made similar discoveries in [future demos](https://dev.to/solidi/how-to-crush-your-next-team-demo-2bb5) The team learned that feature containment provided product value in their demos.
 
-For us as engineers, naming things is hard. Harder still is how to communicate clearly. And in the story above, there is no vocabulary to describe their effort. There is no description for the iterative containment orchestration in ***software engineering***.
+---
+
+For software engineers, naming things is hard. Harder still is how to communicate clearly. And in the story above, there isn't a vocabulary to describe their effort. There is no description for the iterative containment orchestration in ***software engineering***.
 
 So I propose a definition to describe the unique execution with its benefits and drawbacks. Developing and demoing in containment is an example of what I call the **springboard pattern**.
-
-Let’s describe what the pattern is.
 
 ## What is the Springboard Pattern?
 
@@ -31,7 +31,7 @@ The feature:
 1. Launches from a board that includes other features
 1. Can spring up with minimum setup
 1. Can launch on its own and in any order
-1. Can launch in any state
+1. Defines its own state
 1. Resists larger system coupling and dependencies
 
 If we follow these rules of feature development, magic happens. Benefits include the promotion of modularity, testability, and build-time. Additional improvements include [product ideation](https://dev.to/solidi/what-is-a-product-manager-anyway-3pc4) and unrealized engineering efficiency. Let’s discuss these next.
@@ -82,7 +82,7 @@ Before we conclude, there are drawbacks to consider.
 
 ## Drawbacks
 
-There are drawbacks by developing with a springboard. The team will have to make decisions to steer clear of over-engineering.
+There are drawbacks to developing a springboard. The team will have to make decisions to steer clear of over-engineering.
 
 The springboard approach may:
 
@@ -91,8 +91,6 @@ The springboard approach may:
 1. **Increase complexity** — additional logic to support layering and modularization may increase development time.
 
 However, keep in mind that the cost paid will certainly provide a cost-benefit for code that is consistent and adaptable. ***Adaptability*** adds to the code complexity.
-
-Now let’s wrap this up.
 
 ## Spring into Action
 

@@ -11,7 +11,7 @@ I want to preface that these interviewing findings are based on my personal expe
 
 Here are the core concepts of interviewing. By embracing these, the odds of achieving results may increase.
 
-**Interviewing is an unpredictable system.** Interviewing is more than just self-preparation; it is a natural system of factors that will be beyond your control: timing, luck, relative candidates, budget changes, and the need for the position. Focus on what you can control by increasing proficiency signals. When "no's" are delivered, it wasn't meant to be. Keep going! Naturally, there will be lots of “no’s” before the first “yes!”
+**Interviewing is an unpredictable system.** Interviewing is more than just self-preparation; it is a natural system of factors that will be beyond your control: timing, luck, relative candidates, budget changes, and the need for the position. Focus on what you can control by increasing proficiency signals. When "no" is delivered, it wasn't meant to be. Keep going! Naturally, there will be lots of rejections before the first “yes!”
 
 **Learning and reflecting reduce luck factors.** For every interview, reflect on performing better. Was there a question that you did not have an answer to? Was there a [problematic technical challenge](https://medium.com/free-code-camp/how-to-organize-your-thoughts-on-the-whiteboard-and-crush-your-technical-interview-b668de4e6941) you couldn’t build a solution to your liking? Review the questions and answers given after every conversation, then rework it by seeking better details. *The goal is to have answers at the tip of your tongue!*
 
@@ -23,7 +23,7 @@ Now that we discussed the interviewing principles, let's talk about committing t
 
 **Interviewing is a commitment.** In my experience, interviews can take months of dedication before landing your first or next role. Success comes with discipline and practice. The search ends as you start the new job. *Getting there is a journey*. Work in short increments daily. Commitment is essential to achieving success!
 
-**Know about the companies you apply to.** Take a look at their social media presence as well as previous employee reviews - i.e., Glassdoor.  Make sure these are places you can see yourself working. Knowing the perceived company culture is essential. Look for red flags such as large amounts of employees leaving at once, frequent turnover, a weak business model, and a volatile stock price. Seek the right parts that lead to high employee satisfaction, including mentorship, learning while delivering software, and room for career growth.
+**Know about the companies you apply to.** Take a look at their social media presence as well as previous employee reviews - e.g., Glassdoor.  Make sure these are places you can see yourself working. Knowing the perceived company culture is essential. Look for red flags such as large amounts of employees leaving at once, frequent turnover, a weak business model, and a volatile stock price. Seek the right parts that lead to high employee satisfaction, including mentorship, learning while delivering software, and room for career growth.
 
 **Consistent procession and tracking of applications.** After you commit, as each day goes by, apply to companies that align with your values and advancement. Consistently post your resume. Track your progress with a [Kanban board](https://en.wikipedia.org/wiki/Kanban_board), or a spreadsheet, so no application goes untracked. Do not be afraid to apply to jobs you *can fail at* or if the *skill sets do not precisely match*!
 

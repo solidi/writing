@@ -43,7 +43,7 @@ This time, I took a minute to think as my daughter's room was about to go up in 
 
 Bingo. Fix applied.
 
-## Usually, it's the Simplest Solution
+## Usually, It's the Simplest Solution
 
 While the nightlight saw its end in the trash bin, I suspiciously blamed the system in error. While an established system is not often blameless, the focus should be on its added appendages. Looking into the core system is rarely necessary.
 

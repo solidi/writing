@@ -3,13 +3,13 @@
 
 I've recently reflected on my experiences as an interviewee in software engineering. As I trace through each interview, I have learned and improved.
 
-I'd like to share these learnings with a diagram I'd built from my last search and highlight the significant bits.
+I'd like to share these learnings with a diagram I've built from my last search and highlight the significant bits.
 
 ![Interview process map from personal experience.](images/28-01.png)
 
 ## Practice Role-Playing
 
-My most impactful learning is discovering the value of practicing weekly with a friend. What I learned is that interviewing is a muscle. Finding a study buddy helped simulate [real interview situations](https://medium.com/free-code-camp/how-to-organize-your-thoughts-on-the-whiteboard-and-crush-your-technical-interview-b668de4e6941). This practice had a tangible improvement in offers. After securing a new job, we continue to practice once a week for an hour to be sharp at the interviewing, recalling professional stories.
+My most impactful learning is discovering the value of practicing weekly with a friend. What I learned is that interviewing is a muscle. Finding a study buddy helped simulate [real interview situations](https://medium.com/free-code-camp/how-to-organize-your-thoughts-on-the-whiteboard-and-crush-your-technical-interview-b668de4e6941). This practice had a tangible improvement in offers. After securing a new job, we would continue to practice once a week for an hour to be sharp at interviewing, recalling professional stories.
 
 ## Partnering with Recruiting
 
@@ -17,7 +17,7 @@ I found success in partnering with recruiting as I went through the process. Bei
 
 ## Optimal Months to Start a Search
 
-My personal interviewing experience revealed that searching during certain months increased job opportunities and responses. These optimal months were January, April, and September. It became evident that the time range preceded vacation times from American holidays - where high paying companies advance their talent searches.
+My personal interviewing experience revealed that searching during certain months increased job opportunities and responses. It became evident that the optimal range proceeded American Holidays where high paying companies advanced their talent searches. These months were January, April, and September.
 
 ## Feedback is Rare
 
@@ -29,7 +29,7 @@ Since feedback is rare, each question asked was an opportunity to improve my pro
 
 ## Hydrating Skill Sets
 
-Since [software engineering](https://dev.to/solidi/what-is-a-software-engineer-anyway-3fb2) contains many skill sets, technical questions are an opportunity to learn. If a technology came up where I did not have working experience, I would build cursory knowledge while setting aside time to learn.
+Since [software engineering](https://dev.to/solidi/what-is-a-software-engineer-anyway-3fb2) contains many skill sets, technical questions are an opportunity to learn. If a technology came up where I did not have working experience, I would build cursory knowledge by setting aside time to learn.
 
 ## Expect Technical Variations
 

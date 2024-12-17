@@ -28,7 +28,7 @@ Construction progress is straightforward and visible throughout. Software develo
 
 ## We Disagree on Common Measures
 
-Construction requires building in a way that is acceptably safe and predictable. There would be no way a two-story home could stand if its main structural beam were removed. However, we would be surprised at how software development projects across the finish line with malformed structures. Software development processes, [development practices](https://medium.com/@solidi/8-observations-on-test-driven-development-a9b5144f868), and principles attempt common ground between [engineers](https://dev.to/solidi/what-is-a-software-engineer-anyway-3fb2), but there is little agreement. A continuous debate has created a void of common measures, therefore, leading to less predictability and safety.
+Construction requires building in a way that is acceptably safe and predictable. There would be no way a two-story home could stand if its main structural beam were removed. However, we are surprised at how software development projects cross the finish line with malformed structures. Software development processes, [development practices](https://medium.com/@solidi/8-observations-on-test-driven-development-a9b5144f868), and principles attempt common ground between [engineers](https://dev.to/solidi/what-is-a-software-engineer-anyway-3fb2), but there is little agreement. A continuous debate has created a void of common measures, therefore, leading to less predictability and safety.
 
 > *No one can agree to a consistent scale measure. What is good enough?*
 

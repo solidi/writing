@@ -12,7 +12,9 @@ What the hell was going on?
 
 The driver behaviors in this area were an odd edge case. I've never experienced such "niceness" with over twenty years behind heavy machines made of [steel cages and iron horses](https://medium.com/hackernoon/the-zen-of-motorcycling-and-programming-620907dbab2c). I've driven in other parts of the US, experiencing different regional driving attitudes, but this was different.
 
-The misbehavior occurred on Route 28, a single-laned two-way thoroughfare with businesses on each side. Traffic was a never-ending procession of vehicles in both directions. Every two hundred feet, a car would hurry out. Those who had the right of way paused to let them in, causing those uninitiated (like me) to stop uncomfortably. Indeed, *I have the right of way*.
+The misbehavior occurred on Route 28, a single-laned two-way thoroughfare with businesses on each side. Traffic was a never-ending procession of vehicles in both directions. Every two hundred feet, a car would hurry out. Those who had the right of way paused to let them in, causing those uninitiated (like me) to stop uncomfortably.
+
+Indeed, *I had the right of way*.
 
 > I later discovered drivers gave access to the road, which otherwise would be denied entry for a significant time. As I made [wild turns](https://medium.com/@solidi/apps-doing-sh-t-f5ffa72140db) into busy intersections, my screaming kids egged me on. But fear not, I got a blink of the headlight before I entered.
 
@@ -58,11 +60,13 @@ Do we need to remove the fallible humans, eventually?
 
 ## Wheel Resistance is Less Than Futile, and it's Mixed Tire Pressure of Political Results
 
-In my view, there is continuing resistance to automating formal driving rules in my community. People love their driving. Their associations go deep with nostalgia, speed, and everything culturally ingrained in people spanning generations. Included are car shows, night cruises, drag racing, and everything reminding us of years past. Would anyone want to see bots driving when racing is [about human drama](https://www.espn.com/f1/story/_/id/33319352/lewis-hamilton-lost-little-bit-faith-f1-abu-dhabi-gp)? With driving, it's all human feeling.
+In my view, there is continuing resistance to automating formal driving rules in my community. People love their driving. Their associations go deep with nostalgia, speed, and everything culturally ingrained in people spanning generations. Included are car shows, night cruises, drag racing, and everything reminding us of years past. Would anyone want to see bots driving when racing is [about human drama](https://www.espn.com/f1/story/_/id/33319352/lewis-hamilton-lost-little-bit-faith-f1-abu-dhabi-gp)?
+
+With driving, it's all human feeling.
 
 For example, in the same area of Route 28, the federally mandated realignment of exit numbers proved so opinionated it has cost taxpayers money to reprint beautiful "[Old Exit signs](https://www.capecodtimes.com/story/news/2020/11/27/route-6-exit-signs-days-numbered/6410312002/)." The advocate's passion ran deep for exiting off nostalgic single-digit numbers. Or a time when my community [rejected speed cameras](https://www.nbcnewyork.com/news/local/nassau-county-shuts-down-school-zone-speed-cameras/2015385/) in places where children cross streets right in front of their schools.
 
-> People dislike the peering eyes of virtual referees which surround their cars. They fight to protect their privacy and privilege. Politically? I'll brand it now, the ideas will become the "[Third Lane](https://en.wikipedia.org/wiki/Third_rail_%28politics%29)." Surveillance can solve our problem by knowing all the pieces on the gameboard, but humans will hinder progress.
+> People dislike the peering eyes of virtual referees which surround their cars. They fight to protect their privacy and privilege. Politically? I'll brand it now, the slogan will become the "[Third Lane](https://en.wikipedia.org/wiki/Third_rail_%28politics%29)." Surveillance can solve our problem by knowing all the pieces on the gameboard, but humans will hinder progress.
 
 If behaviors indicate human resistance ahead, there is a continued price to privilege, which is tallied yearly by the National Highway Traffic Safety Administration (NHTSA). As I type, the numbers of fatalities are going in [the wrong direction](https://www.nhtsa.gov/press-releases/early-estimate-2021-traffic-fatalities). With automation, I like the promise of fewer deaths, lower emissions, and what it will do for us collectively, but I am not the one who needs convincing.
 
@@ -74,7 +78,9 @@ But to have robots driving and humans taking a back seat is not in the purview o
 
 ## Thinly Settled Now, but Eventually a Thickly Future Problem
 
-As our trip ended and we made our way back, I enjoyed the signs that read "[Thickly Settled](https://www.mass.gov/info-details/speed-limits-in-thickly-settled-or-business-districts)," a happy tour of regional flair not found elsewhere except on Route 28. The reality is these signs indicate specific changes in the rules of the road. And I wondered what happens when AI becomes intermingled with humans to its saturation. As I write, it's hardly existent.
+As our trip ended and we made our way back, I enjoyed the signs that read "[Thickly Settled](https://www.mass.gov/info-details/speed-limits-in-thickly-settled-or-business-districts)," a happy tour of regional flair not found elsewhere except on Route 28. The reality is these signs indicate specific changes in the rules of the road. And I wondered what happens when AI becomes intermingled with humans to its saturation.
+
+As I write, driverless vehicles hardly exist.
 
 My understanding of automation trials of humans not at the wheel has been [successful in modern American cities](https://www.smithsonianmag.com/smart-news/driverless-taxis-are-coming-to-san-francisco-180980202/) within limited optimized goals of taxiing to direct points. There are also ongoing [company trials](https://www.globaltrademag.com/artificial-intelligence-the-trucking-industrys-biggest-asset/) with trucking AI which optimize for maximum efficiency and safety. Finally, car manufacturers offer [level 2 consumer controls](https://www.nhtsa.gov/technology-innovation/automated-vehicles-safety) where a human supervises the operation.
 

@@ -44,6 +44,14 @@ The people I partner with have come to respect this approach.
 
 And for those in the past who have suffered from my nefarious *Reply All* dealings, I’ve learned to do better.
 
+---
+
+## Applies to All Mediums
+
+Whether it is instant messaging, email, or communicating in person, this conversation of "tact" can be applied anywhere.
+
+---
+
 ## Social Post
 
 By sending thousands of #emails over the years, I believe replying all should be used sparingly. I share my experiences on how and when I use #reply all and conclude that it could be considered harmful.

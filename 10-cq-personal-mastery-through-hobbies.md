@@ -23,13 +23,13 @@ Amateur radio is rich with history, electronics, applied theory, bizarre phenome
 
 Now that we know what amateur radio is, I want to pose a short formula. The key is personal mastery through a deduction of how these axioms improve ourselves and our proficiency in things.
 
-First, we start with ***personal mastery***. Personal mastery is the attempt to form a vision of yourself in the future. It has to start with ***discipline*** from within to see through your goal. It is a series of practices of principles laid out and applied through the journey of reaching those goals. That is personal mastery. It is a quest to seek the truth of a matter, like in a hobby.
+First, we start with ***personal mastery***. Personal mastery is the attempt to form a vision of yourself in the future. It has to start with ***discipline*** from within to see through your goal. It is a series of practices of principles applied through the journey of reaching those goals. That is personal mastery. It is a quest to seek the truth of a matter, like in a hobby.
 
 Next, as we seek those truths, let's examine what an ***axiom*** is. An axiom is a shorthand for a kernel of fact, a poster sign. It is a spoken reduction of events and their goals that are self-evident. Personal mastery and their axioms feed on one another. And the axioms contain ***vocabularies*** that define skill and culture.
 
 ![An analog transmitter tuner.](images/10-04.jpeg)
 
-But how do personal mastery and axioms interrelate with one another? The relation would be by ***successive approximation***. The ability to course-correct our skill and hone in on the axioms so that we check, apply, correct, and repeat. The process is a relative comparison of what we can do better.
+But how do personal mastery and axioms interrelate with one another? The relation is by ***successive approximations***. The ability to course-correct our skill and hone in on the axioms so that we check, apply, correct, and repeat. The process is a relative comparison of what we can do better.
 
 With personal mastery, their axioms, and successive approximation, we attempt to achieve the goal. The goal requires the examination of successive approximations saddled around ***constraints***. Constraints are challenges to our axioms and limit validation on how we can achieve maximum personal mastery.
 
@@ -51,7 +51,7 @@ Easy enough. From here, we have an axiom for our mastery. The maxim will reveal 
 
 > DX (Communicate a far distance) to an operator to QSO.
 
-As we look at this axiom, we find that there are constraints. These types of restrictions challenge us to personal mastery. These constraints pull us into ways which make us uncomfortable. **Time**, **money**, or **mental effort** are scales of being uncomfortable. Another strict examination, maybe. More time in research. More money to apply. ***Vulnerability*** in front of someone who knows an answer. But these challenges are there to make us better.
+As we look at this axiom, we find that there are constraints. These types of restrictions challenge us to personal mastery. These constraints pull us into ways which make us uncomfortable. **Time**, **money**, or **mental effort** are scales of being uncomfortable. Another strict examination, maybe. More time in research. More money to apply. ***Vulnerability*** in front of someone who knows an answer. Overcoming these these challenges make us better.
 
 > With as little power as you can (QRP), DX an operator to QSO.
 
@@ -61,15 +61,15 @@ One way to achieve a distant connection is by using the International Morse Code
 
 Hobbies are ***interdependent*** exercises of personal mastery and require communication with others to improve. My father told me a story about this key in the picture above. Back in the early 1970s, he worked at the Mobil Building in New York City for Rand McNally as a trip planner.
 
-Like most days, my father was at the desk, waiting for the next customer to draw out a road trip. An older gentleman walks in. One thing leads to another, and amateur radio is of topic. The gentleman is a high-level license holder. My father explained that he was having difficulty overcoming a crude requirement of the then license exam. The exam required a CW portion at a minimum word per minute. The gentleman gave him old Coast Guard audio tapes to help him practice. He, through his help, succeeded.
+Like most days, my father was at the desk, waiting for the next customer to draw out a road trip. An older gentleman walks in. One thing leads to another, and amateur radio is of topic. The gentleman is a high-level license holder. My father explained that he was having difficulty overcoming a crude requirement of the then license exam. The exam required a CW portion at a minimum word per minute. The gentleman gave him old Coast Guard audio tapes to help him practice. Through the mentor's help, my father succeeded.
 
 > With QRP power and with 13 wpm (words per minute), DX an operator to QSO.
 
-The man in my father's story is called an "Elmer" in the hobby. In short, a ***mentor***. And hence, the cycle of personal mastery continues until a limit. The axioms continue are tweaked until there is a collective mastery.
+The man in my father's story is called an "Elmer" in the hobby. In short, a ***mentor***. And hence, the cycle of personal mastery continues until a limit is reached. The axioms continue are tweaked until there is a collective mastery.
 
 ![A high level visual of the ideation.](images/10-07.jpeg)
 
-Of course, other axioms are ***congruent*** with the primary adage. In the example, I've highlighted the primary driver of mastery. There are others to identify and explore.
+Of course, other axioms are ***congruent*** with the primary adage. In the example, I've highlighted the primary driver of mastery. The process is drawn as a system diagram.
 
 ## 73! (Best Regards)
 
@@ -83,7 +83,7 @@ Hobbies ignite a path to the truth inside one's self. When we focus our attentio
 
 --
 
-And thanks, Dad, for all this equipment to learn on. I got my first license even if it took way longer than you had hoped.
+And thanks, Dad, for all this equipment to learn on. I received my first license even if it took way longer than you had hoped.
 
 ![My successful examination card.](images/10-09.png)
 

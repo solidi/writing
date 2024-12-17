@@ -13,13 +13,13 @@ This essay will describe findings in MM-M that describe how we document the *why
 
 In MM-M, Fred postulates scholarly labor and its practical application in four short pages.
 
-> Amid a wash of paper, a small number of documents become the critical pivots around which every project's team revolves...
+> Amid a wash of paper, a small number of documents become the critical pivots around which every project's team revolves-.
 
 Fred goes on to describe in three sections the required documents for a *computer product, university department,* and documents of a *software project*.
 
 He concludes with the topic of **why**.
 
-> First, writing the decisions down is essential... Second, the documents will communicate the decisions to others... Finally,... documents give... a database and checklist.
+> First, writing the decisions down is essential-. Second, the documents will communicate the decisions to others-. Finally, -documents give-a database and checklist.
 
 From the quotes, Fred presents the practice of developer documentation. He targets documents such as schedule and requirements, but how does this apply to a software code?
 
@@ -72,7 +72,7 @@ In MM-M, Fred had difficulty grappling with separate documentation. He supported
 
 Fred paints a contrast to spoken language. He said:
 
-> English, or any other human language, is not naturally a precision instrument for such definitions. Therefore the manual writer must strain himself and his language to achieve the precision needed.
+> English, or any other human language, is not naturally a precision instrument for such definitions. Therefore the manual writer must strain [themself] and [their] language to achieve the precision needed.
 
 But Fred found value in explaining meaning. He said:
 
@@ -90,7 +90,9 @@ Fred writes a chapter on marrying documentation to code. He said:
 
 Mr. Brooks was close to a solution, but he did not accomplish the follow through with code as documentation. Fred found that human language and machine language repel each other, just as if two magnets are forced together at the same pole. Force is required to keep the connection as they move closer.
 
-Fifty years later, *tests are the documentation on specification*. However, they, too, cannot explain why code exists as it does. There is a high value to documenting *why* the system survives. Therefore, documentation has its place in the workspace.
+Fifty years later, *tests are the documentation on specification*. However, they, too, cannot explain why code exists as it does.
+
+Therefore, documentation has its place in the workspace. There is a high value to documenting why the system survives.
 
 ## Code Cannot Explain the Why to Humans
 

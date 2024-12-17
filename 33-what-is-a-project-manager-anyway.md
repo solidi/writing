@@ -5,7 +5,7 @@ I’ve worked with excellent project managers (PMs) over the years. Many of them
 
 **Shepherds process evolution with predictability.** They will find ways to keep projects on schedule by filling the gaps for the team. They are necessary meta engineers for the groups they partner with. By negotiating between engineering, [product](https://dev.to/solidi/what-is-a-product-manager-anyway-3pc4), and stakeholders, they formulate the vertical slices for delivery. Evolution is achieved by iterating processes, improving the environment, and finding clear ways to prioritize.
 
-**PMs understand how to deliver.** They work with management and peers to eliminate what is not valuable from a product perspective and form plans to mitigate risks. They are the reality check, while actively listening, being able to reflect the priorities.
+**PMs understand how to deliver.** They work with management and peers to eliminate what isn't valuable from a product perspective and form plans to mitigate risks. They are the reality check, while actively listening, being able to reflect the priorities.
 
 **They are managers and understand their teams.** As much as engineers and product managers partner closely with individuals, so do project managers. They conduct frequent 1:1’s and build trust with their stakeholders as much as delivering the products.
 

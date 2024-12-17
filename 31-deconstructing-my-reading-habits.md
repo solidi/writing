@@ -11,13 +11,13 @@ When I choose books to read, commitment sparks from a conversation with another 
 
 There are many routes to how I discover books. I am radically open to recommendations, and in some instances, I openly ask others. Book recommendations are also sourced from *asynchronous mentorship* — listening carefully to podcasts, YouTube, or crawling Amazon book recommendation lists.  If the recommendation is *timely* and has potential *return on discovery*, I will commit to reading the book.
 
-## My Idling Time is Where Most Reading Occurs
+## My Idling Time Is Where Most Reading Occurs
 
 My reading habits are sporadic, occuring in a gap of time when I am sitting or idling. Scheduling this time is usually not sustainable. The crucial point is I read at least a few pages a day, even if it’s not chunked (such as reading one full chapter in a sitting). The books follow me, and I prefer the physical book over a digital format to keep focused.
 
 ![Idling time is reading time](images/31-02.png)
 
-# When Reading, Note What is Interesting
+# When Reading, Note What Is Interesting
 
 I do not entirely understand my “interesting” scale, but I know how they appear in the text. These artifacts are impactful quotes, interesting ideas, or applied applications. Things that are **terse and succinct** positively engage me. I thought about this one for a while where interest originated from morals, values, and beliefs of my upbringing, culture, and experiences. From a skill set point of view, my "interests" are detailed information and novel application methods.
 
@@ -25,7 +25,7 @@ I do not entirely understand my “interesting” scale, but I know how they app
 
 Like Robert Heatons *[How I Read](https://robertheaton.com/2018/06/25/how-to-read/)*, the way I track "interests" is a small system of Post-It flags and note-taking. My organization system needs improvement. Regardless, every book I’ve read has a handful of concepts and symbols that stick with me creating a never-ending snowball of knowledge.
 
-## Completing Books is Important to Me
+## Completing Books Is Important to Me
 
 When committing to a book, it is a combination of recommendations, timeliness, extracting interesting points, and understanding actions. Books I start, I finish. I believe it is essential to complete a reading because it supports my momentum to start the next book.
 

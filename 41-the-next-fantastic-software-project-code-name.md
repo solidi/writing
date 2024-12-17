@@ -7,7 +7,7 @@ Buttoned up and formalized, application and library names like `The-App-Brand-Na
 
 I first experienced naming things *differently* while developing software in a team. The websites and apps we built did not have adored handles. But the blades on a server rack *did* have names. They were the *pets* hosting these projects. 
 
-Each server had a name from one of the Greek/Roman gods. `Pollux,` `Apollo,` `Castor,` all had a memorable function. `Castor` was the webserver, `Pollux` was the file server. The list went on down each metallic bay. And when we added a server, [we plotted how](https://datatracker.ietf.org/doc/html/rfc1178) to name it well. `Hermes,` one of our later additions, was where we dropped questionable payloads; it was a mess of libations.
+Each server had a name from one of the Greek/Roman gods. `Pollux,` `Apollo,` `Castor,` all had a memorable function. `Castor` was the webserver, `Pollux` was the file server. The list went on down each metallic bay. And when we added a server, [we plotted how](https://datatracker.ietf.org/doc/html/rfc1178) to name it well. `Hermes,` one of our later additions, was where we dropped warez payloads; it was a mess of libations.
 
 These names and their power are *pervasive*, sticky in my mind forever. But today, naming servers this way is archaic and challenges the discussed [pets/cattle metaphor](http://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/). If I squint hard enough, the names could be construed as fungible parts.
 
@@ -17,9 +17,9 @@ I still remember those machines, the projects they hosted, and the people that s
 
 Every label that I've encountered is a function of its culture and the people around it. It's a mix of generation, nationality, motivation, shared experiences, and values. When we play with words, a clever project handle explodes to a *code name* many can get behind.
 
-The result is a memory hook. And those who participate are now part of the *in-group*. Calling something by a code name makes the experience inclusive and gives the group control and ownership. The name is a badge of honor, commitment, and *undying passion* for something to succeed.
+The result is a memory hook. And those who participate are now part of the *in-group*. Calling something by a code name makes the experience inclusive and gives the group control and ownership. The name is a badge of honor, a commitment, and *undying passion* for something to succeed.
 
-In my experience, code names rise from various contexts. And in each context, there are an infinite number of ways to arrange, enumerate, and organize in an endearing, proud, or unbelievable way. They are named after science, animals, products, history, mythology, toys, animation/anime, famous adored leaders, music, and many others. The possibilities go on and on.
+In my experience, code names rise from various contexts. And in each, there are an infinite number of ways to arrange, enumerate, and organize in an endearing, proud, or unbelievable way. They are named after science, animals, products, history, mythology, toys, animation/anime, famous adored leaders, music, and many others. The possibilities go on and on.
 
 Let me share some examples I've experienced, which will be different from your experience.
 
@@ -27,7 +27,7 @@ Let me share some examples I've experienced, which will be different from your e
 
 When I was involved in kid media-focused software development, handles were based on cartoon nostalgia. App names were concentrated in [NickToon](https://www.imdb.com/title/tt6611256/) characters `Tommy,` `Blue,` `Otto,` and others associated with their app function.
 
-In that project, we created a mono repo where the streaming apps and supporting libraries were located. We called it the `Aggrocrag.` Named after the kids show, [Nickelodeon Guts](https://en.wikipedia.org/wiki/Nickelodeon_Guts), where contestants race up a polystyrene mountain. We got a few chuckles out of it. And then there was the common shared library that was all-knowing. We called it `Olmec,` named after a [game co-host](https://nickelodeon.fandom.com/wiki/Olmec).
+In that project, we created a monorepo where the streaming apps and supporting libraries were located. We called it the `Aggrocrag.` Named after the kids show, [Nickelodeon Guts](https://en.wikipedia.org/wiki/Nickelodeon_Guts), where contestants race up a polystyrene mountain. We got a few chuckles out of it. And then there was the common shared library that was all-knowing. We called it `Olmec,` named after a [game co-host](https://nickelodeon.fandom.com/wiki/Olmec).
 
 I once developed a private suite of tools individually labeled as [M.A.S.K.](https://en.wikipedia.org/wiki/M.A.S.K._(TV_series)) characters. Examples included `Trekker` and `T-Bob.` These libraries consisted of a developer experience toolchain, no feeling more incredible than having the complete collection of those toys and at the same time having insight development.
 
@@ -53,7 +53,7 @@ The MVP (a second iteration of the failed `Voyager`) called `Voyager 2` released
 
 ### Tools and Utilities
 
-Tools and utilities typically have brutally crafty names. Since software is focused on outcomes, the clever succinctness can be off the charts.
+Tools and utilities typically have crafty names. Since software is focused on outcomes, the clever succinctness can be off the charts.
 
 I've built small tools that have been discarded — naming them out of love and utility. There was `Scrapi,` a small, scrappy API scraper, `Amazement,` an iOS game where you trace out of a maze, and `Bif-Tannen,` a [base index file](https://developer.roku.com/docs/developer-program/media-playback/trick-mode/bif-file-creation.md) extractor tool for movie thumbnails.
 

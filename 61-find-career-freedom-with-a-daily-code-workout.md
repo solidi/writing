@@ -15,11 +15,11 @@ Engineers perform targeted "anaerobic" workouts to improve problem-solving endur
 
 The core engineering workout is a process of concentration and effort. It requires about one hour of practice daily. If every day is too rigorous, exercise every other day to let the mind rest. Rotate a reduced set throughout the week. Either way, working to solve known problems builds muscles in the brain, particularly the neocortex. Like [code katas](http://codekata.com/), these exercises target building muscle memory.
 
-1. **Temporal** - relating to temporary space. Holding items in mind is a skill that practice improves.
-1. **Spacial** - relating to visualizing how these exercises interrelate with data.
-1. **Speaking** - [rubber ducking](https://en.wikipedia.org/wiki/Rubber_duck_debugging) through the problem challenges communication. Think: how can I teach this to someone?
-1. **Recollection** - these workouts target a wide range of muscles, memorizing essential patterns. Repeating them leads to working efficiently within an integrated development environment.
-1. **Abstract** - Learning something new. Discovering a new workout, we add computer science fundamentals to expand our knowledge.
+1. **Temporal:** relating to temporary space. Holding items in mind is a skill that practice improves.
+1. **Spatial:** relating to visualizing how these exercises interrelate with data.
+1. **Speaking:** [rubber ducking](https://en.wikipedia.org/wiki/Rubber_duck_debugging) through the problem challenges communication. Think: how can I teach this to someone?
+1. **Recollectio:n** these workouts target a wide range of muscles, memorizing essential patterns. Repeating them leads to working efficiently within an integrated development environment.
+1. **Abstract:** Learning something new. Discovering a new workout, we add computer science fundamentals to expand our knowledge.
 
 ## The Workout
 
@@ -47,13 +47,17 @@ Create and traverse graphs using breadth-first and depth-first search, or experi
 
 ### Alternative (15 Minutes)
 
-Solve a question from the [*Cracking The Coding Interview*](https://www.crackingthecodinginterview.com/) problem [openly](https://medium.com/free-code-camp/how-to-organize-your-thoughts-on-the-whiteboard-and-crush-your-technical-interview-b668de4e6941). Adding these questions to the workout will inspire thinking by amending the repetitive nature of the previous exercises. If solving canned problems isn't attractive, build [something variable](https://www.scotthyoung.com/blog/2022/10/26/variable-mastery/) that utilizes these skill sets.
+Solve a question from the [*Cracking The Coding Interview*](https://www.crackingthecodinginterview.com/) problem [openly](https://medium.com/free-code-camp/how-to-organize-your-thoughts-on-the-whiteboard-and-crush-your-technical-interview-b668de4e6941). Adding these questions to the workout will inspire thinking by amending the repetitive nature of the previous exercises. If solving canned problems isn't attractive, build [something variable.](https://www.scotthyoung.com/blog/2022/10/26/variable-mastery/)
+
+### System (15 Minutes)
+
+Rotate a complex (seen above) question and a system design question in a regular cadence. For system design questions, it starts as "Build YouTube," or "Build Google Maps." Today, free videos are available which through their logical steps — some as fast at ten minutes!
 
 ## The Conclusion is Core Strength
 
 A disciplined workout is key to a healthy engineer, whether a [leader](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p) or an individual contributor. The goal is discipline, first to remedy the repetitions by gradually reducing the time to solve. Once achieving results, "aerobic" problem-solving exercises will come naturally because conditioned muscles are trained to execute well.
 
-There is a certain satisfaction to these exercises. Why not strive to be a well-rounded engineer? If one hour seems lengthy, reduce the set, building toward a new goal. Importantly, push hard at the end of the exercise to finish well. Add a few more counts at its conclusion to improve the results!
+There is a certain satisfaction to these exercises. Why not strive to be a well-rounded engineer? If one hour seems lengthy, reduce the set, building toward a new goal. Importantly, push hard at the end of the exercise to finish well.
 
 ## Social Post
 

@@ -9,7 +9,7 @@ Around me, another _play project_ is coming to an end. A parent over to my left 
 
 I'm over here thinking about if I should enact the "five more minutes" decree. Should I? Probably not, I am still toying with this problem, and the scenes are nice out here in the playground. The weather is beautiful, and so is the laughter of my children.
 
-## When it's Done
+## When It's Done
 
 I briefly teleport back to previous software engineering projects in my past. The managers would serve up the rules of play "Five more minutes," the managers would say as the engineers blissfully play with frameworks, proof of concepts, and the art of balancing bits and bytes running around the _digital_ hallways.
 

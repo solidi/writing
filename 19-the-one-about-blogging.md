@@ -1,7 +1,7 @@
 # The One About Blogging
 ## Mapping the Process After Years of Learning
 
-I’ve learned a lot about my motivations while blogging over the past years  – everything from self-reflection to clarifying intentions. I’ve also discovered process itself. While I could write a long-winded post about this meta, let me share what I’ve learned in a visual. Since the majority of the population are visual learners, the following graphic should suffice.
+I’ve learned a lot about my motivations while blogging over the past years – everything from self-reflection to clarifying intentions. I’ve also discovered process itself. While I could write a long-winded post about this meta, let me share what I’ve learned in a visual. Since the majority of the population are visual learners, the following graphic should suffice.
 
 ![A sequence diagram of my blogging process.](images/19-01.png)
 
@@ -9,7 +9,7 @@ My blogging process after a few years. It will continue to improve.
 
 Like all creative systems, blogging contains learning feedback loops. What is most interesting is the **catharsis of publishing**. Sharing these writings with others has **growth side effects**. It is impactful, rewarding, and gratifying to share the topic contained in *one link*.
 
-The point of blogging is to start, no matter how difficult it may seem. We all have something to share. Writing helps others. It also clarifies motivations. The process reinforces the learnings, and improves the skill of communication.
+The point of blogging is to start, no matter how difficult it may seem. We all have something to share. Writing helps others and also clarifies motivations. The process reinforces the learnings, and improves the skill of communication.
 
 ---
 

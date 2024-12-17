@@ -105,7 +105,7 @@ Kent identified this caveat in the book, [*TDD By Example*](https://www.safaribo
 
 TDD cannot handle the **organization** of the system. Iterative architecture and TDD orchestration is challenging in practice and demands trust among all team members, pair programming, and reliable code review. Short iterative design sessions are required if we practice TDD.
 
-## 6: Test Frailty and Degenerative Implementation
+## 6. Test Frailty and Degenerative Implementation
 
 Unit tests have a intriguing property about them, and TDD exposes that property. They cannot prove correctness. E.W. Dijkstra had labored over this and discussed the possibility of mathematical proofs in our profession to resolve the gap.
 
@@ -158,7 +158,7 @@ TDD has benefits, and avoids us building the sandcastles we do not need. The pra
 
 No matter how frail unit tests are, they are a core necessity. They transform **fear** into **courage**. Tests allow us to refactor code mercifully. Tests guide and **document**, adding value to a project so others can contribute effectively.
 
-## 7: Reveals an Assertion Completion Feedback Loop
+## 7. Reveals an Assertion Completion Feedback Loop
 
 Take a step back further. For the next two points, we will visit strange re-occurrences. For the first occurrence, let’s take a quick look at FizzBuzz. Here is our test list.
 
@@ -198,7 +198,7 @@ Naturally, if we duplicate the expected assertion data to `assertEqualsIt`, the 
 
 Sometimes failing tests will [reveal a correct result](https://blog.plover.com/math/divisibility-by-19.html) for tests to pass. Perhaps we can call these **voodoo tests**. Your mileage may vary based on test etiquette, but I have seen this happen numerous times.
 
-## 8: TDD Reveals The Transformation Priority Premise
+## 8. TDD Reveals The Transformation Priority Premise
 
 In TDD, there are situations where we are entangled by the implementation. At some point, the testing code becomes a bottleneck to move forward — an **impasse** forms. The developer has to back out by removing a portion of the tests to advance.
 
@@ -212,11 +212,11 @@ TPP or **Uncle Bob’s Test Calculus**, is an intriguing and exciting observatio
 
 > Print out the [TPP](http://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html) list and place it at your desk. Refer to it as you drive to avoid impasses. Embrace an order of simplicity.
 
-Before we conclude, I’d like to answer a question, “what percentage of software professionals use TDD today?” My answer: is "I think the group is small." I'll explore this answer with reasons why.
+Before we conclude, I’d like to answer a question, "what percentage of software professionals use TDD today?" My answer: is "I think the group is small." I'll explore this answer with reasons why.
 
 ## Has TDD Taken Off?
 
-Unfortunately, it hasn’t. The percentage is low. Here are the author’s observations as to why.
+Unfortunately, it hasn’t. The percentage of developer practice is low [at 8%](https://www.techrepublic.com/article/test-driven-development-talked/). Here are the author’s observations as to why.
 
 ### Reason 1: No Exposure to Real Testing Culture
 
@@ -239,7 +239,7 @@ My observation of candidates fresh out of university reveal little to no educati
 
 ## Reason 4: A Career of High Test Passion Required
 
-It takes passion testing. To understand the details and benefits takes an extensive period of time.
+It takes passion to test well. To understand the TDD and its benefits requires an extensive period of time.
 
 Developers want things working, achieving what Kent Beck said: "First make it work, then make it right." I empathize that to get things working is a tough battle.
 

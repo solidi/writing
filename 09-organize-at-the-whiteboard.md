@@ -17,15 +17,15 @@ This motivated me to write a follow-up. Why not answer questions posed? So I kic
 
 Thinking about the question, I looked away from the screen and saw my whiteboard standing before me. My head swirled around the posts. Tough technical interviews? Organization? Managing state? Collapsing weight? Code complexity? Perhaps the technical interview whiteboard exercise could prove a salient point of software engineering all along.
 
-So I solved some problems at the whiteboard, nervously, all by myself.
+So I solved some problems at the whiteboard, confidently, all by myself.
 
-Rarely at a whiteboard does anyone perform well. You have to hold a lot in your head, and demonstrate a didactic process. You have to communicate, but how do you communicate while ignoring the screaming voice in your head that says “hurry up!” while moving around enthusiastically?
+Rarely at a whiteboard does anyone perform well. You have to hold a lot in your head, and demonstrate a didactic process. You have to communicate, but how do you communicate while ignoring the voice in your head that says “hurry up!” while moving around enthusiastically?
 
 ## A Better Approach
 
 At technical companies, there are whiteboard technical interviews. A candidate is placed in a room with a whiteboard with an individual who represents the company. They ask a question and we are invited to solve the problem. Then it’s usually up to the interviewee to drive the problem to a solution.
 
-This is where my head starts to spin out of control with anxiety and disorganization. Trumpets begin to play in my head and my thought process becomes mangled. Time speeds up. My vision narrows and I become lightheaded.
+This is where my head starts to spin out of control with anxiety and disorganization. Trumpets begin to play in my mind and my thought process becomes mangled. Time speeds up. My vision narrows and I become lightheaded.
 
 Maybe there is a way to slow down, pace, and walk through a process with **organization**. Something I’ve never seen before while interviewing candidates over my years, but maybe a process can help ease the nerves and make it an enjoyable experience. To start, look at the board, and cut it up into three sections. They will be organized.
 
@@ -33,7 +33,7 @@ Maybe there is a way to slow down, pace, and walk through a process with **organ
 
 ### Step 1: The Problem
 
-Make sure to write down the problem in a complete sentence up top. This will get you feeling the marker and will help you overcome the initial hit of the rush of “how do I solve this?”
+Make sure to write down the problem in a complete sentence up top. This will get you feeling the marker and will help you overcome the initial hit of the rush of "how do I solve this?"
 
 ![The problem statement above is important to look over.](images/09-03.jpeg)
 
@@ -41,7 +41,7 @@ Once you have the question written down, look at it for a moment and start to th
 
 ### Step 2: Assumptions
 
-Think about some generic questions. Like, what programming language do you prefer? Move to the right side of the board. No questions coming? The problem may contain concepts you don’t know. Ask what they are. Then, start tackling the problem questions. The first question to ask is an example of the **input** and **output**. Ask if the data is **presorted**.
+Think about some generic questions. Like, what programming language do you prefer? Move to the right side of the board. No questions coming? The problem may contain concepts you don’t know. Ask what they are. Then, start tackling the problem questions. The first question to ask is an example of the **input** and **output**. Ask if the data is **presorted**. Write the functional and non-functional requirements.
 
 ![Assumptions are the questions need answering.](images/09-04.jpeg)
 
@@ -69,7 +69,7 @@ Even if you struggle with the solution, you are a wizard of organization.
 
 ![The main event is centered so it can be supported from all sides.](images/09-06.jpeg)
 
-Of course, there is a possibility of finding something in the act. Walk back to the left and revive the approach, break it down or ask for assistance. New questions pop up. Go to the right. Go back and forth from left to right to center until you succeed. You will.
+Of course, there is a possibility of finding improvements in the act. Walk back to the left and revive the approach, break it down or ask for assistance. New questions pop up. Go to the right. Go back and forth from left to right to center until you succeed. You will.
 
 Be the master of organization. If you hit a wall or find something that is just not right, remember that the sides will guide you.
 
@@ -110,7 +110,7 @@ John D. Cook said:
 
 We all have a story about the whiteboard – and we all have the stories of defeat. So, I found a way to improve my engineering mind at the same time. The result is what you have read.
 
-Computer program is applied science, a **pattern language** and a **craft**. I’ve written a few posts about organization linking organization to system complexity. This is why I appreciated John Cook’s and James Hague’s thoughts on software organization.
+Computer program is applied science, a **pattern language** and a **craft**. I’ve written a few posts about organization linking organization to system complexity. This is why I appreciated John Cook's and James Hague's thoughts on software organization.
 
 Walk through the steps, and you’ll do great. Good luck in your next interview!
 

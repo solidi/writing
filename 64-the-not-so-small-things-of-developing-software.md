@@ -7,7 +7,7 @@ Reflecting on my [software experiences](https://dev.to/solidi/rediscovering-the-
 
 **Defaults rule the perceived experience** - what comes shipped in software is what sticks to its adopters. I've learned what is preset in software, such as settings and default preferences, shapes a first impression. That impression predicts an excellent experience from a flawed one. Adopters of my software rarely see past the defaults. Those who do are my power users.
 
-**Rubber ducking clarifies intent** - when I speak to a rubber duck about issues, it solves my problems. When it doesn't,  I'll take another step, talking to a human about what I am to do. Performing these two actions has a consistent effect. It increases the odds of achieving what I've said, solving the problem in a shorter time.
+**Rubber ducking clarifies intent** - when I speak to a rubber duck about issues, it solves my problems. When it doesn't,  I'll take another step, talking to a human about what I am to do. Performing these two actions has a consistent effect. Speaking increases the odds of achieving what I've said, solving the problem in a shorter time.
 
 **Communicate using video often** - a problem discussed in a conversation needs context. Today, sharing motion capture has become effortless. Why not [cut a gif or movie](https://www.cockos.com/licecap/) of the observation? Since I've used gif creation, it has helped me cast a broader net to solve my problems faster.
 
@@ -35,7 +35,7 @@ Reflecting on my [software experiences](https://dev.to/solidi/rediscovering-the-
 
 **Support systems become collateral to burnout** - it was uncomfortable when I was engaged in a time-consuming project for months. Wrapping software engineering into a career is a [recipe for experiencing burnout](https://medium.com/@solidi/my-goal-is-to-ship-c772f63c278d). I found it crucial to find a support system to lean on. Software engineering requires deep thought. With its intensity, my support system had become collateral. To put the brakes on solving issues, I purposefully said no.
 
-**The urge to become an expert gardener** - while plenty of my contemporaries swear by the craft, few want to quit to become an expert farmer due to exhaustion. At a point in my career, I see a precise repetition of events. Planning, developing, testing, and shipping software. Specifically, dealing with the politics in-between with a growing list of shelved projects. It may be time for me to take up gardening. :)
+**The urge to become an expert gardener** - while plenty of my contemporaries swear by the craft, few quit to become expert farmers — due to exhaustion. At a point in my career, I see a precise repetition of events. Planning, developing, testing, and shipping software. Specifically, dealing with the politics in-between with a growing list of shelved projects. It may be time for me to take up gardening. :)
 
 ## Conclusion
 

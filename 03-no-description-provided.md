@@ -7,7 +7,7 @@ Some months ago, one of my colleagues suggested a book. Out of curiosity, I read
 
 It was a fascinating read. With themes interweaving throughout the chapters, one idea bubbled up that was thought provoking.
 
-[Yuval Noah Harari](http://www.ynharari.com/) described humans in large groups invent orderly patterns that are understood and valued. As described, a *mythical glue*.
+In his book, [Yuval Noah Harari](http://www.ynharari.com/) identifies humans who invent communication patterns that are valued. As described, a *mythical glue*.
 
 I questioned, is there [such a glue](https://medium.com/hackernoon/software-is-unlike-construction-c0284ee4b723) that applies to our engineering profession? Do we, as engineering professionals, have a mythical bond we value?
 
@@ -15,7 +15,7 @@ I questioned, is there [such a glue](https://medium.com/hackernoon/software-is-u
 
 Without question, the [pull request](https://help.github.com/articles/about-pull-requests/), or code review, has become the lifeline of every development team who interact. Pull requests are where the team culture resides. In a sense, this is how the team communicates in a virtual public square.
 
-As Yuval described free-market systems, money, and other valued constructs, we as engineering professionals believe in pull requests. We all understand what code review is and what values it provides.
+As Yuval described free-market systems, money, and other valued constructs, we as engineering professionals believe in pull requests. We all understand what code review is and the value the practice provides.
 
 Or do we?
 
@@ -67,7 +67,7 @@ However, many engineers do not follow 50/72. Some engineers think it's okay to p
 
 There is a philosophical argument that questions the value of the commit, even if written cleanly. Should we care for the steps, or should we care only for the pull request merge, as long as it is well-shaped and not overbearing for anyone to understand?
 
-One would argue that the pull request merge commit is the essential description, not the small iterations that came to form it. The reasoning is simple. We are not machines that can accurately remember more than seven commits at any one time, [plus or minus two](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two). There are those teams that squash and rebase, so the commits were trivial.
+One would argue that the pull request merge commit contains the essential description, not the small iterations that came to form it. The reasoning is simple. We are not machines that can accurately remember more than seven commits at any one time, [plus or minus two](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two). There are those teams that squash and rebase, so the commits were trivial.
 
 There is no right answer to this difficulty. The only real constant is the pull request template, the opportunity described and recorded in a version control system.
 

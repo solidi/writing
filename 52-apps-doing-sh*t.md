@@ -15,19 +15,19 @@ Let's assume everyone experiences degrees of apps doing sh*t. I aim to unearth a
 
 So here are mine in no particular order.
 
-**Memories with ex-partners** - what my spouse was laughing about! We share photos on the cloud, and often the provider autogenerates *moments with others*. I saw my beautiful ex's face, titled "*Amazing Memories*" served to my *spouse's phone*. Being cheeky about it, I said, "*Save it!*" The good news is they both share the same name, so no slip-ups to date!
+**Memories with ex-partners.** What my spouse was laughing about! We share photos on the cloud, and often the provider autogenerates *moments with others*. I saw my beautiful ex's face, titled "*Amazing Memories*" served to my *spouse's phone*. Being cheeky about it, I said, "*Save it!*" The good news is they both share the same name, so no slip-ups to date!
 
-**Kids learn adult language through the Assistant** - pop music likes to dabble in adult language when we sling songs to our home assistant. Curses fly, and I'll jump on the live grenade - "*Hey, Assistant! Please play music without these curse words. My young kids are present! Uh... no explicit. Yeah! Clean version!?*" Then the response, "*I'm sorry, I don't understand.*" Lyrics will continue to play unabated. I'm left fumbling with unhelpful parental controls.
+**Kids learn adult language through the Assistant.** Pop music likes to dabble in adult language when we sling songs to our home assistant. Curses fly, and I'll jump on the live grenade - "*Hey, Assistant! Please play music without these curse words. My young kids are present! Uh... no explicit. Yeah! Clean version!?*" Then the response, "*I'm sorry, I don't understand.*" Lyrics will continue to play unabated. I'm left fumbling with unhelpful parental controls.
 
-**Dijkstra's pathing efforts with the highest risks** - ever so often, I'll have to triple-check the car navigation. Rarely am I set on a slower path when the main road is the way to go. Often, it's the fast track, requiring the intense mental effort of maneuvering through dangerous intersections. I'll reach the destination, but my head hurts, narrowly escaping injury from a heroic left-handed turn with family in tow.
+**Dijkstra's pathing efforts with the highest risks.** Every so often, I'll have to triple-check the car navigation. Rarely am I set on a slower path when the main road is the way to go. Often, it's the fast track, requiring the intense mental effort of maneuvering through dangerous intersections. I'll reach the destination, but my head hurts, narrowly escaping injury from a heroic left-handed turn with family in tow.
 
-**Friend recommendations to the beloving deceased** - one of our immediate family members passed away. Weeks after her passing, I was recommended to friend her, as she had discovered the joys of social networks. Sighing deeply, I remember her humor, "*Oh Douglas... you never call me.*" I started to laugh uncontrollably due to the twist of irony. I miss her, but I don't have the courage to decline her request sitting idle *for years*.
+**Friend recommendations to the beloving deceased.** One of our immediate family members passed away. Weeks after her passing, I was recommended to friend her, as she had discovered the joys of social networks. Sighing deeply, I remember her humor, "*Oh Douglas... you never call me.*" I started to laugh uncontrollably due to the twist of irony. I miss her, but I don't have the courage to decline her request sitting idle *for years*.
 
-**The private becomes public through screen share** - at the height of the pandemic, personal screen sharing caused pain within my team. A side conversation was shown, resulting in hurt feelings. I was saddled with giving private feedback to this individual, which was funny as it was horrible. Surely I would not want to be in their shoes. Afterwards, [I posted a plea on the Internet](https://twitter.com/dougarcuri/status/1300474757935235072), but time passed without an answer.
+**The private becomes public through screen share.** At the height of the pandemic, personal screen sharing caused pain within my team. A side conversation was shown, resulting in hurt feelings. I was saddled with giving private feedback to this individual, which was funny as it was horrible. Surely I would not want to be in their shoes. Afterwards, [I posted a plea on the Internet](https://twitter.com/dougarcuri/status/1300474757935235072), but time passed without an answer.
 
-**Scrolling into spoilers** - I enjoy watching missed sporting events, movies, episodes, you name it! With sheer willpower, I'll avoid people for fear of revealing spoilers. On more than one occasion, I'll sit on my couch, having food ready. Without thinking, I'll have a virtual cigarette, opening social apps *before* I watch. Sure enough, something is revealed. I *completely ruined the experience* to satisfy my subconscious need to scroll. Sometimes I don't make it to the couch as a well-placed personalized push notification or a trending feed short-circuits the fun. I'll ask myself - *what just happened*?
+**Scrolling into spoilers.** I enjoy watching missed sporting events, movies, episodes, you name it! With sheer willpower, I'll avoid people for fear of revealing spoilers. On more than one occasion, I'll sit on my couch, having food ready. Without thinking, I'll have a virtual cigarette, opening social apps *before* I watch. Sure enough, something is revealed. I *completely ruined the experience* to satisfy my subconscious need to scroll. Sometimes I don't make it to the couch as a well-placed personalized push notification or a trending feed short-circuits the fun. I'll ask myself - *what just happened*?
 
-**The baby formula on discount, buy now** - it is without question what we say in our home is monitored for market favoritism *with good intentions*. As I type this, we are searching for delicious food for our youngest. In our exhaustive search for baby formula, we are slung excellent ads with deep discounts. Well, we click through. Look at that, *out of stock*.
+**The baby formula on discount, buy now.** It is without question what we say in our home is monitored for market favoritism *with good intentions*. As I type this, we are searching for delicious food for our youngest. In our exhaustive search for baby formula, we are slung excellent ads with deep discounts. Well, we click through. Look at that, *out of stock*.
 
 ## Context Matters
 
@@ -39,11 +39,11 @@ What have *you* experienced?
 
 ---
 
-## Even More Sh*t
+## A Growing List
 
 I've maintained a running note of laugh-out-loud experiences, such as AI recommending sending roses to an ex-partner and an assistant sending minute notes, including the post-meeting "secret" break-out session to all attendees.
 
-The list continues to grow.
+The list continues to grow at github.com/solidi/writing.
 
 ---
 

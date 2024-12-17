@@ -31,6 +31,14 @@ The role of a software engineer has a magnitude of dimensions. When I think of t
 
 ---
 
+## Knowledge Engineering
+
+Knowledge Engineering is a profession of building decision making systems. And I think of software engineers as practitioners who harness practical knowledge discipline.
+
+Software Engineering requires an immense knowledge base to construct, wire and glue data pipes together through text. And I have yet to find a phrase which describes the practice without "software."
+
+---
+
 ## Social Post
 
 What is a software engineer?

@@ -31,7 +31,7 @@ My curiosity engaged. How could I modify the weapons in the game to play differe
 
 > “Cold Ice was unique, immature, violent, provocative, and rather…odd. But I didn’t care.”
 
-Over time, *Cold Ice* became popular. Its concept was simple. Fast play, lots of explosions, [unearth unused weapons](http://transcriptions-2008.english.ucsb.edu/curriculum/lci/magazine/s_02/eric/mod.htm), a unique winter ambiance, and a good time.
+Over time, *Cold Ice* became popular. Its concept was simple. Fast play, lots of explosions, [unearth concept weapons](http://transcriptions-2008.english.ucsb.edu/curriculum/lci/magazine/s_02/eric/mod.htm), then apply a unique winter ambiance to have a good time.
 
 ![The original inverted texture on Gordon Freeman.](images/34-06.gif)
 
@@ -70,7 +70,7 @@ I wore many different "hats" while experimenting with modding. One day I'd devel
 
 ![The original iceman model by SSJ_Microhack.](images/34-18.jpeg)
 
-> “I stayed up late for many nights at a time. The grit to discover was immensely awesome. Nothing else mattered.“
+> "I stayed up late for many nights at a time. The grit to discover was immensely awesome. Nothing else mattered."
 
 ![The original and popular training facility map from Cold Ice. I remember spending hours tinkering with the urinals in the basement restroom.](images/34-19.jpeg)
 ![](images/34-20.jpeg)
@@ -151,7 +151,6 @@ Contributors poured in from all channels. Whether it be voice-overs, writing doc
 
 And sharing assets also went the other way. See above and below. We were invited to contribute code and artistry in the community, which we did. The mods were popular at the time. In fact, both modifications, *Trinity Command* and *[Wasteland HL](http://wastelandhalflife.com/screenshots.shtml)* (WHL), were associated with early contributors of *Cold Ice*.
 
-
 ![[WastelandHL](https://web.archive.org/web/20010128102300/http://www.planethalflife.com/features/motw/wastelandhl.shtm), a mix between Mad Max, Fallout, and “[John Woo](https://en.wikipedia.org/wiki/Hard_Boiled)” akimbo styled weapons.](images/34-42.gif)
 ![](images/34-43.png)
 ![](images/34-44.png)
@@ -165,13 +164,13 @@ I personally loved *[WHL](https://www.youtube.com/watch?v=OkEqjQbOMPw)* and *Tri
 
 Mod making was collaborative at that time — in the summer of 1999, we were invited to alpha test *[Counter-Strike](https://web.archive.org/web/20010803113019/http://planethalflife.com/features/motw/cstrike2.shtm)* with the map *cs_siege*. I gave notes back to the “test party.” Unfortunately, these notes are lost, but I remember that the mod was absolutely excellent. *Counter-Strike* became quite popular. So popular...that Valve eventually acquired them, and the mod became a globally recognized household brand.
 
-## Software is about Outcomes and Consequences, Not About Technology
+## Software is About Outcomes and Consequences, Not About Technology
 
 ![Tutorials from [HL Programming Planet](https://web.archive.org/web/20000418130604/http://hlpp.valveworld.com/clienttut.htm), where we contributed back.](images/34-47.png)
 
-*Cold Ice*, rarely using version control, unit tests and product testing that would remotely resemble a modern development shop.
+*Cold Ice* rarely used version control, unit tests and product testing that would remotely resemble a modern development shop.
 
-However, we launched the modification versions anyway, and when things broke, we quickly launched patches where they were needed (which happened frequently). It was a real R&D (research and development) setup.
+However, we launched the modification versions anyway, and when things broke, we launched patches where they were needed (which happened frequently). It was a real research and development setup.
 
 ![[The Wav pool](https://web.archive.org/web/20000815070851/http://www.planethalflife.com/wavpool/), where voiceovers and sounds effects were shared.](images/34-48.png)
 
@@ -181,7 +180,7 @@ Between developers and artists, the process was libertarian. We shared files thr
 
 ![Use used [WS_FTP](https://en.wikipedia.org/wiki/WS_FTP) to upload files to shared places for mod contributions.](images/34-49.gif)
 
-> “We listened to the community. We recklessly launched, in a way that promoted chaos.”
+> "We listened to the community. We recklessly launched, in a way that promoted chaos."
 
 ![New map [ci_coldice](https://github.com/solidi/hl-mods/tree/b57c4f608782014af36b88587f894c892829be76/cold-ice/maps) by Jope. Nuke launchers and [railgun](https://github.com/solidi/hl-mods/blob/b57c4f608782014af36b88587f894c892829be76/cold-ice/src/dlls/railgun.cpp#L270) (à la Quake II) later in development.](images/34-49.gif)
 ![](images/34-50.jpeg)
@@ -199,7 +198,7 @@ There is a lot to be said about software quality in association with predictabil
 
 ## Success in the Community (1999-2000)
 
-After several versions, Cold Ice made it to the *[mod of the week](https://web.archive.org/web/20000816001652/http://www.planethalflife.com:80/community/motw/coldice2.shtm)* located at [Kevin "Fragmaster" Bowen’s](https://www.vice.com/en/article/nzg4yw/fuck-you-and-die-an-oral-history-of-something-awful) Planet Half-Life (PHL). PHL was the central community hub located on the defunct [Gamespy](http://www.gamespy.com/) network.
+After several versions, Cold Ice made it to the *[Mod of the Week](https://web.archive.org/web/20000816001652/http://www.planethalflife.com:80/community/motw/coldice2.shtm)* located at [Kevin "Fragmaster" Bowen’s](https://www.vice.com/en/article/nzg4yw/fuck-you-and-die-an-oral-history-of-something-awful) Planet Half-Life (PHL). PHL was the central community hub located on the defunct [Gamespy](http://www.gamespy.com/) network.
 
 ![[PHL](https://web.archive.org/web/20010124074200/http://www.planethalflife.com/features/motw/) in early 2000.](images/34-55.png)
 

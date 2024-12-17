@@ -47,15 +47,21 @@ Secondly, since the dawn of easier access, **most** of my experiences have becom
 
 ![After Internet music sharing, contiguity is present in the global portion.](images/62-07.jpeg)
 
-For years, I shared my love on the Internet and discussed the latest music tracks I enjoy. I'd drag my friends to underground clubs or listen to left-field electronica, [wave](https://en.wikipedia.org/wiki/Wave_music), and other oddities. There was even that time I took the whole team I worked with to an underground event. No one got the vibe.
+For years, I shared my love on the Internet and discussed the latest music tracks I enjoy. I'd drag my friends to underground clubs or listen to left-field electronica, [wave](https://en.wikipedia.org/wiki/Wave_music), and other oddities. There was even that time I took the whole team I worked with to an underground event.
+
+No one got the vibe.
 
 Rarely has someone in my proximity shared a similar experience. Of course, on the web, my shared encounters will resonate. In-person, I seem to lack new musical connections. Thanks to the Internet, I somehow dug into comfortable solitude.
 
 ---
 
-In 1969, Jim Morrison, a famous American musician of the band The Doors, predicted that music “will rely heavily on electronics.”
+In 1969, Jim Morrison, a famous American musician of the band The Doors, predicted that music "will rely heavily on electronics."
 
 And he became right - but what did not predict is that the listener would *also* discover their music from those machines.
+
+And so, you and I listen to new music alone.
+
+---
 
 ## Social Post
 

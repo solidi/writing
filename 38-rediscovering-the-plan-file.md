@@ -3,7 +3,7 @@
 
 At the end of the year, I published a [long-form post](https://medium.com/super-jump/building-a-popular-half-life-mod-during-the-rise-of-counter-strike-fec6a5b9fd8f?source=friends_link&sk=6d1427b3f1d832df06bd5b07aaa456bb) on discovering a computer programming career by building a game modification. In that article, I mentioned a communal practice whereby noting ideas and to-do lists originally served by the UNIX `finger` command. The command publicly exposes the content of a `.plan` file.
 
-The demise of `finger` in the late 1990s, the practice was epitomized by [John Carmack] (https://garbagecollected.org/2017/10/24/the-carmack-plan/) who had a unique approach to crafting information within. His practice was romanticized in [Masters of Doom](https://github.com/solidi/learning-notes/blob/master/books/masters-of-doom.md) and mentioned in [Game Engine Black Book DOOM](https://fabiensanglard.net/gebbdoom/).
+After the demise of `finger` in the late 1990s, the practice was epitomized by [John Carmack] (https://garbagecollected.org/2017/10/24/the-carmack-plan/) who had a unique approach to crafting information within. His practice was romanticized in [Masters of Doom](https://github.com/solidi/learning-notes/blob/master/books/masters-of-doom.md) and mentioned in [Game Engine Black Book DOOM](https://fabiensanglard.net/gebbdoom/).
 
 Since my article was published, I started a side project to rebuild that modification. My primary goal is to recapture the experience with the compatibility of the current state of the game. And in doing so, I have an interesting observation to share.
 
@@ -23,7 +23,7 @@ This `LEARNINGS.md` file is an unproven practice, but it encourages a helpful fe
 
 1. `LEARNINGS.md` reinforces knowledge by writing down the findings. There is some friction to this habit; however, its benefit learning concepts *spatially in time*.
 1. The `LEARNINGS.md` file is a place to look up information when remembering the learning, as concepts in development come up more than once. I've used it as a lookup to clarify the technical context, e.g., resources on how to operate docker on Windows within VirtualBox without Hyper-V.
-1. The file is lightweight. `LEARNINGS.md` could become a small search index when its length becomes unwieldy.
+1. The file is lightweight. `LEARNINGS.md` becomes a small search index when its length becomes unwieldy.
 1. `LEARNINGS.md` is a practice of *yak-shaving* search debriefs - when there are too many tabs open in [*your favorite browser*], I'll go ahead and walk each tab, determine if there was learning from that research, write it out in `LEARNINGS.md`, and then close the tab.
 1. Finally, the `LEARNINGS.md` file is useful for the next engineer as a reference of solved knowledge.
 
@@ -37,9 +37,9 @@ This reminds me of an unknown quote:
 
 > *The discovery of information is not really important. But information becomes important when it is appreciated.*
 
-And when I'm in a jam not of not remembering the technical approach, I appreciated this file's existence. I like that it's there, a crutch, closer than [*enter your favorite search engine*]'s doormat. So I'll experiment with the `LEARNINGS.md` file and see where it takes me.
+And when I'm in a jam not of needing to remember a technical approach, I appreciated this file's existence. I like that it's there, a crutch, closer than [*enter your favorite search engine*]'s doormat. So I'll experiment with the `LEARNINGS.md` file and see where it takes me.
 
-Realistically? The file will become a pedantic foxhole where link rot will thrive, and the poem I'll type is how *screwed* dependency management became.
+Realistically? The file will become a pedantic foxhole where link rot will thrive — and a life saver for the next engineer to appreciate a time-vested investigation.
 
 ---
 

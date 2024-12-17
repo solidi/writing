@@ -13,7 +13,7 @@ It's quite hard to define the tech lead role in a short post. But, here it goes.
 
 **They write down the philosophies so that decisions are apparent.** They guide others with respect — a leader who delegates as well as leads by example.
 
-**Being a tech lead can be a challenge.** Managers pressure them to do the impossible. Priorities come to them in all directions. Their impact is good or bad, whether the team is [pathological or generative](https://changelog.com/posts/how-to-build-a-generative-engineering-culture).
+**Being a tech lead can be a challenge.** Managers pressure them to do the impossible. And priorities come to them in all directions. Their impact is good or bad, whether the team is [pathological or generative](https://changelog.com/posts/how-to-build-a-generative-engineering-culture).
 
 **The lead is there to see the team succeed, to deliver.** Without internal injuries, with an orchestra of collaborative engineers rising.
 

@@ -15,7 +15,7 @@ Starting a new software engineering role can be an overwhelming experience. The 
 
 **Communication helps build partnerships.** Not all communication requires purpose. Be open to team lunches. Share with the team about your interests outside of work. Socializing will help forge powerful working relationships over time.
 
-**Show recognition.** For every contribution from others, a quick thank you can go a long way. Even more importantly, as you start working on initiatives together, and achieve results, recognize their accomplishments.
+**Show recognition.** For every contribution from others, a quick thank you can go a long way. Importantly, as you start working on initiatives together, and achieve results, recognize their accomplishments.
 
 ## Add Value Every Day by Learning
 
@@ -41,7 +41,7 @@ Now that you are understanding people, and adding value by contributing, organiz
 
 **Bring the outside in.** There are books out there that have excellent onboarding advice. The most important book I know of is [The First 90 Days](https://hbr.org/books/watkins). There are also excellent podcasts and blog posts.
 
-**Start a document of all-important links.** There will be many disparate systems and tools. Keep a running list of all those URLs in a convenient location. Organizing bookmarks by their domain can also help.  
+**Start a document of all-important links.** There will be many disparate systems and tools. Keep a running list of all those URLs in a convenient location. Organizing bookmarks by their domain can help.  
 
 **Build a glossary of acronyms.** Each company has its own set of abbreviations and acronyms. As you discover them through conversation, ask what they mean, and write it down. Start a glossary, and share it with the next new employee.
 
