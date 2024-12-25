@@ -60,45 +60,42 @@ ii. [Memorable Moments in Future American Toyland](https://medium.com/@solidi/me
 
 I. A Time for Toy Stories
 
-1. 1959: On Jack Ryan: Sex and Speed in American Toys
-      *Adults inventing new toy culture. A modern battle for his acknowledgment.*
+1. 1959: [Jack Ryan and Ruth Handler: The Power Ballard of American Coffee](https://medium.com/@solidi/jack-ryan-and-ruth-handler-of-mattel-the-power-ballad-of-american-coffee-2c19994e6732)
+      *Sex, speed, guns, conspiracy, caffeine, and four letter words in toy making.*
 2. 1967: [Rusting of America: A Pair of Mighty Tonka Trucks](https://medium.com/@solidi/the-pair-of-mighty-tonka-trucks-b361abe12c6e)
       *Toys based on real machines. Shifting US manufacturing.*
-3. 1968: [Obsessions in Conspiracy: A Tragic American Toy Story](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e)
-      *Wild science, injustice, supression. The Toy Industry's CYA moment.*
-4. 1970: [Toys from Aerospace: Wheels, Wings, and Electric Space Juice](https://medium.com/@solidi/push-play-and-put-em-away-the-hot-wheels-kid-powered-trains-and-planes-80f6c2edeb40)
+3. 1970: [Toys from Aerospace: Wheels, Wings, and Electric Space Juice](https://medium.com/@solidi/push-play-and-put-em-away-the-hot-wheels-kid-powered-trains-and-planes-80f6c2edeb40)
       *The toy company surrounded and influenced by Defense and Aerospace.*
-5. 1970: [The First American Toy Team: The Fisher-Price Action Garage](https://medium.com/@solidi/the-fisher-price-action-garage-15b6a9556e2a)
+4. 1970: [The First American Toy Team: The Fisher-Price Action Garage](https://medium.com/@solidi/the-fisher-price-action-garage-15b6a9556e2a)
       *Child injury, deaths, toxic paints within an iconc pre-school brand.*
-6. 1976: [The Great Marvin Glass: Artists in a Fortress of Invention](https://medium.com/@solidi/the-great-marvin-glass-artists-in-a-fortress-of-invention-08e6a6da3399)
+5. 1976: [The Great Marvin Glass: Artists in a Fortress of Invention](https://medium.com/@solidi/the-great-marvin-glass-artists-in-a-fortress-of-invention-08e6a6da3399)
       *The murderer of his associates, creators of toy culture, found on YouTube.*
-7. 1977: [East Remeets West: The Tomy Big Loader](https://medium.com/@solidi/the-tomy-big-loader-351139832616)
+6. 1977: [East Remeets West: The Tomy Big Loader](https://medium.com/@solidi/the-tomy-big-loader-351139832616)
       *Japanese normalization Post WWII in American Toys before the 80s.*
-8. 1980: [The Toy That Drove Us: The Hot Wheels Sto & Go](https://medium.com/@solidi/the-toys-that-made-us-the-first-hot-wheels-sto-go-playset-2f051fbd33c3)
+7. 1980: [The Toy That Drove Us: The Hot Wheels Sto & Go](https://medium.com/@solidi/the-toys-that-made-us-the-first-hot-wheels-sto-go-playset-2f051fbd33c3)
       *When spaceage plastic meets the first portable car garagehouse.*
-9. 1983: [The Last Toy Express: Golden Era Kid Powered Trains](https://medium.com/@solidi/push-play-and-put-em-away-the-hot-wheels-kid-powered-trains-and-planes-caefc9c49042)
+8. 1983: [The Last Toy Express: Golden Era Kid Powered Trains](https://medium.com/@solidi/push-play-and-put-em-away-the-hot-wheels-kid-powered-trains-and-planes-caefc9c49042)
       *The waning of toy trains and military planes in America.*
-10. 1987: How The Orange Tip Became Standard Issue
+9. 1987: How The Orange Tip Became Standard Issue
       *Toy guns in America, Daisy, and the tragedy of Lenny Falcon.*
-11. 1994: [Wear Eye Glasses: Galoob's Sky Dancers](https://medium.com/@solidi/wear-safety-glasses-galoobs-sky-dancers-3c3b499288f3)
+10. 1994: [Wear Eye Glasses: Galoob's Sky Dancers](https://medium.com/@solidi/wear-safety-glasses-galoobs-sky-dancers-3c3b499288f3)
       *When toy makers launched a flying doll, and crash landed successfully.*
-12. 1997: Los Angeles Explosion at Imperial Toys
-      *Worker safety in toys, explosion in a cap gun plant.*
-13. 2009: [Theo and Ora: Toy Craft From Israel](https://medium.com/@solidi/theo-and-ora-toy-craft-from-israel-317112446e05)
+11. 2009: [Theo and Ora: Toy Craft From Israel](https://medium.com/@solidi/theo-and-ora-toy-craft-from-israel-317112446e05)
       *Board games and toys; persecution survival and lasting impact.*
-14. 2014: [All Wet In The Great American Water Balloon Fight](https://medium.com/@solidi/all-wet-in-the-great-american-water-balloon-fight-596312c7a0f2)
+12. 2014: [All Wet In The Great American Water Balloon Fight](https://medium.com/@solidi/all-wet-in-the-great-american-water-balloon-fight-596312c7a0f2)
       *Patents, legal challenges and independent inventors in backyard toys.*
+13. 2024: TBD.
 
-II. Opinion in Toy Making
+II. America's "Jack" of Toyland
 
-1. An Urban Legend Dies in Vietnam: Mattel's Rubber Rifle
-      *The story of the M-16 Marauder from Aerospace. No conspiracy we know of.*
-2. [Automotive Dissonance: The Ulitmate Hot Wheels Legend](https://medium.com/@solidi/the-ultimate-hot-wheels-legend-0e3b9e2b2d88)
+1. 1968: [An Engine of Perpetual Conspiracy: A Tragic American Toy Story](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e)
+      *Wild science, injustice, supression. The Toy Industry's CYA moment.*
+2. 2003: [Automotive Dissonance: The Ulitmate Hot Wheels Legend](https://medium.com/@solidi/the-ultimate-hot-wheels-legend-0e3b9e2b2d88)
       *The prank hiding in toy history supporting [A Tragic American Toy Story](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e).*
-3. Jack's Injustice: Corruption Within the Great State of Californa
+3. 2024: [Jack's Injustice: Corruption Within the State of Californa](https://medium.com/@solidi/jacks-injustice-corruption-within-the-state-of-california-9725cd0476eb)
       *Evidence suggests tensions which challenged Jack's warranted criminal manslaugther.*
 
-III. America's "Jack" of Toyland
+III. The Man Who Made Magic
 
 1. [Inside the Military Toy Complex: The Man Who Made Magic](https://medium.com/@solidi/the-man-who-made-magic-f2add97875c8)
       *The mystery and legacy of Jack E. Hartman, an All American toy inventor.*
