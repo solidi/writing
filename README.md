@@ -107,6 +107,7 @@ Experiences distilled through writing.
 1. [The Great Marvin Glass: Artists in a Fortress of Invention](https://medium.com/@solidi/the-great-marvin-glass-artists-in-a-fortress-of-invention-08e6a6da3399)
 1. [Upcoming Book: Deconstructive Software Ramblings](https://medium.com/@solidi/upcoming-book-deconstructive-software-ramblings-905b8c04b830)
 1. [Jack’s Injustice: Corruption Within The State of California](https://medium.com/@solidi/jacks-injustice-corruption-within-the-state-of-california-9725cd0476eb)
+1. [Jack Ryan and Ruth Handler of Mattel: The Power Ballad of American Coffee](https://medium.com/@solidi/jack-ryan-and-ruth-handler-of-mattel-the-power-ballad-of-american-coffee-2c19994e6732)
 
 
 ## Major Engagements
