@@ -4,7 +4,7 @@
 
 #Books, #Future, #Toys, #Stories, #Memories
 
-![The current book cover artiwork of this author.](images/83-01a.jpeg)
+![The current book cover artiwork of this author.](images/83-01b.jpeg)
 
 What if a reader was treated like an adult, retelling the *best and worst* American inventive toy stories so few published works dare to write?
 
@@ -76,15 +76,16 @@ I. A Time for Toy Stories
       *When spaceage plastic meets the first portable car garagehouse.*
 8. 1983: [The Last Toy Express: Golden Era Kid Powered Trains](https://medium.com/@solidi/push-play-and-put-em-away-the-hot-wheels-kid-powered-trains-and-planes-caefc9c49042)
       *The waning of toy trains and military planes in America.*
-9. 1987: How The Orange Tip Became Standard Issue
-      *Toy guns in America, Daisy, and the tragedy of Lenny Falcon.*
+9. 1988: [How The Orange Tip Became a Standard-Issued Toy Accessory](https://medium.com/@solidi/how-the-orange-tip-became-a-standard-issued-toy-accessory-7c76d9b74ec8)
+      *Toy guns in America, Daisy, and tragedy of Lenny Falcon.*
 10. 1994: [Wear Eye Glasses: Galoob's Sky Dancers](https://medium.com/@solidi/wear-safety-glasses-galoobs-sky-dancers-3c3b499288f3)
       *When toy makers launched a flying doll, and crash landed successfully.*
 11. 2009: [Theo and Ora: Toy Craft From Israel](https://medium.com/@solidi/theo-and-ora-toy-craft-from-israel-317112446e05)
       *Board games and toys; persecution survival and lasting impact.*
 12. 2014: [All Wet In The Great American Water Balloon Fight](https://medium.com/@solidi/all-wet-in-the-great-american-water-balloon-fight-596312c7a0f2)
       *Patents, legal challenges and independent inventors in backyard toys.*
-13. 2024: TBD.
+13. 2024: The Wicked Box Incident
+      *Packaging patented tech and a connection back to American politics.*
 
 II. America's "Jack" of Toyland
 
