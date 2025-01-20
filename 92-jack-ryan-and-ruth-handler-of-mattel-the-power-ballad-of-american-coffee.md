@@ -1214,3 +1214,58 @@ They are the definitive American business story - an extraordinary drama of 
 ---
 
 * *Sources, including the author's endless hours of research, were used to reconstruct the story. Robin Gerber's [Barbie and Ruth](https://www.amazon.com/Barbie-Ruth-Worlds-Famous-Created/dp/0061341320), Jerry Oppenheimer's [Toy Monster](https://www.amazon.com/Toy-Monster-Big-World-Mattel/dp/0470548584/), and M. G. Lord's (refreshed for 2024) [Forever Barbie](https://www.amazon.com/dp/1324095075) are included.*
+
+---
+
+[March 14th, 1968, New York City]
+
+Elliot Handler was at a podium, giving a dinner speech on Mattel's history to a high-brow technical society.
+
+He was rolling through the toy industry's ups and downs, carefully articulating through the part where Barbie came to be.
+
+In the room were famous business leaders, all well-dressed, in an expensive hotel across the street from The Plaza.
+
+Ruth was present, as was Jack Ryan and his beautiful acquaintance.
+
+Elliot said, "We introduced the first doll and her beautiful garments at the 1959 New York Toy Show."
+
+Ruth cringed from her seat, looking at her cup of hot coffee, knowing what was coming while smoking a cigarette. She took a long drag.
+
+"She received a rather cool reception - or, as some buyers phrased it, 'You're out of your mind. It won't sell.' Nevertheless, we decided to go ahead."
+
+"Barbie - named after our daughter - has become the most famous doll ever." Elliot looked towards Ruth, shaking his head, and reached out his hand in a direction.
+
+The dinner reception followed and looked at Ruth. Ruth raised her hand briefly, smiling as the crowd jeered. Jack Ryan, in the distance, smirked, shaking his head. He turned to a young, well-dressed woman as his coffee sat at the table.
+
+Mattel was pondering the fate of Hot Wheels; weeks prior, they revealed the product at the Toy Fair down Fifth Avenue.
+
+Across the room sat another couple - a well-dressed man younger than Jack Ryan. He was tall and handsome, wore dark glasses, and had a short, slick haircut.
+
+He held tight a beautiful young woman, his wife.
+
+Elliot continued, "Millions of Barbies have been sold in the U.S. and through the world, and she retains her popularity to this day."
+Elliot went on - hitting on what was important to him.
+
+"Mattel has been most fortunate from its early years in attracting and retaining imaginative talented people who provided the spirit, the drive and skill required . . ."
+
+Elliot glanced at the man wearing glasses and smiled. Jack Ryan realized and shot a glance with a hint of threat.
+
+"A good example of this is our more than three hundred member Research and Design Department . . . [with equipment] normally associated with a space-age facility."
+
+"Mattel's designers are free to, and are encouraged to, investigate and work in any material and any process. This flexibility permits us to take quick and timely advantage of any advances in technology."
+
+The dapper young man shook his head and looked at Elliot as he smiled at him [without the crowd knowing]. Elliot recognized his immense talent and curiosity about technology.
+
+Elliot finished his speech. "The past, it is said, is prologue. Mattel is already charting new horizons. In the development stage are new and exciting products to charm, captivate, and educate the young people of the world."
+
+"Ideas [at our company] are germinating that would daze even Jules Verne."
+
+Ruth, Jack, and the man at the other table gave a standing ovation for a time. Elliot glanced at Jack Ryan and Jack Hartman, who looked and smiled.
+
+Elliot had the best rocket men in America.
+
+He attempted to finish the speech over the raucous. "Mattel is part of the world of dreams and imagination - dreams that will be transformed into reality through creative minds and hands."
+
+And the crowd roared as Jack Ryan shot another glance over at Hartman. Hartman smiled right back, sipping his hot coffee without breaking his stare.
+
+[The ovation fades, [rolling to the next section](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e) of the saga.]
