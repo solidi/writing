@@ -108,7 +108,7 @@ Experiences distilled through writing.
 1. [Upcoming Book: Deconstructive Software Ramblings](https://medium.com/@solidi/upcoming-book-deconstructive-software-ramblings-905b8c04b830)
 1. [Jack’s Injustice: Corruption Within The State of California](https://medium.com/@solidi/jacks-injustice-corruption-within-the-state-of-california-9725cd0476eb)
 1. [Jack Ryan and Ruth Handler of Mattel: The Power Ballad of American Coffee](https://medium.com/@solidi/jack-ryan-and-ruth-handler-of-mattel-the-power-ballad-of-american-coffee-2c19994e6732)
-
+1. [How the Orange Tip Became a Standard-Issued Toy Accessory](https://medium.com/@solidi/how-the-orange-tip-became-a-standard-issued-toy-accessory-7c76d9b74ec8)
 
 ## Major Engagements
 
