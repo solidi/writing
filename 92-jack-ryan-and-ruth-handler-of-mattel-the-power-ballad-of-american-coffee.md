@@ -16,13 +16,13 @@ They were Americans - [Ruth](https://en.wikipedia.org/wiki/Ruth_Handler), [J
 
 Their collision with modern society is immeasurable, and their stories are legendary. They are the creators who impregnated American Aerospace's womb - and out popped smoking hot mass-produced toys delivered to a monumental population boom in human civilization.
 
-Business historians and gossip journalists alike cannot get enough of Mattel. Neither can this author, who mainlined on their stories. [Overdosing, Narcan was then administered to him - by buying second-hand playthings from his childhood.]
+Business historians and gossip journalists alike cannot get enough of Mattel. Neither can this author, who mainlined on their stories. [Overdosing, metaphorical Narcan was then administered to him - by buying second-hand playthings from his childhood.]
 
 To a collective society, Mattel has enabled two distinct brands that live in each of our minds - one part sex, one part speed - surrounded by the origins of American Anti-Communist obsession with guns, conspiracies, the Space Race, Cold War, Russian espionage, and weapons of war.
 
 ![Two toy brands are their legacy - seen in an endless stack of patents.](images/92-01.jpeg)
 
-The totality of Jack, Ruth, and Elliot Handler's estranged triangle is a wild story yet to be written entirely in our hearts. And all three lived the utter totality of the American dream.
+The legend of Jack, Ruth, and Elliot Handler's estranged triangle is a wild story yet to be written entirely in our hearts. And all three lived the utter totality of the American dream.
 
 Today, Ruth, Jack, and Elliot's seventy-six million customers of the *Baby Boomer* generation are beginning to age out. And to the Millennials and Generation Z, who will eventually romanticize the atmosphere. So it's time to write *even more* stories packaged in perfect American plastic, revealing a saga grounded in cold facts.
 
@@ -50,7 +50,7 @@ Elliot Handler was a gentle R&D leader who treated his employees fairly. His wif
 
 Ruth Handler was to become the most powerful woman in America. Like America's [Kelly Johnson](https://en.wikipedia.org/wiki/Kelly_Johnson_(engineer)), Ruth was an organizing genius.
 
-And Jack Ryan was different. He was not an employee but a dedicated consultant to Mattel. Jack and Elliot were friends, and Jack yearned for Ruth's respect.
+And Jack Ryan was different. He was a dedicated consultant to Mattel—not an employee. Jack and Elliot were friends, and Jack yearned for Ruth’s respect. Jack and Elliot were friends, and Jack yearned for Ruth's respect.
 
 And it was 1960. Jack and Elliot were sitting in suits.
 
@@ -98,7 +98,7 @@ A businesswoman, Ruth Handler, met Jack Ryan during her travels. She then networ
 
 It's not clear how Ruth networked in. Perhaps the military contract from 1951 of which Mattel executed a re-tooling? Or just local business connections? Regardless, Mattel was in the center of these battlements.
 
-Mattel married the military complex and brought toys to children, which is why toy making was "weird" and "secretive." Eventually, Ryan brought the Aerospace process to Mattel.
+Mattel married the military complex and brought toys to children, which is why their toy making was "weird" and "secretive." Eventually, Ryan brought the Aerospace process to Mattel.
 
 And Ruth was married to Elliot, and they struggled for business until they found their man. Elliot had great ideas and led Mattel's secret research and development department. Their marriage was like a fairytale, a steadfast rock of dedication.*
 
@@ -129,7 +129,7 @@ Elliot put down his trusted pencil and reflected - rubbing his head.
 
 Jack replied. "Jesus Christ, I cannot believe they could have done it. How did she get the bullet? How did she bypass our engineering on the derringer? It's not supposed to take bullets - I made it that way."
 
-Jack smirked, "she probably had a Barbie in the other hand."
+Jack smirked, "She probably had a Barbie in the other hand."
 
 Elliot's eyes got small as he sunk into the chair.
 
@@ -141,7 +141,7 @@ Yes, the toy had real "Shootin' Shells," accepted "Blast Caps," and the patent e
 
 Jack took a sip from the cup of coffee. "Ah, it's lukewarm." Jack thought about his immediate problem, thinking of invention. "Yeah, temperature is another problem to tackle. I could mock up a mug device."
 
-Jack got into the weeds and muttered, "Something about the co-efficient divide… not sure. No way I can power it without a plug."
+Jack got into the weeds and muttered, "Something about the coefficient divide... not sure. No way I can power it without a plug."
 
 "What holds heat?" Jack said to Elliot.
 
@@ -151,7 +151,7 @@ Jack lived for mock-ups, prototypes, and solving problems that plagued him. But 
 
 They left a metaphorical Santa contrail across the country.
 
-![Original patents from the German Lilly Doll (1955) and American Ryan's Barbie (1959).](images/92-06.jpeg)
+![Original patents from the German Lilli Doll (1955) and American Ryan's Barbie (1959).](images/92-06.jpeg)
 
 Jack invented a way for a doll to play voice recordings without electronics, but he no longer found that problem attractive.
 
@@ -175,7 +175,7 @@ Jack, Ruth, and Elliot had their smash hit, Barbie, a doll they invented and sol
 
 Jack and Elliot had their future inventions before them.
 
-Jack looked at Elliot, reflecting on how wild it had all been in five years. A year prior, Barbie had broken the mold of baby dolls. Now, Barbie was a cultural wildfire, selling a quarter million units in two months.
+Jack looked at Elliot, reflecting on how wild it had all been in five years. A year prior, Barbie had broken the mold of baby dolls. Now, Barbie was a cultural wildfire, selling [three hundred thousand units](https://www.harpersbazaar.com/uk/culture/entertainment/a44129282/barbie-real-history/) the first year.
 
 Ruth's doll would be a disaster, but the miracle happened. Parents started buying that summer. Then, it exploded in Christmas 1959.
 
@@ -205,7 +205,9 @@ Jack went back to his sketch pad. He and Elliot were doodling. Jack was collecti
 
 "Hello? Yes, this is Jesse James again. We have another incident."
 
-Ryan looked at his secretary and took the phone. "It happened again?" said Jack. "Yes, well, boy, it did," replied the Sherrif through the phone.
+Ryan looked at his secretary and took the phone. "It happened again?" said Jack. "Yes, well, boy, it did," replied the sheriff through the phone.
+
+“Christ. What a remarkable coincidence,” as Jack grinned.
 
 Jack had to fly again as another child fired a bullet - *in the same state*. In the second case, the gun exploded, and the incidents remain a troubling, obscure conspiracy.
 
@@ -219,7 +221,7 @@ As Ryan was on the phone, he signaled to his brother Jim. "Jim, go out and get a
 
 "And get me a f - ing coffee.* The one I got is getting cold," snubbed Ryan.
 
-What is true is Mattel's R&D department constructed a shooting range to test the theory, purchasing thousands of dollars worth of ammunition to debunk what wasn't possible.
+What is true is Mattel's R&D department constructed a shooting range to test the theory, purchasing hundreds of dollars worth of ammunition to debunk what wasn't possible.
 
 To troubleshoot, Mattel purchased an armory made of the best weapons in the world.
 
@@ -237,7 +239,7 @@ Jack led the gun research as a rumored [Yale sharpshooter](https://www.amazon.co
 
 But somehow, a child loaded it. And how they obtained the bullets - well, one can speculate.
 
-![Lilli's 1958 interchangable wig patent, and Ryans 1962 wig patent from the lil fated Fashion Queen Barbie, another example of idea "sharing."](images/92-10.jpeg)
+![Fig. 1959-05: Lilli’s 1958 interchangeable wig patent45, and Ryan's 1962 wig patent4 from the ill fated Fashion Queen Barbie, another example of idea “sharing."](images/92-10.jpeg)
 
 Jack experimented with Mattel's toy gun, providing a block in the pistol's barrel. But then, Mattel gave up and pulled the toy from the market.
 
@@ -245,7 +247,7 @@ And to history, The Teenage Fashion Doll and the Derringer's patents were never 
 
 The legend direct from Ryan's mouth was that at the moment before mass production, Ryan "blinked," shaving the nipples off the Barbie doll.*
 
-Society has yet to learn that Jack invented a modified gun mechanism for real weapons in toys. Most aging Boomers know of the toy gun-even when he interviewed a family member, they certainly remembered - but they didn't know that Ryan had to troubleshoot and then piece-tie a real child's toy.
+Society has yet to learn that Jack invented a modified gun mechanism for real weapons in toys. Most aging Boomers know of the toy gun-even when this author interviewed a family member, they certainly remembered - but they didn't know that Ryan had to troubleshoot and then piece-tie a real child's toy.
 
 Like Barbie, Jack also shaved off the derringer's "metaphorical" serial number-after the fact. And before there was the Barbie Twist 'n Turn [trade-in](https://community.creations.mattel.com/forums/topic/141644-whatever-happened-to-the-dolls-traded-in-for-an-original-twist-n-turn), Mattel's Derringer Lock 'n Stock program ruled.
 
@@ -259,7 +261,7 @@ Ultimately, Mattel offered a gun buy-back program for the remaining one million 
 
 *In a digital Parthenon that continues to grow, ***some tales are impossible to imagine.****
 
-*Years passed, and Hot Wheels was a smash hit in the Spring of 1968, concluding Elliot's vision. It was time to expand the toy to race uphill on its own.*
+*Years passed, and Mattel went on the New York Stock Exchange. Hot Wheels was a smash hit in the Spring of 1968, concluding Elliot's vision. It was time to expand the toy to race uphill on its own.*
 
 ---
 
@@ -306,7 +308,7 @@ Their body language loudly suggested a fling as the movie played on for a time.
 
 "Play it again," said Donald. Jack worked his wizardry magic and redubbed the reels.
 
-"Wow, that's our Mauarder!" cried Donald. They played the film a few times. Gwen caught the commotion and came back into the room, watching.
+"Wow, that's our Marauder!" cried Donald. They played the film a few times. Gwen caught the commotion and came back into the room, watching.
 
 Jack smiled, knowing something they didn't.
 
@@ -314,7 +316,7 @@ Mattel had created a toy M16 rifle called the "Marauder" months earlier. It comb
 
 A child then pulled the trigger that sounded like "Braap-brraaaap-brap-brap," as if they, too, were in a rice paddy shooting at shadows and serving lies.
 
-![Donald and Ryans M16 patent.](images/92-15.jpeg)
+![Donald and Ryan's M16 patent.](images/92-15.jpeg)
 
 "Ugh, I don't like war," said Gwen. "But I'll say, it's impressive that Mattel's toy gun appears in a Hollywood movie."
 
@@ -389,7 +391,7 @@ Wally said, "No dice. [The battery is huge](https://www.youtube.com/watch?v=2tlq
 
 Jack nodded. "Get it done, Wally; call your friends at GE."
 
-![The very first [consumer-grade rechargable toy](https://patents.google.com/patent/US3628284A/en) in human history was invented by Mattel.](images/92-19.jpeg)
+![The very first [consumer-grade rechargeable toy](https://patents.google.com/patent/US3628284A/en) in human history was invented by Mattel.](images/92-19.jpeg)
 
 Ryan scoffed. "I'll contact the engineer in Hong Kong, who is working on the plastic body to keep the weight down - I'm sure it's almost there."
 
@@ -427,7 +429,7 @@ Ruth flinched, being interrupted, but then composed herself. "Excuse me," said R
 
 Ruth and the secretary walked out of the conference room.
 
-"What the f - k do they want." The secretary shrugged. "Law enforcement? These guys look serious."
+"What the f - k do they want?" The secretary shrugged. "Law enforcement? These guys look serious."
 
 Ruth was directed to another room and walked in. The atmosphere felt like death. Her flying high feeling with the marketers suddenly crash-landed hard.
 
@@ -572,7 +574,7 @@ Together, they both stared at the spinning fan-like propeller for a time. Ryan t
 
 ---
 
-Time passed at Mattel. After further expanding their toy manufacturing plant, Ruth and Elliot flew back from New Jersey. The company split into verticals and launched the "Standard Plastics" division, which developed vinyl-stay-vinyl toy cases.
+Time passed at Mattel. After expanding their toy manufacturing plant, Ruth and Elliot flew back from New Jersey. The company split into verticals and launched the "Standard Plastics" division, which developed vinyl-stay-vinyl toy cases.
 
 Elliot and Ruth were sitting together in an aisle.
 
@@ -600,7 +602,7 @@ Elliot took his coffee from the stewardess who had served him fifteen minutes ea
 
 *Jack Barcus commanded the VP position of R&D in 1971, obtaining a dozen Mattel patents. Ryan was becoming isolated in the company - and eventually left, slapping Mattel with a lawsuit.*
 
-*Already entangled in a mystery, Hot Wheels Sizzler's would eventually become the center of a fraud case. Pushed by [Bernie Loomis](https://medium.com/@solidi/push-play-and-put-em-away-the-hot-wheels-kid-powered-trains-and-planes-80f6c2edeb40) under the Wheels and Wings Division,* sales weren't materializing, and the battery had low performance.*
+*Already entangled in a mystery, Hot Wheels Sizzlers would eventually become the center of a fraud case. Pushed by [Bernie Loomis](https://medium.com/@solidi/push-play-and-put-em-away-the-hot-wheels-kid-powered-trains-and-planes-80f6c2edeb40) under the Wheels and Wings Division,* sales weren't materializing, and the battery had low performance.*
 
 ![The attitude of the [commerical](https://www.youtube.com/watch?v=PqoK8GaFI_4) compounds the mystery. Hot Wheels Sizzlers was a first in consumerism.](images/92-26.jpeg)
 
