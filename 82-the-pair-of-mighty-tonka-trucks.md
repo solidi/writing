@@ -32,7 +32,7 @@ A car sale paired the first two, who invited the third to brainstorm lunches tha
 
 The company was named after its town in Minnesota. It was a mound of developed dirt in [Lake Minnetonka](https://en.wikipedia.org/wiki/Lake_Minnetonka), sectioned by four main roads.
 
-After acquiring a fledging toy company, [Streater](http://www.tonkaclub.nl/TonkaClub/true_stories.htm), located in a schoolhouse, they grew the business within it.
+After acquiring a fledgling toy company, [Streater](http://www.tonkaclub.nl/TonkaClub/true_stories.htm), located in a schoolhouse, they grew the business within it.
 
 By 1955, they renamed Metalcraft to Tonka, meaning "big" or "great," a nod to its origins and to the lake its toy factory oversaw on Shoreline Road.
 
@@ -46,13 +46,13 @@ It took the founders a while to establish the business. They first produced tie 
 
 Tonka trucks were known to be durable, coining the phrase "Tonka Tough." However, if left outside for too long, they would rust. And no one reported a case of tetanus.
 
-![Common stock was announced in the [Star Tribune](https://www.newspapers.com/image/183478899/) on July 6th, 1961.](images/82-04.jpeg)
+![Common stock was announced in the [*Star Tribune*](https://www.newspapers.com/image/183478899/) on July 6th, 1961.](images/82-04.jpeg)
 
 Back then, children would break bones falling off the limbs of trees. They would take heavy scraps from their pretend walnut long rifles as they smashed their Tonka trucks together.
 
 It was a different time. Not so different were all the toy companies going public of the era. Tonka posted stock on July 6th, 1961, at 12 dollars a share.
 
-In 1965, it was renamed Tonka Corp. Their progressive tooling and dies, which bend the steel to form, became extensive. Some were ten feet long, later priced at hundreds of thousands of dollars.
+In 1965, it was renamed Tonka Corp. Their progressive tooling and dies, which bent the steel to form, became extensive. Some were ten feet long, later priced at hundreds of thousands of dollars.
 
 "Detroit [is] far behind Tonka toy trucks." Their firm produced four times as many trucks in America then, becoming the "Truck Capital of the World."
 
@@ -86,11 +86,11 @@ In America, it was the right time. [Euclid](https://en.wikipedia.org/wiki/Euclid
 
 By the end of the decade, modern extreme-capacity "off-highway" trucks had begun to emerge thanks to corporations like LeTourneau-Westinghouse (known as WABCO), whose team invented the Haulpak in 1959.
 
-![Latournaeu-Westinghouse created the [Halupak](https://en.wikipedia.org/wiki/Haulpak). When people picture mining "off-highway" trucks, they think of their short wheelbase design. They [invented an exhaust diverter](https://patents.google.com/patent/US3039493A/en) that heats loads, so smokestacks are rarely seen on these diesel vehicles.](images/82-08.jpeg)
+![LeTourneau-Westinghouse created the [Halupak](https://en.wikipedia.org/wiki/Haulpak). When people picture mining "off-highway" trucks, they think of their short wheelbase design. They [invented an exhaust diverter](https://patents.google.com/patent/US3039493A/en) that heats loads, so smokestacks are rarely seen on these diesel vehicles.](images/82-08.jpeg)
 
 In 1961, mines in Pennsylvania and Utah reported their 65-ton success. Shortly thereafter, all mining trucks adopted its short wheelbase and hidden exhaust system. Tonnage hauling increased to triple digits.
 
-"Our goal is not to become the biggest toy company in the country, but to become one of the most stable," said Russ to *Star Tribune* in 1962.
+"Our goal is not to become the biggest toy company in the country, but to become one of the most stable," said Mr. Wenkstern to *Star Tribune* in 1962.
 
 ![The Might Dump's [dual exhaust](https://www.newspapers.com/image/203896822/) may have been inspired by the [Kenworth-Dart](https://en.wikipedia.org/wiki/Dart_(commercial_vehicle)). However, the vertical lights came from the 1963 [Caterpillar 769](https://www.earthmoversmagazine.co.uk/news/view,iconic-cat-truck-becomes-a-showpiece_1969.htm), the cab was Haulpak, and the [three distinct holes](https://twitter.com/CraneCarrier/status/1167127248748654593) in the bumper were [CCC](https://www.newspapers.com/image/887925476/?match=1&terms=%22Crane+Carrier+Company%22). The Might Dump is an amalgam of many "off-highway" trucks. Designer Lee Pfeilsticker took creative liberties.](images/82-09.jpeg)
 
@@ -184,7 +184,7 @@ While most of the payloader steering units were in the rear, the new model from 
 
 "The operator sits with the loader arms. So right away, we knew that's the toy." Allowing both push and steer with one hand on the cab, it left open the second to dig by a metal handle.
 
-The team of six got busy crafting a wood model. Sales and marketing were brought it.
+The team of six got busy crafting a wood model as sales and marketing were brought in to plan its retail launch.
 
 "As soon as sales and marketing were happy with the concept, it was my job to take that wood model and turn it into metal," said Ron.
 
@@ -238,7 +238,7 @@ But by the 1980s, they did just that with a growing team of new executives.
 
 ## Couldn't Cut Its Ribbon
 
-Tonka underwent significant changes in the 1980s, which included diversification and infusing technology. Importantly, the people who made it on the domestic factory floor were abandoned.
+Tonka underwent significant changes in the 1980s, which included diversification and infusing technology. In 1980, they acquired struggling toy company, Mego. Importantly, the people who made it on the domestic factory floor were abandoned.
 
 "We had hired a guy from Mattel as vice president of sales and marketing, *he's gonna save the day* -. [The VP said] You've been building your toys too tough. You should be designing toys to last maybe two years."
 
@@ -248,7 +248,7 @@ Tonka underwent significant changes in the 1980s, which included diversification
 
 The local crowd roared before he could finish.
 
-Apart from relocating their labor, they licensed [GoBots](https://en.wikipedia.org/wiki/GoBots) from [Bandai](https://www.bandai.com/) and bought and experimented with stuffed [Pound Puppies](https://en.wikipedia.org/wiki/Pound_Puppies). They chased the Ghostbuster's phantoms from acquiring [Kenner-Parker](https://en.wikipedia.org/wiki/Kenner_Products) and distributed Sega Master video game systems.
+Apart from relocating their labor, they licensed [GoBots](https://en.wikipedia.org/wiki/GoBots) from [Bandai](https://www.bandai.com/) and bought and experimented with stuffed [Pound Puppies](https://en.wikipedia.org/wiki/Pound_Puppies). They chased the Ghostbusters phantoms from acquiring [Kenner-Parker](https://en.wikipedia.org/wiki/Kenner_Products) and distributed Sega Master video game systems.
 
 They even created a Barbie-like doll called [Aurora](https://www.ghostofthedoll.co.uk/aurora.php), and crafted plush World Wrestling Federation dolls. Tonka fought hard against toy companies like Hasbro with their limited cash reserves. And make mistakes like Rock Lords.
 
@@ -262,7 +262,7 @@ But without rebarring installed, Tonka was a real toy construction site that cou
 
 ## Hasbro Wins The Toy War
 
-Then, it all unrolled at the beginning of the 1990s, when a heavy debt secured its fate. Hasbro moved in to acquire Tonka for 500 million dollars.
+Then, it all unrolled at the beginning of the 1990s, when a heavy debt secured its fate. Hasbro moved in to acquire Tonka for 510 million dollars.
 
 And for the factory of the north that once built America's best-selling steel trucks, it closed.
 
@@ -280,7 +280,7 @@ Dick Youngblood of the *Star Tribune* summed it up aptly in 1991. "The acquisiti
 
 Today, Tonka is a subsidiary of Hasbro. Following trends, Hasbro stepped into modern-day toy-making mode, licensing the iconic toy name to a third party called [Funrise](https://en.wikipedia.org/wiki/Funrise_Toys) in 1998.
 
-Like all iconic toys, Tonka was inducted into the [Toy Hall of Fame in 2001](https://www.museumofplay.org/toys/tonka-trucks/), and [so too, Russ](https://www.toyassociation.org/ta/events/hof/toys/events/toy-industry-hall-of-fame-home.aspx?New_ContentCollectionOrganizerCommon=3), credited with expanding Tonka.
+Like all iconic toys, Tonka was inducted into the [Toy Hall of Fame in 2001](https://www.museumofplay.org/toys/tonka-trucks/), and [so too, Russell Wenkstern](https://www.toyassociation.org/ta/events/hof/toys/events/toy-industry-hall-of-fame-home.aspx?New_ContentCollectionOrganizerCommon=3), credited with expanding Tonka.
 
 Since then, Hasbro has kept the brand fresh with product tie-ins, but there has been little cultural impact of note. They ride high in the operator seat by name.
 
@@ -306,11 +306,11 @@ These trucks also retain their value. When this author sold his 1980s Mighty Dum
 
 But this author regrets the sale.
 
-For the few around, like Ronald Pauly, they have produced a wealth of public information on Tonka. They have gifted time to their community, its [Westonka Historical Society](https://www.youtube.com/@WestonkaHistoricalSociety), and the people who want to know.
+For the few around, like Ronald Pauly, have produced a wealth of public information on Tonka. They have gifted time to their community, its [Westonka Historical Society](https://www.youtube.com/@WestonkaHistoricalSociety), and the people who want to know.
 
 ## A Vice Present Who Cared
 
-"Of all the businesses that I led, none had positive morale like that of Tonka," said Dale R. Olseth, CEO of Tonka from 1971 to 1976, in a book named "Tonka."
+"Of all the businesses that I led, none had positive morale like that of Tonka," said Dale R. Olseth, CEO of Tonka from 1971 to 1976, in a book named *Tonka*.
 
 Each employee of note believed in the company, including Lloyd Laumann.
 
@@ -320,13 +320,13 @@ Lloyd Laumann worked for Tonka for years, rising to Vice President, and is a spe
 
 "It was a fun place to work because people knew what they were doing - bringing joy to a lot of children around the world," said Mr. Laumann in 2006 to *Star Tribune*.
 
-Mr. Laumann donated his entire collection of Tonka toys and one-of-a-kind artifacts before passing in 2015.
+Mr. Laumann donated his entire collection of Tonka toys and one-of-a-kind artifacts before passing away in 2015.
 
-This story was inspired by the picture from his book. On the cover are the mighty dump truck and front loader. Both trucks came in toy form at a punctual time in American history.
+This story was inspired by a picture from his book. On the cover are the mighty dump truck and front loader. Both trucks came in toy form at a punctual time in American history.
 
 ![The author found a home film of unwrapping his Tonka truck.](images/82-29.gif)
 
-Of course, they produced countless trucks, and their stories live on. But just one book cover immortalizes Tonka's pair, which the front loader story was missing within.
+Of course, they produced countless trucks, and their stories live on. But just one book cover immortalizes Tonka's pair, which the front loader story was missing within Mr. Laumann’s written magnum opus.
 
 So, with this short story made possible by the Internet, they are now a paired legacy cast in American steel.
 
