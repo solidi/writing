@@ -23,9 +23,9 @@ Legacy toy companies [Ideal](https://en.wikipedia.org/wiki/Ideal_Toy_Company) an
 
 ![Wheels and Wings '71 catalogs - Mattel would experiment with locating "play value" from other lines of automobilia as early as its Hot Wheels beginnings.](images/75-02.jpeg)
 
-Trains were considered collector grade, where one person would buy two sets (one to tinker and one to collect), protected by advanced tooling and specialized knowledge. With the natural age of collectors in their adult years, toy trains were seen as a one-time buy for the holiday season, placed under a tree for children, which [Lionel](https://en.wikipedia.org/wiki/Lionel_Corporation) cornered.
+Trains were considered collector grade, where one person would buy two sets (one to tinker and one to collect), protected by advanced tooling and specialized knowledge. With the natural age of collectors in their adult years, toy trains were seen as a one-time buy for the holiday season, placed under a tree for children. Eighty percent of sets were HO scale sold by [Lionel](https://en.wikipedia.org/wiki/Lionel_Corporation).
 
-Train toys seemed impossible to succeed at. [Tyco](http://www.tcawestern.org/tyco.htm) (formally Mantua) was the first to offer [HO-scaled prebuilt trainsets](https://tycocollectors.com/history-of-tyco-toys/) in the 1940s. Their brief success would come in the 1980s, developing radical toy trains.
+Train toys seemed impossible to succeed at. [Tyco](http://www.tcawestern.org/tyco.htm) (formally Mantua) was the first to offer [HO-scaled prebuilt train sets](https://tycocollectors.com/history-of-tyco-toys/) in the 1940s. Their brief success would come in the 1980s, developing radical toy trains.
 
 It seemed trains and planes at Hot Wheels were a bet Mattel would lose. They competed against companies flush with US patent protections filed by Lionel, Tyco, and [Marx](https://en.wikipedia.org/wiki/Louis_Marx_and_Company), with critical in-house know-how.
 
@@ -37,15 +37,15 @@ THE STORY OF TOY TRAINS AND PLANES at Mattel has been a lock-stock, coupling adv
 
 Before we get to trains and planes, we must discuss the cars that powered them.
 
-### Elliot Gets Millions of Fantasy Racecars
+### Elliot Gets Millions of Fantasy Race Cars
 
-[Elliot Handler](https://en.wikipedia.org/wiki/Elliot_Handler), part founder of Mattel, had his eye on the Southern California car culture in the 1960s. He developed toy car variations before his "aha" moment.
+[Elliot Handler](https://en.wikipedia.org/wiki/Elliot_Handler), part founder of Mattel, had his eye on Southern California car culture in the 1960s. He developed toy car variations before his "aha" moment.
 
 With his [Dream Car](https://hotwheels.fandom.com/wiki/Mattel_Dream_Mobile) and [XP-1960](https://www.imdb.com/title/tt16364920/) failing to catch on, Elliot could not find the angle on the crowded toy market. Then, one day, he saw his grandson roll a [Matchbox](https://en.wikipedia.org/wiki/Matchbox_(brand)) on the table and realized it *lacked* speed.
 
 ![Picture of Elliot and Ruth Handler with Sizzlers during the time of Hot Wheels fame.](images/75-03.)
 
-Elliot had lots of inventive people at Mattel. In this story, he handed the sluggish Matchbox to their research department to solve the problem by "thinking about it."
+Elliot had lots of inventive people at Mattel. In this story, he handed the sluggish Matchbox to their research department to solve the problem. He said, "We need to put some wheels on this."
 
 Enter rocket engineer named [Jack Ryan](https://en.wikipedia.org/wiki/Jack_Ryan_(designer)) and his associate [Jack Malek](https://patents.google.com/?q=assigne%3A%28Mattel%29&inventor=Jack+Malek). Ryan is famous for establishing an internal royalty agreement on everything Mattel produced from his group, presenting every problem as an alluring part equity share.
 
@@ -131,7 +131,7 @@ No one knows if Ryan could "see toys," but he was an unmatched principal enginee
 
 ---
 
-This inventing environment was unique. So, when wild stories swirled in the mystery of demonstrations for American industry, Ruth said, "*I believe there is enough talent in the room at Mattel to do the same thing. (a moonshot)*" quoted in a book called [Toyland](https://medium.com/@solidi/memorable-moments-in-future-toyland-b919fdcbcba6) as she rallied her elite marketers.
+This inventing environment was unique. So, when wild stories swirled in the mystery of demonstrations for American industry, Ruth said, "*I believe there is enough talent in the room at Mattel to do the same thing. (a moonshot)*" quoted in a book called [*Toyland*](https://medium.com/@solidi/memorable-moments-in-future-toyland-b919fdcbcba6) as she rallied her elite marketers.
 
 And during this time, battery tech desperately needed advancement, a perfect challenge.
 
@@ -173,7 +173,7 @@ Again, Mattel's engineers took extensive notes of the insect's flying capabiliti
 
 After experimentation, Ryans' team settled on a miniaturized and refined [Ni-Cd](https://en.wikipedia.org/wiki/Nickel%E2%80%93cadmium_battery) battery in cooperation with General Electric. The group succeeded at the Sizzler tech and launched in 1970.
 
-[George Soulakis](https://hotwheels.fandom.com/wiki/George_Soulakis) would be credited for following through on Sizzlers. As a gifted engineer, he was promoted to engineering director and later introduced the advanced [TampoPrint](https://hotwheels.fandom.com/wiki/Tampo) process, which placed Hot Wheels in high regard for detail. He would advance Sizzler's production in Hong Kong.
+[George Soulakis](https://hotwheels.fandom.com/wiki/George_Soulakis) wis credited for following through on Sizzlers. As a gifted engineer, he was promoted to engineering director and later introduced the advanced [TampoPrint](https://hotwheels.fandom.com/wiki/Tampo) process, which placed Hot Wheels in high regard for detail. He would advance Sizzler's production in Hong Kong.
 
 ## Marketing Rails: Bernie's Hot Line to Kenner
 
@@ -283,9 +283,9 @@ Lensley, who produced Matchbox diecast cars, released [Sky Busters](https://matc
 
 ---
 
-## Dreaming into Beautiful Trainsets
+## Dreaming into Beautiful Train Sets
 
-ONCE DREAMING INTO his [Lionel catalogs as a child](https://www.nytimes.com/2006/06/06/business/06loomis.html), Bernie would leave Mattel and settle at [General Mills Kenner](https://en.wikipedia.org/wiki/Kenner_Products), his second toy company, which became the largest for a brief time.
+ONCE DREAMING INTO his [Lionel catalogs as a child](https://www.nytimes.com/2006/06/06/business/06loomis.html), Bernie was fired from Mattel by Ruth Handler in leave Mattel and settled at [General Mills Kenner](https://en.wikipedia.org/wiki/Kenner_Products), his second toy company, which became the largest for a brief time.
 
 ![From the Cincinnati Post, October 1971.](images/75-22.jpeg)
 
@@ -315,17 +315,17 @@ Bernie's genius was right on those IOUs, as no child in history would play with 
 
 ![Picture of Bernie (Back center left) at the black-tie dinner event with all other industry titans (Mattel, Hasbro, Ertl, Ideal, Hasbro). ](images/75-25.jpeg)
 
-From ToylandOf course, Mattel survived the [Age of Aquarius](https://en.wikipedia.org/wiki/Age_of_Aquarius), and became what it was. Ruth and Elliot Handler would be conducted into the [Toy Hall of Fame](https://www.toyassociation.org/ta/events/hof/toys/events/toy-industry-hall-of-fame-home.aspx) in 1989.
+From ToylandOf course, Mattel survived the [Age of Aquarius](https://en.wikipedia.org/wiki/Age_of_Aquarius), and became what it was. Ruth and Elliot Handler were inducted into the [Toy Hall of Fame](https://www.toyassociation.org/ta/events/hof/toys/events/toy-industry-hall-of-fame-home.aspx) in 1989.
 
 Ryan's inventive process propelled Mattel into a toy empire, but he would not recover from the rift of the Handlers, passing away in 1991.
 
-And Bernie's "lonesome decision" Star Wars toy line became legendary. He was conducted into the Toy Hall of Fame in 1992, with famous hits in children's history, including Strawberry Shortcake and Care Bears. He would end his triple-crown at Hasbro and then form a consultant group.
+And Bernie's "lonesome decision" Star Wars toy line became legendary. He was conducted into the Toy Hall of Fame in 1992, with famous hits in children's history, including Strawberry Shortcake and Care Bears. He ended his triple-crown at Hasbro and then formed a consultant group.
 
 ![Mattel had the very best of dreamers. Bob Lovejoy, seen (right) launching a glider with others, was an illustrator/draftsman of Hot Birds and a pilot. He was killed in a plane accident in 1982.](images/75-26.jpeg)
 
 Berine's genius discovered licensing and toy opportunities that everyone else overlooked.
 
-But, Hot Line trains, Hot Bird planes, and later Kenners diecast [Fast 111s](https://www.hobbydb.com/marketplaces/hobbydb/subjects/fast-111-s-series) went the way of the hula hoop. Bernie continued to search for beautiful train sets after his trials at Kenner and Hasbro. As a consultant, he would partner with Golden Books, then [Western Publishing](https://en.wikipedia.org/wiki/Western_Publishing).
+But, Hot Line trains, Hot Bird planes, and later Kenners diecast [Fast 111s](https://www.hobbydb.com/marketplaces/hobbydb/subjects/fast-111-s-series) went the way of the hula hoop. Bernie continued to search for beautiful train sets after his trials at Kenner and Hasbro. As a consultant, he partnered with Golden Books, then [Western Publishing](https://en.wikipedia.org/wiki/Western_Publishing).
 
 Famous for beautifully illustrated Hot Wheels coloring and sticker books, it was evident that "[Little Golden Book Land](https://en.wikipedia.org/wiki/Little_Golden_Book_Land)," Bernie's project, attempted to recapture the imaginative train artistry chugging into the sunset.
 
