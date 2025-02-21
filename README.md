@@ -148,3 +148,8 @@ Experiences distilled through writing.
 
 1. [Hacker News Ranking](https://hnrankings.info/31834519/)
 1. [Hacker News Thread](https://news.ycombinator.com/item?id=31834519)
+
+### The TOMY Screwball Scramble
+
+1. [Hacker News Ranking](https://hnrankings.info/43067358/)
+1. [Hacker News Thread](https://news.ycombinator.com/item?id=43067358)
