@@ -110,6 +110,7 @@ Experiences distilled through writing.
 1. [Jack Ryan and Ruth Handler of Mattel: The Power Ballad of American Coffee](https://medium.com/@solidi/jack-ryan-and-ruth-handler-of-mattel-the-power-ballad-of-american-coffee-2c19994e6732)
 1. [How the Orange Tip Became a Standard-Issued Toy Accessory](https://medium.com/@solidi/how-the-orange-tip-became-a-standard-issued-toy-accessory-7c76d9b74ec8)
 1. [Don't Be Afraid to Close Your Tabs](https://medium.com/@solidi/dont-be-afraid-to-close-your-tabs-d709e57dda5f)
+1. [The TOMY Screwball Scramble](https://medium.com/@solidi/the-tomy-screwball-scramble-9f4eab3681da)
 
 ## Major Engagements
 
