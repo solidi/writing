@@ -68,7 +68,7 @@ Alongside its "regulars," it introduced "minis" and later "tinys." Somewhere in 
 
 ![Tonka's later modified logo in the 1970s. Most people recognize the stylized brand name.](images/82-06.jpeg)
 
-Unlike the "totes," most associate Tonka with their "mighties," their jumbo trucks. It would become their legacy.
+Unlike the "totes," most associate Tonka with their "mighties," their jumbo trucks. These large trucks became their legacy.
 
 Just a handful of "mighty" vehicles are produced today. Some of the smallest [boutique toy shops](https://www.fstoys.com/) still stock dump trucks, not giving in to the sands of new-aged toy time.
 
@@ -302,7 +302,7 @@ While Tonka lives on as a brand name to millions of American children, adults, g
 
 This author can confirm the rust. Concerning the toys he bought for his children, which were left outside, a proud patina is guaranteed to form.
 
-These trucks also retain their value. When this author sold his 1980s Mighty Dump and Loader from the basement of his parent's home, someone paid overprice. It, too, had rust.
+These trucks also retain their value. When this author sold his 1980s Mighty Dump and Loader from the basement of his parent's home, someone paid over price. It, too, had rust.
 
 But this author regrets the sale.
 

@@ -84,7 +84,9 @@ I. A Time for Toy Stories
       *Board games and toys; persecution survival and lasting impact.*
 12. 2014: [All Wet In The Great American Water Balloon Fight](https://medium.com/@solidi/all-wet-in-the-great-american-water-balloon-fight-596312c7a0f2)
       *Patents, legal challenges and independent inventors in backyard toys.*
-13. 2024: The Wicked Box Incident
+13. 2020: [The Internet's Favorite Toy: The Tomy Screwball Scramble](https://medium.com/@solidi/the-tomy-screwball-scramble-9f4eab3681da)
+      *When YouTuber's reviewed the fifty year old ball-in-puzzle game.*
+14. 2025: The Wicked Box Incident
       *Packaging patented tech and a connection back to American politics.*
 
 II. America's "Jack" of Toyland

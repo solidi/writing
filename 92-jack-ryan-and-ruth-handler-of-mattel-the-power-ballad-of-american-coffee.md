@@ -68,7 +68,7 @@ The flight attendant asked, "Would you like a coffee?" Ryan said yes as Elliot p
 
 Jack looked over the woman in the aisle and daydreamed. He winked. She smiled.
 
-[Looking back at Elliot] "Coffee is one of those historical stories that goes quite deep," said Jack. "Lots of strife, barbarism, imperialism, and things like an American Revolution. Today, its about business."
+[Looking back at Elliot] "Coffee is one of those historical stories that goes quite deep," said Jack. "Lots of strife, barbarism, imperialism, and things like an American Revolution. Today, it's about business."
 
 Elliot, next to him, nodded.
 
@@ -122,7 +122,8 @@ Jack squinted and said, "[Yancy Derringer](https://en.wikipedia.org/wiki/Yancy_D
 
 And Jessie James was the sheriff who called Mattel from California to investigate.
 
-"We got to get to the bottom of it. The three-year-old blew a hole through the kitchen cabinet and narrowly missed their five-year-old brother," said Elliot.
+"We have to get to the bottom of it. The three-year-old blew a hole through the kitchen cabinet and narrowly missed their five-year-old brother," said Elliot.
+
 Elliot put down his trusted pencil and reflected - rubbing his head.
 
 "The child is a girl," said Elliot.
@@ -370,7 +371,7 @@ Jack took another sip of cold coffee. He felt trapped, feeling Ruth's heat to pr
 
 ![Jack and Wally's [thermodynamic holding](https://patents.google.com/patent/US3603106A/en) patent.](images/92-18.jpeg)
 
-Jack thought about the candles he saw in his daydream. "That's it! Parrafin wax!" screamed Jack.
+Jack thought about the candles he saw in his daydream. "That's it! Paraffin wax!" screamed Jack.
 
 "The coefficient will work!" as Jack raised his fists into the air.
 Ding, the aha moment.
@@ -423,7 +424,7 @@ As she continued, a secretary hurriedly rushed into the room - "Ruth, sorry 
 
 Ruth flinched, being interrupted, but then composed herself. "Excuse me," said Ruth.
 
-"Bernie, take over on this item here." He nodded.
+"Bernie, take over this item here." He nodded.
 
 ---
 
@@ -457,7 +458,7 @@ The special agent repeated the story in full to Jack. "He was hit in the back 
 
 ![Patent of the engine which exploded.](images/92-21.jpeg)
 
-"I told Hartman that engine isn't possible. What the f - was he going to do with it, bring it back to toy research? Why would he... [pause]... the man was out of his mind," said Jack.
+"I told Hartman that the engine isn't possible. What the f - was he going to do with it, bring it back to toy research? Why would he... [pause]... the man was out of his mind," said Jack.
 
 Ryan looked down at the floor. "Most of our engineers refused to go - they didn't believe."
 

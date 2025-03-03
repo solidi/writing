@@ -14,7 +14,7 @@ To the uninitiated, [Toys "R" Us](https://en.wikipedia.org/wiki/Toys_%22R%22_Us)
 
 Children were escorted by loved ones throughout, many mismanaged and wonderfully lost in the aisles tall as the sky.
 
-It was a vision of [Charles Lazarus](https://en.wikipedia.org/wiki/Charles_Lazarus), one of many businesspeople of his generation who would take advantage of the [American Baby Boom](https://en.wikipedia.org/wiki/Baby_boomers). New marketers of the trade would secure the orders, and system engineers would invent the toys that filled the aisles.
+It was a vision of [Charles Lazarus](https://en.wikipedia.org/wiki/Charles_Lazarus), one of many businesspeople of his generation who would take advantage of the [American Baby Boom](https://en.wikipedia.org/wiki/Baby_boomers). System engineers would invent the toys, and new marketers of the trade would secure the orders that filled the aisles.
 
 ![The venerable [Sky Dancers patent](https://patents.google.com/patent/US5525086A/en).](images/87-02.jpeg)
 
@@ -58,7 +58,7 @@ And so this author did just that, surrounding it with his contemporaries and suc
 
 While these toy stories are about great feelings, Undercover Toy Stories focuses on the truth. Only some things are good, and bad things come with living life, as we all experience.
 
-The concept of *Undercover Toy Stories* is a book about people, their work, and the tales surrounding toys. It is a unique piece with shocking tales that all relate to toys.
+The concept of *Undercover Toy Stories* is a book about people, their work, and the intrigue surrounding toys. It is a unique piece with shocking tales that all relate to toys.
 
 These stories include not-so-good things, like injury, death, injustice, changing times, or the malaise of American business, but also good things, like creation, success, impact, and lasting legacy.
 

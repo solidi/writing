@@ -25,7 +25,7 @@ Legacy toy companies [Ideal](https://en.wikipedia.org/wiki/Ideal_Toy_Company) an
 
 Trains were considered collector grade, where one person would buy two sets (one to tinker and one to collect), protected by advanced tooling and specialized knowledge. With the natural age of collectors in their adult years, toy trains were seen as a one-time buy for the holiday season, placed under a tree for children. Eighty percent of sets were HO scale sold by [Lionel](https://en.wikipedia.org/wiki/Lionel_Corporation).
 
-Train toys seemed impossible to succeed at. [Tyco](http://www.tcawestern.org/tyco.htm) (formally Mantua) was the first to offer [HO-scaled prebuilt train sets](https://tycocollectors.com/history-of-tyco-toys/) in the 1940s. Their brief success would come in the 1980s, developing radical toy trains.
+Train toys seemed impossible to succeed at. [Tyco](http://www.tcawestern.org/tyco.htm) (formally Mantua) was the first to offer [HO-scale prebuilt train sets](https://tycocollectors.com/history-of-tyco-toys/) in the 1940s. Their brief success would come in the 1980s, developing radical toy trains.
 
 It seemed trains and planes at Hot Wheels were a bet Mattel would lose. They competed against companies flush with US patent protections filed by Lionel, Tyco, and [Marx](https://en.wikipedia.org/wiki/Louis_Marx_and_Company), with critical in-house know-how.
 
@@ -83,7 +83,7 @@ Sizzlers would take two years from research to release. Sizzlers would target th
 
 As Mattel moved through the 1960s, they comprised numerous research teams, of which Jack Ryan led "Research and development." Two other groups were also spun up as "Preliminary Design," experimenting in competition, separated by office areas.
 
-There is reason to believe that the company's founders formed these groups to meet Wall Street interests and manage royalties to Ryan's group, as most, if not all, toy invention was happening there.
+There is reason to believe that the company's founders formed these groups to meet Wall Street interests and manage royalties to Ryan's group, as most, if not all, toy inventions were happening there.
 
 Mattel would reach a public IPO on the Pacific Exchange in 1960. Then, it was listed on the New York Stock Exchange in 1963, ascending to the Fortune 500 list by 1968.
 
@@ -227,7 +227,7 @@ As a product analysis revealed, Hot Line proved disappointing, disappearing off 
 
 As a one-year wonder, Hot Line did not meet the toy industry standard of "paying for itself." The thinking was from Bernie, "[bringing out new themes and sub-themes year after year](https://www.battlegrip.com/wp-content/uploads/2015/04/fullarticle.png)" from existing toys.
 
-While these toy lines failed as he exited, it would later suit his next career move.
+While these toy lines failed as he exited, Sizzlers proper would suit his next career move.
 
 ![Picture of Hot Line in a catalog from 1971](images/75-17.jpeg)
 
