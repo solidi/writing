@@ -137,7 +137,7 @@ The years dragged on without payment, and in 1987, a settlement in Iain's case w
 
 From Mr. Swartz’s book, *Toys That Kill*, "With its new line of toys for 1986, Fisher-Price has changed the packaging for some of its Play Family items. - A new message appears on this package: Ages: 2–6."
 
-Mr. Swarts wrote, "The company is finally acknowledging the hazard for children - ." At this time, some toys did not have such age labels.
+Mr. Swartz wrote, "The company is finally acknowledging the hazard for children - ." At this time, some toys did not have such age labels.
 
 By 1990, New York State ordered Fisher-Price to place a choking hazard label on its packaging nationwide. Months later, the company rolled out its "chunky" line, which increased the diameter of the toy figures, reducing choking hazards.
 
@@ -165,7 +165,7 @@ In the fifty years of legal process, Fisher-Price has never officially admitted 
 
 ---
 
-Around the time the action garage was developed in 1969, Fisher-Price sold itself to Quaker Oats due to sales instability. Then Herman Fisher, the "Fisher" in Fisher-Price, one sitting in R&D meetings, never entered his company again.
+When the action garage was developed in 1969, Fisher-Price sold itself to Quaker Oats due to sales instability. Then Herman Fisher, the "Fisher" in Fisher-Price, one sitting in R&D meetings, never entered his company again.
 
 "After the huge success of the Little People line in 1968, The Quaker Oats Company of Chicago, Illinois saw an opportunity for growth and purchased Fisher-Price -," from *Fisher-Price, 1931–1963: A Historical, Rarity, Value Guide.*
 
