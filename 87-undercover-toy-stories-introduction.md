@@ -30,7 +30,7 @@ It was a wonderful time in this author's life. It is where he connected with fac
 
 *Undercover Toy Stories* is a rolling toy anthology constructed from investigations of searching public records, speaking to people, reading books, listening to podcasts, studying patents, and uncovering and connecting truth.
 
-This series required bravery to source, telling it like it is. *Undercover Toy Stories* is a curation of toy artwork supported by a mosaic of information printed in words.
+This series required bravery to source, telling it like it is. *Undercover Toy Stories* is a curation of toy artwork supported by a mosaic of information printed in words-one part headline drama, one part investigation, and the rest, business history. In all, a research series deep in toy making.
 
 The reader should consider this work a tour de force of the lesser-known toy stories bundled into decades of evolving technology. Many creators are or were gifted, capable engineers, genius marketers, and legendary business people.
 
