@@ -38,7 +38,7 @@ Other competitors claimed Durham [did not own the car title](https://law.resourc
 
 ![The Construction Sto & Go from JCPenney Wishbook 1986. Source: [musetechnical](https://christmas.musetechnical.com/ShowCatalogPage/1986-JCPenney-Christmas-Book/0432)](images/69-05.jpeg)
 
-Before Fold 'N Go, Matchbox stuck parents with [unfinished "car project" playsets in the bedroom](https://www.youtube.com/watch?v=LLjRrjR8WQU). Hot Wheels participated to duly compete (admittedly, I have memories of [Matchbox's Motorcity Car Wash](https://www.ebay.com/itm/354530183744)). Post-war lithographed tin seen in Sears catalogs from the 1950s had been replaced with cardboard, vinyl, and plastic. These sets, stunning when complete, were known for ripped plastic mats and missing parts, becoming rat rods in toy bins forever.
+Before Fold 'N Go, Matchbox stuck parents with [unfinished "car projects" in the playroom](https://www.youtube.com/watch?v=LLjRrjR8WQU). Hot Wheels participated to duly compete (admittedly, I have memories of [Matchbox's Motorcity Car Wash](https://www.ebay.com/itm/354530183744)). Post-war lithographed tin seen in Sears catalogs from the 1950s had been replaced with cardboard, vinyl, and plastic. These sets, stunning when complete, were known for ripped plastic mats and missing parts, becoming rat rods in toy bins forever.
 
 ![Hot Wheels Mini Sto & Go Construction Site #5463 (1987). Source: eBay](images/69-06.jpeg)
 
@@ -48,7 +48,7 @@ Throughout the 1980s, these large carry accessories were monolithic platforms st
 
 ![The Alpine Mountain Adventure #4451 (1988) and the Car Wash & Service Center #4322 (1987), Source: [Auction](https://auctions.toystrainsandotheroldstuff.com/lots/view/1-27VSZT/rare-hot-wheels-alpine-adventure-sto-n-go-set-in-original-box-incomplete)](images/69-07.jpeg)
 
-Boost-forward thirty-five years, a team at Mattel remembered that line of products. Hot Wheels [launched](https://www.facebook.com/hotwheels/posts/10153330974805807) a 1980s-styled [reboot in 2016](https://lamleygroup.com/2016/05/09/hot-wheels-sto-go-the-best-hot-wheels-playset-since-the-1980s/) with a new generation of Sto & Go's in a similar blueprint to the now public domain "Playset for Toy Vehicles," [US 4,349,983](https://patents.google.com/patent/US4349983). Yet another variation was released in 2022, the one I bought my son this past year.
+Boost-forward thirty-five years, a team at Mattel remembered that line of products. Hot Wheels [launched](https://www.facebook.com/hotwheels/posts/10153330974805807) a 1980s-styled [reboot in 2016](https://lamleygroup.com/2016/05/09/hot-wheels-sto-go-the-best-hot-wheels-playset-since-the-1980s/) with a new generation of Sto & Go's in a similar blueprint to the now public domain "Playset for Toy Vehicles," [US 4,349,983](https://patents.google.com/patent/US4349983). Yet another variation was released in 2022, the one I bought my son.
 
 ![The present-day Hot Wheels Car Wash and Service Center Sto & Go #DW90 (2016). Source: [Mattel](https://service.mattel.com/instruction_sheets/DMW90-Eng.pdf)](images/69-08.jpeg)
 
@@ -86,7 +86,7 @@ Sure enough, the Hot Wheels Sto & Go City (1981) stands stoic in bedroom backgro
 
 ![My Grandma "Ridgewood" and I played in my bedroom with Hot Wheels - 1980s.](images/69-13.jpeg)
 
-And lasting impressions are what toys do in all of us. In the 1980s, my father lamented his missing Marvin Glass' [Mr. Machine](https://en.wikipedia.org/wiki/Mr._Machine) and missile launcher playsets at an office while my contemporaries and I played at home with the Sto & Go. Then it ended when I turned eleven. *Someone* lovingly threw it away with its scuffed plastic, hundreds of play hours, missing legs, and [ripped stickers](https://scredlines.com/SCR/SCR_Item.aspx?ProductID=21286) (mom thinks it's buried in the basement).
+And lasting impressions are what toys do in all of us. In the 1980s, my father lamented his missing Marvin Glass' [Mr. Machine](https://en.wikipedia.org/wiki/Mr._Machine) and missile launcher playsets at an office while my contemporaries and I played at home with the Sto & Go. Then it ended when I turned eleven. *Someone* lovingly threw it away with its scuffed plastic, hundreds of play hours, missing legs, and [ripped stickers](https://scredlines.com/SCR/SCR_Item.aspx?ProductID=21286) (mom thinks my playset buried in the basement).
 
 At that time, Sto & Go appealed to beautiful car machinery from the original direction of [Larry Wood](https://hotwheels.fandom.com/wiki/Larry_Wood) and the model engineering of [Bob Rosas](https://hotwheels.fandom.com/wiki/Bob_Rosas) (plus many others) that cannot be driven but invited play throughout its plastic landscape.
 
@@ -98,17 +98,17 @@ Since then, [countless artists](https://hotwheels.fandom.com/wiki/Category:Desig
 
 ![Elliot and Ruth Handler in 1951. Source: Associated Press](images/69-14.png)
 
-While constructing the then space-age toy apparatus (and with people from aerospace), the Handlers created an environment to forge evergreen intellectual property (IP) where inventors and artists created the Sto & Go that transcended multiple generations, decades after their founders [walked away](https://podcasts.apple.com/th/podcast/hasbro-vs-mattel-the-house-of-cards-3/id1335814741?i=1000433557244) from the business they built.
+While constructing the then space-age toy apparatus (and with people from aerospace), the Handler created an environment to forge evergreen intellectual property (IP) where inventors and artists created the Sto & Go that transcended multiple generations, decades after their founders [walked away](https://podcasts.apple.com/th/podcast/hasbro-vs-mattel-the-house-of-cards-3/id1335814741?i=1000433557244) from the business they built.
 
 A balanced couple of artist and entrepreneur, Elliot and Ruth constructed a special thousands-ideation-per-year flywheel developing toys that children dream into. At the same time, they protected inventors and artists from sales and marketing influence, a toy industry first.
 
-If you look past new 3D print computer-aided work today, the Handlers revolution of toymaking craft is defacto into the 21st century. This inspirational environment crafted IP so beloved by generations and streamlined toy manufacturing that it paid dividends to new ways of navigating the product GPS. For example, Ynon Kreiz (CEO of Mattel) reports [reigniting recognizable IP](https://www.iheart.com/podcast/1119-good-company-with-michael-62503852/episode/ynon-kreiz-the-opportunity-for-us-82888523/) is now the way to go.
+If you look past new 3D print computer-aided work today, the Handlers revolution of toymaking craft is de facto into the 21st century. This inspirational environment crafted IP so beloved by generations and streamlined toy manufacturing that it paid dividends to new ways of navigating the product GPS. For example, Ynon Kreiz (CEO of Mattel) reports [reigniting recognizable IP](https://www.iheart.com/podcast/1119-good-company-with-michael-62503852/episode/ynon-kreiz-the-opportunity-for-us-82888523/) is now the way to go.
 
 ![Brainstorming literature within the later half of the original Sto & Go era.](images/69-15.jpeg)
 
 What is so mind-bending about the journey of the Sto & Go is its quiet inventive timescale without its success story. It has anchored an aging generation like me who watched music videos on TV.
 
-While the Sto & Go delivers peak [mechanical](https://www.howacarworks.com/advanced-driving/sympathy-and-understanding) toy craft, the playset has received little attention in the literature within the tune of "Southern California Car Culture" and the "[Sweet Sixteen](https://hotwheels.fandom.com/wiki/List_of_1968_Hot_Wheels)" (the original line of cars launched in 1968). But these bold plastic boxes invoke memorable Internet posts, "*I still play with mine. Oh, I'm 44.*"
+While the Sto & Go delivers peak [mechanical](https://www.howacarworks.com/advanced-driving/sympathy-and-understanding) toy craft, the playset has received little attention in the literature within the tune of "Southern California Car Culture" and the "[Sweet Sixteen](https://hotwheels.fandom.com/wiki/List_of_1968_Hot_Wheels)" (the original line of cars launched in 1968). But these bold plastic boxes invoke memorable Internet posts, "*Memory unlocked. This was great.*"
 
 Only a product like Sto & Go could be [ultrasonically welded](https://en.wikipedia.org/wiki/Ultrasonic_welding) and friction-fitted within. Thousand of creatives built, [defended](https://www.imdb.com/title/tt1754780/), demoed, and released their toys and protected their IP for decades before software became *creative*. Big tech still wasn't big tech. The Sto & Go was a part of this elective Le Mans, crafted by artists and engineers, and they responded.
 
@@ -120,13 +120,13 @@ It is essential to understand that there are numerous inventive influences when 
 
 ![Prior era: CGP Service Center #7200 and Vinyl Unfolding [Talking Service Center #5159](https://hotwheelsracetracks.wordpress.com/2015/08/01/1969-hot-wheels-talking-service-center/). Source: [Auctions](https://www.etsy.com/listing/1368440069/rare-vintage-hot-wheels-talking-service)](images/69-16.jpeg)
 
-While VSV manufacturing costs were low, so was the ability to turn these accessories into profit. Everyone in the trade (the toy industry and retailers controlling the shelves) knew it did not require expensive [tooling](https://en.wikipedia.org/wiki/Injection_moulding) (a detailed metal casting for molding plastic). VSV was cheap with inlay cardboard. It performed poorly with realism and maintaining form, so it was on its way out. VSV was avoided in this invention and disappeared by the late 1980s.
+While VSV manufacturing costs were low, so was the ability to turn these accessories into profit. Everyone in the trade (the toy industry and retailers controlling the shelves) knew it did not require expensive [tooling](https://en.wikipedia.org/wiki/Injection_moulding) (a detailed metal casting for molding plastic). VSV was cheap with inlay cardboard. It performed poorly in realism and maintaining form, so it was on its way out. VSV was avoided in this invention and disappeared by the late 1980s.
 
 Second, Hot Wheels could benefit from a "push around and play" accessory joining their maturing racing and stunt sets, in which a product gap existed. This new product could ignite slumping accessory sales and move more Hot Wheels. We think of this as the "Go." This play function was supremely novel and America's earliest recorded mechanically rigid Pack-n-Play invention (people now relate this compound word to [Graco](https://en.wikipedia.org/wiki/Graco_(baby_products)), but that was invented ten years later in 1987.)
 
 ![Highest compression ratio by prelim Mattel: 1976–1979 Matchbox City Vinyl Playset, Carry Case, Garage, and Service Center Sets. Source: Auction / [Catalog](https://www.flipsnack.com/matchbox/matchbox-collectors-catalogue-1979-1980.html)](images/69-17.jpeg)
 
-Third, around this time in industrial toy design history, materials and plastics ([PS](https://en.wikipedia.org/wiki/Polystyrene) and [PP](https://en.wikipedia.org/wiki/Polypropylene)) dropped in price to make such a product rigid enough, but importantly, produced at scale. While mold-making did not have the intricate computer-cut design we see today, [techniques](https://en.wikipedia.org/wiki/Tool_and_die_maker) were available. Mattel had all this in tow, in the environment they set up that allowed inventors to lathe with wood and plastic freely if they should choose to heed Gene's flag drop.
+Third, around this time in industrial toy design history, materials and plastics ([polystyrene](https://en.wikipedia.org/wiki/Polystyrene) and [polypropylene](https://en.wikipedia.org/wiki/Polypropylene)) dropped in price to make such a product rigid enough, but importantly, produced at scale. While mold-making did not have the intricate computer-cut design we see today, [techniques](https://en.wikipedia.org/wiki/Tool_and_die_maker) were available. Mattel had all this in tow, in the environment they set up that allowed inventors to lathe with wood and plastic freely if they should choose to heed Gene's flag drop.
 
 This kicked off the in-house invention process, where the preliminary group took charge and was protected from foot traffic. "Prelim" (referred to as a high school playground by other departments) developed prototype toys, buying in management and marketing with demonstrations. Gene sent the request to the group, and a prototype design began forming from a few interested individuals in his cabal car garage.
 
@@ -148,7 +148,7 @@ At this time, the sales and marketing team set Hot Wheels accessories to a maxim
 
 As the team demoed, they walked through its unique design and encasement. As management's eyes glazed over in its engineering, they looked for the bait and switch. Legend has it that the car was carefully placed on the roof and raced down the track: the bell rang (ding-ding), and there was a long pause. Everyone looked up from the car and toward Ray. He stared… then smiled widely and said (something like), the bell was a *twenty dollar* if he ever heard one.
 
-Even if said differently (no known quote exists), the point was clear - he believed in making the idea work above a max accessory cost limit. Soon after, Ray thought the toy could fly off the shelf (ding-ding) at twice the speed and announced a "double tool" in anticipation of significant sales. That action alone confirmed statements to target above its set accessory threshold. Ray performed in a challenger spirit, confidently walking down the car show row.
+Even if said differently (no printed quote exists), the point was clear - he believed in making the idea work above a max accessory cost limit. Soon after, Ray thought the toy could fly off the shelf (ding-ding) at twice the speed and announced a "double tool" in anticipation of significant sales. That action alone confirmed statements to target above its set accessory threshold. Ray performed in a challenger spirit, confidently walking down the car show row.
 
 ![Abstract plus prior art of "Playset for Toy Vehicles," 4,349,983. Source: [USPTO](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/4349983)](images/69-21.png)
 
@@ -158,23 +158,25 @@ While I couldn't confirm who said *Sto & Go* first, it is believed that someone 
 
 ![Prelim awards, Bill Kelley, listed on the patent (center right), is critical to Hot Wheels Service Center's success - 1980.](images/69-22.jpeg)
 
-Like other automotive firsts such as the mid-engine GT40, carbon fiber applique, and [paddle shifters](https://www.evropublishing.com/en-us/products/the-perfect-car-the-story-of-john-barnard-motorsport-s-most-creative-designer), the Sto & Go is the world's first production monocoque-unibody plastic chassis playset. Only at Mattel could this have happened in the late 1970s, with its push-pull and Gene honoring its warranty throughout.
+Like other automotive firsts such as the mid-engine GT40, carbon fiber applique, and [paddle shifters](https://www.evropublishing.com/en-us/products/the-perfect-car-the-story-of-john-barnard-motorsport-s-most-creative-designer) from Ferrari, the Sto & Go is the world's first production monocoque-unibody plastic chassis playset. Only at Mattel could this have happened in the late 1970s, with its push-pull and Gene honoring its warranty throughout.
 
 ---
 
 *The Sto & Go could be considered a Hot Wheels Dreamhouse. When described this way to adults, an universal understanding is forged throughout. This is the world's first storied carhouse that stores and travels. Barbie renovated her [Dreamhouse](https://www.nytimes.com/2022/12/14/style/barbie-dreamhouse-history-six-decades.html) with similar materials, from cardboard to plastics (1962–1980), but that invention differs.*
 
+*At about the same time of the Sto & Go release, a German toy manufacturer named AK Stelco released a similar one-level design in Europe. Using Shell gas station deco, rare auctions of the toy can be found on-line. Its story of how it was produced (and if it was authorized by Mattel) is unknown.*
+
 ---
 
 ## Lathing the Triple Cylinder Sto & Go's
 
-**WHAT DEVELOPED WITHIN** the creative prelim engine is a kid-powered smooth manual transmission playset that deserves a look not found on the Internet (and I did look everywhere). Typical in these creative stories, engineers are hard to find. So with the impulse to discover its construction, I sent inquiring emails to those collectors celebrated in books.
+**WHAT DEVELOPED WITHIN** the creative prelim engine is a kid-powered smooth manual transmission playset that deserves a look not found on the Internet (and I did look everywhere). Typical in these creative stories, engineers are hard to find. So with the impulse to discover its construction, I sent enquiring emails to those collectors celebrated in books.
 
 [Bruce Pascal](https://www.instagram.com/pinkbeachbomb), who owns the [most valuable Hot Wheels](https://www.hotcars.com/most-expensive-hot-wheels-cars/#1969-pink-vw-beach-bomb), answered my call. "*Who are the people?*" I asked. He pointed me in the right direction, which led to its engineering. [Derek Gable](https://easyreadernews.com/fun-at-work-former-mattel-designer-derek-gable-is-being-honored-for-teaching-kids-that-fun-at-work-is-part-of-the-job/) (Gene's peer at the time of this story) placed me on deep email exchanges with notable people, with [Mike McKittrick](https://www.mckittrickdesign.com/About/) stepping forward in the conversation.
 
 ![Mike at Mattel in the 1970s, Family Circle Ad, Nov 1980. Source: [Mike McKittrick](https://www.mckittrickdesign.com/About/) / [Twitter](https://twitter.com/Nostalgiapix25/status/1564763226360905731) / [Alternative](https://www.battlegrip.com/1982-hot-wheels-service-center-advertisement/)](images/69-23.jpeg)
 
-Mike worked as a project engineer at Mattel on the Sto & Go [Service Center](https://serpentorslair.com/the-pop-expose-my-first-hot-wheels-playset-story-by-mitchell-smith/), City, and Construction Site for three years. He is unique in this story because he is an industrial design artist seeing it all the way through on the shop floor three times over (other lanes to this story remain undiscovered!).
+Mike worked as a project engineer at Mattel on the Sto & Go [Service Center](https://serpentorslair.com/the-pop-expose-my-first-hot-wheels-playset-story-by-mitchell-smith/), City, and Construction Site for three years. He is unique in this story because Mike is an industrial design artist seeing it all the way through on the shop floor three times over (other lanes to this story remain undiscovered!).
 
 As we pick up from the model delivered to engineering, sales, and marketing filled its orders. Mike and others engineered the Sto & Go shaping the preliminary ideas into production reality. Mike worked on vellum diagrams to send to its tooling department (for injection molding), crafted the associated mechanisms, managed fit, materials used, and safety. He planned elements that created the consumer product we know as the original Sto & Go line.
 
@@ -184,7 +186,7 @@ Mike shared his passion for Service Center #1503. He explained the challenges of
 
 Admitted by Mike, his manager went on to save the product from cancellation by maximizing tool reuse due to its significant amount of plastic, confident the platform would succeed (*engineering heroics are a staple in every industry, and I loved hearing this from Mike that a **manager** performed*).
 
-Weighing in over three pounds of high-impact polystyrene and polypropylene, Sto & Go proved challenging to balance the amount of new-age plastic and an engineering cost limit, critical for toy making ([ABS](https://en.wikipedia.org/wiki/Acrylonitrile_butadiene_styrene) was absent in the product as it was too expensive).
+Weighing in over three pounds of high-impact polystyrene and polypropylene, Sto & Go proved challenging to balance the amount of new-age plastic and an engineering cost limit, critical for toy making ([ABS](https://en.wikipedia.org/wiki/Acrylonitrile_butadiene_styrene) plastic was absent in the product as it was too expensive).
 
 ![Shown during Toy Fair in New York City - 1980](images/69-25.jpeg)
 
@@ -192,7 +194,7 @@ While the prelim department delivered a great prototype, the Sto & Go needed "on
 
 In a funny aside, the decal that says "Mike's Transmissions" was an inside joke about the gearbox woes of Mike's British [TR6](https://en.wikipedia.org/wiki/Triumph_TR6) roadster (perhaps he should own a Hot Wheels instead). The remaining shops were named after contributors to the project, Mr. Hot Wheels included.
 
-![Sto & Go Service Center included the [Hot Bird](https://hotwheels.fandom.com/wiki/Hot_Bird). [Jason Hervey](https://www.imdb.com/name/nm0381155/) was in its [TV Commerical](https://www.youtube.com/watch?v=RPeC55RV5wM). Did you know the filming took place in the [house](https://www.imdb.com/title/tt0075500/) that gave the [Karate Kid](https://www.imdb.com/name/nm0001494/) his future break?](images/69-26.gif)
+![Sto & Go Service Center included the [Hot Bird](https://hotwheels.fandom.com/wiki/Hot_Bird). [Jason Hervey](https://www.imdb.com/name/nm0381155/) was in its [TV commercial](https://www.youtube.com/watch?v=RPeC55RV5wM). Did you know the filming took place in the [house](https://www.imdb.com/title/tt0075500/) that gave the [Karate Kid](https://www.imdb.com/name/nm0001494/) his future break?](images/69-26.gif)
 
 Fitting to context, this was all happening during the 1979 [oil crisis](https://en.wikipedia.org/wiki/1979_oil_crisis). Mike remembered luring creative feedback at his drafting board. He formed a long line of cars down the hall at Mattel, waiting at the incomplete Service Center for pretend gas. Although hydrocarbons were rationed outside, the Sto & Go iconic bell rang at his prototype, and conversations flowed inside (perhaps Mike was checking *department* plates?).
 
@@ -218,7 +220,7 @@ The Construction Site was the pinnacle of this 80s monorail ship and most memora
 
 Other car accessories went out later, such as [Action Command #9250](https://www.vault1541.com/2020/05/youtube-hot-wheels-action-command-sto.html) (1985), the refreshed and reimagined [Car Wash and Service Center #3342](https://www.youtube.com/watch?v=AYsbRD8B-oM) (1987), and Alpine Adventure #4451 (1988). A long line of products shipped years after the original team moved on to other projects.
 
-In all, they pushed the petal to the floor with an entire railroad and pop-up line, and then into the 1990s with new Sto & Go playsets. While there are no official sales numbers publically available, it's clear with the convoy of toys that millions of units were produced and sold over the years, impacting the lives of millions more in one complete generation.
+In all, they pushed the pedal to the floor with an entire railroad and pop-up line, and then into the 1990s with new Sto & Go playsets. While there are no official sales numbers publicly available, it's clear with the convoy of toys that millions of units were produced and sold over the years, impacting the lives of millions more in one complete generation.
 
 ![The [fourth Sto & Go](https://www.youtube.com/watch?v=zLGgFI_4u8Y) to leave the station. Phil Crane is credited for keeping the toy line visually appealing throughout its original run.](images/69-31.gif)
 
@@ -238,7 +240,7 @@ This concept is inextricably linked to people who courageously defend an idea wi
 
 ## The Emotive Living Hinge Car Elevator
 
-**HOT WHEELS CONTINUES ITS PLEASURE CRUISE** celebrating 55 years of toy-making this year. Kids like my son, who are car-seated from 3 to 103, love this stuff. The Hotrod brand remains the [global top-selling unit](https://corporate.mattel.com/news/barbie-named-2021-top-global-toy-property-of-the-year-per-npd), and Ted Wu, VP, Global Head of Design for Vehicles at Mattel, reports [tracking over one billion dollars](https://www.youtube.com/watch?v=I8JD776WwhU) in gross global sales in 2022.
+**HOT WHEELS CONTINUES ITS PLEASURE CRUISE** celebrating 55 years of toy-making this year. Kids like my son, who are car-seated from 3 to 103, love this stuff. The *Hot Rod* brand remains the [global top-selling unit](https://corporate.mattel.com/news/barbie-named-2021-top-global-toy-property-of-the-year-per-npd), and Ted Wu, VP, Global Head of Design for Vehicles at Mattel, reports [tracking over one billion dollars](https://www.youtube.com/watch?v=I8JD776WwhU) in gross global sales in 2022.
 
 The Sto & Go is a sleeper technical hit at Mattel that deserved its registration renewal. As I understood from these professional toy makers, the long-cased Sto & Go was a top-trim line that sold well for years, was considered inventive by even those who worked on it, and seatbelted people like me (and maybe you) into Hot Wheels forever.
 
@@ -260,7 +262,7 @@ So as I unpacked this Sto & Go, I took out my few remaining diecast cars that di
 
 ![My son plays with his new Sto & Go.](images/69-36.jpeg)
 
-As we drive into the sunset with our [Alpha Generation](https://en.wikipedia.org/wiki/Generation_Alpha) racing their fantastic Hot Wheels on the walls, what's left to say? The Sto & Go is [a toy that made us](https://screenrant.com/the-toys-that-made-us-toys-want-see-not-see/#we-d-like-hot-wheels). 🏁
+As we drive into the sunset with our [Alpha Generation](https://en.wikipedia.org/wiki/Generation_Alpha) racing their fantastic Hot Wheels on the walls, what's left to say? The Sto & Go is [a toy that drove us](https://screenrant.com/the-toys-that-made-us-toys-want-see-not-see/#we-d-like-hot-wheels). 🏁
 
 ---
 
