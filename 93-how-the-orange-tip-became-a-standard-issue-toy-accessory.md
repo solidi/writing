@@ -17,7 +17,7 @@
 
 **NEW JERSEY CONGRESSMAN** James Florio, aged 51, was leading along a clean-cut middle-aged man who came from the West Coast.
 
-They were in the Nation's Capitol, walking into a room where lobbyists discussed an essential aspect of American life.
+They were in the Nation's Capital, walking into a room where lobbyists discussed an essential aspect of American life.
 
 They were talking about guns.
 
@@ -51,9 +51,9 @@ Like clockwork, police mistakenly fired at minors as the teenagers hesitated on 
 
 And in David's Emmy-winning experiences, he learned that adults used toy weapons for crime.
 
-As congresspeople looked on, some smiled, and others had blank, grim faces. They were in a subcommittee room. David was about to give testimony on children and young adults who were tragically killed by police.
+As congress people looked on, some smiled, and others had blank, grim faces. They were in a subcommittee room. David was about to give testimony on children and young adults who were tragically killed by police.
 
-David sat at the table, prepared his speech, and began reading to the record on the "Safety Hazard of Toy Guns." The room's atmosphere became serious.
+David sat at the table, prepared his speech, and began reading the record on the "Safety Hazard of Toy Guns." The room's atmosphere became serious.
 
 ![**ARE YOU SERIOUS** - For decades, cartoonists have pointed fun at toy guns in culture. Some cartoonists took opinions to their limits.](images/93-03.jpeg)
 
@@ -105,7 +105,7 @@ Mr. Florio spoke in and said, "I think the record should reflect that it's very 
 
 David then said, "Thank you, Congressman Florio."
 
-"Now, we heard that guns don't kill people, [but] people kill people. Well, toy guns don't kill people either, but a [young man] ended up dead nonetheless."
+"Now, we heard that guns don't kill people, [but] people kill people. Well, toy guns don't kill people either, but [a young man] ended up dead nonetheless."
 
 David took off his glasses again and remembered. He thought back to when he read the police reports of another tragedy.
 
@@ -121,7 +121,7 @@ A tall young man with bushy hair and wired glasses exited his bright-colored car
 
 He said, "Hey guys. Are we ready to play?"
 
-![**BOTH AT SCENE** - Public records confirmed that Lazer Tag and Photon toy equipment were present that evening, sealing a tragic toy merger. At the time, the group of friends discussed the new Photon Arenas in an enigmatic way, which was trending.](images/93-06.jpeg)
+![**BOTH AT SCENE** - Public records confirmed that Lazer Tag and Photon toy equipment were present that evening, sealing a tragic toy merger. At the time, the group of friends discussed the new Photon Arenas in an enigmatic way, which was trending among teenagers.](images/93-06.jpeg)
 
 The young man looked over the other's equipment, being the best-equipped and most knowledgeable, and noticed something was off.
 
@@ -222,7 +222,7 @@ David paused, about to crack, but maintained composure. He took off his glasses 
 
 The room went silent as people coughed. For a minute, people felt the absolute pain of the Falcon incident.
 
-Then, placing his glasses back on, David explained other tragedies in America [of which there are countless stories]. Mr. Horowitz did his somber homework - reading police reports and relaying to the subcommittee that the government must prevent future tragedies.
+Then, placing his glasses back on, David explained other tragedies in America [of which there are countless stories]. Mr. Horowitz performed his somber homework - reading police reports and relaying to the subcommittee that the government must prevent future tragedies.
 
 ![**DAISY TOOK THE FIRST STEP** - Days after David's encounter with a toy gun, Daisy and FunRise accelerated the response to the mounting tragedies. Daisy is the manufacturer who proposed applying blaze orange and firmed up the effort after the Faclon incident.](images/93-10.jpeg)
 
@@ -274,11 +274,11 @@ What remained was the pain inflicted on all parties, which disrupted their lives
 
 Even after bankruptcy, a 1994 civil lawsuit was brought to the gutted Worlds of Wonder for the death of Leonard Falcon. However, after a short deliberation, the jury found the manufacturer not guilty of any wrongdoing.
 
-Additionally, Sherrif Floyd Tidwell, then chief of the entire San Bernardino County Police, wrote a summary report of the Falcon tragedy as it happened and commented to the press.
+Additionally, Sheriff Floyd Tidwell, then chief of the San Bernardino County Police, wrote a summary report of the Falcon tragedy as it happened and commented to the press.
 
 ![REPORT SUMMARY - A multi-page public records request provided information about the tragedy. As with all records, there are redactions, sometimes full pages.](images/93-13.jpeg)
 
-A contemporary sherrif spokesperson told *The Los Angeles Times* that Leonard fired his StarLyte a *second time* after the initial unannounced volley from police. However, this action could not be found in the redacted public record.
+A contemporary sheriff spokesperson told *The Los Angeles Times* that Leonard fired his StarLyte a *second time* after the initial unannounced volley from police. However, this action could not be found in the redacted public record.
 
 And back in Congress, Mr. Horowitz dared to place Mr. Falcon's last audible quote into the halls of the democracy of the people. He read from the typed homicide report, reliving the pain of the unthinkable.
 
@@ -290,11 +290,11 @@ THE LASER TAG SYSTEM, which included the improvement called MILES, was an origin
 
 After Mr. Henry developed weapons of war, such as the TOW wire-guided personnel missile launcher, which was enigmatic in global politics of the 1980s, he was awarded the [Meritorious Civilian Service Award](https://www.simulationinformation.com/hall-of-fame/members/albert-henry-marshall/).
 
-The MILES technology was reimagined and commercialized by [George Carter III](https://en.wikipedia.org/wiki/George_Carter_III) by watching Star Wars, who then brought forward a property called Photon. Partnering with toy manufacturer LJN made Photon a commercial success.
+The MILES technology was reimagined and commercialized by [George Carter III](https://en.wikipedia.org/wiki/George_Carter_III) by watching Star Wars, who was the "brainchild" of a property called Photon. Partnering with toy manufacturer LJN made Photon a commercial success.
 
-Their product contained no lasers; instead, they used customized infrared electronics, similar to remote controls for TV's.
+Their product contained no lasers; instead, they used customized infrared electronics, similar to remote controls for TVs.
 
-During the mid-1980s, Worlds of Wonder caught on and invented a system called Lazer Tag, which had a similar connection to Star Wars fantasy. Finally, Mattel and Hasbro campaigned laser-type toys with their action figures, BraveStarr and GI Joe. Taiwanese product groups attempted to "share the wealth" by launching their systems.
+During the mid-1980s, Worlds of Wonder invented a system called Lazer Tag, which had a similar connection to Star Wars fantasy. Finally, Mattel and Hasbro campaigned laser-type toys with their action figures, BraveStarr and GI Joe. Taiwanese product groups attempted to "share the wealth" by launching their systems.
 
 But after Mr. Falcon's death, among the endless gun violence stories [also relayed by David Horowitz], the laser tag wave abruptly ended, which was accelerated by a market crash.
 
@@ -324,7 +324,7 @@ LAZER TAG WAS the invention of Worlds of Wonder, originating in 1986. A year pri
 
 ![**MEGA PATENT** - The Teddy Ruxpin patent is associated with skyrocketing a startup toy company from zero to hundreds of millions of dollars within months.](images/93-16.jpeg)
 
-And Lazer Tag became World of Wonder's second smash hit. Paul Rago, a key person within the company, was interviewed by the New York Times in 1988. He revealed the origins of Lazer Tag - "tapping his pencil, in and out of a beam of sunlight through the window."
+And Lazer Tag became World of Wonder's second smash hit. Paul Rago, a key person within the company, interviewed by the New York Times in 1988, revealed the origins of Lazer Tag - "tapping his pencil, in and out of a beam of sunlight through the window."
 
 Further from Anne Zusy's article, Rago said: "[Lazer Tag was] Star-Warzy, all of those people have seen in the movies and TV that they always wanted to do . . . like throwing a lighting bolt."
 
@@ -334,19 +334,19 @@ And "[Laser Tag](https://lasertagmuseum.com/indoor-laser-tag/indoor-time-line/20
 
 Stock footage of impulse-recoil "FALCON F1" and "FALCON F2" rifles can be seen in a 2022 episode of [The History Channel's Toys That Built America](https://play.history.com/shows/the-toys-that-built-america/season-2/episode-7), which commented on the Lazer Tag tragedy.
 
-![**A MODERN RESET** - Lonnie Johnson's water gun became the Larami [Super Soaker](https://patents.google.com/patent/US5074437B1/en). The toy is a post-modern water gun that contains bright plastic dyes and an orange tip. It sold millions of units, according to the [History Channel](https://play.history.com/shows/the-toys-that-built-america/season-2/episode-7). The toy series became a permanent part of American culture. Today, Hasbro owns the property.](images/93-17.jpeg)
+![**A MODERN RESET** - Lonnie Johnson's water gun became the Larami [Super Soaker](https://patents.google.com/patent/US5074437B1/en). The toy is a postmodern water gun that contains bright plastic dyes and an orange tip. It sold millions of units, according to the [History Channel](https://play.history.com/shows/the-toys-that-built-america/season-2/episode-7). The toy series became a permanent part of American culture. Today, Hasbro owns the property.](images/93-17.jpeg)
 
-It is unknown if that laser tag system is named in honor of Mr. Falcon, a former Key Club member and 19-year-old electronics student who died playing the game with friends on April 7th, 1987, in Rancho Cucamonga.
+It is unknown if the Tagger FALCON laser tag system is named in honor of Mr. Falcon, a former Key Club member and 19-year-old electronics student who died playing the game with friends on April 7th, 1987, in Rancho Cucamonga.
 
 Either way, Leonard's name lives on through the play of others, which [if true] is a comforting salute and a quiet memorial.
 
 ---
 
-SO WHEN THIS author asked, "Where did the orange tips come from?" Well, from tragedies, of course. Perhaps a profound meditation on the subject can be found in [textbooks](http://www.jaclynschildkraut.com/publications/books/guns-in-american-society/), but this writing is of rich physicality centered on toys.
+SO WHEN THIS author asked, "Where did the orange tips come from?" Well, from tragedies, of course. Perhaps a profound meditation on the subject can be found in academic [textbooks](http://www.jaclynschildkraut.com/publications/books/guns-in-american-society/), but this writing is of rich physicality centered on toys.
 
 The story of toy guns and American society is vast, and there were periods of moratoriums on toy products that go back a century. As American assassinations and Vietnam-related incidents ham-strung a generation, [victory culture](https://www.amazon.com/End-Victory-Culture-Disillusioning-Generation/dp/155849586X) waned, and so increased the objection to toy guns.
 
-And into the 1980s, legislation was destined-as manufacturers provided hyper-realistic toy guns. Compounding the issue were laser tag systems, misunderstood by a culture that hadn't caught up to acceptance.
+And into the 1980s, legislation was destined-as manufacturers provided hyper-realistic toy guns. Compounding the issue were laser tag systems, misunderstood by a society that hadn't caught up to acceptance.
 
 This author's research quickly revealed a natural vindication. At the precipitous of actual federal toy gun legislation, Leonard's story pushed Congress to act, crossed by a TV man who thought he would die - and forced the lobbyist's hand by bringing Mr. Falcon's dying statement to the record.
 
