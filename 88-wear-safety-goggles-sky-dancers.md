@@ -16,13 +16,13 @@ The late [Marshall Sella](https://www.outsideonline.com/culture/books-media/mars
 
 Mr. Sella exposed how a toy named Sky Dancers grew up to become a shooting star in American business.
 
-Getting into the secretive airspace of toy-making proved tough, but somehow, Mr. Sella landed. Their makers brought in the wordsmith, joining distinguished authors like [G. Wayne Miller](https://en.wikipedia.org/wiki/G._Wayne_Miller), who broke barriers into [Hasbro](https://en.wikipedia.org/wiki/Hasbro) and wrote well-researched books on the Hassenfelds, the company's owners.
+Getting into the secretive airspace of toy-making proved tough, but somehow, Mr. Sella landed. Their makers brought in the wordsmith, joining distinguished authors like [G. Wayne Miller](https://en.wikipedia.org/wiki/G._Wayne_Miller), who broke barriers into [Hasbro](https://en.wikipedia.org/wiki/Hasbro), writing well-researched books on the Hassenfelds, the company's owners.
 
-Within this history of Sky Dancers, Hasbro shared a short field.
+Within the history of Sky Dancers, Hasbro shared a short field.
 
-The crafting of Sky Dancers required significant industry experience. What was needed were independent inventors with a distinct artistic style and long-time insiders of toy products with the right connections. Of course, they required toy engineers. Then, they had to convince a buyer to place her on a shelf for children to take home.
+The crafting of Sky Dancers required significant industry experience. Needed were independent inventors with a distinct artistic style and long-time insiders of toy products with the right connections. Of course, they required toy engineers. Then, they had to convince a buyer to place her on a shelf for children to take home.
 
-A thirty-minute write-up outlined the birth of the product, a flying doll with wings wearing elegant attire and adorning beaming, beautiful eyes.
+Marshall Sella’s thirty-minute write-up outlined the birth of the product, a flying doll with wings wearing elegant attire and adorning beaming, beautiful eyes.
 
 But it was half her story because sometimes, she'd punch out.
 
@@ -32,7 +32,7 @@ But it was half her story because sometimes, she'd punch out.
 
 **SKY DANCERS WERE** "a large series of ballerina-style dolls with foam wings under their arms, plus a launcher or stand. When the string on the launcher was pulled, the doll would spin away with their wings opening to catch a flight," said [Kelsie Lee](https://shows.acast.com/deep-nerder) of the Deep Nerder podcast.
 
-In the early 1990s, John Gentile of Abrams-Gentile Entertainment had this vision while observing his daughters play under the New Jersey maple trees. His nascent love of Whirlybirds and his study of other modern flying toys motivated him.
+In the early 1990s, John Gentile of Abrams-Gentile Entertainment had a vision while observing his daughters play under the New Jersey maple trees. His nascent love of Whirlybirds and his study of other modern flying toys motivated him.
 
 It wasn't a new idea, as [Ideal](https://en.wikipedia.org/wiki/Ideal_Toy_Company), [Mattel](https://en.wikipedia.org/wiki/Mattel), and others had sold helicopter toys for boys. Those old enough to remember these playthings recall their call sign *Verti*, meaning "to be turned" in Latin.
 
@@ -40,25 +40,25 @@ And by no means were they looking for girl pilots.
 
 ![The [original commerical](https://www.youtube.com/watch?v=qjgYy1KXkYw) of Sky Dancers.](images/88-02.gif)
 
-But Mr. Gentile brought back some maple sapling seedlings of an aerodynamic nature, convincing his allies to take the vision to flight. Add grace, style, and thoughts of his daughters - he had the concept of Sky Dancers.
+But Mr. Gentile brought back some maple sapling seedlings of an aerodynamic nature, convincing his allies to take the vision to flight. Add grace, style, and thoughts of loved ones-he born the concept of Sky Dancers.
 
-Mr. Gentile was one-third of [Abrams-Gentile Entertainment](http://www.agebrands.com/index.html), and Sky Dancers was a line of flying dolls with a ripcord on a stylized launcher. She was an intricate device - a first in Toyland.
+To deliver the magic, John brought the concept to his shared business. Mr. Gentile was one-third of [Abrams-Gentile Entertainment](http://www.agebrands.com/index.html), and Sky Dancers was a line of flying dolls with a ripcord on a stylized launcher. She was an intricate device - a first in Toyland.
 
-Mr. Gentile had his associates, brother Andrew and Marty Abrams, a toy trade veteran, take his licks from the leading defunct toy company, [Mego Corporation](https://en.wikipedia.org/wiki/Mego_Corporation).
+Mr. Gentile had his associates, brother Andrew and Marty Abrams, a toy trade veteran, take his licks from the leading defunct toy company, [Mego Corporation](https://en.wikipedia.org/wiki/Mego_Corporation). All three made her happen.
 
 "Anyone who has ever spoken of him describes Marty as a born salesman and marketing whiz," said Scott Adams of a Mego Corp [history write-up](https://www.megomuseum.com/catalog/index.shtml).
 
-Gentile's AGE team was an invention and branding company. They had no resources to move her to production, so they shopped companies with the know-how. Companies passed on her, but Galoob, a San Francisco toy company running off the cash of [MicroMachine's](https://en.wikipedia.org/wiki/Micro_Machines) success, was interested.
+Gentile's AGE team was an invention and branding company. They had no resources to move her to production, so they shopped for companies with the know-how. Companies passed on her, but Galoob, a San Francisco toy company running off the cash of [Micro Machine's](https://en.wikipedia.org/wiki/Micro_Machines) success, was interested.
 
-Gary Niles, a man within Galoob, "a uniquely creative guy," made it happen.
+Gary Niles, a man within Galoob, "a uniquely creative guy," made the connection.
 
-"She looked like a scene from the Crucifixion. She was stiff and ugly, but the concept was there," said Gary to Mr. Stella. He handed the concept to marketer Scott Masline to kick off marketing, prototyping, and testing.
+"She looked like a scene from the Crucifixion. She was stiff and ugly, but the concept was there," said Gary to Mr. Stella. And he handed the concept to marketer Scott Masline to kick off marketing, prototyping, and testing.
 
-Everyone in her story served time in the former Top Toy Gun University, Mattel. Scott and Gary were both alum.
+Everyone in her story served time in the former Top Toy Gun University, Mattel. Scott and Gary were both alumni.
 
 AGE and Galoob spent time developing the new vertical product through numerous talented engineers and artists. "John Gentile dubbed the dolls 'Twirlies.'" But the name wouldn't stick. Instead, the team called them Sky Dancers. The sleek ballerinas were cast in illustration by Marlene Dantzer. Kathy Bleser crafted the associated 'Barbie' face, and Shelley Daniels sculpted her.
 
-Kathy painted those faces for Mattel generations ago, and this followed a trend of know-how. Endless lines of ex-Mattel veterans made her fly both in fashion and technology.
+Kathy painted Barbie faces for Mattel generations ago, and this followed a trend of know-how. Endless lines of ex-Mattel veterans made her fly both in fashion and technology.
 
 And Sky Dancers had an intriguing engineering story. Hints foreshadowed the product's peril, even in Mr. Sella's write-up. Every attempt was made to ensure safety, with foam wings and executives reminding the engineers of safety measures.
 
@@ -78,7 +78,7 @@ But before Galoob was cast in toy aviation history, AGE shopped the product to [
 
 "Hasbro, too, was all smiles but clung to the belief that being able to fly was primarily a male fantasy and rejected Sky Dancers on the spot." Galoob took a progressive stance, a bet they cashed in on.
 
-And so she was crafted and shipped en mass.
+And so she was crafted and shipped en masse.
 
 AGE fanned out a full-production cartoon series by [Gaumont](https://en.wikipedia.org/wiki/Gaumont_Film_Company) in 1996 and a McDonald's Happy Meal tie-in. Then, there was the board game, outfitting, Macy's Thanksgiving parade balloons, costumes, activity books, and other merchandising.
 
@@ -86,7 +86,7 @@ But in time, Galoob's safety measures wouldn't hold up with the CPSC, a governme
 
 ![A logo splash of the Sky Dancers cartoon animated series from 1996.](images/88-04.gif)
 
-In any case, Sky Dancers became the most successful girls' toy in the mid-1990s, selling tens of millions of units until the turn of the century. They came close to outrunning Barbie herself, just as Galoob Micro Machines, little miniature cars, outshot Mattel's Hot Wheels for a time.
+In any case, Sky Dancers became the most successful girls' toy in the mid-1990s, selling tens of millions of units until the turn of the century. Almost outrunning Barbie herself, Galoob Micro Machines, little miniature cars, outshot Mattel's Hot Wheels for a time.
 
 Her success was twenty years after [Derry Daring](https://www.facebook.com/watch/?v=669232310317421), a female motorcycle rider described by Ideal Toy as "Evel Knievel's friend." She was the first known female action figure to command a powerful machine - a motorcycle at a mass scale.
 
@@ -94,11 +94,11 @@ Syndicated Columnist Sara Eckel wrote, "Derry never made it to the big time-Sky 
 
 ---
 
-## They Sold So Well Galoob Pilot Errored its Complaints
+## Galoob Pilot Errored Her Complaints
 
 **"YOU ABSOLUTELY CANNOT** ground this doll. She will fly again. She's like a phoenix, rising from the ashes."
 
-Youtuber Joey from the channel [Beauty Inside A Box](https://www.youtube.com/@BeautyInsideABox) broke down the history and legacy of Sky Dancers. This author believes the video is the best-researched historical narrative on the toy, with [The Jewel Riders Archive](https://www.jewelridersarchive.com/sky-dancers/) taking the award for best artwork collection.
+To a modern audience, Youtuber Joey from the channel [Beauty Inside A Box](https://www.youtube.com/@BeautyInsideABox) broke down the history and legacy of Sky Dancers. This author believes the video is the best-researched historical narrative on the toy, with [The Jewel Riders Archive](https://www.jewelridersarchive.com/sky-dancers/) taking the award for best artwork collection.
 
 In October 1998, Galoob, the third-largest toy company in America, agreed to a buyout from Hasbro for 220 million dollars.
 
@@ -110,25 +110,25 @@ Star Wars was a sought-after property after their original toy success by Kenner
 
 Importantly, Hasbro acted so that "buying the company [Galoob] kept them from Mattel, which also had been bidding to buy the San Francisco-based firm," found within the book *[Kid Number One: Alan Hassenfeld and Hasbro](https://www.amazon.com/Kid-Number-One-Hassenfeld-Hasbro/dp/1950339203)*, written by G. Wayne Miller.
 
-Mattel and Hasbro were the two largest toy companies in the world. Mattel had all the engineering know-how. Sky Dancer's execution resulted from their veterans through the third company, Galoob.
+At the time, Mattel and Hasbro were the two largest toy companies in the world. Mattel had all the engineering know-how. Sky Dancer's execution resulted from their veterans through the third company, Galoob.
 
-After acquiring other toy firms, Hasbro was playing the long game of Hollywood entertainment licensing, first partnering with Steven Spielberg and eclipsing Mattel at this time. There were hints that Mattel was bidding for Galoob, too, which they lost out on.
+After acquiring other toy firms, Hasbro played the long game of Hollywood entertainment licensing, first partnering with Steven Spielberg and eclipsing Mattel at this time. There were hints that Mattel was bidding for Galoob, too, which they lost out on.
 
 With the Sky Dancers brand in Galoob's portfolio, Hasbro audits of the company files made a shocking discovery. They found that from January 1995 to November 1998, Galoob had incurred 165 reports of child injury from the doll.
 
 On November 18, 1998, Hasbro picked up the phone and "made a telephone report [of the problem]," the [Consumer Product Safety Commission](https://www.cpsc.gov/) reported. Hasbro was caught in the act of doing the "right thing."
 
-It remained unclear if there was a cover-up. Given the reported injuries, Hasbro wanted to keep its distance, devising plans to devest the toy brand.
+It remained unclear if there was a cover-up. Given the reported injuries, Hasbro wanted to keep its distance, devising plans to divest the toy brand.
 
 ![A vivid windmill on the tarmac, she's a production Sky Dancer, originally run circa 1994.](images/88-06.jpeg)
 
-"I really wanted to buy an original Sky Dancer to show you in this video, but unfortunately, they are really hard to find online, [and] incredibly rare. When they get posted on eBay, quite often the listing gets taken down because they are unsafe," said Joey.
+Decades later, she remained hard to find originals. "I really wanted to buy an original Sky Dancer to show you in this video, but unfortunately, they are really hard to find online, [and] incredibly rare. When they get posted on eBay, quite often the listing gets taken down because they are unsafe," said Joey.
 
 Reports were filed with the CPSC between November 1998 and April 1999, confirming the actions. A later report from the CPSC said, "Galoob obtained information which reasonably supported the conclusion that the Sky Dancers contained defects which could create a substantial product hazard but failed to report to the Commission in a timely manner - ."
 
 A year of legal process went by. On June 28, 2000, Galoob voluntarily recalled all known Sky Dancers products. Galoob estimated that 8.9 million units existed, which had the potential to cause injury, violating CPSA law.
 
-Every product labeled "Sky Dancers" was recalled, and the air boss, CPSC, took her license away from U.S. skies.
+Every product labeled "Sky Dancers" was yanked, and the air boss, CPSC, took her license away from U.S. skies.
 
 "Galoob denies that Sky Dancers or Galoob has caused any injuries. Galoob further denies that it or Hasbro violated the reporting requirements," but they agreed to pay a fine, continuing with the recall.
 
@@ -148,7 +148,7 @@ In her thirty-year wake, today's YouTubers describe every variation of the Sky D
 
 Internet armchair commentary on her history remains competent and measured. For example, Reddit threads contain memes crossed with safety punditry. "The QA team failed to catch this in testing because they always wore protective glasses anyway," said one user.
 
-Indeed, it is a near-miss in this narrative, as we will see.
+Indeed, it was a near-miss in this narrative, as we will see.
 
 ---
 
@@ -158,7 +158,7 @@ Indeed, it is a near-miss in this narrative, as we will see.
 
 Cristine from Simply Not Logical, a significant YouTuber of a generation, was unsure what to make of her while [reliving toy memories](https://www.youtube.com/watch?v=Yw2fFL5QVlo).
 
-Since the early 2000s, Hasbro dumped her in the aviation boneyard. Aggressive toy companies attempting to make a name have carried the AGE brand. Knock-offs have recently appeared in the toy market after her original patent expired but infringe on the Sky Dancers trademark.
+Since the early 2000s, Hasbro dumped her in the aviation boneyard. Aggressive toy companies attempting to make a name have carried the AGE brand. Knock-offs have recently appeared in the toy market after her original patent expired, infringing on the Sky Dancers trademark.
 
 Regardless of brand, she is called a Sky Dancer if she has wings and flies elegantly.
 
@@ -166,13 +166,13 @@ Regardless of brand, she is called a Sky Dancer if she has wings and flies elega
 
 Sky Dancers created a generation of children who call their subsequent successors by their mistaken original name, a term cultural linguists call "genericization."
 
-In 2013, [Spin Master](https://en.wikipedia.org/wiki/Spin_Master), a Canadian toy company that has since gained traction to compete with Hasbro and Mattel, launched [Flutterbye Fairys](https://stuffparentsneed.com/opened-fluterbye-fairy-experience-owning-popular-toy/). Unlike the original Sky Dancers, the product launches with the push of a button from a base.
+In 2013, [Spin Master](https://en.wikipedia.org/wiki/Spin_Master), a Canadian toy company that has since gained traction competing with Hasbro and Mattel, launched [Flutterbye Fairys](https://stuffparentsneed.com/opened-fluterbye-fairy-experience-owning-popular-toy/). Unlike the original Sky Dancers, the product launches with the push of a button from a base.
 
-It is guaranteed that no one will call the product by Spin Master's branding. These "Sky Dancers" made headlines in a family's 2013 Christmas video. She went right into a family's fireplace.
+It is guaranteed that no one will call the product by Spin Master's branding. These "Sky Dancer," of which Internet users incorrectly label, made headlines in a family's 2013 Christmas video. She went right into a family's fireplace.
 
 In response, a top [Reddit post](https://www.reddit.com/r/funny/comments/2kcyzo/poor_kid/) said, "That's what I call a Barbieque [sic]," further confusing brand names. Sky Dancers somehow secured a remarkable feat of a lasting legacy in this event.
 
-Today, [secondary products](https://www.youtube.com/watch?v=nnG3p592D_Q) sell alongside the official ones. The Sky Dancers brand persists in different countries, with the latest iteration, in 2022, by the French toymaker [Lansay](https://peopleofplay.com/company/lansay).
+Today, [secondary products](https://www.youtube.com/watch?v=nnG3p592D_Q) sell alongside the official ones. The Sky Dancers brand persists in different countries, with the latest iteration by the French toymaker [Lansay](https://peopleofplay.com/company/lansay).
 
 ![An infamous video of a Spin Master Flutterbye meeting its demise. Updraft and low pressure did her in.](images/88-09.gif)
 
@@ -210,7 +210,7 @@ He was the responsible leader for crafting its household name to now middle-aged
 
 But in late June 1991, he abruptly left, setting up toy consultant services, remaining close to the toy game and Galoob. Of course, he was aware of Sky Dancers among his contacts. So, "[consultation](https://www.nytimes.com/1991/06/29/business/business-people-new-president-chosen-at-lewis-galoob-toys.html)" occurred through their Toy Concepts Group.
 
-![The Sky Dancers [original patent](https://patents.google.com/patent/US9216363B2/en), which combines a launcher and flying figure.](images/88-11.jpeg)
+![The Sky Dancers [original patent](https://patents.google.com/patent/US5525086A/en), which combines a launcher and flying figure.](images/88-11.jpeg)
 
 In 1993, select Galoob executives gathered in a conference room with David. One of the designers took the newest variation and explained the vision: *the elegance, beauty, and intrigue of how girls can take flight*.
 
@@ -244,11 +244,11 @@ But the story is cast in a legacy that no one could see at the time, nor anyone 
 
 "*Wear safety glasses.*"
 
-And in this toy legend, Mr. Galoob was fortunate - wearing his signature prescription spectacles.
+And in this toy legend, Mr. Galoob was fortunate - wearing his signature prescription spectacles. And the engineer absent was Bill Kelley, an inventor was not listed on the Sky Dancer patent.
 
 ---
 
-In the decades since Mr. Gentile's vision, Sky Dancers have created graceful mayhem. Prototypes #1 and #2 were smartly adorned with aero engineering tattoos for history toy books, which no one remembered.
+In the decades since Mr. Gentile's vision, Sky Dancers have created graceful mayhem. Prototypes #1 and #2 were smartly adorned with aero safety tattoos for history toy books, thus written by Mr. Kelley.
 
 Her body art proved Galoob's efforts to make the toy right, safe, and fun. The ink, her original battle cry, is a legacy written on the toy itself, and she will forever be part of obscure American toy history, proliferated globally.
 
