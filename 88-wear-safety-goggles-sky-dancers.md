@@ -38,7 +38,7 @@ It wasn't a new idea, as [Ideal](https://en.wikipedia.org/wiki/Ideal_Toy_Company
 
 And by no means were they looking for girl pilots.
 
-![The [original commerical](https://www.youtube.com/watch?v=qjgYy1KXkYw) of Sky Dancers.](images/88-02.gif)
+![The [original commercial](https://www.youtube.com/watch?v=qjgYy1KXkYw) of Sky Dancers.](images/88-02.gif)
 
 But Mr. Gentile brought back some maple sapling seedlings of an aerodynamic nature, convincing his allies to take the vision to flight. Add grace, style, and thoughts of loved ones-he born the concept of Sky Dancers.
 
@@ -248,7 +248,7 @@ And in this toy legend, Mr. Galoob was fortunate - wearing his signature pre
 
 ---
 
-In the decades since Mr. Gentile's vision, Sky Dancers have created graceful mayhem. Prototypes #1 and #2 were smartly adorned with aero safety tattoos for history toy books, thus written by Mr. Kelley.
+In the decades since Mr. Gentile's vision, Sky Dancers have created graceful mayhem. All along, prototypes #1 and #2 were smartly adorned with aero safety tattoos for history toy books, thus written by Mr. Kelley.
 
 Her body art proved Galoob's efforts to make the toy right, safe, and fun. The ink, her original battle cry, is a legacy written on the toy itself, and she will forever be part of obscure American toy history, proliferated globally.
 
