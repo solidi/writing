@@ -22,7 +22,7 @@ As I put my son to bed, I had to understand Hot Wheels *deeply*. That set me on 
 
 ## Stowed & Gone, Now Back Again
 
-**THE HOT WHEELS STO & GO** sets by [Mattel, Inc.](https://en.wikipedia.org/wiki/Mattel) have a long history of toy-making that deserves eyeballs. I've encountered [many collapsable products](https://hotwheels.fandom.com/wiki/Sto_%26_Go) which unpack unique play themes. As a premium Hot Wheels accessory, each flavor appeared in [Wishbooks](http://christmas.musetechnical.com/) and on toy shelves throughout the 1980s. Then, technological evolution, the Internet, and [remote work arose](https://medium.com/@solidi/the-world-i-worked-into-no-longer-exists-732659963058).
+**THE HOT WHEELS STO & GO** sets by [Mattel, Inc.](https://en.wikipedia.org/wiki/Mattel) have a long history of toy-making that deserves eyeballs. I've encountered [many collapsible products](https://hotwheels.fandom.com/wiki/Sto_%26_Go) which unpack unique play themes. As a premium Hot Wheels accessory, each flavor appeared in [Wishbooks](http://christmas.musetechnical.com/) and on toy shelves throughout the 1980s. Then, technological evolution, the Internet, and [remote work arose](https://medium.com/@solidi/the-world-i-worked-into-no-longer-exists-732659963058).
 
 ![The Hot Wheels City and [Service Center](https://www.vault1541.com/2017/09/youtube-hot-wheels-service-center.html) Sto & Go from the JCPenney Wishbook 1981. Source: [musetechnical](https://christmas.musetechnical.com/ShowCatalogPage/1981-JCPenney-Christmas-Book/0473)](images/69-03.jpeg)
 
@@ -110,7 +110,7 @@ What is so mind-bending about the journey of the Sto & Go is its quiet inventive
 
 While the Sto & Go delivers peak [mechanical](https://www.howacarworks.com/advanced-driving/sympathy-and-understanding) toy craft, the playset has received little attention in the literature within the tune of "Southern California Car Culture" and the "[Sweet Sixteen](https://hotwheels.fandom.com/wiki/List_of_1968_Hot_Wheels)" (the original line of cars launched in 1968). But these bold plastic boxes invoke memorable Internet posts, "*Memory unlocked. This was great.*"
 
-Only a product like Sto & Go could be [ultrasonically welded](https://en.wikipedia.org/wiki/Ultrasonic_welding) and friction-fitted within. Thousand of creatives built, [defended](https://www.imdb.com/title/tt1754780/), demoed, and released their toys and protected their IP for decades before software became *creative*. Big tech still wasn't big tech. The Sto & Go was a part of this elective Le Mans, crafted by artists and engineers, and they responded.
+Only a product like Sto & Go could be [ultrasonically welded](https://en.wikipedia.org/wiki/Ultrasonic_welding) and friction-fitted within. Thousands of creatives built, [defended](https://www.imdb.com/title/tt1754780/), demoed, and released their toys and protected their IP for decades before software became *creative*. Big tech still wasn't big tech. The Sto & Go was a part of this elective Le Mans, crafted by artists and engineers, and they responded.
 
 ## The Bell Goes Ding-Ding on the Sto & Go
 
@@ -196,7 +196,7 @@ In a funny aside, the decal that says "Mike's Transmissions" was an inside joke 
 
 ![Sto & Go Service Center included the [Hot Bird](https://hotwheels.fandom.com/wiki/Hot_Bird). [Jason Hervey](https://www.imdb.com/name/nm0381155/) was in its [TV commercial](https://www.youtube.com/watch?v=RPeC55RV5wM). Did you know the filming took place in the [house](https://www.imdb.com/title/tt0075500/) that gave the [Karate Kid](https://www.imdb.com/name/nm0001494/) his future break?](images/69-26.gif)
 
-Fitting to context, this was all happening during the 1979 [oil crisis](https://en.wikipedia.org/wiki/1979_oil_crisis). Mike remembered luring creative feedback at his drafting board. He formed a long line of cars down the hall at Mattel, waiting at the incomplete Service Center for pretend gas. Although hydrocarbons were rationed outside, the Sto & Go iconic bell rang at his prototype, and conversations flowed inside (perhaps Mike was checking *department* plates?).
+Fitting to the context, this was all happening during the 1979 [oil crisis](https://en.wikipedia.org/wiki/1979_oil_crisis). Mike remembered luring creative feedback at his drafting board. He formed a long line of cars down the hall at Mattel, waiting at the incomplete Service Center for pretend gas. Although hydrocarbons were rationed outside, the Sto & Go iconic bell rang at his prototype, and conversations flowed inside (perhaps Mike was checking *department* plates?).
 
 ![From playset enthusiast GiggleBlaggle Toys, [7.5 million people have viewed its unboxing video](https://www.youtube.com/watch?v=TDn9Yh3hG3E)-unique briefcase latch design.](images/69-27.gif)
 

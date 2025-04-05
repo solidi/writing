@@ -72,7 +72,9 @@ As a first volume, *Undercover Toy Stories* is an outlier for those who want to 
 
 While many toy stories are mundane, the tales in this book are intriguing and rare. They were brought together with research and determination to tell the account as it was, curated by fascination.
 
-*Undercover Toy Stories* salutes the toy maker's craftwork from the perspective of a child who experienced it, memorializing their passion forever in writing. And these works are dedicated to Mom, who encouraged this author to seek truth.
+And until the 1980s, reproduction of patents was difficult, therefore sketches are black lines on white background tradition remains, drawn by legions of unaccredited artists.9 This book silently salutes them through sharing their illustrations.
+
+*Undercover Toy Stories* salutes the toy maker's craftwork from the perspective of a child who experienced it, memorializing their passion forever in writing. And these essays are dedicated to Mom, who encouraged this author to seek truth.
 
 D. Arcuri  
 From a dining room table  

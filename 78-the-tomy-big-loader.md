@@ -51,7 +51,7 @@ In Europe, [Palitoy](https://en.wikipedia.org/wiki/Palitoy) resold the line thro
 
 The toy was successful in numerous iterations. It appeared in the US from 1977 to 1982, then again from 1989 through 1993.
 
-There was also that time in 1991 when TOMY could not meet the holiday demand of the Big Loader. Newspapers apologized to their readership. *Newsday* wrote, "[The Big Loader] will not be available due to the manufacturer's inability to ship."
+There was also that time in 1991 when TOMY could not meet the holiday demand of the Big Loader. Newspapers apologized to their readers. *Newsday* wrote, "[The Big Loader] will not be available due to the manufacturer's inability to ship."
 
 ---
 
@@ -109,7 +109,7 @@ But somehow, the Big Loader captured everyone for a moment in time.
 
 "I had one guy come in here and buy it for his bar. See, you don't even have to have a kid to buy a toy at Christmas," said Mr. Kosofsky, owner of a toy store, to reporter Stephaine Sevick of *Record-Journal*.
 
-It was at this time a bridge between the East and West was re-stablished, through toys.
+It was at this time a bridge between the East and West was re-established, through toys.
 
 ---
 

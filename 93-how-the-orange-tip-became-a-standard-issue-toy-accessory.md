@@ -97,7 +97,7 @@ David then signaled to the committee to hand him a pair of TAC-9s. An assistant 
 
 Mr. Horowitz held on to an [Entertech](https://en.wikipedia.org/wiki/Entertech) water gun in one hand and a real weapon in the other.
 
-"One of these are fake, and one is real. I mean, in any detail, if a police officer were looking down the barrel of this weapon, would they use the ultimate force and shoot?"
+"One is real and one is a replica-I mean, in any detail, if a police officer were looking down the barrel of this weapon, would they use the ultimate force and shoot?"
 
 ![**ACTUAL TESTIMONY** - The recorded dialogue between representatives and invitees can be found in congressional documents. Excerpts and edits, including those of Mr. Horowitz, were relayed in this write-up.](images/93-05.jpeg)
 

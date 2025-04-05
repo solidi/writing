@@ -619,9 +619,9 @@ Elliot took his coffee from the stewardess who had served him fifteen minutes ea
 
 "God damn it, how is it not staying on the track?"
 
-Ryan was fiddling with one of his toys at his castle-a mansion he purchased years prior. It was his forever project, and Ryan dumped money from his royalties into castle construction.
+Ryan was fiddling with one of his toys at his castle-a mansion he purchased years prior. It was his forever project, and Ryan invested money from his royalties into castle construction.
 
-It was now the 1970s, and culture was swinging. Jack was working on toys on contract. He was fiddling with slot cars for the [Ideal Toy company](https://medium.com/@solidi/the-great-marvin-glass-artists-in-a-fortress-of-invention-08e6a6da3399).
+It was now the 1970s, and culture was swinging. Jack was working on toys on contract. He was wrenching with slot cars for the [Ideal Toy company](https://medium.com/@solidi/the-great-marvin-glass-artists-in-a-fortress-of-invention-08e6a6da3399).
 
 ![Jack's later TCR trackless slot cars, with ex-engineers from Mattel, now working for him.](images/92-27.jpeg)
 
@@ -637,19 +637,19 @@ An intercom buzzed: "Jack, the film crew is here." Jack stumbled down the long s
 
 Filming started in his signature tan suit.
 
-"Hello, I'm Jack Ryan; I'm an inventor, and I'm reassembling a castle here in Bel Air."
+He smiled and said, "Hello, I'm Jack Ryan; I'm an inventor, and I'm reassembling a castle here in Bel Air."
 
 Jack took the film crew on a tour. He demonstrated his pride as they climbed up into his tree house - before them, the Optigan synthesizer.
 
-The optical organ, or "Optigan," was a collection of inventors' works that solved Jack's main problem: his inability to play an instrument. While not his original thinking, Jack applied Hollywood silver screen technology, the same as sound in a theater.
+The optical organ, or "Optigan," was a collection of inventors' works that solved Jack's main problem: his inability to play an instrument. While not his original thinking, Jack applied Hollywood Silver Screen technology—how a film projector played sound in a theater.
 
 Ryan was the definition of a genius. He understood that genius meant identifying the similarities from the dissimilar. In between, he borrowed to solve the problems at hand. The Optigan was another application of this fusion.
 
 And Jack was always the center of the theatre. The Optigan's initial vision was from Elliot, and a team of engineers made it happen, partnering with Jack.
 
-![Jack Ryan's optigan patent, with engineers assisting Elliot's vision. A clip on YouTube is available.](images/92-28.jpeg)
+![Jack Ryan's Optigan patent, with engineers assisting Elliot's vision. A clip on YouTube is available.](images/92-28.jpeg)
 
-And now, with a loaded track on an optical disc and pushes of buttons, a bassa nova beat played. "Umpa Umpa Umpa," as Jack hit buttons.
+And now, with a loaded track on an optical disc and pushes of buttons, a bossa nova beat played. "Umpa Umpa Umpa," as Jack hit buttons.
 
 "I can't really play. That's why I invented it," said Ryan. He keyed simple melodies for the TV crew, smiling like a child.
 
@@ -669,7 +669,7 @@ Ryan had a cup of coffee in the other hand and was taking a sip. "Damn, still co
 
 "The only thing cold in this relationship is your royalties," said Zsa Zsa.
 
-Jack agreed. The royalties on his toy inventions were drying up, and the Handlers needed time to catch up on payments. And so the lawsuit started.
+Jack agreed. The royalties on his toy inventions were drying up, and the Handlers needed time to catch up on payments. And so his lawsuit started against Mattel.
 
 One "project" more significant than Zsa Zsa, which was draining his dwindling bank accounts, was his unfinished castle project.
 
@@ -685,27 +685,27 @@ Some of his UCLA assistants bunked above the garage and overheard the fallout.
 
 ---
 
-*The Optigan was set up and sold by a subsidiary of Mattel. It would only last a few years before the debt sealed its fate by the mid-1970s.*
+*The Optigan was set up and sold by a subsidiary of Mattel. It would only last a few years before the debt sealed its fate by the mid-1970s. Its legend included a business leader who didn’t have the courage to end the project when it made sense.*
 
 ---
 
-Arthur Spear, 54, Mattel's manufacturing SVP, sat at a conference table with other bankers and investors surrounding him.
+Arthur Spear, 54, Mattel's manufacturing SVP, sat at a conference table with other bankers and board members surrounding him.
 
 Arthur looked quite old, with very little hair on his long forehead and a distinct jaw. His lower left of his face had a distinct cut.
 
 "Okay, what do you propose to save this heap?" said Arthur.
 
-One of the bankers looked at him. "We need to save this ship. This company is a gold mind, but there were missteps in the past few years."
+One of the bankers looked at him. "We need to save this ship. This company is a gold mine, but there were missteps in the past few years."
 
-"The group did in this company - sales with buy and hold. Lying to stockholders on quarterly sales until the bottom dropped out."
+One banker shot back. "The group did in this company - sales with buy and hold. Lying to stockholders on quarterly sales until the bottom dropped out."
 
-Arthur said, "Yes, of course, we know this -I was in the suit too- and so do you all have a plan for righting the ship?"
+Arthur said, "Yes, of course, we know this -I was in the mess too- and so do you all have a plan for righting the ship?"
 
 ![A headline from March, 1973.](images/92-30.jpeg)
 
 One investor put their cup of coffee on the table - and so did all the others in the room. All stared at him.
 
-"Me?" Said Arthur. They all started to shake their heads.
+"Me?" said Arthur. They all started to shake their heads.
 
 Arthur sighed. "It wouldn't be my first time dealing with crisis management. But this one - is going to take a complete miracle."
 
@@ -713,11 +713,11 @@ Arthur thought of his children for a moment - and the joy their toys brought
 
 An assistant was giving refreshments as the business people spoke - and Mr. Spear took hold of his new coffee and sipped, which was somewhat lovely.
 
-Mr. Spear shook his head. He was at Mattel since 1964.
+Mr. Spear shook his head. He started at Mattel in 1964.
 
 "Okay, I'll do it. I've always believed in the Handler vision, but we will do a few things differently here. It's time to create a plan to carve out what needs to be carved-and we must push hard on off-shoring."
 
-He said, "Global 'good' things." The investors chuckled.
+He said, "Global 'good' things." The investors chuckled. They knew they had their next leader.
 
 Mr. Spear was a manufacturing genius originating from New York. He worked for Revlon at one time.
 
@@ -749,6 +749,8 @@ Without Arthur, Mattel would have ceased operations by the mid-1970s - endin
 
 If so, they could have been Ideal's or, interestingly, Hasbro's.
 
+Art Spear looked back up, being startled. “Oh Ruth, you made it? Welcome back.” Out of nowhere, Ruth sat down, and spoke briefly to Art. 
+
 ---
 
 Judge Takasagi looked over the consul of Ruth Handler and Seymor Rosenberg, both looking sad.
@@ -759,13 +761,13 @@ The defendants were at their sentencing - convicted of mail fraud, among oth
 
 By 1975, most employees had lost their jobs, and Mattel no longer had any of their founders: Ruth, Elliot, and their engineer, Jack.
 
-But a toy miracle happened, and the company found a way to survive. They were saved by Arthur Spear -an MIT grad and Army Corpsman -who went on to places like Revlon.
+But a toy miracle happened, and the company found a way to survive. They were saved by Arthur Spear.
 
-To save Mattel, Arthur had to undermine and sabotage Ruth with new investors in a clandestine fashion. Some see him as the ultimate business villain. But he may be a hero to the hundreds of millions of children.
+To save Mattel, Arthur had to undermine and sabotage Ruth with new investors in a clandestine fashion. Some see him as the ultimate business villain. But he may be a hero to hundreds of millions of children.
 
 Arthur directly observed human drama- while conducting business - too.
 
-Ruth looked up at the bench. She cringed. Elliot, clear of any charges from a polygraph years earlier, sat in the gallery behind her.*
+Ruth looked up at the bench. She cringed. Elliot, clear of any charges from a polygraph years earlier, sat in the gallery behind her. He was determined to be too involved in making toys, and not enough time in business dealings.*
 
 ![Two Are Sentenced In Mattel Toy Case](images/92-32.jpeg)
 
@@ -867,9 +869,9 @@ And he fell back into a stupor, dreaming about how the coffee cup could change t
 
 ![Ryan from the Palm Beach Daily News in 1983. Another from later that decade, his rumored "Ultra Cup" was found in at least one independent resource.](images/92-34.jpeg)
 
-The businesspeople looked at each other, not taking him too seriously. Being cracked out was now Jack's style. One person imitated his stupor, opening his mouth like a corpse as they chuckled.
+The business people looked at each other, not taking him too seriously. Being cracked out was now Jack's style. One person imitated his stupor, opening his mouth like a corpse as they chuckled.
 
-Jack noted and smiled. He raised the bird mightily among the people. They all laughed hard.
+Without looking, Jack noted and smiled. He raised the bird mightily among the people. They all laughed hard.
 
 A person said, "And the name, *Magic Cup*?*... sounds like something from the 1970s. Do we know what to call it for the 80s?" said one.
 
@@ -925,7 +927,7 @@ Ruth crumpled the letter to Dr. Harris and threw it across the room. She held a 
 
 And lots of things happened at her kitchen table. Ruth picked up the phone and called a friend as she continued to inspect the new Ken doll.
 
-And in time, Ruth was accepted back into Mattel.
+And in time, Ruth was accepted back into Mattel by a friend who looked up to her.
 
 ---
 
@@ -943,7 +945,7 @@ A man said, "Ah, f -. " looking over a body and feeling the uncanny.
 
 While most days Jack was parked in bed due to his debilitating stroke - this time, he lay quietly on the floor. A chief detective looked over the crime scene. Jack had put a gun in his mouth and ended his life.
 
-Jack unalived himself by gun. Jack couldn't eat or drink alone as it took away his last abilities. But somehow, he found a will to end it.
+Jack couldn't eat or drink alone as it took away his last abilities. But somehow, he found a will to end it. Jack unalived himself by gun. 
 
 The detective with a mustache bent down and looked over him; a gold shield hung from his belt. He noted Jack's position and scene specifics.
 
@@ -951,7 +953,7 @@ The detective with a mustache bent down and looked over him; a gold shield hung 
 
 The chief detective sipped his coffee from a small paper cup. He looked up at the mirror, which had blood and matter washed red onto the wall.
 
-"I Love You," said the detective. "And I don't know how to read Polish."
+"I Love You," the detective said. "And I don't know how to read Polish."
 
 He let out a sigh. "My coffee is cold again."
 
@@ -959,11 +961,11 @@ And so was Jack. He was there for hours, alone.
 
 Parts of mock-ups and incomplete toys lay bare in his bedroom. So, too, the Ultra Cup parts scattered around the crime scene. If Jack had time, he could have perfected the invention, but his body failed him.
 
-Jack exited his body into the expansive toy universe.
+Instead, Jack exited his body into the expansive toy universe.
 
 ![From the Los Angeles times, Jack Ryan died in 1991.](images/92-36.jpeg)
 
-The detective picked up pieces of toys: an prototype Hot Wheels car and an old '59 Mattel Derringer. He gripped each hand tightly and shook his head.
+The detective picked up pieces of toys: a prototype Hot Wheels car and an old '59 Mattel Derringer. He gripped each hand tightly and shook his head.
 
 "... is this the guy who made my childhood?" muttered the detective.
 
@@ -973,7 +975,7 @@ Looking at the vanity, a worn black-and-white photo from the 1950s stood out. It
 
 Jack grinned toward a glorious future.
 
-In the debaucherous notes of all other authors who ever wrote about Jack, they failed to mention one thing- Jack Ryan, aged 64 and 275 days, died clean of drugs and alcohol.
+In the debaucherous notes of all other authors who ever wrote about Jack, they failed to mention one thing- Jack Ryan, aged 64 and 275 days, died clean of drugs and alcohol, a sober but heartbreaking undoing in business history.
 
 ---
 
@@ -1055,7 +1057,7 @@ Elliot butted in. "Jack, I got you a cup of Van Kamps, your favorite," Elliot ex
 
 Ruth said, "I'm about to call Walt about a deal we are working on. It will get us where we need to be - it will be a gamble. We're going all in."
 
-Jack's grin became incredible as two F-102 Delta fighter jets inaudibly roared over the parking lot, equipped with Ryan's radar-seeking sparrow missiles.
+Jack’s grin became incredible as two Northrop F-89 [Scorpion](https://en.wikipedia.org/wiki/Northrop_F-89_Scorpion) fighter jets inaudibly roared over the parking lot, equipped with Ryan’s radar-seeking sparrow missiles and with custom parts from Mattel Engineering Company.
 
 They all looked up.
 

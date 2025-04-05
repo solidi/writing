@@ -181,7 +181,7 @@ In a sense, Ideal's style rubbed off on MGA. Or was it the other way around?
 
 Marvin later "borrowed" Anson from Ideal. He excelled at making toys and had terrific connections. He later joined MGA as a partner, joining Burt, among others.
 
-But at heart, Isaacson was a tinkerer, an craftsman who built model airplanes. Now, he worked in big business but wasn't Marvin Glass. Anson was a numbers man.
+But at heart, Isaacson was a tinkerer, a craftsman who built model airplanes. Now, he worked in big business but wasn't Marvin Glass. Anson was a numbers man.
 
 Bob exchanged pleasantries with the two men and moved on with Pauline, towing Peter with his camera.
 
@@ -259,7 +259,7 @@ Albert was one of those gun guys.
 
 If the folks at MGA were to build these toys, they needed something to imitate. The real thing was best. "We got ideas on toy guns, but I cannot say -," said Keller.
 
-Discerning engineers wanted to hold the real thing. There are stories of pretending toy makers traveling to Toys R Us-and gun stores- to study physical art. Marvin himself watched endless hours of TV to farm for new ideas.
+Discerning engineers wanted to hold the real thing. There are stories of pretend toy makers traveling to Toys R Us-and gun stores- to study physical art. Marvin himself watched endless hours of TV to farm for new ideas.
 
 Al worked on a game of shooting cars that paid homage to Marvin's earlier work and set him on the map-the Hubley "[Ric-O-Shay](https://media.dlib.indiana.edu/media_objects/3r075b197)."
 

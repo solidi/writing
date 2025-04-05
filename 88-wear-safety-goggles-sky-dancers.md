@@ -48,7 +48,7 @@ Mr. Gentile had his associates, brother Andrew and Marty Abrams, a toy trade vet
 
 "Anyone who has ever spoken of him describes Marty as a born salesman and marketing whiz," said Scott Adams of a Mego Corp [history write-up](https://www.megomuseum.com/catalog/index.shtml).
 
-Gentile's AGE team was an invention and branding company. They had no resources to move her to production, so they shopped for companies with the know-how. Companies passed on her, but Galoob, a San Francisco toy company running off the cash of [Micro Machine's](https://en.wikipedia.org/wiki/Micro_Machines) success, was interested.
+Gentile's AGE team was an invention and branding company. They had no resources to move her to production, so they shopped for companies with the know-how. Companies passed on her, but Galoob, a San Francisco toy company running off the cash from [Micro Machine's](https://en.wikipedia.org/wiki/Micro_Machines) success, was interested.
 
 Gary Niles, a man within Galoob, "a uniquely creative guy," made the connection.
 
