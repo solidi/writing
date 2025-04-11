@@ -238,7 +238,7 @@ David quipped. "I'm going to let them return their real guns as I get my toys."
 
 ---
 
-EVENTUALLY, THE GOVERNMENT passed legislation requiring orange markings on toy guns in 1992. However, it came after repeated attempts by interested parties and in written opinions from authors like toy critic [Edward Swartz](https://medium.com/@solidi/the-fisher-price-action-garage-15b6a9556e2a).
+EVENTUALLY, THE GOVERNMENT passed legislation requiring orange markings on toy guns in 1988 as public law 100-615. However, it came after repeated attempts by interested parties and in written opinions from authors like toy critic [Edward Swartz](https://medium.com/@solidi/the-fisher-price-action-garage-15b6a9556e2a).
 
 The Department of Commerce and Consumer Product Safety Commission enforces this law today.
 

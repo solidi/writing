@@ -278,3 +278,10 @@ And while Fisher-Price's retired motto, "Play. Laugh. Grow" persists, the action
 † *Toy safety attitudes continue to evolve. In America, it is up to adults to decide if vintage toys are in their shared toy box and to be mindful of their developmental age ranges.*
 
 ‡ *In 1978, a US federal ban on home lead paint was passed. It also applied to toy goods [based on weight ratio](https://www.cpsc.gov/Newsroom/News-Releases/2009/Nine-Companies-Penalized-for-Selling-Childrens-Products-that-Violated-the-Federal-Lead-Paint-Ban). Prior, the metal was not regulated. In 2017, the yellow plastic in the Action Garage was reported to contain [traces of lead](https://tamararubin.com/2017/11/parking/). This claim and whether the metal is easily absorbed have not been verified.*
+
+
+1970.7: In the 1980s, Fisher Price developed playsets and outdoor iconic toys like the Change-A-Tune Carousel and Bubble Mower. They were designed by an inventor who survived voluntary manslaughter while attending art school.
+
+
+1970.7: The Fisher-Price design patent for its original airplane.53
+Ostrander. R. K. (1971). Toy airplane. (U.S. Patent Des. No. 225,248). U.S. Patent and Trademark Office. https://patents.google.com/patent/USD225248S /en
