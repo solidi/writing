@@ -64,7 +64,7 @@ A sensual stewardess with a proper dress uniform approached them from the aisle.
 
 ![Ryan's [crossover patent](https://patents.google.com/patent/US3026642A/en) covers a toy and a firearm. It is a rare example of patent dual-use and is part of this unbelievable story.](images/92-03.jpeg)
 
-The flight attendant asked, "Would you like a coffee?" Ryan said yes as Elliot passed. Elliot wasn't a drinker, but Jack enjoyed coffee - and dabbled in some vice.
+The flight attendant asked, "Would you like a coffee?" Ryan said yes as Elliot passed. Elliot wasn't a drinker, but Jack enjoyed coffee - and dabbled in vice.
 
 Jack looked over the woman in the aisle and daydreamed. He winked. She smiled.
 
@@ -138,7 +138,7 @@ Jack's [patent](https://patents.google.com/patent/US3026642A/en) was dual-purpos
 
 Yes, the toy had real "Shootin' Shells," accepted "Blast Caps," and the patent even had this:
 
-*"This invention is not to be restricted to use as a toy, but is adaptable for actual police work, whereby an actual firearm may be supported in the device and discharged in the same manner as described above - ."*
+*"This invention is not to be restricted to use as a toy, but is adaptable for actual police work, whereby an actual firearm may be supported in the device and discharged in the same manner as described above . . ."*
 
 Jack took a sip from the cup of coffee. "Ah, it's lukewarm." Jack thought about his immediate problem, thinking of invention. "Yeah, temperature is another problem to tackle. I could mock up a mug device."
 
@@ -571,7 +571,7 @@ Lenny wrote "Urine Battery" on the cup hanging between the two team office space
 
 "And no way I'm gonna put piss in my coffee to make it warm," quibbled Ryan.
 
-Together, they both stared at the spinning fan-like propeller for a time. Ryan took another sip of cold coffee.
+Together, they both stared at the spinning fan-like propeller for a time. Ryan took another sip of cold coffee and said "his prototypes will go to the morgue."
 
 ---
 
@@ -675,7 +675,7 @@ One "project" more significant than Zsa Zsa, which was draining his dwindling ba
 
 Jack was annoyed at a quote from Zsa Zsa on the Merv Griffin show. She said, "Oh, that terrible man. He took my car apart and never put it back together."
 
-He took a sip of his cold coffee.
+He took a sip of his cold coffee as Zsa Zsa’s Rolls Royce sat in pieces.
 
 Soon after Jack sold the castle, Zsa Zsa divorced him; he hosted savage parties of cocaine and shenanigans in animal suits and Tom Jones parties to keep himself afloat.
 
@@ -987,6 +987,22 @@ In the debaucherous notes of all other authors who ever wrote about Jack, they f
 
 ---
 
+“WE’RE SWEATING IT OUT HERE.” A squad of soldiers overlooked by a brave leader were sitting around a small encampment around a tank column far outside the Pusan Permimeter. Their squad was a part of the defense forces of the 17th, an attachment of UN command forces, consisting of US forces. They were fighting North Koreans and Chinese, and now broke close to the 38th parallel. Now, they were at the line at Haean Basin called Punchbowl.
+“Are you going to share that C-ration?” said the sergeant of the squad member, zoning in on one individual under his command. A burly looking man, holding a tommy gun and dressed in green jungle fatigues, looked over at a corporal who was hovering over a small case of rations. Once the leader spoke, the others sat upright, showing respect as much as fear to the man.
+“No sir,”said the corporal.” The sergeant trailed over the man.
+“Hand over some of that instant!” The corporal handed him the instant freeze dried coffee. The corporal broke open a c-ration package, and handed him the small silver packet. It said “Nestle Corporation,” and somewhere manufactured in the midwest, Indiana.
+“Ah, yeah, that's the stuff.” The sergeant ripped over the bag and poured it into his mug. He quickly mixed it, and took a sip.
+“God damn, that's some good joe,” said the sergeant. He took a few further sips, keeping his morale up. He was glancing over furthe positions up, intot he clearing. His commander and low level brass where in the area, behind them.
+The sergeant looked back at his men, knowing how they were breaking through the lines. With them, some of the finest armor and equipment known to war, as the jets above fought brilliant in dogfights with Russian and Chinese aces. Heat seeking missiles were just deployed to them, and so their chances became less likely to be strafed, but more so to be blown right out of the sky.
+And then for a moment, the silence was broken into a brilliant cresedon of what advancing democracy sounded like—total destruction.
+[Whirring noises, radio’s go on fire with communication.]
+“S—!” said the sergeant. As fast as the men were huddled around, the sergeant shouted to take cover. They were about to take heavy artillery fire. The sergeant ran to give overs and they covered. As soon as it happened, a barrage of explosions occurred. He hurled up right against a tank of beautiful armor.
+The sergeant himself was pinned down and he had a view some thousand years out to the other squads, with his boss his “first louie.” As soon as he saw him run for cover, an explosion enveloped him. The sergeant involuntary screamed at the top of his lungs, pointing, “THAT’S MY LOUIE!” as he was blown to pieces. He was vaporized from existence.
+Then, after the barrage stopped, so began the rolling armor from the North Koreans. And so the sergeant ordered his men into the tank they commanded, and they moved forward through radio commands. The turret turned and the motor began to blow smoke. And so, the sergeant was commanding his half broken squad to the battle forward.
+Inside the tank were parts made from Mattel, protecting the men, and advancing commercialism as much as liberty.
+
+---
+
 "Ruth! There you are," said a news reporter. It was around Thanksgiving 1951.
 Virginia, a news reporter, waved at Ruth as the correspondent's children ran through Mattels' new toy plant.
 
@@ -1015,11 +1031,11 @@ Virginia grinned.
 
 "Excuse me, I have to get back to work." Ruth puffed and let out some smoke. She exited.
 
-Ruth went back to her seat. Ruth looked afar as Virginia took notes with another factory worker over by the tank parts production.
+Ruth went back to her seat. Ruth looked afar as Virginia took notes with another factory worker by the tank parts production.
 
 Elliot walked over and placed his hand on Ruth's shoulder. He handed her a cup of hot coffee. "Here, dear."
 
-Ruth smiled. She took a sip of coffee.
+Ruth smiled. She took a sip of coffee. “One-hundred, ninety two thousand dollars, Elliot,” said Ruth. Elliot shook his head. 
 
 Without such support, Mattel Creations Inc. would have failed.
 
@@ -1274,3 +1290,21 @@ He attempted to finish the speech over the raucous. "Mattel is part of the world
 And the crowd roared as Jack Ryan shot another glance over at Hartman. Hartman smiled right back, sipping his hot coffee without breaking his stare.
 
 [The ovation fades, [rolling to the next section](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e) of the saga.]
+
+---
+
+[Seven years later, in an industrial area.] A older well dressed woman with a pearled necklace pulled up in an expensive Rolls-Royce. She got out of the car and walked up to a rolling locked gate. It was rusting, and had some barbed wire above it. A palm tree stood on the left side.
+
+On the right, there was a worn warehouse that was abandoned. A for sale sign hung in the window. Inbetween there was a long parking lot of which the gate kept guard.
+
+Since the dinner in New York that happened a life time ago, she left her toy company. Now, she was keeping the company on life support with millions of stocks. It was a time of extreme pressure of keeping her dream alive.
+
+She looked long into a sad parking lot, to the right, the warehouse wall had dark vertical stripes every few feet. She sighed and lit a cigarette. She took the first drag and exhaled.
+
+“Jack . . . why?” she said.
+
+Ruth held on to the gate for a little while, remembering. She completely broke down.
+	
+Then, after a time, she walked back to the car and drove off. In a short time and with a new partner, she started a new business a short distance away.
+
+Gardena was a place she and others gambled in capitalism and the military indusral complex. Some gave everything to history, and others, like Jack, were completely unpersoned. (dream doll, pp 198-200)

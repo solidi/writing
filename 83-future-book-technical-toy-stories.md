@@ -4,7 +4,7 @@
 
 #Books, #Future, #Toys, #Stories, #Memories
 
-![The current book cover artiwork of this author.](images/83-01b.jpeg)
+![The current book cover artiwork of this author.](images/83-01c.jpeg)
 
 What if a reader was treated like an adult, retelling the *best and worst* American inventive toy stories so few published works dare to write?
 
@@ -14,7 +14,7 @@ Using artificial intelligence and old-fashioned storytelling, sources are combin
 
 Now, each story will join an anthology compiled into a book tentatively titled *Technical Toy Stories: An Anthology of Real American Inventions, Volume One*.*
 
-The target for the book's release is between December 2024 and Spring 2025.
+The target for the book’s release is Fall 2025.
 
 ## The Motivation
 

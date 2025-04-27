@@ -7,7 +7,7 @@
 
 ---
 
-*This draft is part of an American Toy Anthology. For information on the upcoming publication, see this author's announcement, [Technical Toy Stories](https://medium.com/@solidi/upcoming-book-technical-toy-stories-80d5bfbd76c0): Volume One.*
+*This draft is part of an American Toy Anthology. For information on the upcoming publication, see this author's announcement, [Undercover Toy Stories](https://medium.com/@solidi/upcoming-book-technical-toy-stories-80d5bfbd76c0): Volume One.*
 
 ---
 
@@ -25,7 +25,7 @@ And so, American inventors partnered with domestic investors and foreign compani
 
 ---
 
-## I'm a Sock Man: American Vandalism Into Toy Profit
+## I'm a Sock Man: American Vandalism into Profit
 
 Water balloons were an [accidental invention](https://www.ky-news.com/have-you-ever-wondered-who-first-thought-of-water-balloons--cms-12343)*. Edgar Ellington, a British inventor, attempted to solve the problem of [trench foot](http://www.historyofballoons.com/balloon-facts/facts-about-water-balloons/) by inventing latex-like socks.
 
@@ -59,13 +59,13 @@ The media later corrected the claim, and the girl with the impressive bean ball 
 
 ![Seen in a social media video, an American politician is willingly hit by a water balloon.](images/85-04.gif)
 
-In toy history, the American presidential office is forever tied to the "Teddy Bear," but there is no accounting of water balloons. However, there was that time when [President Reagan](https://en.wikipedia.org/wiki/Ronald_Reagan) entered the toy balloon orbit.
+In toy history, the American presidential office is forever tied to the "Teddy Bear," but there isn't an accounting of water balloons. However, there was that time when [President Reagan](https://en.wikipedia.org/wiki/Ronald_Reagan) entered the toy balloon orbit.
 
-While giving a [political speech](https://www.facebook.com/watch/?v=1195725234541988) in West Berlin in 1987, a loud bang interrupted him. He said, " - missed me!" as the crowd nervously laughed. The reply was in response to a balloon that popped.
+While giving a [political speech](https://www.facebook.com/watch/?v=1195725234541988) in West Berlin in 1987, a loud bang interrupted him. He said, ". . . missed me!" as the crowd nervously laughed. His reply was in response to a balloon that popped.
 
 It was a humorous response that was pulled more than [once](https://www.youtube.com/watch?v=CNbSidcPxx4), and each time, a reporter would write about it in their news column.
 
-There are at least five written accounts, and one time in 1988, he said, "Again?" checking his chest after a second pop occurred later in the speech.
+There are at least five written accounts of his ad-lib, and one time in 1988, he said, "Again?" checking his chest after a second pop occurred later in the speech.
 
 His quip is all thanks to failing latex toy balloons (and one camera battery).
 
@@ -75,7 +75,7 @@ Today, the water balloon's home turf resides in the hearts of backyards, schools
 
 Military branding "grenades" and "bombs" have since been removed, but some references to "warfare" remain. Water balloon accessories include slingshots and "[bazookas](https://www.youtube.com/watch?v=3iNCpVKP4wg)."
 
-And there is a crossover to America's pastime. Water Balloon Baseball is a thing.
+And Water Balloon Baseball is a thing, a new crossover to America’s pastime.
 
 When it comes to profit-making, water balloons are low-cost toys. They remained unattractive to toy companies [Hasbro](https://shop.hasbro.com/en-us) and [Mattel](https://about.mattel.com/), which have developed icons such as [Mr. Potato Head](https://en.wikipedia.org/wiki/Mr._Potato_Head) and [Barbie](https://en.wikipedia.org/wiki/Barbie).
 
@@ -97,11 +97,11 @@ Companies like [ZURU Toys](https://zurutoys.com/), [Ja-Ru Inc.](https://www-ss-p
 
 ![The [liquid dispensing apparatus](https://patents.google.com/patent/US20220155040A1/en) is pending patent from ZURU Toys.](images/85-06.jpeg)
 
-ZURU Toys, like all toy companies today, manufactures in China and has made a significant profit. It invests in monitoring Internet trends, including TikTok, and marketing products through influencers.
+ZURU Toys, like all toy companies today, manufacturers in China and has made a significant profit. It invests in monitoring Internet trends, including TikTok, and marketing products through influencers.
 
-ZURU licenses inventions by external inventors, which is part of this water balloon saga. They have succeeded in their [XSHOT series](https://zurutoys.com/brands/x-shot-water/warfare), soft-foamed dart guns, and water guns that are less costly than [Nerf](https://en.wikipedia.org/wiki/Nerf).
+ZURU licenses inventions by external inventors, which is part of this water balloon saga. They have succeeded in their [XSHOT series](https://zurutoys.com/brands/x-shot-water/warfare), soft-foam dart guns, and water guns that are less costly than [Nerf](https://en.wikipedia.org/wiki/Nerf).
 
-For companies like ZURU Toys, small-time American inventors went to work, making this new toy category possible. They have since learned the lessons of invention, problem-solving, patent negotiation, and navigating the legal system.
+For companies like ZURU Toys, small-time American inventors went to work, making this new toy category possible. They have since learned the lessons of invention, problem-solving, patent negotiation, and navigating the legal system. The perfect water balloon system was to come.
 
 ---
 
@@ -123,7 +123,7 @@ They got to work, inventing the [Pumponator](https://www.cnet.com/pictures/toy-f
 
 At [Toy Fair 2010](https://toyfairny.com/), a century tradition of gathering toy vendors and inventors who showcase their products in New York, everyone noticed. Pumponator made its first million by selling to accounts.
 
-But the Pumpinator's story contained legal bumps. Their team brought a legal case to Water Sports LLC, which alleged infringement. Then, the patent application, which was pending status, was refiled and then abandoned.
+But the Pumpinator's story contained legal tie-ups. Their team brought a legal case to Water Sports LLC, which alleged infringement. Then, the patent application, which was pending status, was refiled and then abandoned.
 
 A patent, with a child inventor's name as assignee, was never issued.
 
@@ -131,9 +131,9 @@ Donna Debelak of *Inventors Digest* [wrote](https://www.inventorsdigest.com/arti
 
 The toy fair attracted interest to the point of challenge. That submission program is a part of the [America Invents Act](https://www.uspto.gov/aia_implementation/bills-112hr1249enr.pdf).
 
-Their interest continued, and companies bought into the product. But without a patent, their sales loss was incalculable. Some estimates are in the tens of millions.
+Vendor interest continued, and companies bought into the product. But without a patent, their sales loss was incalculable. Some estimates are in the tens of millions.
 
-" - One claimed that the patent didn't even cover her product's current nozzle design. Ramere has never been able to get a patent and has given up trying."
+". . . One claimed that the patent didn't even cover her product's current nozzle design. Ramere has never been able to get a patent and has given up trying."
 
 While Ms. Glenn solved the problem of combining a nozzle and filling source, she came close to the knot problem. The Pumponator's company continued to invent, tying knots with strings.
 
@@ -155,7 +155,7 @@ Demonstrating play may be a social side effect of [Baby Boomers](https://en.wiki
 
 Many of these adults became parents at the end of the 2000s, amplifying the sentiment. They are engaged with their children, invented "[helicopter](https://en.wikipedia.org/wiki/Helicopter_parent)" parenting, and are empathetic about their success.
 
-And these adults seemed unafraid of water. Some were maturing inventors with access to new rapid plastic molding techniques. Inventor Wayne Sikorcin was recruited.
+And these adults seemed unafraid of water. Some were maturing inventors with access to new rapid plastic molding techniques like inventor Wayne Sikorcin, who was recruited to the water fight.
 
 "Everything I came up with, I needed three hands to do it," [Wayne Sikorcin](https://www.linkedin.com/in/wayne-sikorcin-a7966340/) said in an interview with Bob Hudson in *My Suburban Life* in 2012.
 
@@ -173,13 +173,13 @@ They desired to sell out wholly.
 
 For a time, Mr. Sikorcin hawked the product on [www.tie-not.com](http://www.tie-knot.com/). Today, the website is gone. Consumers can find the product on [Amazon](https://www.amazon.com/Tie-not-Biodegradable-Balloon-Filling-Colors/dp/B00KY56H0I/).
 
-### Fishing is Much More than Water Balloons
+### Fishing Is Much More Than Water Balloons
 
 Tie-Not was a wonder product, a water balloon tool for an age-old problem.
 
 The invention was striking enough that Wayne and Scott Smith, a sales consultant for Mr. Sikorcin's Craftsman Tool & Mold Co. in Aurora, Illinois, appeared on [Shark Tank](https://en.wikipedia.org/wiki/Shark_Tank) in 2014.
 
-Shark Tank features a panel of investors who decide whether to buy in as entrepreneurs. These potential enterprisers make business presentations on their products. If the idea is profitable, they get offers for capital.
+Shark Tank features a panel of investors who decide whether to buy in as entrepreneurs. These potential entrepreneurs make business presentations on their products. If the idea is profitable, they get offers for capital.
 
 ![The Tie-Not in this [VAT19](https://www.vat19.com/) clip is [licensed](https://www.youtube.com/watch?v=dABmAjBWqWI) to Ja-Ru, Inc. after buying Imperial Toy's bankrupt assets.](images/85-10.gif)
 
@@ -187,9 +187,9 @@ Mr. Sikorcin and Mr. Smith made the show's final, receiving an offer from [Barba
 
 Mr. Sikorcin has yet to sell the product outright. However, he licensed his Tie-Not to [Imperial Toys](https://en.wikipedia.org/wiki/Imperial_Toy_Corporation), a company specializing in low-cost playthings.
 
-Mr. Sikorcin's patent, seen above, protects the Tie-Not. Products took notice. Ms. Glenn's Pumponator added a tying apparatus.
+Mr. Sikorcin's patent, seen above, protects the Tie-Not. Products took notice.
 
-In 2013, ZURU Toys did as well. They launched their XSHOT 3-in-1 Blaster Water Fill & Tie, throwing in a pack of water balloons to accompany their custom-tipped filling nozzle.
+In response, Ms. Glenn’s Pumponator also added a tying apparatus. And in 2013, ZURU Toys did as well. They launched their XSHOT 3-in-1 Blaster Water Fill & Tie, throwing in a pack of water balloons to accompany their custom-tipped filling nozzle.
 
 But Wayne and Laura's invention was a drop in a giant bucket, a prelude to tying a knot differently. The question remained, "How do we fill water balloons *rapidly*?"
 
@@ -249,11 +249,11 @@ Telebrands has had legal issues over the years, especially in their home state o
 
 ## History Will Do The Rest: Set Fire, Throw Water Balloons
 
-"I believed in the patent system - I still do, all of us do."
+"I believed in the patent system . . . I still do, all of us do."
 
 Well-articulated [Josh Malone](https://www.linkedin.com/in/malonejosh/) spoke at a [rally in 2017](https://www.youtube.com/watch?v=GF5-aaGDS9s) to protest the burden of litigation his family endured. His 2014 invention is called [Bunch O Balloon](https://www.amazon.com/stores/BunchOBalloons/Homepage/page/777A93E9-2823-40A3-8065-AE1E92C236E6).
 
-"[The patent] is what the [U.S.] [Constitution](https://capitolhistory.org/us-capitol-history-for-teachers/united-states-constitution-annotated/) secures to inventors the exclusive right to their discoveries."
+"[The patent] is what the [U.S.] [Constitution](https://capitolhistory.org/us-capitol-history-for-teachers/united-states-constitution-annotated/) secures to inventors the exclusive right to their discoveries," said Mr. Malone during the protest.
 
 ![Mr. Malone's system and method for filling [containers with fluids](https://patents.google.com/patent/US20170267381A1/) from 2014.](images/85-13.jpeg)
 
@@ -281,7 +281,7 @@ Mr. Malone considers himself a [libertarian](https://www.texastribune.org/2022/0
 
 ---
 
-"When America created the patent system we have, it was so revolutionary in the world - the common person, no matter who he or she is - they can invent something, get a patent on it, and own it -," said [Randy Landreneau](https://www.linkedin.com/in/randy-landreneau-37b00a33/) president of [USinventor.org](https://usinventor.org/) on [John Butler's Buzz](https://www.youtube.com/watch?v=5ZrzHNgTcXQ).
+"When America created the patent system we have, it was so revolutionary in the world . . . the common person, no matter who he or she is - they can invent something, get a patent on it, and own it," said [Randy Landreneau](https://www.linkedin.com/in/randy-landreneau-37b00a33/) president of [USinventor.org](https://usinventor.org/) on [John Butler's Buzz](https://www.youtube.com/watch?v=5ZrzHNgTcXQ).
 
 The law of the land changed in 2011 through the AIA. Inventors could challenge patents anytime. Pumponator and Bunch O Balloons inventors learned of these challenges.
 
@@ -307,7 +307,7 @@ Josh Malone's company discovered Telebrands infringed. After their product's suc
 
 It had a red TV logo.
 
-From Mr. Malone's [story](https://jtbg.org/about), "I sent a cease and desist letter to Telebrands, the company violating my patent. They ignored it - ." Then began a journey of injunctions, which Mr. Malone won.
+From Mr. Malone's [story](https://jtbg.org/about), "I sent a cease and desist letter to Telebrands, the company violating my patent. They ignored it . . ." Then began a journey of injunctions, which Mr. Malone won.
 
 ![A prototype of Bunch O Balloons from court documents.](images/85-16.jpeg)
 
@@ -323,7 +323,7 @@ Telebrands released Balloon Bonanza in 2015, followed by [Easy Einsteins](https:
 
 Josh followed suit with his licensee, [ZURU](https://en.wikipedia.org/wiki/Zuru_(company)) Toys, a New Zealand-based toy company run by the three siblings of the [Mowbray family](https://podcasts.apple.com/nz/podcast/nick-anna-and-mat-mowbray-new-zealand-toy/id1664290911?i=1000634089201). They had the capital to prosecute the offender, merging as the new backyard toy company.
 
-![Court documents [reveal an exhibit](https://www.ipwatchdog.com/wp-content/uploads/2017/02/16-1410.Opinion.1-19-2017.11.pdf) of Bunch O Balloons and Balloon Bonzana.](images/85-17.jpeg)
+![Court documents [reveal an exhibit](https://www.ipwatchdog.com/wp-content/uploads/2017/02/16-1410.Opinion.1-19-2017.11.pdf) of Bunch O Balloons and Balloon Bonanza.](images/85-17.jpeg)
 
 "[We are] committed to vigorously fighting knock-off companies who try to undercut inventors," said [Anna Mowbray](https://en.wikipedia.org/wiki/Anna_Mowbray), COO of Zuru Toys, reported by Joan Verdone of *The Record*.
 
@@ -345,7 +345,7 @@ If Mr. Malone had gone it alone, capital from the developing sales would have dr
 
 But the victory moved Mr. Malone to millionaire status, becoming a veteran of "patent legalese" and its hard knocks.
 
-Mr. Khubani, CEO of Telebrands, was quoted during the battles written by Joan Verdone, "The bottom line is I'm a fighter. I don't give up." But Mr. Malone suspects the fights chewed through Telebrand's bottom line.
+Mr. Khubani, CEO of Telebrands, was quoted during the battles written by Joan Verdone, "The bottom line is I'm a fighter. I don't give up." But Mr. Malone suspects the fights chewed through Telebrands bottom line.
 
 Then, a holding company mechanically pitched water balloons of a different kind at Mr. Malone and ZURU Toys.
 
@@ -405,13 +405,13 @@ What was the connection?
 
 ### A Water Balloon, If They Can Keep It
 
-"Talk to me about Bunch O Balloons - do you know the history of how they [ZURU and Mr. Malone] connected? - "
+"Talk to me about Bunch O Balloons - do you know the history of how they [ZURU and Mr. Malone] connected?"
 
-"I believe it was pre-my time - they started a Kickstarter, it did quite well, and we reached out to him [Mr. Malone] on licensing the property -," said Zack Pentecost, senior e-commerce manager at ZURU Toys, to [Azhelle Wade](https://www.azhellewade.com/) on [Making It in The Toy Industry](https://www.thetoycoach.com/podcast/executive-tips-to-license-your-toy-ideas-with-zack-pentecost-of-zuru-toys) in 2024.
+"I believe it was pre-my time . . . they started a Kickstarter, it did quite well, and we reached out to him [Mr. Malone] on licensing the property -," said Zack Pentecost, senior e-commerce manager at ZURU Toys, to [Azhelle Wade](https://www.azhellewade.com/) on [Making It in The Toy Industry](https://www.thetoycoach.com/podcast/executive-tips-to-license-your-toy-ideas-with-zack-pentecost-of-zuru-toys) in 2024.
 
 The judge's summary filed in June 2020 does not mention how Zuru Toys connected with Mr Harter. However, the opinion states, "Harter told Zuru that Bunch O Balloons was a design stolen from him."
 
-The opinion also mentions that Mr. Harter gave a deposition supporting Telebrands, which was conducted in 2015.
+The opinion also mentioned that Mr. Harter gave a deposition supporting Telebrands, which was conducted in 2015.
 
 ![The media reported Mr. Harter's water gun concept in 2013, which was confirmed in court documents.](images/85-21.jpeg)
 
@@ -421,11 +421,11 @@ This engineered metering, assisted by a shared vendor, was one alleged connectio
 
 ---
 
-## Don't Swear: "Before" nor "After" The Consitution; "Uphold" It
+## Don't Swear: "Before" nor "After" The Constitution; "Uphold" It
 
 When a curious reader performs Internet searches on the invention of Bunch O Balloons, they are sure to find literature about the American Constitution. It is because searchable documents tie history with a modern successful trademark, a rare feat in this author's opinion.
 
-It's crucial to stress that The Consitution contains what the lobbyists say. Article 1 Section 8 loosely defines the term patent without [writing the word](https://constitution.congress.gov/browse/essay/artI-S8-C8-1/ALDE_00013060/).
+It's crucial to stress that The Constitution contains what the lobbyists say. Article 1 Section 8 loosely defines the term patent without [writing the word](https://constitution.congress.gov/browse/essay/artI-S8-C8-1/ALDE_00013060/).
 
 > To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries.
 
@@ -459,13 +459,13 @@ In 2021, KBIDC moved to petition the Texas Supreme Court. A [court document](htt
 
 > Following nearly 70 years of idleness in the water balloon market, Kendall Harter originated the first self-sealing water balloon and developed multiple mechanisms for filling several self-sealing balloons at the same time.
 
-But a year later, [their supreme court petition request was denied](https://www.txcourts.gov/media/1453758/supreme-court-of-texas-orders-03-11-2022.pdf).
+But a year later, [the supreme court petition request was denied](https://www.txcourts.gov/media/1453758/supreme-court-of-texas-orders-03-11-2022.pdf).
 
 Siri Rao of the law firm Crowell & Moring [wrote](https://www.crowelltradesecretstrends.com/2021/04/bunch-o-balloons-trade-secret-dispute-results-in-bunch-o-appeals/), "[The court had to determine if Mr. Malone] had some access to Harter's trade secrets and knowledge of them. The Court simply found no such evidence."
 
 "This case should serve as an important reminder for clients to gather as much evidence as they can before filing a trade secret misappropriation suit."
 
-So, Bunch O Balloon's validity of Mr. Malone's invention and Zuru's product was upheld. Bunch O Balloons answered all the questions on tying and rapid filling, and a group of self-sealing water balloons completed this saga.
+So, Bunch O Balloons validity of Mr. Malone's invention and Zuru's product was upheld. Bunch O Balloons answered all the questions on tying and rapid filling, and a group of self-sealing water balloons completed this saga.
 
 Mr Malone's invention has since impacted American culture.
 
