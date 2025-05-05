@@ -10,11 +10,11 @@
 
 ---
 
-"THIS THING HERE - right - Screwball Scramble [pointing to the gameboard]. This was the sh - ."
+"THIS THING HERE - right - Screwball Scramble [pointing to the game board]. This was the sh - ."
 
-[Drinks On Me](https://www.tiktok.com/@drinksonmemusic/video/7389248243676269857) from the UK passionately reviewed a childhood game to his TikTok viewers. His video chalked up over fifteen thousand views as he demonstrated scoring on the tricky gameboard, delivering a hilarious analysis.
+[Drinks On Me](https://www.tiktok.com/@drinksonmemusic/video/7389248243676269857) from the UK passionately reviewed a childhood game to his TikTok viewers. His video chalked up over fifteen thousand views as he demonstrated scoring on the tricky game board, delivering a hilarious analysis.
 
-"Now we come up to the most dogsh - bit of this whole thing [pointing at the maze piece] . . . But the reward when you got to this bit. . . just smashing this button." He was pointing out the catapult at the end.
+"Now we come up to the most dogsh - bit of this whole thing [pointing at the maze piece] . . . But the reward when you got to this bit. . . just smashing this button." He pointed out the catapult at the end.
 
 And there was captainepeper on [Reddit](https://www.reddit.com/r/playmygame/comments/13jhg9d/i_made_a_web_game_version_of_screwball_scramble/) who replied to a thread, "I would love some feedback!" posting an impressive website called [screwballscramble.net](https://screwballscramble.net/). The developer carefully rebuilt the plaything as a virtual game.
 
@@ -34,11 +34,11 @@ This author confirmed his steel ball measures 13.98 millimeters and weighs 11.34
 
 Michael went on. "I have studied the ball, and this is all I ever see [the catapult launches the ball, hitting the bell, signaling the end of the game.]"
 
-Michael's video on Vsauce received over twelve million views. Even if the conversion rate is less than half a percent, it will positively impact TOMY's balance sheet.
+Michael's video on Vsauce received over seventeen million views. Even if the conversion rate is less than half a percent, it will positively impact TOMY's balance sheet.
 
 But whatever is posted online, Screwball Scramble's timescale is impressive, spanning fifty years. Within an old plastic plane with eight activities and seven toggles, a player is challenged to move a steel ball bearing across the board without dropping from its elevated path.
 
-Not much on the gameboard has changed.
+Not much on the game board has changed.
 
 ![The [patent of the second version](https://patents.google.com/patent/USD979659S1/en) of the Screwball Scramble, released in 2020.](images/95-03.jpeg)
 
@@ -46,7 +46,7 @@ It's an ingenious [ball-in-a-maze](https://en.wikipedia.org/wiki/Ball-in-a-maze_
 
 She replied, "Fun for young and old . . . [my grandson was] frustrated with the wobbly bridge as [it] takes a little practice . . ."
 
-Screwball Scramble has potential untapped viral potential, and this author agrees that the touchy bridge requires precise timing.
+Screwball Scramble has untapped viral potential, and this author agrees that the touchy bridge requires precise timing.
 
 The secret is to push the bridge button twice at a constant rhythm, then hit the lever a third time at twice the speed to pop the ball up to the crane.
 
@@ -54,13 +54,13 @@ The secret is to push the bridge button twice at a constant rhythm, then hit the
 
 ## The Product History of Screwball Scramble
 
-THE PLAYTHING MAKER, Tomy Company Ltd, also known as TakaraTomy in Japan, invented and patented the novel concept in late 1979. Screwball Scramble was released as "Athletic Land Game" in Japan.
+THE PLAYTHING MAKER, TOMY Company Ltd, also known as TakaraTomy in Japan, invented and patented the novel concept in late 1979. Screwball Scramble was released as "Athletic Land Game" in Japan.
 
-That same year, the game was released in the United States as "Run Yourself Ragged," which remained unchanged for seven years. When Coleco took over Tomy distribution in [1987](https://www.youtube.com/watch?v=zxUejWtqKIA), the unique [dexterity puzzle](https://en.wikipedia.org/wiki/Mechanical_puzzle) was reboxed as "Screwball Scramble."
+That same year, the game was released in the United States as "Run Yourself Ragged," which remained unchanged for seven years. When Coleco took over TOMY distribution in [1987](https://www.youtube.com/watch?v=zxUejWtqKIA), the unique [dexterity puzzle](https://en.wikipedia.org/wiki/Mechanical_puzzle) was reboxed as "Screwball Scramble."
 
 For forty years, the name has stuck permanently with customers in the West. And who came up with the toy name is a mystery.
 
-At a similar time, TOMY sold the product [in the United Kingdom](https://www.youtube.com/watch?v=7SNEkh_duxM). While its historical sales data is elusive, today's YouTube reviews demonstrate the impact of the culture of gameboard players-viewers can find a clean split of British and American videos.
+At a similar time, TOMY sold the product [in the United Kingdom](https://www.youtube.com/watch?v=7SNEkh_duxM). While its historical sales data is elusive, today's YouTube reviews demonstrate the impact of the culture of game board players-viewers can find a clean split of British and American videos.
 
 ![The [patent of the third version](https://patents.google.com/patent/USD1051992S1/en) of the Screwball Scramble, released in 2023.](images/95-04.jpeg)
 
@@ -111,6 +111,10 @@ In the 2020s, the game has sold over [one million units globally](https://www.ta
 It's an enduring analog legacy.
 
 The maze thrives into the 21st century as voices on the Internet echo their love and admiration. And with new patented extensions filed as this document is written, Screwball Scramble is a toyed miracle.
+
+---
+
+ONLY AT A PLACE called TOMY, their goal is "to produce original and high-quality toys that are loved by everybody." Starting in 1924, their founder Eiichiro Tomiyama led that vision.
 
 ![Original advertisment clip art of "Run Yourself Ragged" published in 1980, by TOMY.](images/95-06.jpeg)
 
