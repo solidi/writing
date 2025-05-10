@@ -1271,6 +1271,8 @@ Elliot went on - hitting on what was important to him.
 
 Elliot glanced at the man wearing glasses and smiled. Jack Ryan realized and shot a glance with a hint of threat.
 
+![Three Jacks from Aerospace and then in American Toyland. Jack Hartman (left), Jack Barcus (middle), and Jack Ryan (right).](images/92-42.jpeg)
+
 "A good example of this is our more than three hundred member Research and Design Department . . . [with equipment] normally associated with a space-age facility."
 
 "Mattel's designers are free to, and are encouraged to, investigate and work in any material and any process. This flexibility permits us to take quick and timely advantage of any advances in technology."
@@ -1303,8 +1305,8 @@ She looked long into a sad parking lot, to the right, the warehouse wall had dar
 
 “Jack . . . why?” she said.
 
-Ruth held on to the gate for a little while, remembering. She completely broke down.
-	
-Then, after a time, she walked back to the car and drove off. In a short time and with a new partner, she started a new business a short distance away.
+Ruth held on to the gate for a little while, remembering. She completely broke down. Then, after a time, she walked back to the car.
 
-Gardena was a place she and others gambled in capitalism and the military indusral complex. Some gave everything to history, and others, like Jack, were completely unpersoned. (dream doll, pp 198-200)
+She sat in the driver's seat, sipped her lukewarm coffee, and drove off. In a short time, with a new partner, she started a new business a short distance away.
+
+Gardena was a place she and others gambled in capitalism and the military-industrial complex. An endless cup of coffee is the American symbol for business; some gave everything to history, and others, like Jack, were completely unpersoned.
