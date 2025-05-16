@@ -86,8 +86,8 @@ I. A Time for Toy Stories
       *Patents, legal challenges and independent inventors in backyard toys.*
 13. 2020: [The Internet's Favorite Toy: The Tomy Screwball Scramble](https://medium.com/@solidi/the-tomy-screwball-scramble-9f4eab3681da)
       *When YouTuber's reviewed the fifty year old ball-in-puzzle game.*
-14. 2025: The Wicked Box Incident
-      *Packaging patented tech and a connection back to American politics.*
+14. 2025: The End of Cheap Toys: The Wicked Box Tariff Debacle
+      *Packaging patented tech and connections back to American politics.*
 
 II. America's "Jack" of Toyland
 
