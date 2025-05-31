@@ -67,7 +67,7 @@ Many Dutch lyceum children disappeared during the war. Less than half of the [th
 
 When the German occupiers came razor-close to his discovery, he found himself with a new family, the Van Beeks, an associate of his [hiding parents](https://en.wikipedia.org/wiki/Hidden_children_during_the_Holocaust). Through a network of reverend resistance, he took a train and fled to Appledorn. From there, he settled in [Vaassen](https://en.wikipedia.org/wiki/Vaassen).
 
-"I got a good Christian education - no harm was done at all," said Theo. In 1942, Mr. Coster escaped and found refuge with a Christian family twelve miles north of [Arnhem](https://en.wikipedia.org/wiki/Arnhem). Mr. Baren van Beek, along with his wife Suus, was the school's headmaster.
+"I got a good Christian education - no harm was done at all," said Theo. In 1942, Mr. Coster escaped and found refuge with a Christian family twelve miles north of [Arnhem](https://en.wikipedia.org/wiki/Arnhem). Mr. Barend van Beek, along with his wife Suus, was the school's headmaster.
 
 In 1970, *The Buffalo News* wrote part of his story. When the grip of the Nazis came close to the Coster family's whereabouts, Mr. Coster's father, Coenaard, escaped to France, taking his daughter Freddy. Freddy separated into Belgium. Mr. Coster fled with his mother.
 
@@ -89,7 +89,7 @@ After the occupiers left the house, it wasn't long before April 17th, 1945, when
 
 After the war, deep into reconstruction, Mr. Coster mounted his 49cc [Batavus](https://en.wikipedia.org/wiki/Batavus) G50 moped bike. He traveled from the Netherlands to Turkey.
 
-Sailing from Mersin to Haifa, he settled in [Tel Aviv](https://en.wikipedia.org/wiki/Tel_Aviv), finding Ora. In between jobs, they decided to start a company called [Theora Design](http://theoradesign.com/).
+Sailing from Mersin to Haifa, he settled in [Tel Aviv](https://en.wikipedia.org/wiki/Tel_Aviv), finding Ora. In between jobs, they decided to start a company called MATAT (gift in Hebrew) name which later was changed to [Theora Design](http://theoradesign.com/).
 
 Dr. Rawlings shared that his father served in the liberation efforts. He served in the Canadian forces and was killed in action days before liberating Mr. Coster's hiding community—and thus a connection in their relationship.
 
@@ -227,7 +227,7 @@ Through the help of their licensing agent, [Jaap Bar-David](https://www.nytimes.
 
 ![From [Hadashot Hashabat](https://www.youtube.com/watch?v=zXc5F_7hNB0), A capture of the presented Guess Who prototype board from the late 1970s.](images/86-09.jpeg)
 
-Then, in 1979, Guess Who† had its big break in gaming. The original, *Wie is het?* in the Netherlands, was licensed in the UK and sold to Milton Bradley in the United States by 1982. Guess Who became a household product, the definitive board game of the 1980s.
+In 1979, Guess Who had its big break in gaming. The original, *Wie is het?* in the Netherlands was licensed by Milton Bradley International in Europe and then in the United States a few years later. Guess Who became a household product, the definitive board game of the 1980s.
 
 In the 2000s, Ora had an idea for a picture-word matching game. She named it [Zingo!](https://patents.google.com/patent/US20030151196A1/en) It [was sourced](https://peopleofplay.com/company/josh-west) by an American company called ThinkFun! and became a hit.
 

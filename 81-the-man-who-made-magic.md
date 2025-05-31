@@ -23,7 +23,7 @@
 
 *CROWDED IN A PARKING LOT*, deep in smog overhanging the palm trees, men in suits huddled over a badly injured toy maker. With his glasses blown off his face, his starched suit was soaked in blood.
 
-He lay there, looking up into the hazed sky. His situation was grave.
+The man was hit in the back with a shard of metal as he ran away. He lay there, looking up into the hazed sky. His situation was grave.
 
 They worked to help the man, patching his wounds with clothes ripped off their backs. With calm assurances of his life’s protection, men with worried faces continued desperately.
 
@@ -54,21 +54,25 @@ This story is about the inventor from this place.
 Highly motivated and left to their devices, it was the place for a superior engineer. Code names were of animals, ghosts, and Gods. Icons were painted proudly on their endless aero hangars in each of their home bases.
 
 They were elite, but the room was limited as far-away trawlers and newly launched satellites honed in on the sound of their welders.
-This toy company benefited from their experience and application, taking in engineers who could not find room. Or those who were exhausted from the aero fumes.
+A toy company benefited from their experience and application, taking in engineers who could not find room. Or those who were exhausted from the aero fumes.
 
 It was good for their business as much as good for them. These engineers sought a higher technical form of inventive expression, a place to create without the intense competition from encroaching nation-states pushing furiously to a new horizon.
+
 But in a sense, toys were rocketing, too.
 
 This toy company was an oasis they escaped. They resisted the bureaucracy of mundane rocket engine calculations before the time of capable computers. Or whatever else, in an endless line of horizontal desks and a vertical ceiling of decorated men who crushed their souls.
 
 They kept the model shop open for these curious pretending makers and dreamers. Some got recruited right there.
+
+They too, experimented in aerospace “light work” in the defense indutry.
+
 But they, aeronautical, astronautical, the very definition of engineer, existed in this incredible environment, which was unique and somewhat bizarre. Some describe it as a "special" time.
 
 ### Personnel Powerhouse
 
 The leader of the toy company was perfect at recruitment and secured the brightest minds, going across the Atlantic and Pacific to find them in their foreign technical hubs. And many locally, from what is described. She was the ultimate business recruiter, networked with military brass, and hired the industry's first women and diversity candidates.
 
-She was the company.
+She was the company, and built parts to war machines.
 
 Of the many poached, one in this career circuit performed the crossover from aeronautical engineer to toy company employee. He rose in the ranks of plaything making, leading a team of engineers in the firm's maturing research and development group.
 
@@ -84,7 +88,7 @@ These patents supplied a permanent paper trail of the inventive history of which
 
 Honesty sometimes included crediting those who deserved no credit. Some were granted lies.
 
-One engineer had already risen in invention rank to its maximum. He was the prime toy inventor. He was secured from a base that shot rockets from month to month, traveling from far away. A future Hollywood would write his memory in the new millennia.
+One engineer had already risen in invention rank to its maximum. He was the prime toy inventor. He was secured from a base that shot rockets from month to month, traveling from far away. A future Hollywood would write his memory in the new millennia. Then completely erase him.
 
 This man forged sex and speed into such newly crafted prototype toys at a royalties price. These would become the ideas that touched millions of lives and were marketed by the best in the world. But that is a story for a different time.
 
@@ -96,7 +100,7 @@ One thing was clear about our toy maker. He loved mechanical tinkering and was a
 
 Many men were this way, at this time, on this creative stage. Some, with the same degrees, were going to the moon.
 
-But he was in a new class of keen inventors whose names are printed in old literature. They were called "real toy men" who practiced the finest social engineering in marketing and sales.
+Once seeing pilots die, now he was in a new class of keen inventors whose names are printed in old literature. They were called "real toy men" who practiced the finest social engineering in marketing and sales.
 
 For him, he was the highest-caliber mechanical, sonic, chemical, and electronic engineer, locked away behind doors few could get to and competing with the best. He was a professional on a miniature scale.
 
@@ -112,7 +116,7 @@ They, alongside the women, made magic for children that transcended a century in
 
 This statement was a future promise to their eventual success, with its first generation of children as its direct benefactors, now with grandkids, and the next generation, graying hair, middle-aged, looking inward.
 
-It will continue in an endless nostalgia loop.
+It continues in an endless nostalgia loop.
 
 Her peers in aerospace were on the same plane. Whether it was "Works" or "Toys," they organized geniuses who risked everything. In the future, they will salute these heroes who made their lives what they were, ignited and organized by them.
 They were both national treasures.
@@ -122,7 +126,7 @@ As the years passed in this toy maker's employment, moonshot efforts went from a
 Political stances changed, great leaders were shot dead, including the very man who decreed the capture of it, and drugs and a new sort of music played on the radio. Airplanes and missiles were shipped out to provide for war, men were drafted, and parts were assembled for a tall rocket ship.
 
 Secret sorties flew across the boundaries, political marches demanded change, and children practiced duck and cover across schools. Peaceful students were shot dead on the very campuses where they stood by the government that protected them.
-The tumultuous time continues, and the film pointing at the grassy knoll lies patiently.
+The tumultuous time continues, and the film pointing at the grassy knoll lies patiently. A highway sign remains missing with an extra bullet in someone else's hand.
 
 And he, our aeronautical engineer turned toy maker, met the love of his life there in the aerospace community. She, also the first woman in that industry, sold aerospace parts to a sea of endless lines of powerful men. He would marry her just before he joined toy-making of the highest degree.
 
@@ -235,9 +239,9 @@ These men came from aerospace.
 
 This engine caught the attention of the automobile industry, but perhaps they knew of such a game, or maybe they had other plans with what powered them.
 
-Not so, there wasn't a conspiracy.
+Not so, there wasn't a conspiracy with them, but perhaps within a trio of men. If no one listened, perhaps they would let it rip without care.
 
-But if the automobile industry didn't want it, fine. If the engine were reproducible and accurate, it would be a significant leg up on the political war, military efficiency, and push on the space race. And in business, consumer applications would radically change.
+If the automobile industry didn't want it, fine. If the engine were reproducible and accurate, it would be a significant leg up on the political war, military efficiency, and push on the space race. And in business, consumer applications would radically change.
 This engine tech could technologically mature the toys, too. At this time in history, no one in that generation knew how awesome toys would become, nor did the toy makers from aerospace.
 
 Even their successor toy makers, generations apart, will not know how much they impact children, who hold on to old protectionist attitudes.
@@ -270,7 +274,7 @@ If there is ever such a story of how formal science vs. pseudoscience musket sho
 
 ### Film and Watch
 
-Our toy man woke up that morning beside his lover in an apartment. He was now estranged from his wife but trying to work things out. His dorm was littered with prototype toys.
+Our toy man woke up that morning beside his lover in an apartment. He was now estranged but trying to work things out. His dorm was littered with prototype toys.
 
 He got up and drove to work, and his toys sat in the back seat of his car. After spending a half-day at the office, he left in a hurry. Some employees chiding him, while he gave them the finger, smirking. He briefly said good bye to the company owners, as they smiled. "Good luck."
 
@@ -373,7 +377,13 @@ If one person in the universe could mentally unplug such a fraudulent device, it
 Then, after a small back-and-forth, they said to the crowd, "Stand back!" Some people adhered, jumping behind the cover, but others were unphased since the engine behaved as it did prior: run rough, then smooth. Why would it do anything different?
 At this moment, the plug was inserted. A second went by.
 
+Our toy maker started to run, turning away from the engine.
+
 And since time passed with the engine running rough, the engine then made a sound, as their triste of disagreement and their argumentative backs against the cohort of people, confusion.
+
+The inventor secretly turned the potentiometer up to maximum.
+
+He whispered in aggravation—"fuck them."
 
 Blam! The engine exploded violently into the crowd. Shrapnel, silver smoke, and debris showered the crowd.
 
@@ -385,17 +395,17 @@ The other man with the aerospace contract had his leg hit, slightly hanging off 
 
 Others in the crowd took their scraps, including the cameraman from the local TV station, who took metal in his leg. His camera protected his life and was damaged, but it remained operable, and he kept filming.
 
-But our man from the toy company was most horribly injured, taking a large piece of metal into his abdomen and blowing through his back. He was bleeding heavily. Then, a newspaper reporter and the scientist rushed to the man, as the images of complete disbelief paralyzed the inventor and investor.
+But our man from the toy company was most horribly injured, taking a large piece of metal into his back and blowing through his abdomen. He was bleeding heavily. Then, a newspaper reporter and the scientist rushed to the man, as the images of complete disbelief paralyzed the inventor and investor.
 
 It was already over for them.
 
 Others huddled over the toy maker, and the scientist started reviving him or his student, depending on which accounting believed. Either way, the toy makers' situation was grave.
 
-They both worked to help the man, patching his wound and performing resuscitation. They kept trying with cloth and rags with calm assurances of his life's protection.
+They both worked to help the man, patching his wound and performing resuscitation. They kept trying with cloth and rags with calm assurances of his life's protection. Others looked on with disbelief. "No, no, no," one man said as he was tugging his hair.
 
 The incredible toy man who inspired his team, looking for toy tech, lay there. He was the embodiment of the extreme evolution that was to take place in the industry.
 
-He died.
+He died at the pinnacle of his life.
 
 ### Death By Engine of Invention
 
@@ -459,7 +469,7 @@ The principal lieutenant, a decorated detective fresh off a victory in a decades
 
 Even with the best people, the authorities could find nothing that suspected sabotage, and no reports arose.
 
-The investor and detective knew each other too well at the pinnacle, a bond in the fraternity.
+A later photo revealed the investor and detective knew each other too well at the pinnacle, a bond in the fraternity.
 
 After speaking to the newspaper reporter and others, the lieutenant dispatched the authorities to issue a search warrant for the scientist, and the local press relayed this in newspapers as an "observer." The search lasted one day. He was found and interviewed.
 No criminal charges were filed.
@@ -477,7 +487,8 @@ As the story tracked through that week and the impacts felt by everyone involved
 
 All but that local newspaper reporter, who worked to save people in the parking lot, was the man who had written his name in print. It was published that Thursday in full accounting, with seven photos.
 
-It would be preserved through the generations, residing in a publically funded basement. Its integrity is confirmed.
+Microfilm preserved through the generations, residing in a publically funded basement of which the very man promoted—in a library. Its integrity is confirmed.
+
 Perhaps the scientist's name was finally released by authorities. Still, any press in their right mind, deep in the scientific moonshot, surrounded by aerospace and nothing worthy of recall, would touch the metaphorical ionizing lightning rod.
 
 His name was so clearly attached to scientific prowess, but the newspaperman believed in truth. And those trawlers out in the sea would quickly pick it up, or those satellites beaming in.
@@ -514,7 +525,7 @@ Then something interesting happened: a prank would be played, a recorded reminde
 
 The prank was written in a book a century later, recalling people uncredited, now credited, and no one caught on. Not even their historians, not even this storyteller, until the facts were rechecked.
 
-As the engineers continued advancing the toy line from engineering to product packaging through the following year, a bag would be hung, filled with a liquid, and two wires were dipped in it.
+As the engineers continued advancing the toy line from engineering to product packaging through the following year, a bag would be hung, filled with a liquid, and two wires were dipped in it. Some said it was a cup.
 
 Lots of parts would be laid around on the draft tables and benches. Some of the carcasses of the electric engines were in sight. With adjustment and tinkering, it would be made to spin... forever.
 
@@ -526,7 +537,7 @@ The engineers took bets, and some started drafting patents. Finally, after time 
 
 Lots of time was wasted.
 
-Intrigued, the electric motor was inspected, and the magnets were removed. How was it powered? Looking up, they climbed the ladder and stuck their hand out. A small air stream blasted from a discrete location in the false ceiling hooked up to the A/C duct. That spun the fan.
+Intrigued, the electric motor was inspected, and the magnets were removed. How was it powered? Looking up, they climbed the ladder and stuck their hand out. A small air stream blasted from a discrete location in the false ceiling hooked up to the air duct. That spun the fan.
 
 This toy motor was a hoax. It was an encoded memorial to our toy maker.
 
@@ -540,7 +551,7 @@ Their leader left the company a long time ago, not by her choice, but somehow, i
 
 They were now being wholly challenged by another toy company, overtaking them. Perhaps another pretender against the doll that defined them.
 
-Aerospace was changing, and consolidation was taking place. Technology was proven, stealth was long-established, and jets were so advanced no other nation was anywhere close. And most of the manufacturing is now happening nowhere near them, sometimes making it hard to quality check.
+Aerospace was changing, and consolidation was taking place. Technology was proven, stealth was long-established, and jets were so advanced no other nation was anywhere close. And most of the manufacturing is now happening nowhere near them, sometimes making it hard to quality check. Children still get inuried in the business game.
 
 Toys became a commodity. Advancing technology became easier. Computers shaped the prototype and calculated the logistics. The vast toy stores began to crumble, and toys were bought elsewhere, a wonder on endless warehouse screens.
 
@@ -552,7 +563,7 @@ A space shuttle came and went, losing its glory by blowing up in front of millio
 
 Once powerful government organizations waned, losing was once theirs. UFOs and UAPs have become accepted, but governments haven't let the information rip, clasping on to what little control they had left.
 
-Privatizing men now controlled future offices and space.
+Privatizing men now controlled future offices and Space. And we'd learn it was two shooters who took out a leader, not one. And more papers would be released, but some still held.
 
 Computers and smartphones were delightful, varied, and magical new things. Now, people's voices are squarely heard in the advancing information age. Personal secrets are revealed, and authors can see what was once impossible.
 
@@ -564,7 +575,7 @@ If the men of the parking lot, if still present, would not believe their own eye
 
 The world has changed a lot, but gasoline, natural gas, and oil continue to make plastics. They increment slowly. Somehow, society struggles to reach a Type I civilization, trying to return to the same moon a century later, making mistakes that once were mastered.
 
-The once heroic scientists no longer exist nor show the way. Instead, they monetize videos on their published channels while people no longer speak to one another. Instead, they look downward.
+The once heroic scientists no longer exist nor show the way. Instead, they monetize videos on their published channels while people no longer speak to one another. Instead, they look down- as this author looks backward.
 
 And the questionable engine of the incredible machinists is still a mystery. They were technical magicians.
 
@@ -633,7 +644,7 @@ Then, it gets so wild, mystical, and incredible. His experience is a story that 
 
 Most people would never know.
 
-The exhaustive act of writing these distant truths confirms to the industry how imperative it is to act with utmost integrity, remember their incredible impact on generations of toys and movies, and secure their records, which have all vanished.
+The exhaustive act of writing these distant truths confirms to the industry how imperative it is to act with utmost integrity, remember their incredible impact on generations of toys and movies, and secure their records, which have all vanished into a memory hole.
 
 With one local paper printing his birthday, he was born on a day when children receive gifts of invention. He was a man who made magic for them as much as his engineers, born on Christmas.
 
@@ -641,9 +652,15 @@ He believed.
 
 In the story of each perpetual machine, a human drama attempts to shift the existing powers from one hand to another, whether in science, money, war, or toys. The rest are within its orbit of conservation.
 
-But to a few like our fallen toymaker, we must not be afraid to tell of their wonders in an endless sea of realities and incredible complexities. So when we look up to the sky and hear the roar of a jet plane, or unpackage a toy for a child, our toy man was once there.
+But to a few like our fallen toymaker, we must not be afraid to tell of their wonders in an endless sea of realities and incredible complexities. And in this story, lots of people were unknowing, fearful, or perhaps gagged.
+
+So when we look up to the sky and hear the roar of a jet plane, or unpackage a toy for a child, our toy man was once there.
 
 And of the mystery engine? Its capability remains unsolved.
+
+And his name?
+
+His name was Jack Edward Hartman.
 
 ---
 
@@ -652,5 +669,9 @@ And of the mystery engine? Its capability remains unsolved.
 *Listener: "Wait, I have so many questions."*
 
 *Storyteller: "So do others."*
+
+Listener: “His story should be told . . .”
+
+Listener: “Hello? You There?”
 
 *\*Call ended.\**
