@@ -56,7 +56,6 @@ Picking up *Technical Toy Stories* provides the convenience of having everything
 
 ```
 i. [An Introduction To Undercover Toy Stories](https://medium.com/@solidi/undercover-patented-toy-stories-e49676a29477)
-ii. [Memorable Moments in Future American Toyland](https://medium.com/@solidi/memorable-moments-in-future-toyland-b919fdcbcba6)
 
 I. A Time for Toy Stories
 
@@ -86,7 +85,7 @@ I. A Time for Toy Stories
       *Patents, legal challenges and independent inventors in backyard toys.*
 13. 2020: [The Internet's Favorite Toy: The Tomy Screwball Scramble](https://medium.com/@solidi/the-tomy-screwball-scramble-9f4eab3681da)
       *When YouTuber's reviewed the fifty year old ball-in-puzzle game.*
-14. 2025: The End of Cheap Toys: The Wicked Box Tariff Debacle
+14. 2025: The End of Cheap Toys: The Wicked Box Tariff Debacle [Book only]
       *Packaging patented tech and connections back to American politics.*
 
 II. America's "Jack" of Toyland
@@ -110,6 +109,12 @@ III. The Man Who Made Magic
         f. A Toy Legacy Written in Prank
         g. Toy Maker Crosses a Century
         h. The Mystery and Legacy of an Inventor
+
+IV. Appendix
+
+A. On Mattel Engineering Company [Book Only]
+B. [Memorable Moments in Future American Toyland](https://medium.com/@solidi/memorable-moments-in-future-toyland-b919fdcbcba6)
+C. Public Records
 ```
 
 Each story is historically accurate based on sources. These stories capture the truth about the American toy business, for good or bad.
