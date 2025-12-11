@@ -111,6 +111,7 @@ Experiences distilled through writing.
 1. [How the Orange Tip Became a Standard-Issued Toy Accessory](https://medium.com/@solidi/how-the-orange-tip-became-a-standard-issued-toy-accessory-7c76d9b74ec8)
 1. [Don't Be Afraid to Close Your Tabs](https://medium.com/@solidi/dont-be-afraid-to-close-your-tabs-d709e57dda5f)
 1. [The TOMY Screwball Scramble](https://medium.com/@solidi/the-tomy-screwball-scramble-9f4eab3681da)
+1. [Micro Machines: A Small Chronicle](https://medium.com/@solidi/micro-machines-a-small-chronicle-ce45005eafd2)
 
 ## Major Engagements
 
