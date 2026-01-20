@@ -278,3 +278,12 @@ If you liked this highly detailed, forty-five-hundred-word historical write-up o
 * *Filmmaking was a generational ambition in the Galoob family, but it remains unrealized. "There is a very close relationship . . . between the toy industry and the film business," [said](https://www.newspapers.com/image/632874625/) David Galoob to an Associated Press journalist in 1987. A century has passed, and this is now the strategy of the toy industry's survival.*
 
 ** *The term "spray ops" first appeared in Maude Campbell's Polly Pocket book through a source she interviewed. Its definition relates to efforts to decal, tampo, and paint applied to toys during production.*
+
+---
+
+## Social Post
+
+Discover the fascinating history of #MicroMachines by #Galoob, a beloved American toy. This "small" chronicle unveils a never-before-told story about Micro Machines' unique association with #HotWheels, highlighting the rare lineage between the two. Enjoy the insights and learn more about this iconic toy line. 
+
+https://lnkd.in/efm7HvxD
+

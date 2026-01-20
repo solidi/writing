@@ -132,3 +132,15 @@ If the reader has a tip, please contact the author through the platform by comme
 ---
 
 * *The working title and content are subject to change. The book may contain bonus content*.
+
+---
+
+## Social Post
+
+I have completed my three-year writing journey with the release of #Undercover #Toy #Stories: An #Anthology of Real #American #Inventions.
+
+The book contains the most profound, shocking, and controversial tales in American #ToyIndustry lore, spanning 70 years. There are some incredible stories within, too. Included are bizarre tales from #Mattel, #Hasbro, #Galoob, and others that add to or fracture known business narratives. Within contains the very real #HotWheels story of an explosive engine, and a #Mattel #executive who dies in a cover-up (seen on the cover) in 1968, the brand's founding year.
+
+Undercover Toy Stories contains 1,000+ endnotes, 100+ patent sketches, 30+ human sources from the industry (many interviewed), and recreations based on fact. The book is available today.
+
+https://lnkd.in/e-WCYgaA
