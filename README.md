@@ -112,6 +112,7 @@ Experiences distilled through writing.
 1. [Don't Be Afraid to Close Your Tabs](https://medium.com/@solidi/dont-be-afraid-to-close-your-tabs-d709e57dda5f)
 1. [The TOMY Screwball Scramble](https://medium.com/@solidi/the-tomy-screwball-scramble-9f4eab3681da)
 1. [Micro Machines: A Small Chronicle](https://medium.com/@solidi/micro-machines-a-small-chronicle-ce45005eafd2)
+1. [Dad was at the Hard Hat Riot](https://medium.com/@solidi/dad-was-at-the-hard-hat-riot-f84339b08fb2)
 
 ## Major Engagements
 
