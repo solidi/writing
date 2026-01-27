@@ -31,7 +31,7 @@ To my understanding, the Hard Hat Riot was a boilover between two groups: studen
 
 ![Students on the Federal Hall colonnade; one man holding a silver microphone next to Dad with a white armband; bottom center. (Credit: PBS/Media Film)](images/97-02.jpeg)
 
-After a continuous week of political s-  happening with Vietnam, including President Nixon's incursion into Cambodia, firebombings of ROTC locations, four people shot dead on a university campus called Kent State, minor skirmishes between tradesmen and students in New York over Viet Cong flags, and under the pressure of "draft lottery," the tension broke.
+After a continuous week of political s-  happening with Vietnam, including President Nixon's incursion into Cambodia, firebombings of ROTC locations, four people shot dead on a university campus called Kent State, minor skirmishes between tradesmen and students in New York over Viet Cong flags, and under the pressure of "draft lottery," the tension broke.*
 
 On that Friday, May 8, students from various universities marched to Federal Hall near Wall Street. It was the place where Congress wrote the First Amendment. And during this day, students from Pace, Colombia, NYU, among others, had an assembly permit - the police were supposed to protect them.
 
@@ -82,7 +82,7 @@ And Dad's refusal of his son's military induction was core to what he once lived
 
 Mr. Kuhn wrote "that winners write history . . ." and on page seventy-eight of The Hardhat Riot, those many winning men, when called from high places, once told the draft to "f-  off," too.
 
-Dad said, "[David] missed a few others," then proceeded to name those not appearing in print.
+Dad said, "[David] missed a few others," then proceeded to name those not appearing in print. At least one was an architect of the new global war.
 
 ---
 
@@ -96,13 +96,15 @@ Many decades later, I often joke that my father will never be "awarded medals" f
 
 "When you're in the middle of it all, you have no perspective . . . no ability to step back and understand what is going on," David Paul Kuhn once wrote. What remains is printed on film. Dad is captured, looking into the frame - between both warring classes - in the middle of American history.
 
-And sometimes, steadfast investments in beliefs come full circle. Dad was never fortunate; he came from the lower-middle class and paid his way through college, which cemented his optimism about education.
+Sometimes, steadfast investments in beliefs come full circle. Dad was never fortunate; he came from the lower-middle class and paid his way through college, which cemented his optimism about education. And the event forever forged his opinion of the establishment. "I had become suspicious," said Dad.
 
 ---
 
 [My Dad appears in scenes starting at 44:00.](https://www.pbs.org/video/hard-hat-riot-ocptxr/)
 
 --
+
+*\* Brian VanDeMark's book, [Kent State: An American Tragedy](https://wwnorton.com/books/9781324066255), provided additional information for this write-up.*
 
 ## Social Post
 
