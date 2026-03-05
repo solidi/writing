@@ -103,7 +103,9 @@ In the land of high toy prices, [Optibotimus](https://www.youtube.com/watch?v=_2
 
 Regardless of global politics, YouTubers have made it clear: "But I care, and I know the company cares. So they need to fix [the reissue]," said [ActionFigures](https://www.youtube.com/watch?v=hTTWJfNLmHk&t=1235s). TLS is working through M.A.S.K. issues and has pushed back the release of the Gold/Black 40th-anniversary editions.
 
-LTS had released an [apology email](https://www.reddit.com/r/MASK/comments/1qbt36z/mask_message_from_tls/) early this year. It is because John Warden, Ben Montano, and Jonathan Cathey "Really Do Care."  And like the Steiners so long ago, these are the newest "toy bros" shifting into collectability while driving their business through survival. And while TLS is running on a three-banger [really, 15 employees], Kenner once had the biggest toy body shop.
+LTS had released an [apology email](https://www.reddit.com/r/MASK/comments/1qbt36z/mask_message_from_tls/) early this year, and Internet voices like Bill Faries, creator of the early Internet website matt-trakker.com, have been [critical of the response](https://www.youtube.com/watch?v=TSlY77ygnSk).
+
+ Wherever the customer stands, its clear John Warden, Ben Montano, and Jonathan Cathey "Really Do Care."  And like the Steiners so long ago, these are the newest "toy bros" shifting into collectability while driving their business through survival. And while TLS is running on a three-banger [really, 15 employees], Kenner once had the biggest toy body shop.
 
 ---
 
