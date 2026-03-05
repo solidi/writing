@@ -141,9 +141,9 @@ In the 1980s, M.A.S.K. prototypes were revealed to leadership, such as former pr
 
 Mr. Mendelsohn became the [chairman of Kenner](https://www.newspapers.com/image/101739833/) at the end of the initial development as Dave took over.
 
-In the forefront was Howard Bollinger, credited on patents with growing and scaling all the M.A.S.K. products. [Mr. Bollinger](http://bollingergallery.com/), an accomplished artist now in his mid-80s, was such a believer in the brand that Emperor Hasbro reclaimed the trademark back from his consulting company in the 2000s. They settled out of court.
+In the forefront was Howard Bollinger, credited on patents as he scaled all M.A.S.K. products. [Mr. Bollinger](http://bollingergallery.com/), an accomplished artist now in his mid-80s, was such a believer in the brand that Emperor Hasbro reclaimed the trademark back from his consulting company in the 2000s. They settled out of court.
 
-Tim Effler provided artistic design for the brand, along with toy powerhouses [The Real Ghostbusters](https://books.google.com/books/about/The_Real_Ghostbusters_A_Visual_History.html?id=quw2EQAAQBAJ) and [Centurions](https://patents.google.com/patent/US4723931A/en). And there is an endless list of industry model/design bros, managed by a [race car driver](https://www.youtube.com/watch?v=1wMDxUyUNWE), Tom Osborne, who shepherded the M.A.S.K. design (adding racing aesthetics), managed a department of [thirty-five people](https://www.facebook.com/watch/?v=389715996673918) - the "John Warden" of yesteryear.
+There is an endless list of industry model/design bros, managed by a [race car driver](https://www.youtube.com/watch?v=1wMDxUyUNWE), Tom Osborne, who shepherded the M.A.S.K. design (adding racing aesthetics), managed a department of [thirty-five people](https://www.facebook.com/watch/?v=389715996673918) - the "John Warden" of yesteryear. Tim Effler provided additional [art](https://all-about-mask.com/MASK-gallery/Tim-Ellis-Art/cat,55,0,1000,0,list.html) as he focused with toy powerhouses, [The Real Ghostbusters](https://books.google.com/books/about/The_Real_Ghostbusters_A_Visual_History.html?id=quw2EQAAQBAJ) and [Centurions](https://patents.google.com/patent/US4723931A/en).
 
 ![Original artwork (sometimes, intense) seen in products of M.A.S.K. Small comic books were included with the toy.](images/98-16.jpeg)
 
@@ -161,7 +161,7 @@ Mr. Effler is focusing on his legacy, finalizing a book titled *Back to the Draw
 
 But is the golden age over if men in their forties and fifties dole out hundreds of dollars today? Perhaps, it's the *silver age* of Kenner artist bros who once "Really Did Care" - grandfathers who sold an assortment of concealed toy guns buried in the proverbial glovebox of consumer history.
 
-Surprisingly, TLS has ripped the orange "vehicle abandonment" sticker off the brand, and their rearmament is underway. But is any man going to give their [1.58 kids](https://www.cbo.gov/system/files/2026-01/61879-Demographic-Outlook.pdf#:~:text=CBO%20projects%20that%20the%20total%20fertility%20rate,woman%20this%20year%20to%200.60%20in%202056.) the keys?
+Surprisingly, TLS has ripped the orange "vehicle abandonment" sticker off the brand, and their rearmament is underway. But is any man going to gift their [1.58 kids](https://www.cbo.gov/system/files/2026-01/61879-Demographic-Outlook.pdf#:~:text=CBO%20projects%20that%20the%20total%20fertility%20rate,woman%20this%20year%20to%200.60%20in%202056.) the keys?
 
 ![We Really Do Care!](images/98-18.jpeg)
 
