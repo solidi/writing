@@ -113,6 +113,7 @@ Experiences distilled through writing.
 1. [The TOMY Screwball Scramble](https://medium.com/@solidi/the-tomy-screwball-scramble-9f4eab3681da)
 1. [Micro Machines: A Small Chronicle](https://medium.com/@solidi/micro-machines-a-small-chronicle-ce45005eafd2)
 1. [Dad was at the Hard Hat Riot](https://medium.com/@solidi/dad-was-at-the-hard-hat-riot-f84339b08fb2)
+1. [We Really Do Care: Drive-By Scenes of Kenner's M.A.S.K.](https://medium.com/@solidi/we-really-do-care-drive-by-scenes-of-kenners-m-a-s-k-34b1135d291d)
 
 ## Major Engagements
 
