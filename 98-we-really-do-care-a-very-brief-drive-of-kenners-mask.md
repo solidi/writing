@@ -120,7 +120,7 @@ LTS had released an [apology email](https://www.reddit.com/r/MASK/comments/1qbt3
 
 The truck changed lanes and passed him, and as the toy engineer looked up, he saw a large cab, a long hood, and a monster-looking thing with all the chrome. The truck driver flipped him the bird, and perhaps his mouth was obscured, but he did "mouth" a four-letter word. The engineer glanced, albeit briefly, at his glovebox.
 
-Then the driver calmed, and his design ethos came to the fore. "Wow, that truck looked f - ing great!" All because the Kenner engineer was blocking a lane as he mentally worked through a problem on the drive into the office. And *thus*, the legend of the M.A.S.K. property was born.
+The driver calmed, and his design ethos came to the fore. "Wow, that truck looked f - ing great!" Then, he said, “But what was the *secret cargo* he was hauling?” All because the Kenner engineer was blocking a lane as he mentally worked through a problem on the drive into the office. And *thus*, the legend of the M.A.S.K. property was born.
 
 ![Original M.A.S.K. commercials from the 1980s, featuring live-action effects. At the time, "Kenner was like a veteran boxer . . . with the talent and determination for another title," written in Toy Wars by G. Wayne Miller.](images/98-13.gif)
 ![M.A.S.K. logo intro](images/98-14.gif)
