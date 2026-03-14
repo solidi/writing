@@ -49,9 +49,9 @@ Dad, an intellectual from blue-collar Ridgewood and a Pace student, appeared. Da
  
 "Nobody is listening to one another," he said.
 
-We had to stop. Dad revealed that he followed the crowd up Nassau Street to Foley Square, City Hall, and then Pace, where hardhats broke into the college. Police, again, did nothing. Their instructions were to say "f-  off," which the police told the student assembly to do when they lost control.
+We had to stop. Dad revealed that he followed the crowd up Nassau Street to Foley Square, City Hall, and then Pace, where hardhats [broke into the college](https://medium.com/@jo89220n/can-it-happen-here-a-history-of-pace-university-protesting-e05b8b136c7f). Police, again, did nothing. Their instructions were to say "f-  off," which the police told the student assembly to do when they lost control.
 
-![Man hurt at Pace University. "[Belknap] wasn't moving." Later, [Mr. Belknap](https://www.kpbs.org/news/2025/09/25/american-experience-hard-hat-riot) led an ACLU class-action lawsuit, which failed. Dad confirmed he was right outside the frame. (Credit: Pace Press, May 15, 1970 - finger gesture censored in print.)](images/97-04.jpeg)
+![Man hurt at Pace University. "[Belknap] wasn't moving." Later, [Mr. Belknap](https://www.kpbs.org/news/2025/09/25/american-experience-hard-hat-riot) led an ACLU class-action lawsuit, which failed. Dad confirmed he was right outside the frame. (Credit: Pace Press, May 15, 1970. The newspaper appears below.)](images/97-04.jpeg)
 
 Ultimately, laborers beat those who loved America, and the students beat them back, though not as decisively. The tradesmen told students to "f- off." The morning after, President Nixon met with students, whom he called "bums," and with unionists weeks later, with their political fixture, Peter J. Brennan. Neither side ever reconciled.
 
@@ -101,6 +101,8 @@ Sometimes, steadfast investments in beliefs come full circle. Dad was never fort
 ---
 
 [My Dad appears in scenes starting at 44:00.](https://www.pbs.org/video/hard-hat-riot-ocptxr/)
+
+[Pace Press, May 15th, 1970, Hardhat Riot](https://www.slideshare.net/slideshow/pace-press-may-15th-1970-hardhat-riot/286506652?utm_source=clipboard_share_button&utm_campaign=slideshare_make_sharing_viral_v2&utm_variation=control&utm_medium=share)
 
 --
 
