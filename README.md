@@ -114,6 +114,7 @@ Experiences distilled through writing.
 1. [Micro Machines: A Small Chronicle](https://medium.com/@solidi/micro-machines-a-small-chronicle-ce45005eafd2)
 1. [Dad was at the Hard Hat Riot](https://medium.com/@solidi/dad-was-at-the-hard-hat-riot-f84339b08fb2)
 1. [We Really Do Care: Drive-By Scenes of Kenner's M.A.S.K.](https://medium.com/@solidi/we-really-do-care-drive-by-scenes-of-kenners-m-a-s-k-34b1135d291d)
+1. [The TOMY Spinjas](https://medium.com/@solidi/the-tomy-spinjas-978a183a5eb3)
 
 ## Major Engagements
 
@@ -157,3 +158,8 @@ Experiences distilled through writing.
 
 1. [Hacker News Ranking](https://hnrankings.info/43067358/)
 1. [Hacker News Thread](https://news.ycombinator.com/item?id=43067358)
+
+### The TOMY Spinjas
+
+1. [Hacker News Ranking](https://hnrankings.info/47415156/)
+1. [Hacker News Thread](https://news.ycombinator.com/item?id=47415156)
