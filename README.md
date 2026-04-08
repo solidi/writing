@@ -115,6 +115,7 @@ Experiences distilled through writing.
 1. [Dad was at the Hard Hat Riot](https://medium.com/@solidi/dad-was-at-the-hard-hat-riot-f84339b08fb2)
 1. [We Really Do Care: Drive-By Scenes of Kenner's M.A.S.K.](https://medium.com/@solidi/we-really-do-care-drive-by-scenes-of-kenners-m-a-s-k-34b1135d291d)
 1. [The TOMY Spinjas](https://medium.com/@solidi/the-tomy-spinjas-978a183a5eb3)
+1. [Tom Osborne on Kenner's M.A.S.K](https://medium.com/@solidi/tom-osborne-on-kenners-m-a-s-k-d8b5d99a1bc9)
 
 ## Major Engagements
 

@@ -118,9 +118,9 @@ LTS had released an [apology email](https://www.reddit.com/r/MASK/comments/1qbt3
 
 "What the hell was that?" said the engineer, who was driving a Chevy Camaro. Behind him, a large Kenworth truck of a deep color. The trucker was being aggressive, atypical of those whose commercial driver's licenses are worth their livelihood,  but every hour counted.
 
-The truck changed lanes and passed him, and as the toy engineer looked up, he saw a large cab, a long hood, and a monster-looking thing with all the chrome. The truck driver flipped him the bird, and perhaps his mouth was obscured, but he did "mouth" a four-letter word. The engineer glanced, albeit briefly, at his glovebox.
+The truck changed lanes and passed him, and as the toy engineer looked up, he saw a large cab, a long hood, and a monster-looking thing with all the chrome. The truck driver flipped him the bird, and perhaps his mouth was obscured, but he did "mouth" a four-letter word. The engineer glanced, albeit briefly, at his glovebox.³
 
-The driver calmed, and his design ethos came to the fore. "Wow, that truck looked f - ing great!" Then, he said, “But what was the *secret cargo* he was hauling?” All because the Kenner engineer was blocking a lane as he mentally worked through a problem on the drive into the office. And *thus*, the legend of the M.A.S.K. property was born.
+The driver calmed, and his design ethos came to the fore. "Wow, that truck looked f - ing great!" Then, he said, “But what was the *secret cargo* he was hauling?”⁴ All because the Kenner engineer was blocking a lane as he mentally worked through a problem on the drive into the office. And *thus*, the legend of the M.A.S.K. property was born.
 
 ![Original M.A.S.K. commercials from the 1980s, featuring live-action effects. At the time, "Kenner was like a veteran boxer . . . with the talent and determination for another title," written in Toy Wars by G. Wayne Miller.](images/98-13.gif)
 ![M.A.S.K. logo intro](images/98-14.gif)
@@ -129,7 +129,7 @@ Carol Motsinger of *The Cincinnati Enquirer* interviewed Corky Steiner, son of o
 
 Hence, the drive-by is why the M.A.S.K. logo features the MDU (Mobile Defense Unit), aka the Rhino, with a man in a full mask. The brand is All-American, conceived in *Kentucky*, and hot-stapled in *Ohio*. The last part of production, common at the time and as it is today, was foreign.
 
-And perhaps early on in the toy ideation, someone mentioned the Dolorean, fashionable back then, and thus the addition of Thunderhawk (matched to the redesigned '83 Camaro) with gull wings.³
+And perhaps early on in the toy ideation, someone mentioned the Dolorean, fashionable back then, and thus the addition of Thunderhawk (matched to the redesigned '83 Camaro) with gull wings.⁵
 
 At least, this is the tale the author wants to believe. We will never know, *precisely*. President John F. Kennedy was quoted on his failed attempt to invade the Bay of Pigs, "Success has a thousand fathers . . . but defeat is an orphan." And for tales like Kenner's *Star Wars*, many Obi-Wans cashed in on the legends later, retelling history in *The Toys That Made Us*.
 
@@ -172,7 +172,11 @@ Surprisingly, TLS has ripped the orange "vehicle abandonment" sticker off the br
 
 ² *This author has commented at length about President Trump's entanglement of tariffs [and his history among the toy industry] in his book,* [Undercover Toy Stories](https://www.amazon.com/Undercover-Toy-Stories-Anthology-Inventions/dp/B0FR9RVRVH).
 
-³ *The earliest M.A.S.K. TV commercial provides this tell.*
+³ *Really, the ideation came from Howard looking out the back seat of his car. He had imagined, depicted as a child, what was hidden in the truck. [Tom Osborne gives details](https://medium.com/@solidi/tom-osborne-on-kenners-m-a-s-k-d8b5d99a1bc9).*
+
+⁴ *In the 1980s, Ohio Interstate and rail routes included both secretive [nuclear waste](https://www.newspapers.com/image/863724556/) and "[White Train](https://www.newspapers.com/image/153874266/)" routes, which included cargo such as missiles and nuclear devices. America left nothing to fantasy - much of the environment was real.*
+
+⁵ *The earliest M.A.S.K. TV commercial provides this tell.*
 
 ---
 
