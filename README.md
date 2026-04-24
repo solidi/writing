@@ -117,6 +117,7 @@ Experiences distilled through writing.
 1. [The TOMY Spinjas](https://medium.com/@solidi/the-tomy-spinjas-978a183a5eb3)
 1. [Tom Osborne on Kenner's M.A.S.K](https://medium.com/@solidi/tom-osborne-on-kenners-m-a-s-k-d8b5d99a1bc9)
 1. [Before Barbie: Mattel Engineering Company, Guided Missiles, and the Cold War](https://medium.com/@solidi/before-barbie-mattel-engineering-company-guided-missiles-and-the-cold-war-cdccfc05d192)
+1. [Claude's Law](https://dev.to/solidi/claudes-law-1da7)
 
 ## Major Engagements
 
