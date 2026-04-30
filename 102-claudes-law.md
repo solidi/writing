@@ -22,3 +22,15 @@ This gave me the idea. I updated my comment, and invented the 57th law:
 > _**Claude's Law**: The code that is written by the agent is the most correct way to write it._
 
 Dr. Milan Milanović, if you see this, please consider adding it to your law library. And yeah, I updated my style context file so the agents wouldn't do that ever again.
+
+---
+
+# Social Post
+
+"Render therefore unto #Caesar the things which are Caesar's; and unto #Claude the things that are Claude's."
+
+What follows are my brief reflections while working with orchestrated genies. Everything is changing, once again.
+
+#ai #reflections #agentic #hype #automation #career #productivity
+
+https://dev.to/solidi/claudes-law-1da7
