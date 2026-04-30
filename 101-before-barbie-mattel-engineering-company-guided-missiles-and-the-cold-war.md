@@ -16,7 +16,7 @@
 
 *Barbieland*, published by a division of Simon & Schuster in late 2025, mentions militant corporate rumors, a first in top-tier publishing. For example, Ms. Hitt acknowledges a quote from former Pentagon spokesperson, [Gary Flood](https://www.newspapers.com/image-view/1199752822/). He said, "The M16 rifle is based on something Mattel did;"² a critical armament of America's Vietnam War.
 
-This isn't Mattel's first Vietnam-era comparison. Tom Hayes, who created an overture titled [*Superstar: The Karen Carpenter Story*](https://www.youtube.com/watch?v=Q2Mlb82mQ58&t=502s), mixes footage of the Vietnam War bombing runs against Barbie dolls. Mr. Hayes was subsequently sued by Karen Carpenter's estate for music copyright infringement, with Mattel raising objections.
+This isn't Mattel's first Vietnam-era comparison. Todd Hayes, who created an overture titled [*Superstar: The Karen Carpenter Story*](https://www.youtube.com/watch?v=Q2Mlb82mQ58&t=502s), mixes footage of the Vietnam War bombing runs against Barbie dolls. Mr. Hayes was subsequently sued by Karen Carpenter's estate for music copyright infringement, with Mattel raising objections.
 
 ![Years prior to Mattel Engineering Company, author Robin Gerber confirmed the 1951 contract. Three years later, the first page of MEC's articles of incorporation. They built a 10,000 sq ft warehouse in 1955. (Source: [Los Angeles Mirror](https://www.newspapers.com/image/693432721/), California Secretary of State, CPRA in 2025)](images/101-02.jpeg)
 ![MEC articles](images/101-03.jpeg)
