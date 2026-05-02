@@ -6,11 +6,11 @@ The base voice file. Read this first for any essay session. Route to a spoke bas
 
 1. Read this file end-to-end before drafting.
 2. Determine the subject:
-   - Software, engineering, career, tools, video games, developer culture → also load [ai/software-context.md](ai/software-context.md).
-   - American toy industry, inventors, incidents, patents, toy companies, Undercover Toy Stories entries → also load [ai/toy-context.md](ai/toy-context.md).
+   - Software, engineering, career, tools, video games, developer culture → also load [software-context.md](software-context.md).
+   - American toy industry, inventors, incidents, patents, toy companies, Undercover Toy Stories entries → also load [toy-context.md](toy-context.md).
    - Mixed or unclear → load both; the dominant subject wins; note the blend to the author before drafting.
 3. Load [writing-editing.md](../writing-editing.md) for the universal banned-word and filter list. It applies to everything.
-4. **Toy essays only**: before drafting, ask the author for a `quotes.md` (workspace-root file) to seed the quote pool. See the Quote intake protocol in [ai/toy-context.md](ai/toy-context.md). Toy essays are quote-driven; do not draft without one.
+4. **Toy essays only**: before drafting, ask the author for a `quotes.md` (workspace-root file) to seed the quote pool. See the Quote intake protocol in [toy-context.md](toy-context.md). Toy essays are quote-driven; do not draft without one.
 5. Draft. Then run the banned-word pass before returning.
 6. After the author publishes or approves the essay, ask: "What did we learn about the voice from this piece?" Capture the answer in the Learning log of whichever file it refines.
 

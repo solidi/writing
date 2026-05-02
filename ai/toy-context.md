@@ -37,7 +37,7 @@ Observed consistently in 104 and recurring across the corpus. Treat as the defau
 3. **Subtitle** as H2 directly under the title — one declarative line that frames the angle.
 4. **Hero image** with a descriptive caption that smuggles in a fact. `images/NNN-01.jpeg`.
 5. **Horizontal rule** (`---`).
-6. **Section 1 — Company or context intro**, narrative title (e.g., "Tyco of Mount Laurel, Land of Vehicled Toys"), opening with an **ALL CAPS BOLD lead phrase** of three to six words: `**TYCO TOYS, INC. OPERATED** out of …`. Establishes company, place, era, and the lead engineer.
+6. **Section 1 — Company or context intro**, narrative title (e.g., "Tyco of Mount Laurel, Land of Vehicle Toys"), opening with an **ALL CAPS BOLD lead phrase** of three to six words: `**TYCO TOYS, INC. OPERATED** out of …`. Establishes company, place, era, and the lead engineer.
 7. **Section 2 — The artifact's launch / what and how.** Patent provenance, mechanism, license origin, named designers. ALL CAPS BOLD opener.
 8. **Section 3 — Reception and conflict.** Press, controversy, rebrand, recall, network refusals, NHTSA-style oversight. ALL CAPS BOLD opener.
 9. **Section 4 — What was mechanically or culturally special.** The piece of industrial archaeology worth preserving. Cross-references to sibling toy lines in the series. ALL CAPS BOLD opener.
