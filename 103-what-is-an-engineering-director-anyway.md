@@ -13,11 +13,11 @@ As a [manager](https://dev.to/solidi/what-is-an-engineering-manager-anyway-4and)
 
 **The feedback loop stretches into quarters.** An engineer's loop runs in minutes. A manager's last weeks. A director's cycle goes a year. [Patience is the price of their admission](https://randsinrepose.com/archives/the-rands-test/). Directors act on signals that the teams below haven't detected yet.
 
-**Directors broker deals.** They negotiate headcount with finance, roadmap with [product](30-what-is-a-product-manager-anyway.md), smooth dependencies with peer directors, and provide commitments to the executive suite. They hold a seat where engineering reality and business pressure meet as equals.
+**Directors broker deals.** They negotiate headcount with finance, roadmap with [product](https://dev.to/solidi/what-is-a-product-manager-anyway-3pc4), smooth dependencies with peer directors, and provide commitments to the executive suite. They hold a seat where engineering reality and business pressure meet as equals.
 
-**They run calibration and promotions at scale.** Fairness across teams demands a [cross-team lens](55-whats-in-a-career-promotion.md). Directors moderate debates on leveling, compensation, and promotion so outcomes hold up to scrutiny from engineers and the auditors alike.
+**They run calibration and promotions at scale.** Fairness across teams demands a [cross-team lens](https://medium.com/@solidi/whats-in-a-career-promotion-9f99df29c1c). Directors moderate debates on leveling, compensation, and promotion so outcomes hold up to scrutiny from engineers and the auditors alike.
 
-**Directors set technical direction without writing the code.** They are no longer the technologist in the room, and the role rewards decision-making. They choose the right architectural bets, fund the platform work [staff engineers](35-what-is-a-staff-engineer-anyway.md) and [principals](29-what-is-a-principal-engineer-anyway.md) advocate for, and make the investments their successors will inherit.
+**Directors set technical direction without writing the code.** They are no longer the technologist in the room, and the role rewards decision-making. They choose the right architectural bets, fund the platform work [staff engineers](https://dev.to/solidi/what-is-a-staff-engineer-anyway-4blj) and [principals](2https://dev.to/solidi/what-is-a-principal-engineer-anyway-55n0) advocate for, and make the investments their successors will inherit.
 
 **They absorb political heat.** A director shields the teams from noise that is apt to derail delivery. They forward the signal, not the static. Playing the game, the best directors perform the work invisibly; the engineers never know the meeting happened.
 
