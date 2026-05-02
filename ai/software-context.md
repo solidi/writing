@@ -1,6 +1,8 @@
 # Software Context — Spoke
 
-Voice guide for software, engineering, career, tools, and video-game-as-systems essays. Covers the register seen across essays 01–68 and any later piece in that key. Read [ai/writing-context.md](writing-context.md) first.
+Voice guide for software, engineering, career, tools, and video-game-as-systems essays. Covers the register seen across essays 01–104 and any later piece in that key. Read [ai/writing-context.md](writing-context.md) first.
+
+Most essays in this spoke also live in the author's collected book, _Deconstructive Software Ramblings: Essays from the Mind of an Engineering Manager_ (Dependent Studios LLC, December 2024; reprint November 2025). The book is the canonical edited form. When in doubt about an editorial choice (profanity asterisking, bracketed asides, citation handling, section grouping), defer to the book's conventions, captured below.
 
 ## When to load this file
 
@@ -28,6 +30,26 @@ Voice guide for software, engineering, career, tools, and video-game-as-systems 
 - Satire targets industry tropes, not individuals.
 - Factual density picks up when the subject is data or tooling; drops when the subject is the reader's day.
 
+## Book taxonomy (Deconstructive Software Ramblings)
+
+The book groups 64 essays into ten sections plus an epilogue. Each section opens with a single-word epigraph in dictionary form: `word (/pəˈnun.sɪ.ˈeɪ.ʃən/) part-of-speech. definition.` Use the section a piece would belong to as a routing signal: it tells you which canonical structure (A–F below) the essay is closest to and what its peers are.
+
+| Section | Epigraph | Structure(s) | Examples |
+|---|---|---|---|
+| I. Gripes on Software Experiences | gripe (n.) | F (satire/rant) | 42, 52, 54, 60, 65, 73, 74 |
+| II. Software Listicles | listicle (n.) | D (listicle) | 20, 21, 23, 36, 51, 53, 63, 64, 67 |
+| III. Practices and Insight in Software | practice (n.) / insight (n.) | E (deep dive) | 02, 04, 05, 07, 08, 15, 41 |
+| IV. Reading and Writing | read (v.) / write (v.) | C (memoir) + E | 19, 31, 38, 48, 68 |
+| V. What is a … Anyway? | — | A (definitional) | 18, 22, 27, 29, 30, 33, 35, 40, 103 |
+| VI. Interviewing | interview (n.) | B (imperative) | 09, 28, 39, 61 |
+| VII. Being a Software Engineer | engineer (n.) | C + B | 11, 25, 55 |
+| VIII. Being an Engineer Manager | manager (n.) | C + E | 01, 14, 24, 43, 44 |
+| IX. Crossovers | crossover (n.) | C + E across domains | 10, 12, 17, 49, 50, 56, 57, 62, 66 |
+| X. Reflections | reflection (n.) | C | 13, 16, 26, 71 |
+| ∞. Epilogue | — | C | 47, 59 |
+
+When drafting a new essay, name the section it would join. If it does not fit one, ask whether it is really a software essay at all.
+
 ## Canonical structures
 
 ### A. Definitional — "What is a [Role] Anyway?"
@@ -53,6 +75,19 @@ Examples: 02 IntelliJ SECTAs, 04 Springboard, 07 Decision Hypothesis, 38 .plan, 
 ### F. Satire / rant
 Direct statement of annoyance. Specific grievances, sardonic observation. Close with a call-out or plea.
 Examples: 42 reply all, 54 cancel update, 65 clean code goodbye.
+
+## Signature stylistic devices (book-grade)
+
+These appear consistently in the published book. Use them in new essays unless the piece is specifically a short web-only post.
+
+- **Small-caps + bold opener.** First two to four words of the body in small caps and bold, completing the sentence in regular type. "**TYCO TOYS, INC. OPERATED** out of Mount Laurel, New Jersey." Used in roughly 40% of essays; near-universal in book versions. Toy and software both inherit it.
+- **Bullet-arrow lists** (➔). Replace plain bullets when items deserve a visual anchor. Lead with a bolded noun phrase, then a sentence. "➔ **Equipment.** Buy the chair." Used heavily in listicles and inside long essays where a sub-list would otherwise drown in prose.
+- **Triple-bullet section break** (● ● ●). Centers a thematic pivot inside an essay where a header would be too heavy. One per essay max.
+- **Bracketed editorial wink** with a footnote dagger: `[which is to ship]†`, `[welcome back to five days a week in office, sorry]†`. Treat as a stage whisper to the reader. The dagger marks the aside as the author's, not the source's.
+- **Italicized one-line rhetorical kick.** "_Is it?_" "_Feeling good beats feeling fast._" One per essay; lands a turn or a doubt.
+- **Section epigraph in dictionary form.** When a draft groups essays into a sub-section, open with the epigraph: `gripe (/ɡrīp/) v. complain about something in a persistent, irritating way.`
+- **"DSR" footer glyph.** Reserved for book context, not blog drafts.
+- **Profanity discipline.** Always asterisked: `sh*t`, `batsh*t`, `dammit` left intact. Never spelled out, even in titles. "Apps Doing Sh*t". The asterisk is the point.
 
 ## Opening moves
 
@@ -100,9 +135,11 @@ Examples: 42 reply all, 54 cancel update, 65 clean code goodbye.
 
 - Internet-native. Medium, dev.to, HN, Substack, GitHub, YouTube, official docs.
 - Link density: short 2–5, medium 8–15, long 15–40.
-- Books appear as nods to shared canon (Mythical Man-Month, Pragmatic Programmer, Thinking Fast and Slow). Rarely quoted at length.
+- Citation density should rise with stakes. Gripes and rants cite lightly (3–5). Role definitions, management essays, and deep dives cite heavily (10–15+). The book pattern: external authority builds permission to advise senior moves.
+- Books appear as nods to a stable shared canon. Confirmed by the book's Selected Bibliography: _The Mythical Man-Month_ (Brooks), _Code_ (Petzold), _Hackers_ (Levy), _Masters of Doom_ (Kushner), _The Pragmatic Programmer_ (Hunt & Thomas), _Programming Pearls_ (Bentley), _The Soul of a New Machine_ (Kidder), _Peopleware_ (DeMarco & Lister), _The Cathedral and the Bazaar_ (Raymond), _Hackers & Painters_ (Graham), _Zen and the Art of Motorcycle Maintenance_ (Pirsig), _The Manager's Path_ (Fournier), _High Output Management_ (Grove), _Designing Data-Intensive Applications_ (Kleppmann). Rarely quoted at length.
 - People are named when they exemplify the point: Guido, Carmack, Uncle Bob, Rich Hickey, Jake Wharton.
-- No bibliography. Inline links. No academic citation style.
+- No bibliography in blog form. Inline links. No academic citation style. The book converts inline links to numbered endnotes; treat that as a pure print-format concern, not a voice change.
+- Non-software inputs are legitimate: amateur radio, motorcycling, painting plastic models, retro game modding, YouTube subscriptions. Transposition (radio axiom → career mastery; T-CLOCS → code review) is a teaching method, not a tangent.
 
 ## Diction and signature vocabulary
 
@@ -170,10 +207,30 @@ Examples: 42 reply all, 54 cancel update, 65 clean code goodbye.
 - Rant: 42, 65.
 - Video-game-as-systems: 45, 57, 67.
 - Coinage / law-naming: 102 (Claude's Law).
+- Long-form modding memoir: 34 (Half-Life mod).
+- Crossover transposition: 50 (motorcycling), 49 (hobbies), 66 (YouTube).
+
+## Author identity (load-bearing facts)
+
+- Douglas W. Arcuri. Long Island, New York. Engineering manager at SaaS / tech software companies; earlier career in mobile video streaming for media companies.
+- Off-hours: writes business history (toy industry), rides motorcycles, paints plastic auto models, ships retro game mods.
+- First book: _Deconstructive Software Ramblings_ (2024). Second: _Undercover Toy Stories_ (2025).
+- The author writes openly partly as a stated relief valve against burnout; do not sand off frustration in an edit. Frustration is part of the voice.
+- Hazem Saleh wrote the foreword to DSR; Danny Preussler and James Shvarts are credited inspirations; Aida Issayeva edits. Name them only when they are actually load-bearing for a piece.
 
 ## Learning log
 
 <!-- Append dated bullets. Newest at top. Promote recurring patterns into the body above. -->
+
+- 2026-05-02: Deep read of the published manuscript of _Deconstructive Software Ramblings_ (DSR), the author's collected book of essays 01–68 plus reorganization. Promoted into the body: book taxonomy table, signature stylistic devices (small-caps openers, ➔ bullet-arrow lists, ●●● section breaks, bracketed editorial wink with †, italicized one-line kickers, dictionary-form section epigraphs, asterisked profanity), citation-density-by-stakes rule, expanded shared canon list from the actual Selected Bibliography, and an Author identity block. Additional patterns worth keeping in mind but not yet promoted:
+  - **The book is a disguised career-arc memoir.** Section order ascends: Gripes → Listicles → Practices → Reading/Writing → Role definitions → Interviewing → Engineer → Manager → Crossovers → Reflections → Epilogue. New essays should know which rung they sit on.
+  - **Examples beat abstractions.** Essay 34 (Half-Life mod) is the longest piece in the corpus and uses narrative case-study form, not theory. When teaching a hard idea, find the long story first.
+  - **Failure is credibility.** The Cold Ice failure, the HN ban after the HN-frontpage essay, the "stroke while reading" reader quote — all preserved. Do not sand failures out; they earn the wins.
+  - **The "Even More Praise for the Author" device.** The book's back-matter praise page is real but inverted: hostile reader quotes, mod-removal notices, one genuine compliment. The joke lands because it is the literal truth. Available as an opener move for a meta-essay on writing or platforms (consider for any future essay 19-style piece).
+  - **Editorial dagger (`†`) vs. citation bracket (`[1]`).** In book form, `†` marks an author aside; `[N]` marks an external source. Drafts can ignore the dagger and use plain brackets `[like this]`; the daggered form is print-only.
+  - **Index discipline.** The book indexes concepts and named people heavily, products lightly. When coining a term in a new essay (Springboard, SECTA, Decision Hypothesis, Claude's Law, the Stew, LatestVer, the Manager Stew), the term is the indexable noun. Coin → use → reuse → it lands in an index someday.
+  - **"Ship" is the load-bearing verb.** Essays 47, 59, and 64 turn it into a thesis. When a draft has lost its spine, ask whether the thesis collapses to "ship".
+  - **Pandemic-era dating.** Essays 23, 45, 59, 63 anchor the post-2020 office-renegotiation moment. Future essays referencing remote work should treat that period as historical, not current.
 
 - 2026-04-30: Pattern study of essay 102 (Claude's Law). A new sub-genre lives here: the **agentic-coding reflection**. It is short (~350 words), memoir-shaped, and ends in a coined law. Specific moves to imitate:
   - **Trigger from a public artifact.** Open with an external prompt — an HN post, a list, a public law library. "I came across the post on Hacker News titled …". The artifact gives the essay something to react to and a place to send the reader.
