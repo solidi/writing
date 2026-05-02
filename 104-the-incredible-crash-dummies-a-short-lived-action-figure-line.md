@@ -6,7 +6,7 @@
 
 ---
 
-## Tyco of Mount Laurel, Land of Vehicled Toys
+## Tyco of Mount Laurel, Land of Vehicle Toys
 
 **TYCO TOYS, INC. OPERATED** out of Mount Laurel, New Jersey. Its roots ran back to 1926 as Mantua Metal Products, a model-railroad maker founded by John N. Tyler, which rebranded under the Tyco banner through the 1950s.
 
@@ -34,7 +34,7 @@ The public-service spots starred two talking dummies, Vince and Larry, who crash
 
 YouTuber Zach R. [said](https://www.youtube.com/watch?v=nQdDa7gQnBo), "Both Jim Ferguson and Joel Machack, who at the time were both working for Leo Burnett's Chicago office, came up with the brilliant idea to bring crash test dummies to life." The PSAs ran for 14 years and, by the Ad Council's count, became one of the most recognized campaigns in American television history.
 
-![Original [advertisment](https://www.youtube.com/watch?v=uYQR5ktq7W0) of the Crash Dummies back in 1985.](images/104-03.gif)
+![Original [advertisement](https://www.youtube.com/watch?v=uYQR5ktq7W0) of the Crash Dummies back in 1985.](images/104-03.gif)
 
 The podcast *Ridiculous History* [said](https://omny.fm/shows/ridiculous-history/the-oddly-dark-history-of-crash-test-dummies-not-t), ". . . These life-saving creations spawned a weird cultural moment in the 90s–action figures where the head would pop up like Rockem' Sockem' Robots . . ." The toy's central loop was to break it on purpose and put it back together.
 
@@ -54,7 +54,7 @@ Alongside Maureen G. Souza for girls marketing, "[Tilbor] oversaw Tyco's success
 
 The line of action figures arrived with television and retail support. Tyco placed it at the front endcap of the Toys 'R' Us action figure aisle through the 1991 and 1992 holiday season. The toy press covered the line favorably. *Playthings* and *Toy & Hobby World* flagged it as one of the best toy introductions of the time.
 
-![The Crash Dummies had an extensive run of [advertisments](https://www.youtube.com/watch?v=mrlS6TBaF_Y) from 1991 to 1994.](images/104-05.gif)
+![The Crash Dummies had an extensive run of [advertisements](https://www.youtube.com/watch?v=mrlS6TBaF_Y) from 1991 to 1994.](images/104-05.gif)
 
 "Tyco is banking on its Incredible Crash Dummies to capture the hearts of boys and girls who love to play 'smash and crash,' . . ." [said](https://www.newspapers.com/image/168139904/) Tyco executive Neil Tilbor.
 
@@ -76,7 +76,7 @@ The *Los Angeles Times* picked up the retail drama. They [wrote](https://www.new
 
 *The Sun-Journal* [replied](https://www.newspapers.com/image/831506469/), "Tyco Toys said it will not withdraw [the] Incredible Crash Dummies, as requested by the Ad Council . . . Tyco maintains it includes safety pamphlets with the toys."
 
-![The Crash Dummies Test Center, part of a line of times inwhich children test crash both figures and vehicles. (Source: [Patent](https://patents.google.com/patent/US5397260A/en)).](images/104-07.jpeg)
+![The Crash Dummies Test Center, part of a line of times in which children test crash both figures and vehicles. (Source: [Patent](https://patents.google.com/patent/US5397260A/en)).](images/104-07.jpeg)
 
 Thus, the rebrand of "The Incredible Crash Dummies" appeared. Neil's team included a Piston-Head Pro Boxer ring, a Bust-'Em Up Bronco, and a Junkbot villain set. The heroic squad - Slick, Spin, Axel, Pro-Tek, Ted, Flip, and Spare Tire - crashed on the side of safety.
 
@@ -102,7 +102,7 @@ In the early 2000's, through his success in winning the SCCA Sports Car title, h
 
 *Daytona Beach News-Journal* [wrote](https://www.newspapers.com/image/1229712100/), "Tilbor, formerly an executive at Ideal Toy, has built his own $20-million-a-year toy business in just four years, concentrating on the growing popularity of radio-controlled gadgetry."
 
-![Mr. Tilbor, seen in 2004, ran Tayio Edge in the early 2000s and became a successful entrepreneur. (Source: The [Daytona Beach News-Journal](https://www.newspapers.com/image/1229712081/), Joanna K. Olivari).](images/104-09.jpeg)
+![Mr. Tilbor, seen in 2004, ran Taiyo Edge in the early 2000s and became a successful entrepreneur. (Source: The [Daytona Beach News-Journal](https://www.newspapers.com/image/1229712081/), Joanna K. Olivari).](images/104-09.jpeg)
 
 Neil's work on toy history is important, but often not discussed. The mechanical design of the Crash Dummies is a piece of industrial archaeology worth preserving. Most action figure lines of the era - G.I. Joe, [M.A.S.K.](https://www.newspapers.com/image/1229712081/), [Micro Machines](https://medium.com/@solidi/micro-machines-a-small-chronicle-ce45005eafd2) - rewarded accumulation: more figures, more vehicles, more packaging backed with storied lore. The Crash Dummies rewarded destruction and reassembly.
 
@@ -144,7 +144,7 @@ The Crash Dummies remain what they were: a three-season action line built on a f
 
 Neil continued, "Wearing safety belts saves lives, and we hope our line of toys will help children and their parents understand the importance of The Incredible Crash Dummies' safety message."
 
-After Tyco, personal issues got in the way of Mr. Tilbor's toy ascent, and, contrary to endorsing NHSTA's messaging, he was later involved in a dangerous police chase following a dispute, which led to further run-ins with the law. His last toy company, Leynian Ltd. Co., defaulted under the weight of lawsuits.
+After Tyco, personal issues got in the way of Mr. Tilbor's toy ascent, and, contrary to endorsing NHTSA's messaging, he was later involved in a dangerous police chase following a dispute, which led to further run-ins with the law. His last toy company, Leynian Ltd. Co., defaulted under the weight of lawsuits.
 
 While Mr. Tilbor was later charged with panhandling, he was the man behind the Crash Dummies toys and engineered work with [Shohei Suto](https://www.fabtintoys.com/taiyo-rc/) for Tyco R/C products in the 20th century, including the Typhoon, [Fast Traxx](https://patents.google.com/patent/US5135427A/en), [Hi-Jacker](https://patents.google.com/patent/US5322469A/en), the Hammer, Eliminator, and the [Scorcher](https://patents.google.com/patent/US5429543A/en), earning Tyco hundreds of millions of dollars during its extended run.
 
@@ -158,7 +158,7 @@ Like Vince and Larry, Neil's team has left a lasting impression, which "directly
 
 ---
 
-![The Incredible Crash Dummies' iconic packaging is what children, now middle-aged adults, identify as highly recognize.](images/104-14.jpeg)
+![The Incredible Crash Dummies' iconic packaging is what children, now middle-aged adults, find highly recognizable.](images/104-14.jpeg)
 
 ---
 
