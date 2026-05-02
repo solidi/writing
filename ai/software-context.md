@@ -81,7 +81,7 @@ Examples: 42 reply all, 54 cancel update, 65 clean code goodbye.
 These appear consistently in the published book. Use them in new essays unless the piece is specifically a short web-only post.
 
 - **Small-caps + bold opener.** First two to four words of the body in small caps and bold, completing the sentence in regular type. "**TYCO TOYS, INC. OPERATED** out of Mount Laurel, New Jersey." Used in roughly 40% of essays; near-universal in book versions. Toy and software both inherit it.
-- **Bullet-arrow lists** (➜). Replace plain bullets when items deserve a visual anchor. Lead with a bolded noun phrase, then a sentence. "➜ **Equipment.** Buy the chair." Used heavily in listicles and inside long essays where a sub-list would otherwise drown in prose.
+- **Bullet-arrow lists** (➔). Replace plain bullets when items deserve a visual anchor. Lead with a bolded noun phrase, then a sentence. "➔ **Equipment.** Buy the chair." Used heavily in listicles and inside long essays where a sub-list would otherwise drown in prose.
 - **Triple-bullet section break** (● ● ●). Centers a thematic pivot inside an essay where a header would be too heavy. One per essay max.
 - **Bracketed editorial wink** with a footnote dagger: `[which is to ship]†`, `[welcome back to five days a week in office, sorry]†`. Treat as a stage whisper to the reader. The dagger marks the aside as the author's, not the source's.
 - **Italicized one-line rhetorical kick.** "_Is it?_" "_Feeling good beats feeling fast._" One per essay; lands a turn or a doubt.

@@ -98,5 +98,5 @@ Promotion rule: once a pattern appears in the Learning log three times, promote 
 
 <!-- Append dated bullets. Newest at top. Promote recurring patterns into the body above. -->
 
-- 2026-05-02: Added the book spoke ([ai/book-context.md](ai/book-context.md)) and routing rules. Loaded only when the work is a book-shaped artifact (front/back matter, section epigraphs, soliloquy passages); blog essays continue to use only the subject spoke. Driven by the deep read of _Deconstructive Software Ramblings_ and forward-looking needs for the toy book.
+- 2026-05-02: Added the book spoke ([book-context.md](book-context.md)) and routing rules. Loaded only when the work is a book-shaped artifact (front/back matter, section epigraphs, soliloquy passages); blog essays continue to use only the subject spoke. Driven by the deep read of _Deconstructive Software Ramblings_ and forward-looking needs for the toy book.
 - 2026-04-23: Initial hub created from corpus analysis of essays 01–101.

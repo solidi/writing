@@ -29,11 +29,11 @@ Order, top to bottom, in the printed book:
 1. **Praise for the Author** — page of pull-quoted reader/admin/peer comments. See _Praise page strategy_ below.
 2. **Also by the Author** — single line per prior title. Italicized.
 3. **Title page** — book title in three lines, all caps, hard-broken; subtitle one line, mixed case, italic optional.
-4. **Copyright page** — author, copyright years, publisher (Dependent Studios LLC), permissions email (`douglaswarcuri@gmail.com`), production note (Google Docs, EB Garamond body, Courier New code), trademark disclaimer, ISBN, LCCN, edition/printing line.
+4. **Copyright page** — author, copyright years, publisher (Dependent Studios LLC), permissions email (use the book's permissions email), production note (Google Docs, EB Garamond body, Courier New code), trademark disclaimer, ISBN, LCCN, edition/printing line.
 5. **Dedication** — two short dedications max, paired by relationship (mentor-figure + family-figure works). One sentence each. No "for".
 6. **Epigraph** — single quoted line, attributed in brackets to the narrator-as-character: `"There are no adults in this conference room. I'll prove it!" [The author writes his opinions—later—on the Internet.]`
 7. **Contents** — section + chapter list with page numbers. Front matter and back matter included with roman/decorative page references.
-8. **Foreword** — written by a credentialed peer (DSR: Hazem Saleh). Not the author. Title cased simply: "Forward" or "Foreword".
+8. **Foreword** — written by a credentialed peer (DSR: Hazem Saleh). Not the author. Title cased simply: "Foreword".
 9. **Introduction** — first-person, scene-driven, ends with a turn that sets up the rest of the book.
 10. **How to Use This Book** — short. Permission to skip around. Concrete suggestions ("park it on the coffee table", "read on support rotation"). Always closes by pointing to the canonical online home (`github.com/solidi/writing`).
 
@@ -64,7 +64,7 @@ This pattern is portable. The toy book may invert the device differently — col
 ## Section architecture
 
 - **Number of sections.** DSR uses ten plus an epilogue. Use seven to twelve numbered sections; fewer reads thin, more reads encyclopedic.
-- **Section header.** Roman numeral + period + name: `Section One`, then `I. Gripes on Software Experiences` in the contents. Title in body uses the spelled-out form.
+- **Section header.** In the body, use the spelled-out form: `Section One`. In the contents, use Roman numeral + period + section name: `I. Gripes on Software Experiences`.
 - **Section epigraph.** Dictionary-form definition, italicized, single line:
   - `gripe (/ɡrīp/) v. complain about something in a persistent, irritating way.`
   - `listicle (/ˈlistək(ə)l/) n. a piece of writing presented in the form of a list.`
@@ -100,7 +100,7 @@ When converting a blog essay for inclusion in a book:
 - **Section breaks within an essay.** Use `● ● ●` (three centered bullets) for a thematic pivot inside a long piece where a new header would be too heavy. One per essay maximum.
 - **Small-caps + bold opener.** First two to four words of the body in small caps and bold. `**TYCO TOYS, INC. OPERATED** out of Mount Laurel, New Jersey.` Near-universal in book versions of essays from both books.
 - **Italic one-line kicker.** A single italicized rhetorical sentence (`_Is it?_`) lands a turn. One per essay.
-- **Bullet-arrow lists** (`➔`). Replace plain bullets when items deserve a visual anchor. Lead with a bolded noun phrase.
+- **Bullet-arrow lists** (`➜`). Replace plain bullets when items deserve a visual anchor. Lead with a bolded noun phrase.
 - **DSR footer glyph.** Not portable to other books. The toy book should adopt its own one-letter footer glyph (`UTS`?) only if it earns the recurrence.
 - **Tense and link prose.** Where a blog essay says "I [linked yesterday] about X", strip the temporal hook. The book reader is not in the same week as the blog reader.
 - **Cross-link prose.** "See also essay 22" beats "I wrote about this on Medium". Use the in-book chapter number, not the URL.
