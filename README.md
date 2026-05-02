@@ -119,6 +119,7 @@ Experiences distilled through writing.
 1. [Before Barbie: Mattel Engineering Company, Guided Missiles, and the Cold War](https://medium.com/@solidi/before-barbie-mattel-engineering-company-guided-missiles-and-the-cold-war-cdccfc05d192)
 1. [Claude's Law](https://dev.to/solidi/claudes-law-1da7)
 1. [What is an Engineering Director Anyway?](https://dev.to/solidi/what-is-an-engineering-director-anyway-1acc)
+1. [The Incredible Crash Dummies: A Short-Lived Action Figure Line](https://medium.com/@solidi/the-incredible-crash-dummies-a-short-lived-action-figure-line-49868b72f9a0)
 
 ## Major Engagements
 
