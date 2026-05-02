@@ -58,8 +58,6 @@
     - Leading all the apps
     - Laid off
     - End it with the conversation of wanting to lead mobile again, and turning it down
-1. What is an Engineering Director Anyway?
-    - Manager of managers
 1. Short Gif's as an emotional hook
     - Subtle
     - Emotional
