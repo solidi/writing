@@ -9,10 +9,13 @@ The base voice file. Read this first for any essay session. Route to a spoke bas
    - Software, engineering, career, tools, video games, developer culture → also load [software-context.md](software-context.md).
    - American toy industry, inventors, incidents, patents, toy companies, Undercover Toy Stories entries → also load [toy-context.md](toy-context.md).
    - Mixed or unclear → load both; the dominant subject wins; note the blend to the author before drafting.
-3. Load [writing-editing.md](../writing-editing.md) for the universal banned-word and filter list. It applies to everything.
-4. **Toy essays only**: before drafting, ask the author for a `quotes.md` (workspace-root file) to seed the quote pool. See the Quote intake protocol in [toy-context.md](toy-context.md). Toy essays are quote-driven; do not draft without one.
-5. Draft. Then run the banned-word pass before returning.
-6. After the author publishes or approves the essay, ask: "What did we learn about the voice from this piece?" Capture the answer in the Learning log of whichever file it refines.
+3. Determine the form:
+   - Single essay (blog post, dev.to / Medium piece, social post) → subject spoke is sufficient.
+   - Book-shaped artifact (front matter, back matter, section epigraphs, anthology-level editorial choices, personal soliloquy passages between sections) → also load [book-context.md](book-context.md) on top of the subject spoke.
+4. Load [writing-editing.md](../writing-editing.md) for the universal banned-word and filter list. It applies to everything.
+5. **Toy essays only**: before drafting, ask the author for a `quotes.md` (workspace-root file) to seed the quote pool. See the Quote intake protocol in [toy-context.md](toy-context.md). Toy essays are quote-driven; do not draft without one.
+6. Draft. Then run the banned-word pass before returning.
+7. After the author publishes or approves the essay, ask: "What did we learn about the voice from this piece?" Capture the answer in the Learning log of whichever file it refines.
 
 ## Who the author is, on the page
 
@@ -69,6 +72,9 @@ The base voice file. Read this first for any essay session. Route to a spoke bas
 | Patent, trademark, or trade-press-rooted piece | toy |
 | Undercover Toy Stories series entry | toy |
 | Grief, memoir, or personal motivation of the archive project | toy |
+| Front matter, back matter, section epigraphs, anthology editorial work | **+ book** (on top of subject spoke) |
+| Personal soliloquy bridging essays in a collected volume | **+ book** |
+| Praise / Even More Praise pages, About the Author, Acknowledgments | **+ book** |
 
 ## Cross-domain bridge essays
 
@@ -92,4 +98,5 @@ Promotion rule: once a pattern appears in the Learning log three times, promote 
 
 <!-- Append dated bullets. Newest at top. Promote recurring patterns into the body above. -->
 
+- 2026-05-02: Added the book spoke ([ai/book-context.md](ai/book-context.md)) and routing rules. Loaded only when the work is a book-shaped artifact (front/back matter, section epigraphs, soliloquy passages); blog essays continue to use only the subject spoke. Driven by the deep read of _Deconstructive Software Ramblings_ and forward-looking needs for the toy book.
 - 2026-04-23: Initial hub created from corpus analysis of essays 01–101.
