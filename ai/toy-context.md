@@ -124,7 +124,7 @@ Dialogue with deceased figures is a signature move of this series. UTS publishes
 Four rules carry that protocol into a draft:
 
 1. **Eligibility.** The figure is deceased or otherwise unavailable, **or** prior public artistic license has already breached the veil (Robin Gerber's _Barbie and Ruth_, the 2023 _Barbie_ film, the _Barbie Uncovered_ documentary, podcasts, screenplays).
-2. **Evidentiary backing.** Every line is grounded in a cited fact, quotation, or on-record attribution. No invented beliefs, no invented confessions. Footnote density rises in dialogue scenes, not falls.
+2. **Evidentiary backing.** Every line is grounded in a cited fact, quotation, or on-record attribution. No invented beliefs, no invented confessions. Endnote density rises in dialogue scenes, not falls.
 3. **Disclosure language.** Frame the scene with one of the published forms:
    - "Some dialogues within this book were re-creations based on research, sources, or facts …" (UTS Endnotes preamble)
    - "This author imagined dialogues based on collective historical facts."
@@ -133,7 +133,7 @@ Four rules carry that protocol into a draft:
    - "Reader discretion is advised."
 4. **Visible distinction.** Scene-setting details (room, weather, gesture) may be imagined when they do not alter the factual record. Claims of belief, intent, or motive must trace to a source. Never pass an imagined line as a direct on-record quote; formatting and framing must keep the distinction visible to the reader.
 
-Exemplars: 89 (Marvin Glass with Bob Wallace, WBBM 1972), 92 (Jack Ryan and Elliot Handler on TWA), 93 (Florio and Horowitz in D.C., plus the pre-shooting scene), 98 (Steiner brothers in 1946 Cincinnati), 100 (Tom Osborne Q&A). UTS chapters that carry imagined dialogue: 1959, 1967, 1976, 1978, and TIMELESS. Investigative chapters (1968, 2003, 2024) deliberately avoid reconstructed dialogue and lean on the documentary record.
+Exemplars: 89 (Marvin Glass with Bob Wallace, WBBM 1972), 92 (Jack Ryan and Elliot Handler on TWA), 93 (Florio and Horowitz in D.C., plus the pre-shooting scene), 98 (Steiner brothers in 1946 Cincinnati), 100 (Tom Osborne Q&A). UTS chapters that carry imagined dialogue: Ch. 1959, Ch. 1967, Ch. 1976, Ch. 1978, and TIMELESS. Investigative chapters (Ch. 1968, Ch. 2003, Ch. 2024) deliberately avoid reconstructed dialogue and lean on the documentary record.
 
 ## Canonical structures
 

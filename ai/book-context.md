@@ -28,7 +28,7 @@ DSR and UTS are sibling books with deliberately different registers. **DSR is in
 | Section epigraph | Dictionary-form definition: `gripe (/ɡrīp/) v. …` | Block quotation from a cited book or interview, attributed in ALL CAPS: `RUTH HANDLER, NYT 1959.` |
 | Closing structure | Numbered Epilogue marked `∞.` | Three Appendices (A/B/C) + a "TIMELESS" bridging chapter; no `∞.` marker |
 | Profanity | Asterisked (`sh*t`) | Absent. Strict-formal register throughout. |
-| Editorial dagger `†` | Used for author asides | Not used. Asides are pushed into footnotes. |
+| Editorial dagger `†` | Used for author asides | Not used. Asides are pushed into endnotes. |
 | Bracketed wink asides | Common in body and front matter | Rare. Brackets reserved for clarifying inserts inside quotations. |
 | Social Post block | Stripped from book; lives in blog version | Stripped from book; lives in blog version |
 | Praise page | Real-but-inverted device (hostile reader quotes + one sincere closer) | Not present in the published manuscript. Do not assume one. |
