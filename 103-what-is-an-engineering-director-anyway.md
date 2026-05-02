@@ -11,7 +11,7 @@ As a [manager](https://dev.to/solidi/what-is-an-engineering-manager-anyway-4and)
 
 **They hire the hirers.** An engineering manager's mistake costs a team a quarter. A director's mistake costs several teams a year. Directors invest significant time in the manager interview loop, in [leveling calibration](https://lethain.com/perf-management-system/), and in succession plans the organization will use over the next two years.
 
-**The feedback loop stretches into quarters.** An engineer's loop runs in minutes. A manager's last weeks. A director's cycle goes a year. [Patience is the price of their admission](https://randsinrepose.com/archives/the-rands-test/). Directors act on signals that the teams below haven't detected yet.
+**The feedback loop stretches into quarters.** An engineer's loop runs in minutes. A manager's loop lasts weeks. A director's cycle goes a year. [Patience is the price of their admission](https://randsinrepose.com/archives/the-rands-test/). Directors act on signals that the teams below haven't detected yet.
 
 **Directors broker deals.** They negotiate headcount with finance, roadmap with [product](https://dev.to/solidi/what-is-a-product-manager-anyway-3pc4), smooth dependencies with peer directors, and provide commitments to the executive suite. They hold a seat where engineering reality and business pressure meet as equals.
 
@@ -40,3 +40,5 @@ What is an #Engineering #Director anyway?
 - Broker between engineering, product, finance, and peers
 - Absorb political heat and forward the signal
 - Are measured by the health of the organization, not the code shipped
+
+https://dev.to/solidi/what-is-an-engineering-director-anyway-1acc
