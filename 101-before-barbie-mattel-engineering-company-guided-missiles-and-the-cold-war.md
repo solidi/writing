@@ -185,6 +185,10 @@ Mattel Inc., the maker of Barbie, and its subsidiary, Mattel Engineering Company
 
 ---
 
+![https://www.youtube.com/watch?v=jnoY9Qk6cBg](Project Tinkertoy, 1953)
+
+---
+
 ## Social Post
 
 Before #Barbie, there was "high-stakes engineering" at #Mattel Inc. An investigation into the homicide of an on-the-job employee led to the discovery of a six-page document revealing that Ruth and Elliot Handler sought to extricate their toy company from military contracting. This included the opinion of a JAG military tribunal dated September 30, 1958.
