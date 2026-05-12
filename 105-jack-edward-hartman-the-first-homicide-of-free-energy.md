@@ -158,4 +158,6 @@ Jack Edward Hartman, age forty, in Gardena, California, was the first homicide o
 
 This post sets the recent cluster of eleven dead and missing American scientists against the 1968 unsolved homicide of Mattel's Preliminary Design VP, Jack Edward Hartman, at the Papp engine demonstration in Gardena, California - the first homicide of "free energy," and the case Eugene Mallove was prepared to reopen on national radio a month before his own murder in 2004.
 
+https://medium.com/@solidi/jack-edward-hartman-the-first-homicide-of-free-energy-53c829bd47c7
+
 #history #freeenergy #mattel #coldfusion #aerospace
