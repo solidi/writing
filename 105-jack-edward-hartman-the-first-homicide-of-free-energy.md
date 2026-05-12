@@ -90,7 +90,7 @@ Jack Hartman and Monica Reza, generations later, shared similar trajectories. Ja
 At Mattel, Mr. Hartman ran Preliminary Design - "Prelim" - a research pipeline the Handlers built as a counterweight to Jack Ryan's group, challenging his royalties. At the time of the incident, Jack chased a propulsion problem a child cared about: how to drive a Hot Wheels car uphill. The Sizzlers line - battery-powered Hot Wheels-eventually emerged from that floor.
 
 ![This author was able to continue the investigative work, finding the original press statement for the "free energy" engine, released in the Summer of 1968 and distributed to all media outlets.](images/105-06.jpeg)
-![Sedcondary document](images/105-07.jpeg)
+![Secondary document](images/105-07.jpeg)
 
 On Monday, November 18, 1968, at around 2:00 PM, Mr. Hartman walked into an L-shaped lot in Gardena on North Broadway, California. The lot belonged to Donald Roser's Environetics, Inc., and a press demonstration starred a sealed-cylinder engine designed by Hungarian-American inventor Josef Papp - what the trade press of the day called a "noble gas engine."
 
@@ -98,7 +98,7 @@ The pitch was extraordinary. Per the *Redwood City Tribune*, the month before, t
 
 But when a bystander took actions that challenged the demonstration, the engine exploded. A fragment struck Hartman in the lower back. Onlookers - Caltech's Richard Feynman among them - escaped the trajectory. KHJ-TV9 cameraman Del Linam kept rolling. Reporter Johnny O'Donnell of the *Gardena Valley News*, on his first day, took a head wound and remained at his typewriter for three days afterward.
 
-[From](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e) *A Tragic American Toy Story*, O'Donnell's account survives, ". . I just talked to [Jack] a few moments ago . . . he's a nice guy, God, and young." And the whole scene was filmed, as it was a presser. However, that film has suspiciously never surfaced, likely destroyed, or locked up in protective archives.
+[From](https://medium.com/@solidi/a-tragic-american-toy-story-f0c19e58534e) *A Tragic American Toy Story*, O'Donnell's account survives, ". . . I just talked to [Jack] a few moments ago . . . he's a nice guy, God, and young." And the whole scene was filmed, as it was a presser. However, that film has suspiciously never surfaced, likely destroyed, or locked up in protective archives.
 
 Within twenty-four hours, the Los Angeles County Sheriff's Department reclassified the death from criminal investigation of a fantastical engine to "excusable homicide." From *Jack's Injustice*, this author wrote, "Authorities had relationships, money, and good names on the line. And within twenty-four hours, the incident shifted from a criminal investigation to an accident, which made no sense."
 
@@ -132,7 +132,7 @@ The grief of a country watching its scientists vanish is real, and grief feeds a
 
 ![A surviving reporter's copy of the incident, and in the foreground is the "free energy" automobile engine. The victim, Jack Edward Hartman, is arrowed. (Source: Gardena Valley News, Nov 21, 1968)](images/105-10.jpeg)
 
-.Is the Gardena case the exception? Well, eyewitnesses spoke on the record, and a reporter wrote the drama the night of the explosion. A Nobel laureate stood within shrapnel range, unplugged the wire, then vanished. A sheriff's department reclassified manslaughter as an accident within twenty-four hours.
+Is the Gardena case the exception? Well, eyewitnesses spoke on the record, and a reporter wrote the drama the night of the explosion. A Nobel laureate stood within shrapnel range, unplugged the wire, then vanished. A sheriff's department reclassified manslaughter as an accident within twenty-four hours.
 
 Then, thirty-five years later, a corroborating historical witness - Eugene Mallove- who broke it all open again - died beaten in a Connecticut driveway a month after he outlined the case on national radio.
 
