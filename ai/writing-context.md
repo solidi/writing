@@ -13,7 +13,7 @@ The base voice file. Read this first for any essay session. Route to a spoke bas
    - Single essay (blog post, dev.to / Medium piece, social post) → subject spoke is sufficient.
    - Book-shaped artifact (front matter, back matter, section epigraphs, anthology-level editorial choices, personal soliloquy passages between sections) → also load [book-context.md](book-context.md) on top of the subject spoke.
 4. Load [writing-editing.md](../writing-editing.md) for the universal banned-word and filter list. It applies to everything.
-5. **Toy essays only**: before drafting, ask the author for a `quotes.md` (workspace-root file) to seed the quote pool. See the Quote intake protocol in [toy-context.md](toy-context.md). Toy essays are quote-driven; do not draft without one.
+5. **Toy essays only**: before drafting, ask the author for a per-essay quote file at `quotes/NNN-*.md` (where `NNN` is the numeric token of the essay file). See the Quote intake protocol in [toy-context.md](toy-context.md). Toy essays are quote-driven; do not draft without one.
 6. Draft. Then run the banned-word pass before returning.
 7. After the author publishes or approves the essay, ask: "What did we learn about the voice from this piece?" Capture the answer in the Learning log of whichever file it refines.
 
@@ -98,5 +98,12 @@ Promotion rule: once a pattern appears in the Learning log three times, promote 
 
 <!-- Append dated bullets. Newest at top. Promote recurring patterns into the body above. -->
 
+- 2026-05-12: Delta from essay 105 author edits — universal rules refined.
+  - **Short sentences need subject-verb-object completeness.** The banned-word list pushes toward fragments. Author rejected noun-only fragments ("A Mattel executive.", "A magazine sat at his fingertips." was kept, but standalone "Richard Feynman stood at his elbow." was kept while "A Mattel executive." was struck). Rule: rhythm-short is fine; nominalized-short is not. Short declarative sentences must have a verb of their own; do not lean on the preceding sentence to complete the thought.
+  - **Date stacking inside a paragraph.** When two or more dated events appear in the same paragraph, the first event gets the calendar date; subsequent events use relative intervals ("Four months later", "Two months after that"). Reads faster, reduces month-name repetition, and lets the rhythm of the paragraph carry the chronology.
+  - **Once a hedge has framed a claim, don't reinforce it in the next sentence.** Drop the second framing sentence. The reader takes the hedge on the first pass.
+- 2026-05-08: Drafting note from essay 105 (toy-spoke piece, but the universal filters did the heavy lifting). Awaiting author review.
+  - **Banned-word filters apply to narration, not quoted material.** A quote-driven essay accumulates banned words inside its quotes that the narrator cannot edit out. The filter pass should treat the narrator's prose as the editable surface and leave the quote text alone. The cap on `was` / `had` / `this` / `that` / `can` / `would` per paragraph still binds; the remediation is to flip narrator passives to active in advance, not to disturb the quote.
+  - **Active-voice flip pass should run before the banned-word pass on quote-heavy essays.** Sequence matters. Flipping passives early frees up cap budget per paragraph for unavoidable quoted instances of `was` / `had`.
 - 2026-05-02: Added the book spoke ([book-context.md](book-context.md)) and routing rules. Loaded only when the work is a book-shaped artifact (front/back matter, section epigraphs, soliloquy passages); blog essays continue to use only the subject spoke. Driven by the deep read of _Deconstructive Software Ramblings_ and forward-looking needs for the toy book.
 - 2026-04-23: Initial hub created from corpus analysis of essays 01–101.
