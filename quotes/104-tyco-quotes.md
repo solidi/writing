@@ -9,7 +9,7 @@
 - [ ] [LA Times](https://www.newspapers.com/image/176400836/), “Tyco is widely expected to unveil 'Crash Dummies,’ figures patterned after the Department of Transportation’s test-car dummies that spew body parts if they're not wearing safety belts when children crash their cars into walls.”  
 - [x] ~~[LA Times](https://www.newspapers.com/image/177322910/), “Expected to ring up sales of about $50 million this year \[1992\], making it one of the best-selling Christmas toys.”~~  
 - [ ] [Ridiculous history](https://omny.fm/shows/ridiculous-history/the-oddly-dark-history-of-crash-test-dummies-not-t), “Ad Council was already known at this point for making all the Smokey Bear PSAs from at least the 1950s onwards.” “So the company also went to the ad agency Leo Burnett to make their PSA campaign to reach consumers, which Leo Burnett’s still running to this day and doing . . .”  
-- [x] ~~Zach R, “Both Jim Ferguson and Joel Machack, who at the time were both working for Leo Burnett’s Chicago office, came up with the brilliant idea to bring crash test dummies to life . . . Machek was the one who came up with the idea to go with a more light-hearted approach.”~~
+- [x] ~~Zach R, “Both Jim Ferguson and Joel Machak, who at the time were both working for Leo Burnett’s Chicago office, came up with the brilliant idea to bring crash test dummies to life . . . Machek was the one who came up with the idea to go with a more light-hearted approach.”~~
 
 **About the Toy**
 

@@ -32,7 +32,7 @@ Neil Tilbor, who had extensive racing and toy-car invention prowess, was vice pr
 
 The public-service spots starred two talking dummies, Vince and Larry, who crashed through windshields each week to deliver the tagline, "You could learn a lot from a dummy - buckle your safety belt," penned by Jim Ferguson.
 
-YouTuber Zach R. [said](https://www.youtube.com/watch?v=nQdDa7gQnBo), "Both Jim Ferguson and Joel Machack, who at the time were both working for Leo Burnett's Chicago office, came up with the brilliant idea to bring crash test dummies to life." The PSAs ran for 14 years and, by the Ad Council's count, became one of the most recognized campaigns in American television history.
+YouTuber Zach R. [said](https://www.youtube.com/watch?v=nQdDa7gQnBo), "Both Jim Ferguson and Joel Machak, who at the time were both working for Leo Burnett's Chicago office, came up with the brilliant idea to bring crash test dummies to life." The PSAs ran for 14 years and, by the Ad Council's count, became one of the most recognized campaigns in American television history.
 
 ![Original [advertisement](https://www.youtube.com/watch?v=uYQR5ktq7W0) of the Crash Dummies back in 1985.](images/104-03.gif)
 
