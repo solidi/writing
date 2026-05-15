@@ -2,13 +2,13 @@
 
 - [x] ~~[Sanfransico Chronicle](https://www.newspapers.com/image/1226248488/), “The \[Tyco\] stock is cheap because they’ve had several disappointing quarters, but the outlook for 1993 is bright,” said Paul Valentine, toy-industry analyst for Standard and Poors.~~
 
-**Based on NHSTA Crash Dummies**
+**Based on NHTSA Crash Dummies**
 
 - [ ] [Ridiculous history](https://omny.fm/shows/ridiculous-history/the-oddly-dark-history-of-crash-test-dummies-not-t), “They build out human-shaped mannequins, and those are meant to provide invaluable, potentially life-saving data, about what happens if something goes wrong.”  
 - [x] ~~[Ridiculous history](https://omny.fm/shows/ridiculous-history/the-oddly-dark-history-of-crash-test-dummies-not-t), “And weirdly, these life-saving creations spawned a weird cultural moment in the 90s–action figures where the head would pop up like Rockem’ Sockem’ Robots . . .”~~  
 - [ ] [LA Times](https://www.newspapers.com/image/176400836/), “Tyco is widely expected to unveil 'Crash Dummies,’ figures patterned after the Department of Transportation’s test-car dummies that spew body parts if they're not wearing safety belts when children crash their cars into walls.”  
 - [x] ~~[LA Times](https://www.newspapers.com/image/177322910/), “Expected to ring up sales of about $50 million this year \[1992\], making it one of the best-selling Christmas toys.”~~  
-- [ ] “Ad Council was already known at this point for making all the Smokey Bear PSAs from at least the 1950s onwards.” “So the company also went to the ad agency Leo Burnett to make their PSA campaign \[t\] reach consumers, which Leo Burnett’s still running to this day and doing . . . “  
+- [ ] [Ridiculous history](https://omny.fm/shows/ridiculous-history/the-oddly-dark-history-of-crash-test-dummies-not-t), “Ad Council was already known at this point for making all the Smokey Bear PSAs from at least the 1950s onwards.” “So the company also went to the ad agency Leo Burnett to make their PSA campaign to reach consumers, which Leo Burnett’s still running to this day and doing . . .”  
 - [x] ~~Zach R, “Both Jim Ferguson and Joel Machack, who at the time were both working for Leo Burnett’s Chicago office, came up with the brilliant idea to bring crash test dummies to life . . . Machek was the one who came up with the idea to go with a more light-hearted approach.”~~
 
 **About the Toy**
@@ -17,7 +17,7 @@
 - [ ] [Ridiculous history](https://omny.fm/shows/ridiculous-history/the-oddly-dark-history-of-crash-test-dummies-not-t), “There were playsets you can get where you can simulate the crashes.”  
 - [x] ~~[Courier-Post](https://www.newspapers.com/image/183185807/), “It’s not ‘don’t do drugs’ but it's something like that, said Bruce Maguire.” “Now, \[Neil will\] concentrate on the launch of the action-figure line, Maguire said.”~~  
 - [ ] [Ridiculous history](https://omny.fm/shows/ridiculous-history/the-oddly-dark-history-of-crash-test-dummies-not-t), “There was a button where the arms and legs would pop off.”  
-- [ ] [Ode2Toy](https://www.youtube.com/watch?v=KVjk8lB4Ruw), “Not only did they have their main toy line, but they also expanded out into computer games, comic books, and they even made a pilot for a tv shoe which sadly was never picked up.”  
+- [ ] [Ode2Toy](https://www.youtube.com/watch?v=KVjk8lB4Ruw), “Not only did they have their main toy line, but they also expanded out into computer games, comic books, and they even made a pilot for a TV show which sadly was never picked up.”  
 - [ ] [ToyTales.ca](https://toytales.ca/vince-larry-the-crash-dummies-from-tyco-1990s/), “Regardless of how each figure was separated, children could make them whole again by snapping the various pieces back in place.”  
 - [x] ~~[Sanfransico Chronicle](https://www.newspapers.com/image/1226432260/), “Leisure Concepts gets between 3 percent and 6 percent of each Crash Dummies sale.”~~  
 - [ ] Photo of Dummy playing with the toy in [Feb 1992](https://www.newspapers.com/image/1011021790/).  
@@ -44,7 +44,7 @@
 
 - [x] ~~[Crash dummies](https://patents.google.com/patent/US5334073A/en%20)~~  
 - [x] ~~[Crash testing playset](https://patents.google.com/patent/US5397260A/en)~~  
-- [ ] [Bull’s Truck](https://patents.google.com/patent/US5259808A/en%20)
+- [ ] [Bull’s Truck](https://patents.google.com/patent/US5259808A/en)
 
 **Trademarks**
 
@@ -63,7 +63,7 @@
 - [ ] [Top ten toys](https://wheeljackslab.com/blog/the-top-ten-incredible-crash-dummies-toys?srsltid=AfmBOooxc49DdAUQn4A2tPrTDQsQ1q_C0em4BZGI1hwqIMr0jQyRVo79)  
 - [ ] [Grop shot of Crash cars and motorcycles](https://toytales.ca/wp-content/uploads/2023/06/tyco-crash-dummies-2-new.jpg)
 
-**Contraversies**
+**Controversies**
 
 - [x] ~~[LA Times](https://www.latimes.com/archives/la-xpm-1992-12-11-fi-1752-story.html#:~:text=Richard%20Grey%2C%20chairman%20and%20chief,encourage%20youngsters%20to%20buckle%20up.), wants dolls pulled, Dec 1992~~  
 - [x] ~~Mattel Fought to [keep the rights](https://www.courthousenews.com/mattel-retains-rights-to-crash-dummies/) in 2010~~
@@ -73,7 +73,7 @@
 - [x] ~~Left Tyco in [Spring 1992](https://www.newspapers.com/image/177943037/), ([other](https://www.newspapers.com/image/182922361/)) James L. Block [took over](https://www.newspapers.com/image/177943037/), SCCA SportsCar Winner 2004, [felon in 2007](https://www.newspapers.com/image/1232907074/)~~  
 - [x] ~~Has tied all the way back to Jack Ryan on TCR.~~  
 - [ ] [The Times](https://www.newspapers.com/image/1196923994/), “In six years at Tyco, Tilbor was involved with marketing and development of such products lines as Typhoon and Fast Traxx radio control vehicles, TCR electric racing, Spy-Tech and Hot-Lixx computerized guitar, the Magna Doodle telephone, and The Incredible Crash Dummies action figure line.”  
-- [ ] Try [(386) 847-1818](https://www.truepeoplesearch.com/find/phone/3868471818), (510) 604-3960,   
+- [ ] Find a public interview, article, or archival reference for additional biographical details.  
 - [x] ~~[The Times](https://www.newspapers.com/image/1199444641/), “\[Tilbor\] overseen Tyco’s successful radio control, electric trains racing business for the past four years and served most recently as vice president of marketing,” with Maureen G. Souza as girls' VP of marketing. She left [in 1991](https://www.newspapers.com/image/183185807/).~~  
 - [ ] [Star-Ledger](https://www.newspapers.com/image/1114233636/), Vice president of marketing of boys toys at tyco [said](https://www.newspapers.com/image/1114233636/),  “Diversification is how you succeed long term in this industry . . . We’d rather have not enough than too many.”  
 - [ ] [Phil Inquirer,](https://www.newspapers.com/image/168139904/) “. . . had stints as a professional racecar driver.”   
