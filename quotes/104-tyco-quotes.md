@@ -61,7 +61,7 @@
 - [ ] [Incredible collection of toys, prototype of Darlene](https://www.videogamesage.com/forums/topic/3835-incredible-crash-dummies-collection/)  
 - [ ] [Skid the Kid](https://bitz-buttons.com/products/skid-the-kid-vintage-incredible-crash-dummies-tyco-sealed-box)  
 - [ ] [Top ten toys](https://wheeljackslab.com/blog/the-top-ten-incredible-crash-dummies-toys?srsltid=AfmBOooxc49DdAUQn4A2tPrTDQsQ1q_C0em4BZGI1hwqIMr0jQyRVo79)  
-- [ ] [Grop shot of Crash cars and motorcycles](https://toytales.ca/wp-content/uploads/2023/06/tyco-crash-dummies-2-new.jpg)
+- [ ] [Group shot of Crash cars and motorcycles](https://toytales.ca/wp-content/uploads/2023/06/tyco-crash-dummies-2-new.jpg)
 
 **Controversies**
 
