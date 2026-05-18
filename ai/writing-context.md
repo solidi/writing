@@ -12,6 +12,7 @@ The base voice file. Read this first for any essay session. Route to a spoke bas
 3. Determine the form:
    - Single essay (blog post, dev.to / Medium piece, social post) → subject spoke is sufficient.
    - Book-shaped artifact (front matter, back matter, section epigraphs, anthology-level editorial choices, personal soliloquy passages between sections) → also load [book-context.md](book-context.md) on top of the subject spoke.
+   - Auditing a typeset / published PDF for correctness (index page numbers, alphabetical order, endnote numbering, bibliography order, figure list) → also load [book-editing.md](book-editing.md) on top of the subject spoke. This is the production-side companion to the book spoke; the book exists, and the job is to find what is broken in it.
 4. Load [writing-editing.md](../writing-editing.md) for the universal banned-word and filter list. It applies to everything.
 5. **Toy essays only**: before drafting, ask the author for a per-essay quote file at `quotes/NNN-*.md` (where `NNN` is the numeric token of the essay file). See the Quote intake protocol in [toy-context.md](toy-context.md). Toy essays are quote-driven; do not draft without one.
 6. Draft. Then run the banned-word pass before returning.
@@ -75,6 +76,8 @@ The base voice file. Read this first for any essay session. Route to a spoke bas
 | Front matter, back matter, section epigraphs, anthology editorial work | **+ book** (on top of subject spoke) |
 | Personal soliloquy bridging essays in a collected volume | **+ book** |
 | Praise / Even More Praise pages, About the Author, Acknowledgments | **+ book** |
+| Index audit (page numbers, alphabetical order), endnote audit, bibliography audit on a typeset PDF | **+ book-editing** (on top of subject spoke) |
+| Post-publish correctness sweep on a printed or print-ready manuscript | **+ book-editing** |
 
 ## Cross-domain bridge essays
 
@@ -98,6 +101,7 @@ Promotion rule: once a pattern appears in the Learning log three times, promote 
 
 <!-- Append dated bullets. Newest at top. Promote recurring patterns into the body above. -->
 
+- 2026-05-17: Added the book-editing spoke ([book-editing.md](book-editing.md)) and routing rules. Loaded when the work is a correctness sweep on a typeset PDF (index audit, endnote numbering, bibliography order, figure list). The drafting spoke ([book-context.md](book-context.md)) covers *how the book is built*; the editing spoke covers *how to find what is broken once it exists*. Driven by the UTS post-publish-edits-9.pdf index audit session.
 - 2026-05-12: Delta from essay 105 author edits — universal rules refined.
   - **Short sentences need subject-verb-object completeness.** The banned-word list pushes toward fragments. Author rejected noun-only fragments ("A Mattel executive.", "A magazine sat at his fingertips." was kept, but standalone "Richard Feynman stood at his elbow." was kept while "A Mattel executive." was struck). Rule: rhythm-short is fine; nominalized-short is not. Short declarative sentences must have a verb of their own; do not lean on the preceding sentence to complete the thought.
   - **Date stacking inside a paragraph.** When two or more dated events appear in the same paragraph, the first event gets the calendar date; subsequent events use relative intervals ("Four months later", "Two months after that"). Reads faster, reduces month-name repetition, and lets the rhythm of the paragraph carry the chronology.
