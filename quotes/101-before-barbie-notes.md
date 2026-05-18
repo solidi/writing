@@ -34,7 +34,7 @@ LA Times, 1954, [https://www.newspapers.com/image-view/386141621/](https://www.n
 
 - [x] ~~p. 5 Mattel’s proximity to national security’s toy makers was not just some accident of real estate, but the natural by-product of a corporation that has always invited comparisons to the defense industry, \- \[she quotes the newspaper on Pentagon\]~~  
 - [x] ~~p. 102 “Mattel itself said its space toys were scaled with actual NASA size data and that its assault rifle sounded just like the real thing.”~~  
-- [x] ~~p. 121 (When preparing her Mattel documents to the Strong Museum) “\[Carol Spencer\] removed every document stampled “CONFIDENTIAL” and set them all on fire.” ‘Any pages that I have that are confidential,” said said, ‘those get burnt up.’~~
+- [x] ~~p. 121 (When preparing her Mattel documents to the Strong Museum) “\[Carol Spencer\] removed every document stamped “CONFIDENTIAL” and set them all on fire.” ‘Any pages that I have that are confidential,” said said, ‘those get burnt up.’~~
 
 *Toy Wars*
 
@@ -62,7 +62,7 @@ Secret galaxy
 
 Toy Monster / Car Guy
 
-- [ ] [Car Guy](https://justacarguy.blogspot.com/2025/11/mattel-vp-john-william-jack-ryan-who.html): “Ryan went to Yale College, where he was active in the Pistol Club, and the Naval Reserve Officers’ Training Corps. He served in the Pacific for a short time during World War II and in 1946 returned to Yale, where he was known as an “engineering genius.” toiy monster, p 22 has additional info.  
+- [ ] [Car Guy](https://justacarguy.blogspot.com/2025/11/mattel-vp-john-william-jack-ryan-who.html): “Ryan went to Yale College, where he was active in the Pistol Club, and the Naval Reserve Officers’ Training Corps. He served in the Pacific for a short time during World War II and in 1946 returned to Yale, where he was known as an “engineering genius.” Toy Monster, p 22 has additional info.  
 - [x] ~~P. 6 “Barbie has quite an untold heritage.”~~  
 - [x] ~~P. 266 “. . . \[Mattel\] has been subject of thousands of articles. Controversies, scandals, toy announcements-everything from mundane quarterly earning reports to front-page blockbusters-have received coverage in daily newspapers and weekly and monthly magazines, and in recent years, on the Internet.”~~  
 - [x] ~~P. 269 “I began to wonder why. What, if anything, were they hiding?”~~
@@ -81,7 +81,7 @@ Ending
 - [ ] Jewish vs Protestant, many were due to anti-semistism. No family members, no names.  
 - [ ] Information broke this author has he loved toys, and this would be the last place to find it. But here it is  
 - [x] ~~History is not to be liked, but to be understood.~~  
-- [ ] “In the end, we are seeking truth in a world that does not provide it.” \< chruch  
+- [ ] “In the end, we are seeking truth in a world that does not provide it.” \< church  
 - [x] ~~Barbie Vietnam youtube.~~
 
 Original docs
@@ -90,4 +90,4 @@ Original docs
 - [ ] Contract Appeal Decisions, cover https://www.google.com/books/edition/Board_of_Contract_Appeals_Decisions/vajWsZpg3ZIC?hl=en&gbpv=1
 - [ ] Moody's Industrial Manual, Part 2, 1963 https://www.google.com/books/edition/Moody_s_Industrial_Manual/wEBZkbq56WgC?hl=en&gbpv=0&bsq=%22Mattel%20Engineering%22
 - [ ] Moodys, page 2940 https://www.google.com/books/edition/Moody_s_Industrial_Manual/wEBZkbq56WgC?hl=en&gbpv=1&bsq=%22Mattel+Engineering%22&dq=%22Mattel+Engineering%22&printsec=frontcover
-- [ ] American Avation Daily, p. 296 https://www.google.com/books/edition/American_Aviation_Daily/3HgPAAAAIAAJ?hl=en&gbpv=1&dq=%22Mattel+Engineering%22&pg=PA296&printsec=frontcover
+- [ ] American Aviation Daily, p. 296 https://www.google.com/books/edition/American_Aviation_Daily/3HgPAAAAIAAJ?hl=en&gbpv=1&dq=%22Mattel+Engineering%22&pg=PA296&printsec=frontcover

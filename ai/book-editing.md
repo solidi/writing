@@ -73,7 +73,7 @@ A raw violation list will contain false positives the author has placed on purpo
 - **Family-before-individual.** `Gentile (family)` before `Gentile, Andrew`. `Hassenfeld (family)` before `Hassenfeld, Alan`. `Mowbray (family)` before `Mowbray, Anna`. `Van Beek (family)` before `Van Beek, Barend`. Strict alpha would put the individual first; UTS uses family-first as a deliberate genealogical grouping.
 - **Parent-before-specific.** `Mattel (company)` before `Mattel Engineering Co.`. `LEGO (toy)` before `LEGO Group`. `Photon (toy)` before `Photon Marketing Ltd.`. `Ghostbusters (toy)` before `Ghostbusters II`. The shorter/parent term carries the entry; the longer specifics file beneath.
 - **Series order.** `Big Loader (toy)` then `Big Big Loader (toy)` then `Big Big Big Loader (toy)`. This is product-sequence order from Tomy, not an alphabetical pass that broke three times in a row. Verify against the product line before flagging.
-- **Subsidiary parentheticals.** `Daily News (New York)` and `Daily News (Louisiana)` sort by the parenthetical when the head is identical. UTS appears to file by parenthetical alphabetically.
+- **Subsidiary parentheticals.** `Daily News (Louisiana)` and `Daily News (New York)` sort by the parenthetical when the head is identical. UTS appears to file by parenthetical alphabetically.
 
 ### Reporting format
 
