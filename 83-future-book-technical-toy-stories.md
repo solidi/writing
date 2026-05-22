@@ -66,7 +66,7 @@ I. A Time for Toy Stories
 3. 1970: [Toys from Aerospace: Wheels, Wings, and Electric Space Juice](https://medium.com/@solidi/push-play-and-put-em-away-the-hot-wheels-kid-powered-trains-and-planes-80f6c2edeb40)
       *The toy company surrounded and influenced by Defense and Aerospace.*
 4. 1970: [The First American Toy Team: The Fisher-Price Action Garage](https://medium.com/@solidi/the-fisher-price-action-garage-15b6a9556e2a)
-      *Child injury, deaths, toxic paints within an iconc pre-school brand.*
+      *Child injury, deaths, toxic paints within an iconic pre-school brand.*
 5. 1976: [The Great Marvin Glass: Artists in a Fortress of Invention](https://medium.com/@solidi/the-great-marvin-glass-artists-in-a-fortress-of-invention-08e6a6da3399)
       *The murderer of his associates, creators of toy culture, found on YouTube.*
 6. 1977: [East Remeets West: The Tomy Big Loader](https://medium.com/@solidi/the-tomy-big-loader-351139832616)
