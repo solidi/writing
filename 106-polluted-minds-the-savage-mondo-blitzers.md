@@ -24,7 +24,7 @@ A year later, AmToy's Madballs arrived, grotesque, squishy balls that children t
 
 Following Food Fighters and Toxic Crusaders, mixing food, slime, and ugly monsters in the late 1980s, Creepy Crawlers, a plastic goop-insect-making machine invented by Mattel, was reissued by Toymax in 1991.
 
-![Examples of the Savage Mondo Blizters in a 1992 commercial. (Source: [NR Productions](https://www.youtube.com/watch?v=omFOeOMm9tU))](images/106-03.gif)
+![Examples of the Savage Mondo Blitzers in a 1992 commercial. (Source: [NR Productions](https://www.youtube.com/watch?v=omFOeOMm9tU))](images/106-03.gif)
 
 And so the gross-out-monster theme was experiencing a fever pitch, and with the release of R.L. Stine's junior horror series, Goosebumps, and the success of former Mattel executive Joe Morrison's [Monster In My Pocket](https://rikcw.medium.com/my-secret-history-with-monster-in-my-pocket-ea54e9a5b5d9),  the stage was set.
 
@@ -34,9 +34,9 @@ The toy design floor felt every word of the press release as Kenner Products in 
 
 In February 1992, the *Cincinnati Enquirer* [previewed](https://www.newspapers.com/image/101696918/) the Kenner Toy Fair slate. "Kenner will also gamble on a few novelty items this year - the kind that either catch fire quickly or die equally as fast. In that category are Savage Mondo Blitzers, a line of collectible playground bullies with gross names like Eye Puss and Mr. Mutator Head."
 
-![One of the many wild trademarks filed during the era of gross out toys. (Soruce: [Official USPTO Gazette](https://www.google.com/books/edition/Official_Gazette_of_the_United_States_Pa/PJbEHuzXUV8C?hl=en&gbpv=1&dq=%22The+Chunk+Blowers%22&pg=RA1-PA289))](images/106-04.jpeg)
+![One of the many wild trademarks filed during the era of gross out toys. (Source: [Official USPTO Gazette](https://www.google.com/books/edition/Official_Gazette_of_the_United_States_Pa/PJbEHuzXUV8C?hl=en&gbpv=1&dq=%22The+Chunk+Blowers%22&pg=RA1-PA289))](images/106-04.jpeg)
 
-SMBs' low price - about five dollars for four figures - was pitched at recession-weary parents. Bruce Stein wanted a winner, and designers gave their boss art. Would Hasbro, Kenners' new adoptive corporate parent, go along for the ride?
+SMBs' low price - about five dollars for four figures - was pitched at recession-weary parents. Bruce Stein wanted a winner, and designers gave their boss art. Would Hasbro, Kenner's new adoptive corporate parent, go along for the ride?
 
 Eventually, Hasbro begrudgingly let its child lead. And to their surprise, Savage Mondo Blitzers was a generator of free publicity as Kenner [declared](https://www.newspapers.com/image/1296721516/), "National sales of [SMBs] are higher than expected," in a story by Laurel Adams. Kenner successfully combined gross with monsters on wheels, mixing in questionable gunplay.
 
@@ -50,7 +50,7 @@ Like Monster In My Pocket, the figures stood roughly an inch tall and were made 
 
 SMBs were the brainchild of Ernie Baker and Alton Takeyasu, who imagined a line within Kenner. Then, SMBs fell into the hands of lead designer Steve Wuesthoff. Mr. Wuesthoff already had other hits back then, including contributing to the transformation of vehicles called [M.A.S.K.](https://medium.com/@solidi/we-really-do-care-drive-by-scenes-of-kenners-m-a-s-k-34b1135d291d), as he expanded into working on Kenner's Nerf foam-based weaponry.
 
-![Steve Wuesthoff was part of the Kenner Team from 1984 through 1997 and worked on many aspects of toys from the 1980s and 1990s. Here, he is seen crouching on the lower left of the Nerf Team. (Source: [Cincinnati Enquirer](https://www.newspapers.com/image/102017690/) / Patrica Gallagher)](images/106-05.jpeg)
+![Steve Wuesthoff was part of the Kenner Team from 1984 through 1997 and worked on many aspects of toys from the 1980s and 1990s. Here, he is seen crouching on the lower left of the Nerf Team. (Source: [Cincinnati Enquirer](https://www.newspapers.com/image/102017690/) / Patricia Gallagher)](images/106-05.jpeg)
 
 Kenner's legendary sculptor Larry Elig, in an interview with *All Axxess Entertainment*, [recalled](https://www.youtube.com/watch?v=SL56fGKbcqU&t=610s) to Joe Bruen, "There was a designer named Steve Wuesthoff; he was pretty cutting edge. He . . . came up [with] . . . all of [the] lines. Basically, [his baby, SMB] was assigned to a number of sculptors . . . I did a couple figures."
 
@@ -58,7 +58,7 @@ The original prototypes, cut by preliminary design, were a combination of Micro 
 
 Mr. Elig sculpted "Head Alert," one of those forty characters. Other designers handled the rest of the roster as business marketers and executives pushed the line.
 
-SMBs package verbiage was the typical 90s slop as the product text foretold their destiny. Marketers wrote, "STOP… WAIT… WATCH OUT. They're here, and they're the nastiest, most outrageous characters ever . . . Parents will hate em, teachers will despise em. But Savage Mondo Blitzers will be the latest rage with kids."
+SMBs' package verbiage was the typical 90s slop as the product text foretold their destiny. Marketers wrote, "STOP… WAIT… WATCH OUT. They're here, and they're the nastiest, most outrageous characters ever . . . Parents will hate em, teachers will despise em. But Savage Mondo Blitzers will be the latest rage with kids."
 
 ![The packaging spelled out each gang. Here we see the gang "Chunk Blowers." (Source: [Heroic Goods and Games](https://www.heroicgoodsandgames.com/products/savage-mondo-blitzers-the-chunk-blowers-in-package))](images/106-06.jpeg)
 
@@ -93,7 +93,7 @@ Kenner's pitch landed with the kids, mainly boys, but it would be a battle cry t
 
 "It's mind-boggling that corporate executives will make this kind of junk to make money," [said](https://www.newspapers.com/image/1296721516/) Michael Jacobson, co-founder of the Center for the Study of Commercialism.
 
-![The only American commerical known to exist for SMBs. (Source: [MusicLKuvr76](https://www.youtube.com/watch?v=4tXyuVwZ-Zs))](images/106-09.gif)
+![The only American commercial known to exist for SMBs. (Source: [MusicLKuvr76](https://www.youtube.com/watch?v=4tXyuVwZ-Zs))](images/106-09.gif)
 
 The *Cincinnati Enquirer* [reported](https://www.newspapers.com/image/101883688) in March 1992, "Loveland parents have organized a group called Citizens Against Mind Pollution (CAMP) to launch a national boycott of Kenner Products toys."
 
@@ -116,14 +116,14 @@ Kathleen Geraci, a mother of two and CAMP's president, drew the line in the sand
 
 So, the local artists grabbed their pencils. Jim Borgman, the *Cincinnati Enquirer's* Pulitzer-winning editorial cartoonist, drew the Kenner executives as the Blitzer inspectors- middle-aged adults in suits, brandishing the products they had approved. The Hasbro-owned Cincinnati office was, in Borgman's view, its own Booger gang.
 
-![Two of the eight gangs of SMBs, which included gross names and gun play. (Source: [Benett Media](https://bennettmedia.blogspot.com/2019/08/toys-are-us-savage-mondo-blitzers.html))](images/106-12.jpeg)
+![Two of the eight gangs of SMBs, which included gross names and gun play. (Source: [Bennett Media](https://bennettmedia.blogspot.com/2019/08/toys-are-us-savage-mondo-blitzers.html))](images/106-12.jpeg)
 ![The Concrete Breakfast Gang](images/106-13.jpeg)
 
 CAMP's boycott continued. The group did not litigate the toy line, as free speech would have protected Kenner. Instead, CAMP drew attention to the toys in the public eye. Then, the Hasbro boardroom relented on the expressive line, and those follow-up four-packs approved at Toy Fair - Brains Not Included and the Puke Shooters Gang - never reached retail.
 
 *Every Single MUSCLE* [said](https://www.youtube.com/watch?v=0kLixj3XYec), "[Due to the boycott], the two new 4-packs, 'Brains Not Included' and the 'Puke Shooters Gang,' were never released here in the United States."
 
-In a time before social media and the Internet, letters from [citizens](https://www.newspapers.com/image/101889198/) flowed. Mary-Jane Newborn, in a defense of the line, wrote, "This uproar reminds me of the authoritarian reactions to Slime and Garbage Pale Kids - aaarghh!" And Nancy Roth Cooper railed [against it](https://www.newspapers.com/image/101700362/), replying, "If the grown-ups and business people of today have their minds in the gutter, there is only one place we can expect to find our children's minds of tomorrow."
+In a time before social media and the Internet, letters from [citizens](https://www.newspapers.com/image/101889198/) flowed. Mary-Jane Newborn, in a defense of the line, wrote, "This uproar reminds me of the authoritarian reactions to Slime and Garbage Pail Kids - aaarghh!" And Nancy Roth Cooper railed [against it](https://www.newspapers.com/image/101700362/), replying, "If the grown-ups and business people of today have their minds in the gutter, there is only one place we can expect to find our children's minds of tomorrow."
 
 ![While Kenner experimented with gross-out toys throughout its Play-Doh history, Hasbro remained on the sidelines. Then, in 1992, it released Monster Face. Left: Alan Hassenfeld in 1991. (Source: [The Republican](https://www.newspapers.com/image/1063851785/) / Kris Hachadourian)](images/106-14.jpeg)
 ![Monster Face](images/106-15.jpeg)
@@ -140,7 +140,7 @@ With Hasbro's only gross-out toy ever to be released at the same time, Monster F
 
 New pressings such as The Warped Speeders, the Collector Case, and The Manics of Death never shipped, a testament to how Kenner thought it would expand, but instead succumbed to the clean image of being a new Hasbro subsidiary.
 
-!["Bruce Stein, President of Kenner, shows off some of the firm's toys." Two Savage Mondo Blizters packages appear to his left; however, due to the photo's low resolution, AI recovery was incomplete. (Source: [Cincinnati Enquirer](https://www.newspapers.com/image/101696918/) / Joanne Rim)](images/106-16.jpeg)
+!["Bruce Stein, President of Kenner, shows off some of the firm's toys." Two Savage Mondo Blitzers packages appear to his left; however, due to the photo's low resolution, AI recovery was incomplete. (Source: [Cincinnati Enquirer](https://www.newspapers.com/image/101696918/) / Joanne Rim)](images/106-16.jpeg)
 
 Patricia Gallagher of the *Cincinnati Enquirer* [chronicled](https://www.newspapers.com/image/101912304/) the corporate aftermath as Kenner's sales declined in 1991.
 
@@ -154,7 +154,7 @@ A forty-eight-figure line - boycotted by teachers, lampooned by a Pulitzer w
 
 Decades later, SMBs continue to pop up online. Millennial kids who hid the figures from their first-grade teachers grew up. *Every Single MUSCLE* [said](https://www.youtube.com/watch?v=0kLixj3XYec), "[SMBs were] the plastic embodiment of 90s attitude. Too weird for the mainstream, too hardcore for the classroom, too rude for parents, but too damn cool to stay forgotten." 
 
-![Most of the SMBs seen with their Lighting Launcher, right. (Source: [The Plastic Eyeball](https://theplasticeyeball.blogspot.com/2012/11/concrete-for-breakfast-mondo.html))](images/106-17.jpeg)
+![Most of the SMBs seen with their Lightning Launcher, right. (Source: [The Plastic Eyeball](https://theplasticeyeball.blogspot.com/2012/11/concrete-for-breakfast-mondo.html))](images/106-17.jpeg)
 
 Paul of *Bennett Media* [wrote](https://bennettmedia.blogspot.com/2019/08/toys-are-us-savage-mondo-blitzers.html), "These guys were a culmination of every Horror, SciFi, Fantasy, and Action genre-related piece of pop from that very specific time; not reimagined, not rebooted, just direct inspiration taken from extreme vibes and an empowered youth."
 

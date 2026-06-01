@@ -3,7 +3,7 @@
 - [ ] The original gross toy, the whoopee cushion  
 - [ ] Mattel Slime (1976)  
       - [ ] Sid Krichheimer, [South Florida Sentinel](https://www.newspapers.com/image/236577846), “Within the first three years of production (1976-1979), about 30 million cans of Original Slime were sold.”  
-- [ ] Garbage Pale Kids (1985)  
+- [ ] Garbage Pail Kids (1985)  
       - [ ] [Newsday](https://www.newspapers.com/image/709297862/), AP, 2003, “Back then \[in 1986\], Garbage Pail Kids suffered a backlash from parents who thought gross-out humor was detrimental to kids.”  
 - [ ] Mad Balls (1986)  
       - [ ] Knight-News-Tribune, [Connecticut Post](https://www.newspapers.com/image/1251305331/), “‘Those gawd-awful Madballs’ . . . They’re the most high-profile example of the ugly turn the toy industry has taken over the last two seasons. Parents hoping for relief from Garbage Pail Kids haven’t found it.”  
@@ -25,9 +25,9 @@
 
 - [ ] [Cincinnati Enquirer](https://www.newspapers.com/image/102117320/)**,** Bruce Stein, President of Kenner, announced labor cuts and said in Oct 1991, “. . . these moves ensure that both our division and our company will remain strong, productive and competitive on a go-forward basis.”  
 - [ ] 1990-1991 American recession  
-- [ ] [Cincinnati Enquirer](https://www.newspapers.com/image/101696918/)**,** Toy Fair, February 1992\. “Kenner will also gamble on a few novelty items this year  — the kind that either catch fire quickly or die equally as fast. In that category are SMB’s, a line of collectible playground bullies with gross names like Eye Puss and Mr. Mutator Head.” “The low price — about $5 for four dollars — should attract their recession-weary parents, Stein said.”  
-- [ ] [Marketing Madness book](https://www.google.com/books/edition/Marketing_Madness/RCuNDwAAQBAJ?hl=en&gbpv=1&dq=%22Savage+Mondo+Blitzers%22&pg=PT9&printsec=frontcover), “Then there are products that cater to the baset instincts of their target market, such as the SMB toy line from Kenner, which feature characters like . . . Knight to Dismember.”  
-- [ ] Bogs at [The Obscura Toy Files](https://www.youtube.com/watch?v=kKhyO-Pcxz4), “They were a little like out of left for Kenner . . . Here’s guys that are made out of guns and stuff.” “The sculpting on him is really cool.” “What if we take Micro Machies and then attach musclemen guys to them and then just do that, but then make them crazy.”
+- [ ] [Cincinnati Enquirer](https://www.newspapers.com/image/101696918/)**,** Toy Fair, February 1992\. “Kenner will also gamble on a few novelty items this year  — the kind that either catch fire quickly or die equally as fast. In that category are SMB’s, a line of collectible playground bullies with gross names like Eye Puss and Mr. Mutator Head.” “The low price — about $5 for four figures — should attract their recession-weary parents, Stein said.”  
+- [ ] [Marketing Madness book](https://www.google.com/books/edition/Marketing_Madness/RCuNDwAAQBAJ?hl=en&gbpv=1&dq=%22Savage+Mondo+Blitzers%22&pg=PT9&printsec=frontcover), “Then there are products that cater to the basest instincts of their target market, such as the SMB toy line from Kenner, which feature characters like . . . Knight to Dismember.”  
+- [ ] Bogs at [The Obscura Toy Files](https://www.youtube.com/watch?v=kKhyO-Pcxz4), “They were a little like out of left for Kenner . . . Here’s guys that are made out of guns and stuff.” “The sculpting on him is really cool.” “What if we take Micro Machines and then attach musclemen guys to them and then just do that, but then make them crazy.”
 
 **Part 2: About the Toy**
 
@@ -61,7 +61,7 @@
 **Part 3: Related to Controversy, Free Speech**
 
 - [ ] [The Cincinnati Enquirer](https://www.newspapers.com/image/101883688), “Loveland parents have organized a group called Citizens Against Mind Pollution (CAMP), to launch a national boycott of Kenner Products toys . . . Kathleen Geraci, CAMP President, said, “Name changes won’t do.” said in March 1992  
-- [ ] [Citizen response](https://www.newspapers.com/image/101889198/), Mary-Jane Newborn said, “This uproar reminds me of the authoritarian reactions to Slime and Garbage Pale Kids — aaarghh\!”  
+- [ ] [Citizen response](https://www.newspapers.com/image/101889198/), Mary-Jane Newborn said, “This uproar reminds me of the authoritarian reactions to Slime and Garbage Pail Kids — aaarghh\!”  
 - [ ] [Citizen response](https://www.newspapers.com/image/101700362/), Nancy Roth Cooper, “If the grown-ups and business people of today have their minds in the gutter, there is only one place we can expect to find our children’s minds of tomorrow.”  
 - [ ] [Every Single MUSCLE](https://www.youtube.com/watch?v=0kLixj3XYec), ”It was also around this time that parents and teachers began to take notice of these degenerate little skater dudes . . . Things escalated just a short while later when a parenting group called themselves CAMP, urged a boycott against Kenner . . . \[Due to boycott\], the two new 4-packs, ‘Brains Not Included’ and the “Puke Shooters Gang’ were never released here in the United States.”  
 - [ ] [AP](https://www.newspapers.com/image/949139149/), After Kenner commits to a SMB name change, “Sharon Cooley, first grade teacher at Mann Elementary in suburban Loveland, said she thought the company’s response was weak . . . ‘It’s a very, very poor response,’ she said.” Kenner response, “Kenner, owned by Hasbro Inc., previewed a series of 48 action figures in February (1992). “It appears that some consumers are concerned with the choice of some names selected for the SMB. Sensitive to their interests, we have chosen to modify names of a select group of our action figures.”  
