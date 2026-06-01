@@ -121,6 +121,7 @@ Experiences distilled through writing.
 1. [What is an Engineering Director Anyway?](https://dev.to/solidi/what-is-an-engineering-director-anyway-1acc)
 1. [The Incredible Crash Dummies: A Short-Lived Action Figure Line](https://medium.com/@solidi/the-incredible-crash-dummies-a-short-lived-action-figure-line-49868b72f9a0)
 1. [Jack Edward Hartman: The First Homicide of Free Energy](https://medium.com/@solidi/jack-edward-hartman-the-first-homicide-of-free-energy-53c829bd47c7)
+1. [Polluted Minds: The Savage Mondo Blitzers](https://medium.com/@solidi/polluted-minds-the-savage-mondo-blitzers-0dbd825af897)
 
 ## Major Engagements
 
