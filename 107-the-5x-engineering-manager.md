@@ -45,4 +45,4 @@ Both are real. Only one has a calendar problem.
 
 #career #leadership #management #watercooler
 
-[dev.to](https://dev.to/solidi/the-5x-engineering-manager)
+[dev.to](https://dev.to/solidi/the-5x-engineering-manager-45k7)
