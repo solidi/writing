@@ -88,7 +88,7 @@ The funny thing was we were also working on a Pro Nerf football on the introduct
 
 If the Nerf ball bonks off a face, it lands with significantly lower impact. Young folks turn away from playing ball a whole lot less. Cool stuff.
 
-Anyway, the Brain Ball in test passes continuously outperformed the Nerf Pro Ball no matter how we reconfigured the grip. Something about the shape of that Brain Ball threw tighter spirals and deeper long bombs then any other Nerf football ever.
+Something about the shape of that Brain Ball threw tighter spirals and deeper long bombs than any other Nerf football ever.
 
 This is why *FamilyFun* magazine gave an award to it.
 
@@ -140,6 +140,6 @@ Thanks, Steve, for sharing your experience.
 
 ## Social Post
 
-I located designer, Stephen Wuesthofff, former Lead of Design at #Kenner, to discuss the backstory of Savage Mondo Blitzers in the #1990s. SMBs were these one-inch toys that were controversial due to their labels, targeted by concerned parents and teachers. Enjoy.
+I located designer, Stephen Wuesthoff, former Lead of Design at #Kenner, to discuss the backstory of Savage Mondo Blitzers in the #1990s. SMBs were these one-inch toys that were controversial due to their labels, targeted by concerned parents and teachers. Enjoy.
 
-![https://medium.com/@solidi/steve-wuesthoff-on-kenners-savage-mondo-blitzers-f5bea05c0db0](Link to Article)
+https://medium.com/@solidi/steve-wuesthoff-on-kenners-savage-mondo-blitzers-f5bea05c0db0
