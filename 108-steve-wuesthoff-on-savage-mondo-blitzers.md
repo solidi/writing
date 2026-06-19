@@ -24,15 +24,15 @@ This interview follows the author's written essay, *[Polluted Minds: The Savage 
 
 **Doug: Can you provide a little background on yourself - where you came from, your education, and how you got into Kenner?**
 
-*Steve: I come from Ohio, and still reside there. I graduated from the Industrial Design program at the University of Cincinnati in '81. Then, I dabbled in toys in a few of my co-ops as an undergrad.*
+Steve: I come from Ohio, and still reside there. I graduated from the Industrial Design program at the University of Cincinnati in '81. Then, I dabbled in toys in a few of my co-ops as an undergrad.*
 
-*After graduating, I went full-time in consumer products for a consultancy in NYC. I missed toy work, then went back to Kenner in '84 [and worked there for 13 years].*
+After graduating, I went full-time in consumer products for a consultancy in NYC. I missed toy work, then went back to Kenner in '84 [and worked there for 13 years].
 
 **Doug: What Kenner projects did you work on before SMBs?**
 
-*Steve: I worked on [M.A.S.K.](https://medium.com/@solidi/we-really-do-care-drive-by-scenes-of-kenners-m-a-s-k-34b1135d291d), Nerf Brain Ball, Rat Fink & the Rad Rods, Carzillas, [Tonka Magna Crew](https://www.youtube.com/watch?v=GStpHnIbpa0), and Nerf Maxforce. I appreciated all of them because it allowed for stretching the creative envelope so nicely.*
+Steve: I worked on [M.A.S.K.](https://medium.com/@solidi/we-really-do-care-drive-by-scenes-of-kenners-m-a-s-k-34b1135d291d), Nerf Brain Ball, Rat Fink & the Rad Rods, Carzillas, [Tonka Magna Crew](https://www.youtube.com/watch?v=GStpHnIbpa0), and Nerf Maxforce. I appreciated all of them because it allowed for stretching the creative envelope so nicely.
 
-*When SMB was developed, it scratched the itch for the love of word play. The creation process was packed with inventive writing that many folks participated in.*
+When SMB was developed, it scratched the itch for the love of word play. The creation process was packed with inventive writing that many folks participated in.
 
 ![Example of Ral Partha figures, originating from Cincinnati, Ohio. (Source: [Wayne's Books](https://www.waynesbooks.net/product/431251/Best-of-Ral-Partha-25mm-Metal-Figures-Children-of-the-Night-staff))](images/108-04.jpeg)
 
@@ -106,7 +106,7 @@ They all can't be winners but coming up with new angles of play that I'd hope wi
 
 I was inspired by a cross between Ed "Big Daddy" Roth and [El Lissitzky](https://en.wikipedia.org/wiki/El_Lissitzky). I always wanted to grow up to be like them.
 
-When it comes to the Kenner folks my managers - Wayne Beiser during Nerf days - he was very empowering and so fun. To [Tim Effler](https://timeffler.com/), during Jurassic Park's first year, love conquers with that dude. And my first Kenner manager Charlotte Eicher, during M.A.S.K., she had the power to make anyone feel like they could elevate an idea - with potential of play - and the positive attributes it could bring for each brand.
+When it comes to the Kenner folks, my managers - Wayne Beiser during Nerf days - he was very empowering and so fun. To [Tim Effler](https://timeffler.com/), during Jurassic Park's first year, love conquers with that dude. And my first Kenner manager Charlotte Eicher, during M.A.S.K., she had the power to make anyone feel like they could elevate an idea - with potential of play - and the positive attributes it could bring for each brand.
 
 As Big Daddy would say, "[Kenner] was a gas."
 
