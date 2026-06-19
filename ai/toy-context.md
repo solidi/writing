@@ -162,6 +162,40 @@ Examples: 82 Tonka, 98 Kenner origin through M.A.S.K., 101 Mattel Engineering Co
 Framed as a Q&A or reconstructed exchange. The subject's voice dominates. The narrator introduces and closes.
 Examples: 89 Bob Wallace and Marvin Glass, 100 Tom Osborne.
 
+### F. Designer interview profile (100/108 format)
+Use this variant when the essay is built from direct Q&A with a living toy designer.
+
+1. Top matter stays canonical: banner (`## ON TOY HISTORY`), H1, H2 subtitle naming role/company, hero image.
+2. Open with the italicized interview blurb and book link, then `---`.
+3. Run a short setup block before the first question (usually 2-4 paragraphs):
+  - Paragraph 1: artifact and era summary, often with an ALL CAPS lead phrase (`**WHILE RESEARCHING THE**` or `*WHILE BROWSING THE*`).
+  - Paragraph 2: why this interview now (re-release, anniversary, controversy, or renewed collector attention).
+  - Paragraph 3: bridge to the prior essay on the same toy line (if one exists).
+4. Q&A body carries the center of gravity:
+  - Questions are bold and explicit (`**Doug: ...**`).
+  - Answers keep the subject's spoken texture; edit lightly for clarity, not polish.
+  - Bracketed inserts are allowed for context and disambiguation (`[meaning me]`, `[Tom laughed]`, `[and worked there for 13 years]`).
+  - Keep an arc, not a grab bag: background -> early credits -> toy origin/prototypes -> naming -> management pitch -> controversy/public response -> proudest work -> influences/legacy.
+5. Image rhythm is tighter than artifact essays: one image every 1-2 question blocks, including sketches, packaging fronts/backs, and ad/commercial stills.
+6. Post-interview synthesis closes the body with an ALL CAPS BOLD opener and 3-6 paragraphs of narrator interpretation. This section should:
+  - Credit-share across the design team.
+  - Verify or contextualize one claim from the interview.
+  - Land one human thesis sentence about craft, memory, or legacy.
+7. Tail stays canonical: closing image -> AI-image disclosure if used -> footnote(s) -> `## Social Post`.
+
+## Interview intake protocol - sourced Q&A packet
+
+When drafting a designer interview essay from supplied Q&A:
+
+1. Ask for the full sourced packet up front:
+  - raw questions/answers,
+  - any links or citations mentioned by the subject,
+  - image list with source credits.
+2. Preserve speaker intent and idiolect. Normalize obvious grammar only when readability suffers; do not flatten personality.
+3. Keep factual claims attributable. If a claim in an answer needs support, attach or request a source rather than rewriting the claim into narrator speculation.
+4. Reorder question blocks only to improve narrative arc; do not alter quoted meaning.
+5. End draft delivery with a "not used" list: strong Q&A lines that were cut for length, so they can be restored if desired.
+
 ## Opening moves
 
 - Scene-set with date and place in small caps or bracket tags: "EARLY DECEMBER 1972, …" (89); "[August 11, 1988, Washington, D.C.] …" (93).
@@ -285,6 +319,14 @@ The **emotional center** of the UTS investigative arc is the unsolved 1968 death
 ## Learning log
 
 <!-- Append dated bullets. Newest at top. Promote recurring patterns into the body above. -->
+
+- 2026-06-19: Delta review of essay 108 (Steve Wuesthoff on Savage Mondo Blitzers). Promoted interview-profile patterns based on the 100/108 pair.
+  - **Interview skeleton is now stable.** 108 confirms the same frame used in 100: canonical top matter -> italic interview blurb -> context setup -> long Q&A body -> narrator synthesis close -> disclosure/footnote -> Social Post.
+  - **Question sequencing drives the story more than section headers.** The narrative arc in 108 is built by question order (bio, pre-SMB credits, prototypes, naming, management demo, backlash, awards, legacy, influences), not by titled sections. For interview essays, the interviewer is the structural spine.
+  - **Direct-voice tolerance is higher than in narrated essays.** 108 keeps spoken constructions, informal pivots, and self-corrections. This is intentional. Light cleanup is allowed, but over-normalization weakens authenticity.
+  - **Credit-sharing is a required close beat.** 108 lands on attribution ethics (Baker/Takeyasu origin, Wuesthoff production lead) and team craft. This matches 100's team roll-call close. Future designer interviews should end with craft lineage, not only nostalgia.
+  - **Visual evidence should mirror interview claims.** 108 pairs management-demo anecdotes with costume/commercial images and pairs prototype talk with sketch art. The image placement should corroborate each major answer cluster.
+  - **Cross-link to the companion reconstruction essay is a load-bearing move.** 108 explicitly bridges to 106. Treat the interview piece as testimony that sits beside, and sharpens, the investigative/reconstruction piece.
 
 - 2026-05-30: Delta review of essay 106 (Savage Mondo Blitzers) after author edits. Several patterns to watch and one likely promotion.
   - **Paragraph length cap: 3–4 sentences for Medium-bound essays.** Author note: "Some of the paragraphs were a little long by a sentence or two. Generally, since these essays are Internet based, keep them to 3–4 sentences max." Author broke draft 5–6-sentence paragraphs into 2–3-sentence units across every section. Not a hard rule, but the default. Long quote-bearing paragraphs are the most frequent offender — when a quote runs long, the narrator sentence around it should run short, and the next narrator sentence belongs in a new paragraph.

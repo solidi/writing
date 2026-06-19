@@ -123,6 +123,7 @@ Experiences distilled through writing.
 1. [Jack Edward Hartman: The First Homicide of Free Energy](https://medium.com/@solidi/jack-edward-hartman-the-first-homicide-of-free-energy-53c829bd47c7)
 1. [Polluted Minds: The Savage Mondo Blitzers](https://medium.com/@solidi/polluted-minds-the-savage-mondo-blitzers-0dbd825af897)
 1. [The 5x Engineering Manager](https://dev.to/solidi/the-5x-engineering-manager-45k7)
+1. [Steve Wuesthoff On Kenner's Savage Mondo Blitzers](https://medium.com/@solidi/steve-wuesthoff-on-kenners-savage-mondo-blitzers-f5bea05c0db0)
 
 ## Major Engagements
 
