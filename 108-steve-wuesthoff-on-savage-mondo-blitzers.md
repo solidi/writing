@@ -80,7 +80,13 @@ Did I feel it was unfair that we caved? Yes, unfair and unfortunate. It certainl
 ![A capture of the front and back cardstock of Savage Mondo Blitzers in 1992. (Source: [Heroic Goods and Games](https://www.heroicgoodsandgames.com/products/savage-mondo-blitzers-the-chunk-blowers-in-package))](images/108-08.jpeg)
 ![Backside of SMB packaging](images/108-09.jpeg)
 
-**Anything else you like to share about your time at Kenner - that a reader would take away as interesting?**
+**Out of all the SMBs that made it, which one was your absolute favorite?**
+
+Eye Pus. Back then, the all-too-fun naming sessions was in full swing with lots of hetero input boiling over left and right. To back up a bit, one of the marketers in the meeting was a diminutive voice from a new hire named Barb Meyer. Well, after "barf this" and "fart that," Barb spoke up and said, "How about Eye Pus?" It floored us all as a twisted "Hell Yeah!"
+
+Still, it's one of the most twisted thoughts I circle back to. I'm also a big, big fan of bloody eyeballs courtesy of my love of Rat Fink, Rick Griffin's flying eyeball, and the band Residents.
+
+**After SMB, what accomplishments did you achieve at Kenner that a reader would find interesting?**
 
 I received the outdoor toy award from *FamilyFun* magazine back in 1995, called the Nerf Brain Ball. Again I was not the only person involved but in this case *my brain made that brain* come alive!
 
@@ -92,15 +98,15 @@ Something about the shape of that Brain Ball threw tighter spirals and deeper lo
 
 This is why *FamilyFun* magazine gave an award to it.
 
-**Overall, what were you most proud of working on at Kenner?**
+![Steve Wuesthoff has design patents. Seen on the left, an unrealized product design for a football that, later, became the Nerf Brain Ball. (Source: [USPTO](https://patents.google.com/patent/USD353427S/en) / [Etsy](https://www.etsy.com/listing/1776908956/brain-ball-1995-nick-nerf-orange))](images/108-10.jpeg)
+
+**Overall, what did you learn while working at Kenner?**
 
 I feel my Kenner years were very lucky overall. Not so much for the organization I'm afraid, as it was slowly absorbed into Hasbro.
 
 I learned that navigating a toy company that sought large dollar returns with tiny fun toyline ideas that we gambled on was a very heady experience.
 
 They all can't be winners but coming up with new angles of play that I'd hope will have a life of its own is *jazzy fun* for some and certainly was for me.
-
-![Steve Wuesthoff has design patents. Seen on the left, an unrealized product design for a football that, later, became the Nerf Brain Ball. (Source: [USPTO](https://patents.google.com/patent/USD353427S/en) / [Etsy](https://www.etsy.com/listing/1776908956/brain-ball-1995-nick-nerf-orange))](images/108-10.jpeg)
 
 **Finally, which artists inspired you, and did you look up to any other toy designers, toy creators, or Kenner leaders as you worked?**
 
