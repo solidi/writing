@@ -83,7 +83,7 @@ And as Joe Rogan spoke about the 11 scientists, Eugene's story is the same. Mr. 
 
 ---
 
-## Hartman: The Parking Lot In Gardena. November 18, 1968.
+## Hartman: The Parking Lot In Gardena, November 18, 1968
 
 **JACK EDWARD HARTMAN WAS BORN** on Christmas Day, 1927, in Indiana. He graduated from Purdue's aeronautical engineering program in 1949, a senior to Neil Armstrong, who worked on the X-15 hypersonic aircraft program, and contracted with Walt Disney's animatronics. Jack joined Mattel after Ruth Handler, the visionary of Barbie, recruited him through her military and aerospace contacts.
 
