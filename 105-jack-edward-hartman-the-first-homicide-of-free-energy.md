@@ -51,7 +51,7 @@ This author can only come up with a truism to connect these tragedies. "Things" 
 
 ## Mallove: The Driveway in Norwich, Connecticut
 
-**EUGENE MALLOVE WAS ELITE**, trained in astrophysics from MIT. He was the science writer-in-chief for the school's news office, the founder of the magazine *Infinite Energy*, and a public defender of the disputed claim known as Cold Fusion, that "free energy" can be harnessed from a simple chemical process. Before his murder, he spoke to George Noory on Coast to Coast AM about a "free energy" engine. A month later, two men beat him to death.
+**EUGENE MALLOVE WAS ELITE**, trained in astrophysics from MIT. He was the science writer-in-chief for the school's news office, the founder of the magazine *Infinite Energy*, and a public defender of the disputed claim known as Cold Fusion, that "free energy" can be harnessed from a simple chemical process. Before his murder, he spoke to George Noory on *Coast to Coast AM* about a "free energy" engine. A month later, two men beat him to death.
 
 The driveway where Mallove was murdered sat on a turnpike in Norwich, Connecticut, his childhood home. As he was hauling junk to the garbage, *WTNH News8* [reported](https://www.youtube.com/watch?v=V2q8nvRL2kc), "[Mozzelle] Brown was with his other cousin, Chad Schaefer . . . [They] drove by the Salem turnpike home, Schafer used to rent, and saw Mallove throwing things in a dumpster. They reportedly confronted him and then beat him . . . leaving him to die."
 
@@ -67,7 +67,7 @@ Mr. Mallove backed alternative science in the face of convention and directly co
 
 David Kushner, a famous author, picked up the case. In 2023, he launched a podcast discussing the gruesome murder and [said](https://www.instagram.com/reel/Cz3maJHsefl/), "How do you really pursue something you're passionate about, that you really believe in, when all of the forces seem to be conspiring against you?"
 
-Eugene continued to fight the scientific establishment to his very end, giving the finger to mainstream science. He would go so far as to spend an hour on Coast to Coast AM in February 2004, walking the audience through a homicide nobody recognized and questioning Richard Feynman, a renowned scientist.
+Eugene continued to fight the scientific establishment to his very end, giving the finger to mainstream science. He would go so far as to spend an hour on *Coast to Coast AM* in February 2004, walking the audience through a homicide nobody recognized and questioning Richard Feynman, a renowned scientist.
 
 This author [replayed](https://medium.com/@solidi/jacks-injustice-corruption-within-the-state-of-california-9725cd0476eb) his conversation in *Jack's Injustice: Corruption Within The State of California*. Eugene said, "[The engine] exploded and killed one person, an engineer from the Mattel toy corporation." Eugene went on to say that the incident occurred in "Gardena, California, at the company Environetics."
 
@@ -76,6 +76,8 @@ Mr. Mallove framed the conclusion of the weird engine, "There are two possibilit
 ![The timeline of the Eugene Mallove murder. Ultimately, Brown was sentenced to serve 58 years. (Source: [The Bulletin](https://www.newspapers.com/image/1229151545/), John Penny / [Pictures of Infinity](https://picturesofinfinity.net/home/).)](images/105-05.jpeg)
 
 Mallove had some type of access to the historical incident; many did not at the time. He had numerous testimonies, including an ex-Navy witness he had interviewed, which the U.S. Navy and NASA/JPL were looking into at the time. But a month after the broadcast with Mr. Noory, that access ended, and Eugene was murdered in cold blood.
+
+YouTuber Caleb Phelps [said](https://www.youtube.com/watch?v=xhAacKnFNs8&t=1722s), "The conspiracy theory is that Mallove was silenced before the DOE (Department of Energy) [re-review](https://www.nytimes.com/2004/03/25/us/us-will-give-cold-fusion-second-look-after-15-years.html) [of Cold Fusion in March 2004]," and thus the public reintroduction of Mr. Mallove's theories on *Coast to Coast AM* at the time.
 
 Twenty years later, Mozzelle Brown’s conviction for Eugene’s murder was overturned on appeal due to a Brady violation. And thus, Eugene's legacy continues in modern media. Mr. Brown has held that he did not murder Mr. Mallove, as prosecutors are planning for a [new trial](https://www.unionleader.com/news/courts/new-trial-mulled-after-conviction-in-murder-of-nh-cold-fusion-scientist-overturned/article_d8f89617-68bb-4166-b33e-0ec44859f3c7.html).
 
