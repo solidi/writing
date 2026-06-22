@@ -57,7 +57,7 @@ The driveway where Mallove was murdered sat on a turnpike in Norwich, Connecticu
 
 Mozzelle Brown and Chad Schaefer drew a metal pipe found in the garage. The *Mr. Ballen Podcast* [described](https://www.youtube.com/watch?v=S9hxBmSPN7s) the scene. "After a fight, Eugene finally fell to the ground face-first . . . [the assailants] took turns beating him literally into the ground with a metal pipe they found on the floor of the garage."
 
-The podcast delivered the official line in one sentence. "Eugene's murder had nothing to do with Cold Fusion," but the grounding reality of a landlord-tenant dispute, prosecutors found. The robbery was a coincidence in timing, and Mr. Mallove was at the right place but at the wrong time.
+The podcast delivered the official line in one sentence. "Eugene's murder had nothing to do with Cold Fusion," but the grounding reality of a landlord-tenant dispute, prosecutors found. The robbery was a coincidence in timing, and Mr. Mallove was in the right place but at the wrong time.
 
 ![Eugene Mallove was a believer in "free energy" and the dawn of Cold Fusion, a disputed chemical process that converts everyday materials into energy.](images/105-04.jpeg)
 
@@ -77,7 +77,9 @@ Mr. Mallove framed the conclusion of the weird engine, "There are two possibilit
 
 Mallove had some type of access to the historical incident; many did not at the time. He had numerous testimonies, including an ex-Navy witness he had interviewed, which the U.S. Navy and NASA/JPL were looking into at the time. But a month after the broadcast with Mr. Noory, that access ended, and Eugene was murdered in cold blood.
 
-As Joe Rogan spoke about the 11 scientists, Eugene's story is the same. Mr. Rogan [said](https://www.youtube.com/watch?v=GNWUQYi027Q), "Like what these people were working on was very extraordinary and could disrupt a market?" Mr. Mallove investigated an automobile engine that would disrupt the market, too, while he told the original tale of a slain aerospace engineer involving the co-inventor of the nuclear bomb, in a California parking lot, to a wider audience.
+Twenty years later, Mozzelle Brown’s conviction for Eugene’s murder was overturned on appeal due to a Brady violation. And thus, Eugene's legacy continues in modern media. Mr. Brown has held that he did not murder Mr. Mallove, as prosecutors are planning for a [new trial](https://www.unionleader.com/news/courts/new-trial-mulled-after-conviction-in-murder-of-nh-cold-fusion-scientist-overturned/article_d8f89617-68bb-4166-b33e-0ec44859f3c7.html).
+
+And as Joe Rogan spoke about the 11 scientists, Eugene's story is the same. Mr. Rogan [said](https://www.youtube.com/watch?v=GNWUQYi027Q), "Like what these people were working on was very extraordinary and could disrupt a market?" Mr. Mallove investigated an automobile engine that would disrupt the market, too, while he told the original tale of a slain aerospace engineer involving the co-inventor of the nuclear bomb, in a California parking lot, to a wider audience.
 
 ---
 
