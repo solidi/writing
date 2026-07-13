@@ -122,4 +122,4 @@ This is the legend of the Chestua Creek Coal Spill.
 
 #history #railroad #america #railfanning
 
-https://medium.com/@solidi/temp
+https://medium.com/@solidi/the-tennessee-chestuee-creek-l-n-derailment-of-1959-efea6a3865a9

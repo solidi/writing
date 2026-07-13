@@ -124,7 +124,7 @@ Experiences distilled through writing.
 1. [Polluted Minds: The Savage Mondo Blitzers](https://medium.com/@solidi/polluted-minds-the-savage-mondo-blitzers-0dbd825af897)
 1. [The 5x Engineering Manager](https://dev.to/solidi/the-5x-engineering-manager-45k7)
 1. [Steve Wuesthoff On Kenner's Savage Mondo Blitzers](https://medium.com/@solidi/steve-wuesthoff-on-kenners-savage-mondo-blitzers-f5bea05c0db0)
-1. [The Chestuee Creek L&N Derailment of 1959](https://medium.com/@solidi/temp)
+1. [The Chestuee Creek L&N Derailment of 1959](https://medium.com/@solidi/the-tennessee-chestuee-creek-l-n-derailment-of-1959-efea6a3865a9)
 
 ## Major Engagements
 
