@@ -8,7 +8,8 @@ The base voice file. Read this first for any essay session. Route to a spoke bas
 2. Determine the subject:
    - Software, engineering, career, tools, video games, developer culture → also load [software-context.md](software-context.md).
    - American toy industry, inventors, incidents, patents, toy companies, Undercover Toy Stories entries → also load [toy-context.md](toy-context.md).
-   - Mixed or unclear → load both; the dominant subject wins; note the blend to the author before drafting.
+   - Railroad history, regional or industrial history, on-the-ground incident archaeology that is neither software nor toy work → also load [history-context.md](history-context.md).
+   - Mixed or unclear → load the applicable spokes; the dominant subject wins; note the blend to the author before drafting.
 3. Determine the form:
    - Single essay (blog post, dev.to / Medium piece, social post) → subject spoke is sufficient.
    - Book-shaped artifact (front matter, back matter, section epigraphs, anthology-level editorial choices, personal soliloquy passages between sections) → also load [book-context.md](book-context.md) on top of the subject spoke.
@@ -69,10 +70,15 @@ The base voice file. Read this first for any essay session. Route to a spoke bas
 | Developer culture, blog-scene commentary, HN/Medium/dev.to-adjacent | software |
 | Toy artifact history, playset origin, product lifecycle | toy |
 | Inventor portrait (deceased or living) | toy |
-| Incident reconstruction, recall, injury, corporate cover-up | toy |
+| Incident reconstruction, recall, injury, corporate cover-up (toy industry) | toy |
 | Patent, trademark, or trade-press-rooted piece | toy |
 | Undercover Toy Stories series entry | toy |
 | Grief, memoir, or personal motivation of the archive project | toy |
+| Railroad history: derailment, wreck, line, era transition | history |
+| Regional or small-town history: mill, mine, dam, textile lineage | history |
+| Industrial infrastructure history (non-toy) | history |
+| Incident reconstruction where the author walked the site | history |
+| Named-crewman or named-workman portrait (engineer, conductor, foreman) | history |
 | Front matter, back matter, section epigraphs, anthology editorial work | **+ book** (on top of subject spoke) |
 | Personal soliloquy bridging essays in a collected volume | **+ book** |
 | Praise / Even More Praise pages, About the Author, Acknowledgments | **+ book** |
@@ -85,6 +91,8 @@ Some essays sit between voices. They are allowed. Flag the blend at the top of t
 
 - Video-game-as-software-lesson (e.g., Secret of Mana, GoldenEye, River City Ransom): software voice dominates.
 - Toy-as-career-reflection (hypothetical): toy voice dominates, but the author's first-person may surface.
+- Toy-industry incident that is also a regional infrastructure event (e.g., a factory fire in a mill town): toy voice dominates; borrow the history spoke's site-archaeology move if the author walked the site.
+- Railroad or regional-industry piece that touches a toy line (e.g., Hot Wheels Trains, Tomy Big Loader as industrial artifacts): history voice for the on-the-ground reporting; toy voice for the product history.
 
 ## Post-essay write-back protocol
 
@@ -100,6 +108,8 @@ Promotion rule: once a pattern appears in the Learning log three times, promote 
 ## Learning log
 
 <!-- Append dated bullets. Newest at top. Promote recurring patterns into the body above. -->
+
+- 2026-07-13: Added the history spoke ([history-context.md](history-context.md)) and routing rules. Loaded when the subject is railroad history, regional or industrial history, or on-the-ground incident archaeology that is neither software nor toy work. Baseline exemplar: essay 109, the Chestuee Creek L&N derailment of 1959. The history spoke inherits the toy spoke's investigative discipline (imagined-dialogue protocol, mechanism-must-be-verified rule, mosaic sourcing, "this author" as the investigative first-person) but has its own signatures: place-first ALL CAPS BOLD opener, italicized-bracket reconstructed opening scene, site archaeology as the primary-source move, dollar-figure corporate response, dedication line as final body element, YouTube coda in place of a book promo block, and a subject-tuned hashtag set. No UTS scaffolding on history-spoke essays.
 
 - 2026-06-06: Delta from essay 107 author edits — universal close-and-pivot patterns.
   - **Self-deprecation by personal admission, not by asterisked profanity.** Reflective essays close warmer when the narrator quietly admits to *being* the thing the essay just named ("And that was me, last week."). The asterisked `Sh*t.` / `Sigh.` / `Yikes.` sign-off is rant register, not reflection register. Match the close to the temperature of the body. If the essay observes more than it gripes, the personal admission lands; if the essay gripes more than it observes, the asterisk lands.
