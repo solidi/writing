@@ -50,7 +50,7 @@ At least [one witness](https://www.newspapers.com/image/604451268/) said it "was
 
 The wreck was in God's control, as not a single soul nor animal was injured or killed. But the location of the spill made cleanup difficult, with rolling farmland and forests set across the creek. Therefore, officials had to go through the rail tracks close to the farm owned by Ed Engram, as the coal began to run down the 55-mile-long Chestuee Creek.
 
-![Approximate location of the train derailment cricled in red. (Source: [Google Maps](https://www.google.com/maps/@35.4190663,-84.4906941,15z))](images/109-05.jpeg)
+![Approximate location of the train derailment circled in red. (Source: [Google Maps](https://www.google.com/maps/@35.4190663,-84.4906941,15z))](images/109-05.jpeg)
 
 The spill was so catastrophic that both the Associated Press and UPI carried the story, even though it happened in a deeply rural area and didn't seem particularly newsworthy. Neither a bystander nor a crew member was injured.
 
@@ -66,7 +66,7 @@ What is not negligible is the number of lasting artifacts of the incident. This 
 
 What remains on the banks are countless shoals of coal. Shockingly, there were at least two rail axles and visible gondola frames present, stuck in the earth on the embankment of the Chestuee Creek, seventy years later.
 
-Apart from a sea of carbon mixed in soil and vegetation- rail ties, forged spikes, and J-hooks were discarded throughout the adjoining properties. At least one owner has stored the supply of coal to coax stubborn campfires as he told tales of the crash.
+Apart from a sea of carbon mixed in soil and vegetation - rail ties, forged spikes, and J-hooks were discarded throughout the adjoining properties. At least one owner has stored the supply of coal to coax stubborn campfires as he told tales of the crash.
 
 ![Look closely. Black shoals of coal remain visible on the banks of the Chestuee. A rail-tie and a piece of a Pressed Steel Car rest above ground. (Source: Author)](images/109-07.jpeg)
 
@@ -78,7 +78,7 @@ Full exploration could not take place due to property lines, but it's clear that
 
 A journal box is the compartment that encases each rail axle end and contains lubricant to keep the axle bearings from wearing out. In a time before roller bearings were standard, metal bushings needed soaked oil wadding to keep friction low.
 
-![A journal box is seen in the lower right hand of the diagram. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Hot_box_(rail)#))](images/109-08.jpeg)
+![A journal box is seen in the lower right hand of the diagram. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Hot_box_(rail)))](images/109-08.jpeg)
 
 The suspicion was that at least one of the gondolas of coal developed a "[hot box](https://en.wikipedia.org/wiki/Hot_box_(rail))", which caused the axle in the journal box to wobble due to a lack of packing. Then the remaining wadding caught fire, destroying its capacity to hold on and setting off a chain reaction that led to a derailment.
 
@@ -86,7 +86,7 @@ Three months after the incident, L&N officials announced in the *Knoxville News-
 
 Interestingly, in the news [article](https://www.newspapers.com/image/773287503/), the publisher referenced the Chestuee derailment and then proposed an educated speculation. The reporter wrote, "Every so often, a hobo . . . will open the journal box of a standing car and help himself to a handful of oily packing." The reporter continued, "It's a tempting material for kindling."
 
-And if a hobo got greedy to fuel a spectacular "jungle fire" to cook an assortment of beans, the box would not have enough wadding to perform properly-and the axle would heat up.
+And if a hobo got greedy to fuel a spectacular "jungle fire" to cook an assortment of beans, the box would not have enough wadding to perform properly - and the axle would heat up.
 
 ![Title of the article that gives away the cause of the incident. This author suspects this accident convinced L&N to execute the expensive purchase. (Source: [Knoxville-News Sentinel](https://www.newspapers.com/image/773287503/))](images/109-09.jpeg)
 
@@ -118,7 +118,7 @@ And it's not known what happened to engineer John Payne, but from what this auth
 
 On the early morning of September 16, 1959, engineer John Payne was hauling 2,500 tons of coal through Tennessee. But after a failure, a train derailment convinced the L&N Company to swap to new equipment.
 
-This is the legend of the Chestua Creek Coal Spill. 
+This is the legend of the Chestuee Creek Coal Spill.
 
 #history #railroad #america #railfanning
 
