@@ -22,6 +22,8 @@ Farther away, at the back, the brakeman looked at the conductor, "Oh God, No. It
 
 In the front, John pulled all the levers to stop, but it was too late. The crashing and destruction continued. Then, after a good three minutes, the sounds settled with only the howls of coyotes, the rasping of katydids, and the exclamation of railmen, somewhere in eastern Tennessee.
 
+As the crew walked the wreck, unshaven men emerged from a surviving freight car, tossing their whiskey bottles and heading into a clearing. They ran on nothing but worn shoes and prayers as John, holding a lantern, started to laugh.
+
 God was on their side that morning because those train trucks that were on fire were doused by the cool water of a creek ravine into which many fell.
 
 ---
@@ -54,7 +56,7 @@ The wreck was in God's control, as not a single soul nor animal was injured or k
 
 The spill was so catastrophic that both the Associated Press and UPI carried the story, even though it happened in a deeply rural area and didn't seem particularly newsworthy. Neither a bystander nor a crew member was injured.
 
-As cleanup began, it was estimated that the train had 30 undamaged cars ahead of the wreck and 40 behind it, while the 43 "were so badly smashed they could only be sold for scrap." So, the skeleton crew had to dispose of numerous wrecked parts to nature. Hundreds of feet of rails were ripped up, and the cleanup, put mildly, was hurried.
+As cleanup began, it was estimated that the train had 30 undamaged cars ahead of the wreck and 40 behind it, while the 43 "were so badly smashed they could only be sold for scrap." So, the skeleton crew had to dispose of numerous wrecked parts to nature. Hundreds of feet of rails were ripped up, and the operation, put mildly, was hurried.
 
 ## The Rushed Clean Up
 
