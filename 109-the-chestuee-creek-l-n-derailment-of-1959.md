@@ -88,7 +88,7 @@ Three months after the incident, L&N officials announced in the *Knoxville News-
 
 Interestingly, in the news [article](https://www.newspapers.com/image/773287503/), the publisher referenced the Chestuee derailment and then proposed an educated speculation. The reporter wrote, "Every so often, a hobo . . . will open the journal box of a standing car and help himself to a handful of oily packing." The reporter continued, "It's a tempting material for kindling."
 
-And if a hobo got greedy to fuel a spectacular "jungle fire" to cook an assortment of beans, the box would not have enough wadding to perform properly - and the axle would heat up.
+So if an unshaven hobo needed fuel to cook beans in a "jungle fire," then a tampered box may not contain enough wadding to perform properly - and the axle would heat up.
 
 ![Title of the article that gives away the cause of the incident. This author suspects this accident convinced L&N to execute the expensive purchase. (Source: [Knoxville-News Sentinel](https://www.newspapers.com/image/773287503/))](images/109-09.jpeg)
 
