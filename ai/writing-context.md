@@ -109,6 +109,11 @@ Promotion rule: once a pattern appears in the Learning log three times, promote 
 
 <!-- Append dated bullets. Newest at top. Promote recurring patterns into the body above. -->
 
+- 2026-07-18: Pattern study of essay 110 ("Ways People Respond to Problems"). Second data point in the **reaction / extension of a public artifact** family (first was 102). Cross-spoke rule captured for future work regardless of subject:
+  - **When replying to a numbered / enumerated external artifact, extend its numbering rather than start a rival list.** The tribute-plus-participation posture wins over the corrective posture on the open web. Applies equally to a toy-industry checklist, a railroad-history taxonomy, or a software listicle. Detail in [software-context.md](software-context.md) Learning log (2026-07-18).
+  - **Reaction essays stay short.** Body under ~250 words when the essay is an extension of someone else's public post. If the reply grows past that, it is a standalone piece that happens to cite the source, not an extension.
+  - **Title mirrors the source's title, minus the count.** "Three ways people respond to a problem" → "Ways People Respond to Problems". Signals family relationship without copying.
+
 - 2026-07-13: Added the history spoke ([history-context.md](history-context.md)) and routing rules. Loaded when the subject is railroad history, regional or industrial history, or on-the-ground incident archaeology that is neither software nor toy work. Baseline exemplar: essay 109, the Chestuee Creek L&N derailment of 1959. The history spoke inherits the toy spoke's investigative discipline (imagined-dialogue protocol, mechanism-must-be-verified rule, mosaic sourcing, "this author" as the investigative first-person) but has its own signatures: place-first ALL CAPS BOLD opener, italicized-bracket reconstructed opening scene, site archaeology as the primary-source move, dollar-figure corporate response, dedication line as final body element, YouTube coda in place of a book promo block, and a subject-tuned hashtag set. No UTS scaffolding on history-spoke essays.
 
 - 2026-06-06: Delta from essay 107 author edits — universal close-and-pivot patterns.

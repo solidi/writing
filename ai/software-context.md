@@ -207,6 +207,7 @@ These appear consistently in the published book. Use them in new essays unless t
 - Rant: 42, 65.
 - Video-game-as-systems: 45, 57, 67.
 - Coinage / law-naming: 102 (Claude's Law).
+- Reaction / extension of a public artifact: 102 (Claude's Law), 110 (Ways People Respond to Problems).
 - Long-form modding memoir: 34 (Half-Life mod).
 - Crossover transposition: 50 (motorcycling), 49 (hobbies), 66 (YouTube).
 
@@ -221,6 +222,18 @@ These appear consistently in the published book. Use them in new essays unless t
 ## Learning log
 
 <!-- Append dated bullets. Newest at top. Promote recurring patterns into the body above. -->
+
+- 2026-07-18: Pattern study of essay 110 ("Ways People Respond to Problems"). Second data point in the **reaction / extension of a public artifact** sub-genre (first was 102). Two data points, so logged not promoted. Distinct moves from 102's coinage-reply:
+  - **Extend the source's own enumeration.** When the external artifact is a numbered list, the reaction essay adds the next item using the source's numbering scheme rather than starting a rival list. 110's source titled its items with zero-padded numbers (0001–0003); 110 contributes "No. 0004". The extension is tribute-plus-participation, not critique.
+  - **Meta-notice the artifact's form as the invitation.** The zero-padding is the joke and the opening — "Surely there are at least a thousand behaviors?" The source's structural choice becomes the essay's premise. Look for similar affordances in any external artifact you are replying to: a numbering scheme, an unfinished taxonomy, a bracketed placeholder, a footnote that begs to be extended.
+  - **Match the source's naming convention, then elevate the register.** Source used alliterative P-verbs (Push, Preserve, Promote). Extension chose a rare Latinate P-verb (Pretermit — to disregard, intentionally omit) that honors the alliteration while sharpening the vocabulary. This is coinage-by-word-selection rather than coinage-by-neologism; use it when the source has already established a naming pattern you would not want to break.
+  - **Frame the piece as "an invitation to extend", not "here is what he missed".** Collaborative posture, not corrective. The narrator credits the source ("fascinating post", "appreciated the author's definitions") before adding. Never open with a rebuttal beat.
+  - **Compressed evidence via named-law citation.** Price's law cited inline with italicized plain-English definition (`*the square root of the total number of contributors produces 50% of the work in any given domain.*`). One law per short reaction essay, italicized, glossed in one clause. Same move as 102's canonical-law citation (_Go To Statement Considered Harmful_), but here the law backs the observation instead of being the foil.
+  - **Two-paragraph body maximum for reaction extensions.** Paragraph 1 names the behavior with a receipt (the named law, the observed pattern). Paragraph 2 widens to the human / professional generalization ("a default human response … about managing priorities and protecting egos"). Resist a third paragraph; it drifts into essay-of-its-own territory.
+  - **Extreme brevity is the discipline.** 110 lands at roughly 200 words of body — even shorter than 102's ~350. When responding to someone else's public artifact, the extension has to fit the source's pace; a 1500-word reply reads as pulling focus.
+  - **Social Post mirrors the essay's move.** Where 102's Social Post quotes the coined law, 110's Social Post repeats the "extending the document, … here is one more" frame. When the essay is an extension, the Social Post should invite further extension.
+  - **Title mirrors the source's title.** Source: "Three ways people respond to a problem". Essay: "Ways People Respond to Problems". Title-case + drop the count. Signals the family relationship without copying.
+  - **Section fit in book taxonomy.** 110 sits in Section III (Practices and Insight) or Section X (Reflections). The reaction-extension family does not yet warrant its own section; treat individual pieces by their subject matter, not by their reactive shape.
 
 - 2026-06-06: Delta from essay 107 author edits ("The 5x Engineering Manager"). Coinage-essay patterns worth keeping:
   - **Small-caps opener belongs at every H2 section, not just essay top.** Multi-section pieces gain pacing when each section opens with an all-caps opener (optionally bolded like `**WORD WORD**`), then the body. Essay 107 used `**EARLY IN MY CAREER**`, then `NOW I SIT`, then `IN THE END` at the head of each section. Treat the opener as a section-level device, not a one-shot.
