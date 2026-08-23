@@ -361,3 +361,15 @@ Mr. Falcon died innocently doing what teenagers thought was cool back then. And 
 ---
 
 * *The Daisy handgun used in David Horowitz's false imprisonment was confirmed in 1989 by an AP press reporter in "Consumer Advocate Continues Toy Gun Fight." Mr. Horowitz appeared on children's shows during that era and was a 15-time Emmy winner.*
+
+---
+
+## Social Post
+
+On April 7, 1987, 19-year-old Leonard J. Falcon was accidentally shot and killed on school grounds carrying a Lazer Tag device in Rancho Cucamonga, California. This is his story and the legislation that eventually gave all toy guns in America their orange tips.
+
+A final expanded version of this essay can be found in my book, Undercover Stories: An Anthology of Real American Inventions Volume 1, available on Amazon.
+
+#tragedy #law #safety #history #consumerism #toys #retro #lasertag
+
+https://medium.com/@solidi/how-the-orange-tip-became-a-standard-issued-toy-accessory-7c76d9b74ec8
