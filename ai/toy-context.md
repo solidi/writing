@@ -10,6 +10,7 @@ Voice guide for American toy industry essays. Covers the register seen across es
 - Company history: Mattel, Kenner, Tomy, Tonka, Fisher-Price, Galoob, Hasbro, Ideal, Marvin Glass & Associates, and their adjacents.
 - Patent, trademark, trade-press-anchored piece.
 - Interview or testimony-format essay.
+- A consumer artifact — plush, doll, book, game — carried into a national tragedy or mass-casualty event, where the object is the subject and the event is the setting.
 - Anything explicitly framed as an Undercover Toy Stories entry.
 
 ## Series frame: Undercover Toy Stories
@@ -34,7 +35,7 @@ Voice guide for American toy industry essays. Covers the register seen across es
 
 Observed consistently in 104 and recurring across the corpus. Treat as the default skeleton; deviate with cause.
 
-1. **Category banner** as a top-of-file H2: `## ON TOY HISTORY` (or the relevant subseries banner).
+1. **Category banner** as a top-of-file H2: `## ON TOY HISTORY` (or the relevant subseries banner). Confirmed alternates: `## OPINION ON TOY HISTORY`, `## ON SCIENCE AND INDUSTRY` (cross-domain, 105), `## ON THE VICTIMS OF HISTORY` (artifact-as-witness pieces, 112).
 2. **Title** as H1.
 3. **Subtitle** as H2 directly under the title — one declarative line that frames the angle.
 4. **Hero image** with a descriptive caption that smuggles in a fact. `images/NNN-01.jpeg`.
@@ -130,8 +131,11 @@ Four rules carry that protocol into a draft:
    - "This author imagined dialogues based on collective historical facts."
    - "Reconstructed from [source]."
    - "Based on congressional testimony, police reports, and facts."
+   - "Adapted from the [FBI interview](url) of [Name]. There is no audio recording." (112, per-scene footnote form)
+   - `[For [Name]. *Based on true stories.*]` (112, blanket disclosure carried on the dedication line at the end of the body)
    - "Reader discretion is advised."
 4. **Visible distinction.** Scene-setting details (room, weather, gesture) may be imagined when they do not alter the factual record. Claims of belief, intent, or motive must trace to a source. Never pass an imagined line as a direct on-record quote; formatting and framing must keep the distinction visible to the reader.
+5. **Private citizens get anonymity in-scene.** Public figures (Ruth Handler, Marvin Glass, Jack Ryan) keep their names inside the reconstruction. Private citizens — victims, their families, bystanders — run as role nouns ("a parent", "the child") with singular *they*, and are named only in the documentation block. The distinction is ethical, not stylistic: a named person who chose public life can be voiced; a named person who did not gets their words back only where the record can carry them.
 
 Exemplars: 89 (Marvin Glass with Bob Wallace, WBBM 1972), 92 (Jack Ryan and Elliot Handler on TWA), 93 (Florio and Horowitz in D.C., plus the pre-shooting scene), 98 (Steiner brothers in 1946 Cincinnati), 100 (Tom Osborne Q&A). UTS chapters that carry imagined dialogue: Ch. 1959, Ch. 1967, Ch. 1976, Ch. 1978, and TIMELESS. Investigative chapters (Ch. 1968, Ch. 2003, Ch. 2024) deliberately avoid reconstructed dialogue and lean on the documentary record.
 
@@ -183,6 +187,29 @@ Use this variant when the essay is built from direct Q&A with a living toy desig
   - Land one human thesis sentence about craft, memory, or legacy.
 7. Tail stays canonical: closing image -> AI-image disclosure if used -> footnote(s) -> `## Social Post`.
 
+### G. Braided scene mosaic (artifact as witness)
+
+Use this variant when a consumer artifact is carried into a national tragedy and the object, not the event, is the subject. Canonical exemplar: 112, the Peter Rabbit plush aboard United Airlines Flight 175. Sibling in method to 92, which braids reconstructed scenes around a coffee cup; 112 tightens the method and strips the names.
+
+1. **Banner** `## ON THE VICTIMS OF HISTORY`. **Title** takes the year prefix and rewrites the artifact's own title. **Subtitle** states the anniversary or the interval.
+2. **Hero image is a patent**, not a photograph, with a footnoted caption that carries a contested technical fact.
+3. **Opening epigraph** — bold-italic quote plus attribution line — sets the essay's claim about history itself.
+4. **Five to seven scenes**, each: `---` rule → narrative H2 → bracketed italic stage direction with a sound bed → ALL CAPS BOLD opener → 200–400 words of scene → one patent image mid-scene.
+5. **Scenes are anonymized.** Role nouns and singular *they*. No proper names in dialogue. The reader should not know for certain which scene belongs to which person until the reveal.
+6. **Chronology is scrambled on purpose.** Order the scenes by emotional escalation, not by date. Bind them with a motif chain, not with transitions.
+7. **The reveal block** — fully italicized, ALL CAPS BOLD opener, dated (`**ON SEPTEMBER 11, 2001,**`). Names, ages, death toll, the artifact's provenance, the survivors' fight, the disposition of the object today. This is where the toy-spoke discipline reasserts itself: sources linked, obituaries cited, museum accession named.
+8. **A second act after the reveal.** 112 returns to scene for the surveillance-tape and coded-diary sequences. The documentation block is a hinge, not an ending.
+9. **Coda scene** titled `## Coda: [Thesis Phrase]`. Short, physical, and cruel. It reprises the motif and completes the displaced image of the death.
+10. **Tail**: dedication bracket → `---` → closing image or embedded video → numbered footnotes → `## Social Post`. No book promo block on a piece where an ad would be indecent.
+
+Rules specific to this structure:
+
+- **Patents carry every scene.** A book with sound effects, an Airfone handset, a 767 airframe, a memorial street-sign bracket, a WTC damping brace. The artifact-and-patent method of the toy spoke applies undiminished when the subject is a catastrophe; it is what keeps the piece from becoming a eulogy.
+- **The atrocity happens off-page.** No impact, no fall, no body. The last line of the phone-call scene is the hang-up. The horror is displaced onto the motif object in the coda.
+- **The IP thesis still runs.** 112 argues Beatrix Potter secured the first character patent in history, ahead of the Teddy Bear. The series thesis — playthings are serious intellectual property — is what earns the essay the right to the subject.
+- **Every scene gets one smell and one sound.** Petrichor, mums, an oud, an AM radio, birds, a descending jet. The sensory bed is what holds anonymized scenes together.
+- **Conspiracy material is footnoted, sourced, and countered.** The al-Bayoumi sequence links archives.gov, names the 2024 lawsuit discovery that released it, and closes with "Mr. Al-Bayoumi has denied any wrongdoing." Same discipline as 105.
+
 ## Interview intake protocol - sourced Q&A packet
 
 When drafting a designer interview essay from supplied Q&A:
@@ -203,6 +230,8 @@ When drafting a designer interview essay from supplied Q&A:
 - Cold hook into a review or product claim: a TikTok reviewer, a patent drawing, an advertisement.
 - Section-header-as-opener rhetorical question: "How Could the Engine Explosion be Declared an Accident?" (91)
 - Once-upon-a-time framing for a company origin: "ONCE UPON A TIME, there was a young corporation called Mattel." (92)
+- Epigraph first, scene second: a bold-italic quote about the nature of history, then a bracketed stage direction, then an ALL CAPS BOLD line that turns out to be the artifact's own text being read aloud (112).
+- Anonymized domestic scene as a cold open: no names, no date, no event — a parent reading to a child. The reader learns what they were reading before they learn who died (112).
 
 ## Closing moves
 
@@ -211,6 +240,8 @@ When drafting a designer interview essay from supplied Q&A:
 - Institutional-silence critique: "Little public records are left in this case. This author believes police reports of this case are misfiled." (91)
 - Human-connection close: "To this author, all three are American heroes." (92)
 - Forward-looking note on a living project or a coming book (101).
+- Displaced-image coda: a short physical scene that completes the death the essay refused to depict — a bloated rabbit on a suburban lawn under a descending jet (112).
+- Dedication bracket as the final body element, optionally carrying the blanket reconstruction disclosure: `*- For Gene.*` (105), `[For George. *Based on true stories.*]` (112).
 
 ## Sentence and paragraph rhythm
 
@@ -313,12 +344,24 @@ The **emotional center** of the UTS investigative arc is the unsolved 1968 death
 - Artifact autobiography: 69, 78, 79, 95, 96, 104.
 - Company history: 82, 98, 101.
 - Interview/testimony: 89, 100.
+- Braided scene mosaic / artifact as witness: 112 (canonical), 92 (precursor, named figures).
 - Quote-driven artifact + inventor combo: 104 (canonical layout exemplar).
 - Series framing: [xx-undercover-toy-stories-preface.md](../xx-undercover-toy-stories-preface.md), [87-undercover-toy-stories-introduction.md](../87-undercover-toy-stories-introduction.md), [x-undercover-toy-stories-afterword.md](../x-undercover-toy-stories-afterword.md), [83-future-book-technical-toy-stories.md](../83-future-book-technical-toy-stories.md).
 
 ## Learning log
 
 <!-- Append dated bullets. Newest at top. Promote recurring patterns into the body above. -->
+
+- 2026-09-02: Deep read of essay 112 ("2001: The Tale of an American Peter Rabbit"). New form in the toy corpus, promoted into the body as **Structure G, Braided scene mosaic (artifact as witness)**. The essay pairs with 92 the way testimony pairs with reconstruction: same braided-scene method, same patents-as-evidence spine, same reconstructed dialogue drawn from the record, but 92 names its people in-scene and 112 refuses to. Items promoted: the `## ON THE VICTIMS OF HISTORY` banner, the private-citizen anonymity rule inside the imagined-dialogue protocol, two new disclosure forms, the displaced-image coda, and the dedication bracket. Items kept here for the next pass:
+  - **The essay's subject is the plush, not the attack.** Christine Lee Hanson's Peter Rabbit is the through-line: tucked into a bed in the first scene, referenced through Potter's authorship in the third, accessioned into the 9/11 Memorial & Museum in the reveal, and answered by a dead rabbit in the coda. The event supplies the setting. The archive supplies the subject. Any future tragedy piece should be able to answer "which object is this about?" before drafting a word.
+  - **Names arrive once, in one block, and never leave it.** Peter, Sue, and Christine Lee Hanson; Lee and Eunice Hanson; Beatrix Potter; Khalid Sheikh Mohammed; Leslie Linder; Omar al-Bayoumi. Every name in the essay sits in the italicized reveal or in a footnote. The scenes stay populated by "a parent" and "the child". The effect is that the reader has already been the father on the phone by the time they learn he was Lee Hanson.
+  - **Motif inventory, for reference when the next braided piece needs one.** Rabbits (read about, drawn, sketched, plush, live, dead); chrysanthemums and mums (in a garden bed, in a watering can, on a lawn, at a memorial, on a desk); the September sky (cool evening, beautiful blue morning, gray morning, clear blue day, clear sky in 1893); lost shoes and jackets (Potter's text, the child's bare feet, the memorial section title); enclosures (garden patch, warren, fence, potting shed, economic zone, capital garden); aircraft overhead (Flight 175, a descending jet twice); overeating (Peter under the fence, the carcass in the coda). Seven chains, each touched three or more times. That is the density that lets the transitions disappear.
+  - **Every object in a scene has a patent, and the patent is the image.** US3605953A damping brace, USD349923S interactive book, USD361568S Airfone handset, USD258647S Boeing 767, US1959849 street-sign bracket. The captions do factual work the prose declines to do — the hero caption settles the trusses-not-columns question in two sentences with a footnote. This is the toy spoke's patent scan applied to a non-toy subject and it is the single strongest technique in the piece.
+  - **The Potter thread is the IP argument.** "Beating the American Teddy Bear, she secured the first character patent in history, rooted in her love for a child." One caption carries the series thesis, cross-links to a sibling essay, and explains why a toy archivist is the right person to write about a plane crash. Verify the character-patent claim against UKIPO before publication; the caption currently credits Mental Floss and a UKIPO recreation.
+  - **Beatrix Potter's coded diary as the essay's second mystery.** The 1884 encoded line about religion and "endless strife," cracked by Leslie Linder in 1958 and suppressed by the family until 1989, is set against the al-Bayoumi tape suppressed until 2024. Two withheld records, a century apart, released by outsiders. That is the essay's structural argument and it is never stated aloud. Worth imitating: let two suppressed documents rhyme and decline to explain the rhyme.
+  - **Restraint markers to preserve in edits.** The phone-call scene ends on "I'm going to hang up now." The hijackers are described only through what the passengers saw — mace, knives, a transponder switched off. The parents' grief is rendered as exhaustion in front of cameras, not as weeping. Any edit that adds a detail of the impact, the towers, or the deaths breaks the piece.
+  - **Open items for the author.** The `## Social Post` block is `TBD` — candidate pull quote is Lee Hanson's recollection of his son: "Don't worry, if they do that, it will be quick." The `## AI Review` block reads as a working scaffold and should be stripped at publish. Two typos survive in the draft: the Morgan Library link at the "puff-puff" line is missing its closing paren and label, and the earlier link text renders raw. No book promo block appears, which reads as a deliberate and correct choice for this subject; confirm with the author.
+  - **No quote file for this essay.** 112 breaks the quote-driven norm of the toy spoke: it carries no attributed press quotations in the body at all. Its sourcing lives in captions, footnotes, and the reveal block. The quote-intake protocol does not apply to Structure G pieces — ask instead for the source packet: the biography with page numbers, the archive links, the FBI or commission interviews, and the patent list.
 
 - 2026-06-19: Delta review of essay 108 (Steve Wuesthoff on Savage Mondo Blitzers). Promoted interview-profile patterns based on the 100/108 pair.
   - **Interview skeleton is now stable.** 108 confirms the same frame used in 100: canonical top matter -> italic interview blurb -> context setup -> long Q&A body -> narrator synthesis close -> disclosure/footnote -> Social Post.
