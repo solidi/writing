@@ -126,6 +126,7 @@ Experiences distilled through writing.
 1. [Steve Wuesthoff On Kenner's Savage Mondo Blitzers](https://medium.com/@solidi/steve-wuesthoff-on-kenners-savage-mondo-blitzers-f5bea05c0db0)
 1. [The Chestuee Creek L&N Derailment of 1959](https://medium.com/@solidi/the-tennessee-chestuee-creek-l-n-derailment-of-1959-efea6a3865a9)
 1. [Ways People Respond to Problems](https://dev.to/solidi/ways-people-respond-to-problems-3fhm)
+1. [How to Become a Knowledgeable Binocular Enthusiast Without Spending a lot of Money](https://medium.com/@solidi/how-to-become-a-knowledgeable-binocular-enthusiast-without-spending-a-lot-of-money-890e42169088)
 
 ## Major Engagements
 
