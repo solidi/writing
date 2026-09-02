@@ -46,6 +46,7 @@ The base voice file. Read this first for any essay session. Route to a spoke bas
 - Escher-sentence and tautology scan.
 - Active-voice flip pass.
 - Prefer a proper noun to a vague pronoun where the reference is recoverable.
+- **Titles may take a deliberate banned-word exception; body prose may not.** A banned word survives in a title when it carries the reader-facing promise of the piece and every correction reads as marketing (essay 111: "Without Spending a lot of Money"). The word stays on the list. Flag the exception to the author rather than granting it yourself.
 
 ## Length and shape
 
@@ -126,7 +127,7 @@ Promotion rule: once a pattern appears in the Learning log three times, promote 
   - **Every spoke has a primary-source move, and they are not interchangeable.** Toy = the patent scan. History = site archaeology. Review = **ownership disclosure** ("I own a Flyant 12x25 that cost under $100"). Software = lived practice. Identify the spoke's evidence move before drafting; a piece without it reads as summary.
   - **The hyperlink attaches to different things in different spokes.** Toy and history wrap the **verb of attribution** because the link proves a claim. Review wraps the **product name** because the reader is meant to click and buy. Do not carry one convention into the other.
   - **"This author" is spoke-specific, not corpus-wide.** It is the toy and history distancing device. Review voice is first-person singular and unhedged; the value of the piece is a named person putting their taste on the line.
-  - **A constraint named in the title is a structural obligation.** 111's "Without Spending a lot of Money" is enforced as "under $100" in six separate sections. Whenever a title makes a promise (a price, a timebox, a word count), honor it visibly in the body rather than once at the top.
+  - **A constraint named in the title is a structural obligation.** 111's "Without Spending a lot of Money" is enforced as "under $100" in six separate sections. Whenever a title makes a promise (a price, a timebox, a word count), honor it visibly in the body rather than once at the top. Author ruled on the banned-word collision here: "a lot" stays on the list, and the 111 title keeps it as a rare exception, because the colloquialism is the promise.
   - **First guest-authored piece in the corpus.** Bylined `*Written by Douglas J. Arcuri*`, saved as `.my.md`. Guest pieces take the house structure but keep the guest's diction; run the banned-word pass and propose the cuts as a list rather than rewriting silently. Mechanical fixes (title case, unit spacing, en-dash ranges, stray zero-width characters) are unilateral.
   - **Review essays need a pre-draft intake, same as toy essays need a quote file.** Seven questions in the review spoke: price ceiling, doctrinal fork, false luxury, the one calculation, use cases, what the author owns, the traps.
 

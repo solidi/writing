@@ -1,6 +1,6 @@
 # Review Context — Spoke
 
-Voice guide for deep product reviews and practical buying guides in a niche hobby domain. Covers optics, gear, tools, instruments, and collectible equipment where an enthusiast reader is choosing what to buy and the essay is the authority that helps them choose. Read [ai/writing-context.md](writing-context.md) first. Baseline exemplar: [111-how-to-become-a-knowledgable-binoculars-enthusiast-without-spending-a-lot-of-money.my.md](../111-how-to-become-a-knowledgable-binoculars-enthusiast-without-spending-a-lot-of-money.my.md).
+Voice guide for deep product reviews and practical buying guides in a niche hobby domain. Covers optics, gear, tools, instruments, and collectible equipment where an enthusiast reader is choosing what to buy and the essay is the authority that helps them choose. Read [ai/writing-context.md](writing-context.md) first. Baseline exemplar: [111-how-to-become-a-knowledgeable-binoculars-enthusiast-without-spending-a-lot-of-money.my.md](../111-how-to-become-a-knowledgeable-binoculars-enthusiast-without-spending-a-lot-of-money.my.md).
 
 ## When to load this file
 
@@ -129,7 +129,7 @@ Essay 111 is guest-authored — bylined "Written by Douglas J. Arcuri" and saved
 - **Contrarian**: "Everything the [Hobby] Forums Get Wrong About [Spec]" (hypothetical).
 - **Spec-literacy**: "How to Read a [Category] Spec Sheet" (hypothetical).
 - Subtitle is short and functional — "A Practical Guide", "A Buyer's Guide", "What to Own and What to Skip".
-- Note the corpus-wide title rule still binds: "a lot" is on the banned list. The 111 title violates it and should be revisited if the piece is ever reprinted.
+- **"A lot" stays banned in body prose, and is an approved exception in a review title.** The 111 title keeps "Without Spending a lot of Money" by the author's decision: the colloquialism *is* the promise, and a corrected phrasing ("Without Overspending", "On a Budget") reads as marketing rather than as a person talking. Reach for the exception only when the banned word carries the reader-facing contract of the piece. Never in the body.
 
 ## Diction and signature vocabulary
 
