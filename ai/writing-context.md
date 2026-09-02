@@ -9,6 +9,7 @@ The base voice file. Read this first for any essay session. Route to a spoke bas
    - Software, engineering, career, tools, video games, developer culture → also load [software-context.md](software-context.md).
    - American toy industry, inventors, incidents, patents, toy companies, Undercover Toy Stories entries → also load [toy-context.md](toy-context.md).
    - Railroad history, regional or industrial history, on-the-ground incident archaeology that is neither software nor toy work → also load [history-context.md](history-context.md).
+   - Physical-gear buying guides and hobby product reviews — optics, cameras, turntables, knives, pens, instruments, tools — where the reader is choosing what to purchase → also load [review-context.md](review-context.md). Software-tool reviews stay in the software spoke.
    - Mixed or unclear → load the applicable spokes; the dominant subject wins; note the blend to the author before drafting.
 3. Determine the form:
    - Single essay (blog post, dev.to / Medium piece, social post) → subject spoke is sufficient.
@@ -16,13 +17,15 @@ The base voice file. Read this first for any essay session. Route to a spoke bas
    - Auditing a typeset / published PDF for correctness (index page numbers, alphabetical order, endnote numbering, bibliography order, figure list) → also load [book-editing.md](book-editing.md) on top of the subject spoke. This is the production-side companion to the book spoke; the book exists, and the job is to find what is broken in it.
 4. Load [writing-editing.md](../writing-editing.md) for the universal banned-word and filter list. It applies to everything.
 5. **Toy essays only**: before drafting, ask the author for a per-essay quote file at `quotes/NNN-*.md` (where `NNN` is the numeric token of the essay file). See the Quote intake protocol in [toy-context.md](toy-context.md). Toy essays are quote-driven; do not draft without one.
-6. Draft. Then run the banned-word pass before returning.
-7. After the author publishes or approves the essay, ask: "What did we learn about the voice from this piece?" Capture the answer in the Learning log of whichever file it refines.
+6. **Review essays only**: before drafting, walk the author through the seven porting questions in [review-context.md](review-context.md) ("Porting the spoke to a new product category"). Review essays are ownership-driven; do not recommend a product the author has neither owned, handled, nor sourced a review for.
+7. Draft. Then run the banned-word pass before returning.
+8. After the author publishes or approves the essay, ask: "What did we learn about the voice from this piece?" Capture the answer in the Learning log of whichever file it refines.
 
 ## Who the author is, on the page
 
 - A practitioner. Software engineer by day, toy-industry archivist by avocation.
 - First-person singular is the default. Second person appears in how-to mode. "This author" appears in toy investigations as a deliberate distancing device.
+- **Guest bylines exist.** A piece written by someone other than Douglas W. Arcuri carries an italic `*Written by [Full Name]*` line under the hero image and a `.my.md` file suffix. Essay 111 is the first. Guest pieces take the house structure, not the house voice; see the Guest-author protocol in [review-context.md](review-context.md).
 - Opinionated without preaching. Observes, names, frames. Rarely prescribes without cause.
 - Trusts the reader. No hand-holding, no fake universality, no virtue signaling.
 
@@ -58,6 +61,7 @@ The base voice file. Read this first for any essay session. Route to a spoke bas
 - Provocation or allusion: "Reply All Considered Harmful", "Apps Doing Sh*t"
 - Person-name title: "Tom Osborne on Kenner's M.A.S.K."
 - Incident title: "A Tragic American Toy Story"
+- Hobby-entry guide: "How to Become a Knowledgeable [Category] Enthusiast Without [Constraint]"
 - Subtitle after the colon is welcome. One clause. No bombast.
 
 ## Routing table
@@ -79,6 +83,13 @@ The base voice file. Read this first for any essay session. Route to a spoke bas
 | Industrial infrastructure history (non-toy) | history |
 | Incident reconstruction where the author walked the site | history |
 | Named-crewman or named-workman portrait (engineer, conductor, foreman) | history |
+| Physical-gear buying guide: which model to buy, at what price, for what use | review |
+| Hobby-entry guide: becoming knowledgeable in a gear category on a budget | review |
+| Spec-literacy piece teaching a reader to read a product's numbers | review |
+| Contrarian take against a hobby community's received wisdom on gear | review |
+| Vintage or secondary-market guide for a collectible product category | review |
+| Software tool, IDE, language, or developer-product review | software (structure E), **not** review |
+| Toy or toy-adjacent collectible, treated as history rather than purchase advice | toy, **not** review |
 | Front matter, back matter, section epigraphs, anthology editorial work | **+ book** (on top of subject spoke) |
 | Personal soliloquy bridging essays in a collected volume | **+ book** |
 | Praise / Even More Praise pages, About the Author, Acknowledgments | **+ book** |
@@ -93,6 +104,8 @@ Some essays sit between voices. They are allowed. Flag the blend at the top of t
 - Toy-as-career-reflection (hypothetical): toy voice dominates, but the author's first-person may surface.
 - Toy-industry incident that is also a regional infrastructure event (e.g., a factory fire in a mill town): toy voice dominates; borrow the history spoke's site-archaeology move if the author walked the site.
 - Railroad or regional-industry piece that touches a toy line (e.g., Hot Wheels Trains, Tomy Big Loader as industrial artifacts): history voice for the on-the-ground reporting; toy voice for the product history.
+- Gear review that runs through the manufacturing history of the category (e.g., why Chinese porro-prism production improved): review voice dominates; borrow the history spoke's mechanism-explanation discipline for the technical passage.
+- Hobby-as-career-reflection (e.g., a CQ-style piece where the gear is the vehicle for a mastery argument): software voice dominates, per essay 10; the review spoke supplies the gear vocabulary only.
 
 ## Post-essay write-back protocol
 
@@ -108,6 +121,14 @@ Promotion rule: once a pattern appears in the Learning log three times, promote 
 ## Learning log
 
 <!-- Append dated bullets. Newest at top. Promote recurring patterns into the body above. -->
+
+- 2026-09-02: Added the review spoke ([review-context.md](review-context.md)) and routing rules, built from essay 111, the binocular buying guide. New class of writing: the deep product review in a niche hobby domain, where the reader has money in hand and the essay's job is to spend it well. Cross-spoke rules captured:
+  - **Every spoke has a primary-source move, and they are not interchangeable.** Toy = the patent scan. History = site archaeology. Review = **ownership disclosure** ("I own a Flyant 12x25 that cost under $100"). Software = lived practice. Identify the spoke's evidence move before drafting; a piece without it reads as summary.
+  - **The hyperlink attaches to different things in different spokes.** Toy and history wrap the **verb of attribution** because the link proves a claim. Review wraps the **product name** because the reader is meant to click and buy. Do not carry one convention into the other.
+  - **"This author" is spoke-specific, not corpus-wide.** It is the toy and history distancing device. Review voice is first-person singular and unhedged; the value of the piece is a named person putting their taste on the line.
+  - **A constraint named in the title is a structural obligation.** 111's "Without Spending a lot of Money" is enforced as "under $100" in six separate sections. Whenever a title makes a promise (a price, a timebox, a word count), honor it visibly in the body rather than once at the top.
+  - **First guest-authored piece in the corpus.** Bylined `*Written by Douglas J. Arcuri*`, saved as `.my.md`. Guest pieces take the house structure but keep the guest's diction; run the banned-word pass and propose the cuts as a list rather than rewriting silently. Mechanical fixes (title case, unit spacing, en-dash ranges, stray zero-width characters) are unilateral.
+  - **Review essays need a pre-draft intake, same as toy essays need a quote file.** Seven questions in the review spoke: price ceiling, doctrinal fork, false luxury, the one calculation, use cases, what the author owns, the traps.
 
 - 2026-07-18: Pattern study of essay 110 ("Ways People Respond to Problems"). Second data point in the **reaction / extension of a public artifact** family (first was 102). Cross-spoke rule captured for future work regardless of subject:
   - **When replying to a numbered / enumerated external artifact, extend its numbering rather than start a rival list.** The tribute-plus-participation posture wins over the corrective posture on the open web. Applies equally to a toy-industry checklist, a railroad-history taxonomy, or a software listicle. Detail in [software-context.md](software-context.md) Learning log (2026-07-18).
