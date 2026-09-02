@@ -54,7 +54,7 @@ The child replied through the phone, "I think they've taken over the cockpit. Th
 
 The parent thought about their loved ones. "How are they?"
 
-The child replied, "It's tight back here [with them] -they're okay. But Dad, they are talking about crashing the plane."
+The child replied, "It's tight back here [with them] — they're okay. But Dad, they are talking about crashing the plane."
 
 ![During the terrorist attacks of 9/11, cellphones and Airfone equipment were used from the planes, which provided an oral record of the event. (Source: [USPTO](https://patents.google.com/patent/USD361568S/en))](images/112-03.jpeg)
 
@@ -99,7 +99,7 @@ They smiled as they wrote a few pages of disobedience and consequences, with sub
 
 A closed diary sat beside them on the lawn, its pages filled with cryptic messages as the grounded chrysanths permeated the air.
 
-Some time passed. "There we go." With a slight smirk, they said, "Such a pretty letter. It's time to make way for the [puff-puff](https://www.themorgan.org/collection/)Beatrix-Potter-Picture-Letters!" They laughed.
+Some time passed. "There we go." With a slight smirk, they said, "Such a pretty letter. It's time to make way for the [puff-puff](https://www.themorgan.org/collection/Beatrix-Potter-Picture-Letters)!" They laughed.
 
 The parent completed the letter to the child. "I am coming back next Thursday, so I hope I shall see you soon," and they signed it to a loved one waiting in bed. "For my pickle."
 
@@ -183,7 +183,7 @@ The descending jet plane made a screeching sound, a wonder in the sky. To some, 
 
 **ON SEPTEMBER 11, 2001,** *Peter (32), Sue (35), and Christine Lee Hanson (2) died on United Airlines Flight 175 in the attacks on the World Trade Center. All told, 2,977 victims were murdered that September day. Since then, a hundred thousand have either died or are suffering from illnesses associated with Ground Zero contaminants.*
 
-*Following their grieving, Peter's parents, Lee and Eunice Hanson, pursued justice for their children. Yet, Mr. Hanson predicted that he would never see those responsible fully held to account. Lee's prediction was proven correct, as military tribunals have stalled in the prosecution of the master planners of the attacks, such as [Khalid Sheik Mohammed](https://en.wikipedia.org/wiki/United_States_v._Khalid_Sheikh_Mohammed). Lee passed away in 2018.*
+*Following their grieving, Peter's parents, Lee and Eunice Hanson, pursued justice for their children. Yet, Mr. Hanson predicted that he would never see those responsible fully held to account. Lee's prediction was proven correct, as military tribunals have stalled in the prosecution of the master planners of the attacks, such as [Khalid Sheikh Mohammed](https://en.wikipedia.org/wiki/United_States_v._Khalid_Sheikh_Mohammed). Lee passed away in 2018.*
 
 ![Peter, Christine, and Sue. (Source: Portraits: [9/11/01: The Collected "Portraits of Grief"](https://books.google.com/books?id=ec-BbEYofIsC&pg=PA249#v=onepage&q&f=false) from NYT, p. 296)](images/112-07.jpeg)
 
