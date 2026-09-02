@@ -30,7 +30,7 @@ At lower prices, the porro prisms are easier to manufacture at a higher quality.
 
 ## What to Consider?
 
-**WHEN SELECTING BINOCULARS**, a few sound principles apply. The higher the magnification, the smaller the field of vision. That is the law of physics, and it cannot be changed. When you zoom in, the field of view shrinks. The physics says every 1° is 52 feet, so it is easy to figure it out.
+**WHEN SELECTING BINOCULARS**, a few sound principles apply. The higher the magnification, the smaller the field of vision. That is the law of physics, and it cannot be changed. When you zoom in, the field of view shrinks. At 1,000 yards, every 1° of angular field corresponds to approximately 52 feet, so it is easy to calculate the field of view.
 
 ### Brightness, Glass, and Weight Construction
 
@@ -110,7 +110,7 @@ Regardless of what experts say, low-magnification zoom bins have their place in 
 
 **Vintage.** The old stuff has been very successful on Facebook Marketplace for quick buys. I only go local so I can test them out. Look for a workable wide-FOV model and make sure it's operable, with no scratches on the lenses or exterior. If you do encounter operational problems, you can unfreeze the main focus and the interpupillary distance control using silicone gel.
 
-![The vintage Bushnel Bushnell 4x30 PowerView Insta-Focus is sought after. (Source: [Ebay](https://www.ebay.com/itm/257164426060))](images/111-08.jpeg)
+![The vintage Bushnell 4x30 PowerView Insta-Focus is sought after. (Source: [Ebay](https://www.ebay.com/itm/257164426060))](images/111-08.jpeg)
 
 The diopter is another story. They are difficult to maintain due to dried-out interior grease. I don't attempt to fix them; instead, I rebuy, as many units are available under $100. Of course, rare German vintage models can fetch in the hundreds based on condition. They are real collector's items.
 
@@ -135,13 +135,13 @@ Very expensive binoculars are not what they are cracked up to be. The law of dim
 
 In addition, it prevents the viewer from looking directly at the eyepieces, which can cause smudging and vignetting. Eyepieces with limited depth work well.
 
-​2. **Flip Objective Lens Covers.** Binocular objective lenses, which are not fixed to the barrels, can be lost. However, flip lens covers are practical when setting the diopter and main focus. In addition, they prevent them from being lost.
+2. **Flip-Up Objective Lens Covers.** Loose objective-lens covers can be lost. Flip-up covers remain attached to the barrels and stay out of the way while setting the diopter and main focus.
 
 3. **On Eye Relief.** If you wear glasses, choose a model with at least 15 mm of distance between your eyes and the lenses, and go for more.
 
-​4. **Keep Unblocked.** Do not judge binocular clarity by looking through windows, car windshields, or screens.
+4. **Keep Unblocked.** Do not judge binocular clarity by looking through windows, car windshields, or screens.
 
-5. **Focusing Technique.** When using the main focus, use both the middle and index fingers from both hands. This lets you change focus quickly. Use it like a rocker, as it's intuitive design guides the direction of focus. It is easier with two hands as you are still supporting the binoculars.
+5. **Focusing Technique.** When using the main focus, use both the middle and index fingers from both hands. This lets you change focus quickly. Use it like a rocker, as its intuitive design guides the direction of focus. It is easier with two hands as you are still supporting the binoculars.
 
 6. **Cleaning Lenses.** I use Zeiss cleaning wipes and never worry about scratching lenses. They can be obtained from [Amazon](https://www.amazon.com/dp/B0030E4UIQ). In fact, most products discussed in this article are available there.
 
