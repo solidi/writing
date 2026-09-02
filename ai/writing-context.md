@@ -7,7 +7,7 @@ The base voice file. Read this first for any essay session. Route to a spoke bas
 1. Read this file end-to-end before drafting.
 2. Determine the subject:
    - Software, engineering, career, tools, video games, developer culture → also load [software-context.md](software-context.md).
-   - American toy industry, inventors, incidents, patents, toy companies, Undercover Toy Stories entries → also load [toy-context.md](toy-context.md).
+   - American toy industry, inventors, incidents, patents, toy companies, Undercover Toy Stories entries, and national-tragedy pieces anchored on a consumer artifact → also load [toy-context.md](toy-context.md).
    - Railroad history, regional or industrial history, on-the-ground incident archaeology that is neither software nor toy work → also load [history-context.md](history-context.md).
    - Physical-gear buying guides and hobby product reviews — optics, cameras, turntables, knives, pens, instruments, tools — where the reader is choosing what to purchase → also load [review-context.md](review-context.md). Software-tool reviews stay in the software spoke.
    - Mixed or unclear → load the applicable spokes; the dominant subject wins; note the blend to the author before drafting.
@@ -63,6 +63,8 @@ The base voice file. Read this first for any essay session. Route to a spoke bas
 - Person-name title: "Tom Osborne on Kenner's M.A.S.K."
 - Incident title: "A Tragic American Toy Story"
 - Hobby-entry guide: "How to Become a Knowledgeable [Category] Enthusiast Without [Constraint]"
+- Year-prefix title: "2001: The Tale of an American Peter Rabbit". The year does the dating work so the subtitle can carry the anniversary or the angle. Mirrors the UTS chapter-by-year convention.
+- Borrowed-title allusion: the essay's title rewrites the title of the artifact it is about (*The Tale of Peter Rabbit* → "The Tale of an American Peter Rabbit"). The inserted word carries the thesis.
 - Subtitle after the colon is welcome. One clause. No bombast.
 
 ## Routing table
@@ -79,6 +81,8 @@ The base voice file. Read this first for any essay session. Route to a spoke bas
 | Patent, trademark, or trade-press-rooted piece | toy |
 | Undercover Toy Stories series entry | toy |
 | Grief, memoir, or personal motivation of the archive project | toy |
+| National tragedy or mass-casualty event witnessed through a consumer artifact (plush, book, doll) | toy |
+| Braided anonymized-scene reconstruction built from testimony, biography, and patents | toy |
 | Railroad history: derailment, wreck, line, era transition | history |
 | Regional or small-town history: mill, mine, dam, textile lineage | history |
 | Industrial infrastructure history (non-toy) | history |
@@ -105,6 +109,7 @@ Some essays sit between voices. They are allowed. Flag the blend at the top of t
 - Toy-as-career-reflection (hypothetical): toy voice dominates, but the author's first-person may surface.
 - Toy-industry incident that is also a regional infrastructure event (e.g., a factory fire in a mill town): toy voice dominates; borrow the history spoke's site-archaeology move if the author walked the site.
 - Railroad or regional-industry piece that touches a toy line (e.g., Hot Wheels Trains, Tomy Big Loader as industrial artifacts): history voice for the on-the-ground reporting; toy voice for the product history.
+- Toy or consumer artifact as witness to a national tragedy (e.g., a Peter Rabbit plush aboard United 175): toy voice dominates for the artifact's provenance and IP history; the history spoke's site-and-object discipline supplies the reconstruction. The event is never the subject — the object is.
 - Gear review that runs through the manufacturing history of the category (e.g., why Chinese porro-prism production improved): review voice dominates; borrow the history spoke's mechanism-explanation discipline for the technical passage.
 - Hobby-as-career-reflection (e.g., a CQ-style piece where the gear is the vehicle for a mastery argument): software voice dominates, per essay 10; the review spoke supplies the gear vocabulary only.
 
@@ -122,6 +127,16 @@ Promotion rule: once a pattern appears in the Learning log three times, promote 
 ## Learning log
 
 <!-- Append dated bullets. Newest at top. Promote recurring patterns into the body above. -->
+
+- 2026-09-02: Pattern study of essay 112 ("2001: The Tale of an American Peter Rabbit"). Toy-spoke piece by routing, but it opens a new form in the corpus: the **braided scene mosaic**, where an artifact bears witness to a mass-casualty event. Sits beside essay 92 in method — reconstructed dialogue, patents as evidence, an object as the through-line — and departs from it in one decisive way: 92 names everyone in the scenes, 112 names no one until the reveal. Universal patterns captured, applicable to any spoke:
+  - **Anonymize the scene, name in the reveal.** When the human subjects of a reconstruction are private citizens rather than public figures, run the scenes with role nouns ("a parent", "the child", "a person") and singular *they*, then hand the reader every name, age, and date in one italicized documentation block near the end. The reader inhabits the roles before learning whose they were. Named-figure reconstructions (92, 89, 93) keep names in-scene; private-citizen reconstructions do not.
+  - **Epigraphs partition an essay, not only a book.** 112 runs four bold-italic epigraph blocks with an attribution line, spaced through the body as act breaks. Previously a book-spoke device; it is portable to a long essay whose sections are scenes rather than arguments. Form: `***Quote.***` newline `- Attributor, Source (Year), p. N.`
+  - **Bracketed italic stage directions with sound design.** Each scene opens `[*Two parents thinking about their children, among scenes of reporters with the sound of light rain.*]`. Cues carry a sound bed (AM radio, an oud, birds, rain) and can close it (`[*Oud music fades.*]`). Radio-play scaffolding. Use when the essay is scene-driven and the narrator has stepped out.
+  - **Motif chain replaces chronology as the spine.** 112's scenes jump 1893 → 1999 → 2001 → 2026 with no transitional prose. What binds them is recurring objects: rabbits, chrysanthemums, a September sky, lost shoes and jackets, gardens and warrens, aircraft overhead, overeating. When a braided essay stops working, the fix is a stronger motif, not a stronger transition.
+  - **Displacement carries the atrocity.** The essay never depicts an impact, a collapse, or a death. It stops at "I'm going to hang up now." The violence lands later on a dead rabbit in a suburban backyard. For any subject that would be exploitative to render directly, displace the image onto a small object and let the reader complete it.
+  - **Numbered footnotes as a blog-form tail.** Superscripts ¹–⁶ in the body, italicized notes after the closing media, each carrying a page number, an archive link, or a named denial. Reach for this instead of inline hyperlinks when the claims are contested, legally sensitive, or drawn from print sources with pagination. Inline links stay for the ordinary case.
+  - **Dedication line, now confirmed as a signature (second instance after 105's `*- For Gene.*`).** 112 closes the body with `[For George. *Based on true stories.*]`. The bracket can carry a blanket reconstruction disclosure alongside the dedication. Promoting to the body of the toy spoke.
+  - **`## AI Review` tail block.** 112 carries a mood-and-tone summary at the very bottom. Working scaffold for the author, not published matter. Leave it in the draft; strip it at publish time and confirm with the author.
 
 - 2026-09-02: Added the review spoke ([review-context.md](review-context.md)) and routing rules, built from essay 111, the binocular buying guide. New class of writing: the deep product review in a niche hobby domain, where the reader has money in hand and the essay's job is to spend it well. Cross-spoke rules captured:
   - **Every spoke has a primary-source move, and they are not interchangeable.** Toy = the patent scan. History = site archaeology. Review = **ownership disclosure** ("I own a Flyant 12x25 that cost under $100"). Software = lived practice. Identify the spoke's evidence move before drafting; a piece without it reads as summary.
