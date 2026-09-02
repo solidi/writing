@@ -98,7 +98,7 @@ I do own a Sogries, a 6x-16x variable 40 porro prism with twist-out eye cups, wh
 
 These bins are lightweight, under 2 lbs. The balance is good, so there is no shake at the higher magnification. The 40 mm objective lens provides excellent light. Practical use is there, and the zoom is variable, meaning you can go continuously from 6x to 16x. Excellent clarity all through.
 
-As a second choice, [Coleman](https://www.colemanoptics.com/optics/ca840-l6yc7-hbeyk) has a 6–16x40 for under $100. They are affordable, coming with twist-out eyepieces; however, they are not waterproof nor fogproof. In addition, the Colemans do not have twist-out eye cups, but their clarity and contrast are excellent.
+As a second choice, [Coleman](https://www.colemanoptics.com/optics/ca840-l6yc7-hbeyk) has a 6–16x40 for under $100. They are affordable, coming with twist-out eyepieces; however, they are not waterproof nor fogproof. In addition, the Colemans have fold-up/down rubber eyecups, and their clarity and contrast are excellent.
 
 Regardless of what experts say, low-magnification zoom bins have their place in the viewer's collection. If I know bald eagles have a nest and where they are, zooms are the way to go.
 
@@ -123,7 +123,8 @@ In my opinion, Auto Permafocus, or "fixed-focus," binoculars have a blurry view 
 If your units are under $150, why are warranties necessary? You will know it is a lemon right out of the box, or, if it breaks within 30 days, you can send it back to Amazon for an exchange - no need to be stuck with a lemon from collimation (lens misalignment).
 
 ### Further Bin Secrets
-This article attempts to cut through the unnecessary minutiae and focus on which binoculars are efficient for each application so you can get the most enjoyment. Beware of binoculars sold with high magnifications; you will know right away if it's correct or if they calculate the eye pupil.
+
+This article attempts to cut through the unnecessary minutiae and focus on which binoculars are efficient for each application so you can get the most enjoyment. Beware of binoculars sold with high magnifications; you will know right away if the field of view is correct or if the manufacturer estimated the eye pupil.
 
 Very expensive binoculars are not what they are cracked up to be. The law of diminishing returns comes into play when spending hundreds more on roofs for maybe a 10 percent improvement. They are heavy and miss the 3D stereo effects of the porro prism, no matter how much you spend on roofs. Compactness has its price.
 
