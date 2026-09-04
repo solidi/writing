@@ -23,7 +23,7 @@ What follows are dimensions of killer instinct:
 
 ## Real-World Examples
 
-Now, here are some real-world examples of engineers who exercise this virtue:
+The following composite scenarios show engineers exercising this virtue:
 
 ### Killing the "90% Done" Syndrome
 
