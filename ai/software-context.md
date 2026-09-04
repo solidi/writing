@@ -7,6 +7,7 @@ Most essays in this spoke also live in the author's collected book, _Deconstruct
 ## When to load this file
 
 - Role definition ("What is a [X] Anyway?").
+- Trait definition ("Having [Quality]") — a named human capacity unpacked the way a role is.
 - How-to pieces on practice, demos, PRs, remote work, onboarding, interviewing, shipping.
 - Tool, language, or platform takes (Kotlin, IntelliJ, Git, versioning, etc.).
 - Reflective career memoir.
@@ -40,7 +41,7 @@ The book groups 64 essays into ten sections plus an epilogue. Each section opens
 | II. Software Listicles | listicle (n.) | D (listicle) | 20, 21, 23, 36, 51, 53, 63, 64, 67 |
 | III. Practices and Insight in Software | practice (n.) / insight (n.) | E (deep dive) | 02, 04, 05, 07, 08, 15, 41 |
 | IV. Reading and Writing | read (v.) / write (v.) | C (memoir) + E | 19, 31, 38, 48, 68 |
-| V. What is a … Anyway? | — | A (definitional) | 18, 22, 27, 29, 30, 33, 35, 40, 103 |
+| V. What is a … Anyway? | — | A (definitional), A2 (trait) | 18, 22, 27, 29, 30, 33, 35, 40, 103, 113 |
 | VI. Interviewing | interview (n.) | B (imperative) | 09, 28, 39, 61 |
 | VII. Being a Software Engineer | engineer (n.) | C + B | 11, 25, 55 |
 | VIII. Being an Engineer Manager | manager (n.) | C + E | 01, 14, 24, 43, 44 |
@@ -55,6 +56,11 @@ When drafting a new essay, name the section it would join. If it does not fit on
 ### A. Definitional — "What is a [Role] Anyway?"
 Short problem statement or opener. Then a series of bolded declarative sentences, each starting with "They", "It", or "The [role]", unpacking one facet per paragraph. Close with a tidy summary or social-post-ready list.
 Examples: 18 tech lead, 22 engineering manager, 27 software engineer, 29 principal, 30 PM, 33 project manager, 35 staff, 40 SDET.
+
+### A2. Trait definition — "Having [Quality]"
+The A machinery aimed at a human capacity rather than a job title. Five beats: (1) the scene where the term arrived, usually secondhand; (2) a one-sentence gloss of what the trait means in practice; (3) a one-sentence defusal of the wrong reading, when the term is loaded; (4) a **Traits** section of bolded noun-phrase labels, one sentence each; (5) a **Real-World Examples** section of H3 gerund-phrase cases, each a **Scenario** / **Action** pair. Close on the question the archetype asks aloud.
+Keep the two lists balanced — four dimensions, four cases — and let them rhyme without cross-referencing them. Shorter sentences than structure A: the bolded lead is a noun, not a full declarative.
+Example: 113 killer instinct.
 
 ### B. Imperative — "How to [Verb] Your [Object]"
 Anecdote or scene to open. Numbered list of practical moves, each with a short rationale. Close on encouragement or a meta-observation.
@@ -82,6 +88,7 @@ These appear consistently in the published book. Use them in new essays unless t
 
 - **Small-caps + bold opener.** First two to four words of the body in small caps and bold, completing the sentence in regular type. "**TYCO TOYS, INC. OPERATED** out of Mount Laurel, New Jersey." Used in roughly 40% of essays; near-universal in book versions. Toy and software both inherit it.
 - **Bullet-arrow lists** (➔). Replace plain bullets when items deserve a visual anchor. Lead with a bolded noun phrase, then a sentence. "➔ **Equipment.** Buy the chair." Used heavily in listicles and inside long essays where a sub-list would otherwise drown in prose.
+- **Scenario / Action case pair.** An H3 gerund-phrase header ("Killing the '90% Done' Syndrome", "Resolving Analysis Paralysis") over two labeled paragraphs: **Scenario.** names the stall, **Action.** names the unblock. Turns an abstract quality into observable behavior without exposing a real team. Pick one label and hold it — do not alternate "**The Action.**" and "**Action.**" across cases. Three to five cases; more reads as a listicle wearing a definitional costume.
 - **Triple-bullet section break** (● ● ●). Centers a thematic pivot inside an essay where a header would be too heavy. One per essay max.
 - **Bracketed editorial wink** with a footnote dagger: `[which is to ship]†`, `[welcome back to five days a week in office, sorry]†`. Treat as a stage whisper to the reader. The dagger marks the aside as the author's, not the source's.
 - **Italicized one-line rhetorical kick.** "_Is it?_" "_Feeling good beats feeling fast._" One per essay; lands a turn or a doubt.
@@ -200,6 +207,7 @@ These appear consistently in the published book. Use them in new essays unless t
 ## Exemplar pieces to imitate
 
 - Definitional: 18, 27, 29.
+- Trait definitional: 113.
 - How-to: 20, 21, 48.
 - Memoir: 43, 47, 59.
 - Listicle: 52, 67.
@@ -222,6 +230,14 @@ These appear consistently in the published book. Use them in new essays unless t
 ## Learning log
 
 <!-- Append dated bullets. Newest at top. Promote recurring patterns into the body above. -->
+
+- 2026-09-03: Pattern study of essay 113 ("Having Killer Instinct"). Promoted into the body: structure A2 (trait definition), the Scenario / Action case pair, the load-signal bullet, and the exemplar line. Section fit is V ("What is a … Anyway?") by machinery and VII (Being a Software Engineer) by subject; route by machinery, since the A2 reader arrives expecting a definition. Remaining observations, not yet promoted:
+  - **Borrowed vocabulary from a manager is a legitimate essay trigger.** The corpus already opens essays from public artifacts (102 HN post, 110 numbered list). 113 adds the private one: a word a manager used in a one-on-one. The scene is two sentences — where it happened, who said it, what they called it — then the essay moves. No dialogue, no reconstruction, no name.
+  - **Bolded noun labels beat bolded declaratives when the list is dimensions of one idea.** Role essays open each paragraph with a full bolded sentence ("**The lead is a role, not a title.**"). Trait dimensions want a bare noun phrase and a single sentence under it ("**Bias for Action.** They choose momentum over endless deliberation."). Four labels, four sentences, no elaboration. The compression is the point; the examples section does the elaborating.
+  - **Name the failure mode the trait cures.** "90% done" syndrome, analysis paralysis, timid incident response, impossible scope. Each case is titled by the pathology, not by the virtue. A definitional essay about a quality lands harder when the reader recognizes the disease first.
+  - **"Ship" is still the load-bearing verb.** 113 lands on "What is the simplest thing we can ship *tomorrow* to validate this?" — the same spine as 47, 59, 64. Consistent with the DSR read: when a software essay loses its thesis, ask whether it collapses to ship.
+  - **Draft hygiene on 113 as delivered.** Banned-word hits sit in the connective tissue rather than the substance: "Now, here are some real-world examples", "only after the system is stable", "minor bugs … have delayed". The transitional sentence into an examples section is the recurring offender across the corpus — "Now, here are some …" wants to be cut entirely and the H3s left to announce themselves. Also missing at draft time: the small-caps opener, and the Social Post block (TBD).
+  - **Em-dash without spaces, per the corpus.** 113 uses "accountability—not ruthlessness", closed up. Hold that against the spaced en-dash habit.
 
 - 2026-07-18: Pattern study of essay 110 ("Ways People Respond to Problems"). Second data point in the **reaction / extension of a public artifact** sub-genre (first was 102). Two data points, so logged not promoted. Distinct moves from 102's coinage-reply:
   - **Extend the source's own enumeration.** When the external artifact is a numbered list, the reaction essay adds the next item using the source's numbering scheme rather than starting a rival list. 110's source titled its items with zero-padded numbers (0001–0003); 110 contributes "No. 0004". The extension is tribute-plus-participation, not critique.
