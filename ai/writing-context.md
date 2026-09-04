@@ -63,6 +63,7 @@ The base voice file. Read this first for any essay session. Route to a spoke bas
 - Person-name title: "Tom Osborne on Kenner's M.A.S.K."
 - Incident title: "A Tragic American Toy Story"
 - Hobby-entry guide: "How to Become a Knowledgeable [Category] Enthusiast Without [Constraint]"
+- Trait title: "Having [Quality]". A gerund-participial phrase naming a human quality the reader either carries or lacks. No question mark, no role noun. Sibling to the definitional "What is a [Role] Anyway?" family.
 - Year-prefix title: "2001: The Tale of an American Peter Rabbit". The year does the dating work so the subtitle can carry the anniversary or the angle. Mirrors the UTS chapter-by-year convention.
 - Borrowed-title allusion: the essay's title rewrites the title of the artifact it is about (*The Tale of Peter Rabbit* → "The Tale of an American Peter Rabbit"). The inserted word carries the thesis.
 - Subtitle after the colon is welcome. One clause. No bombast.
@@ -72,6 +73,7 @@ The base voice file. Read this first for any essay session. Route to a spoke bas
 | Signal | Route |
 |---|---|
 | Role definition, career advice, team practice | software |
+| Trait or behavior definition ("Having [X]", a named human quality) | software |
 | Tool review, language take, IDE or platform piece | software |
 | Video game essay used to teach a systems idea | software |
 | Developer culture, blog-scene commentary, HN/Medium/dev.to-adjacent | software |
@@ -127,6 +129,13 @@ Promotion rule: once a pattern appears in the Learning log three times, promote 
 ## Learning log
 
 <!-- Append dated bullets. Newest at top. Promote recurring patterns into the body above. -->
+
+- 2026-09-03: Pattern study of essay 113 ("Having Killer Instinct"). Software-spoke piece, and the first **trait definition** in the corpus: the "What is a … Anyway?" machinery pointed at a human quality instead of a job title. Cross-spoke rules captured:
+  - **Private sources take a role noun and singular *they*; public sources take a name and a link.** 113 opens from a one-on-one — "my manager described a human trait" — and never names them. The reaction-extension family (102, 110) opens from a public post, names the author, and links it. Match the attribution to the source's exposure. A colleague who spoke in a private room is anonymized permanently, with no reveal block (the 112 anonymize-then-name move applies to reconstructions of documented events, not to workplace conversation).
+  - **Defuse a loaded borrowed term in one sentence, before defining it.** "While the term sounds aggressive, in management it denotes urgency, pragmatism, and accountability—not ruthlessness toward teammates." Definition-by-negation buys permission to use the term for the rest of the piece. Reach for it whenever the title word carries a connotation the essay does not intend (killer, ruthless, brutal, cheap, obsolete).
+  - **Composite scenarios are the software spoke's primary-source substitute when the material is confidential.** Every spoke has an evidence move (toy = the patent scan, history = site archaeology, review = ownership disclosure, software = lived practice). When lived practice cannot be cited without exposing an employer or a coworker, 113 substitutes the invented composite case: a **Scenario** paragraph and an **Action** paragraph, generic enough to be no one and specific enough to be recognized. This is a software-spoke license only. Toy and history essays demand documented sources; never invent a scenario there.
+  - **Reportorial frame when the idea came from above.** "From what I learned, killer instinct refers to …" keeps the narrator a student rather than an authority. Role definitions define from the author's own seat; borrowed-vocabulary essays report first, then extend. The humility is what stops a secondhand frame from reading as appropriation.
+  - **Close on the sentence the archetype says, not on a summary.** 113 ends with the question a person with the trait asks out loud, in quotation marks, one word italicized for stress. Portable to any essay that has spent its body describing a kind of person.
 
 - 2026-09-02: Pattern study of essay 112 ("2001: The Tale of an American Peter Rabbit"). Toy-spoke piece by routing, but it opens a new form in the corpus: the **braided scene mosaic**, where an artifact bears witness to a mass-casualty event. Sits beside essay 92 in method — reconstructed dialogue, patents as evidence, an object as the through-line — and departs from it in one decisive way: 92 names everyone in the scenes, 112 names no one until the reveal. Universal patterns captured, applicable to any spoke:
   - **Anonymize the scene, name in the reveal.** When the human subjects of a reconstruction are private citizens rather than public figures, run the scenes with role nouns ("a parent", "the child", "a person") and singular *they*, then hand the reader every name, age, and date in one italicized documentation block near the end. The reader inhabits the roles before learning whose they were. Named-figure reconstructions (92, 89, 93) keep names in-scene; private-citizen reconstructions do not.
