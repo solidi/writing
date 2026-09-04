@@ -277,7 +277,7 @@ They sat back and rubbed their forehead in contemplation. Glancing away from the
 
 **A PERSON NOTICED** something in the grass nearby. "Argh, damn. Is it dead?" Flies covered a once-living creature that pranced under and over neighbors' fences. The smell was overpowering.
 
-The person walked back to the garage, put on gloves, grabbed a shovel, and readied a double-lined trash bag.
+The person darted to the garage, put on gloves, grabbed a shovel, and readied a double-lined trash bag.
 
 They walked back and poked the carcass with the shovel to confirm its death. At that moment, an airplane descended into a heavy flight path above.
 
