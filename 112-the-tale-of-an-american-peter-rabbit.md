@@ -181,7 +181,7 @@ The descending jet plane made a screeching sound, a wonder in the sky. To some, 
 
 ## The Provenance and Ruthlessness of Parental Morality
 
-**ON SEPTEMBER 11, 2001,** *Peter (32), Sue (35), and Christine Lee Hanson (2) died on United Airlines Flight 175 in the attacks on the World Trade Center. All told, 2,977 victims were murdered that September day. Since then, a hundred thousand have either died or are suffering from illnesses associated with Ground Zero contaminants.*
+**ON SEPTEMBER 11, 2001,** *Peter (32), Sue (35), and Christine Lee Hanson (2) died on United Airlines Flight 175 in the attacks on the World Trade Center. All told, 2,977 victims were murdered that September day. Since then, [a hundred thousand](https://www.cnn.com/2026/09/08/us/nyc-sept-11-air-quality-records) have either died or are suffering from illnesses associated with Ground Zero contaminants.*
 
 *Following their grieving, Peter's parents, Lee and Eunice Hanson, pursued justice for their children. Yet, Mr. Hanson predicted that he would never see those responsible fully held to account. Lee's prediction was proven correct, as military tribunals have stalled in the prosecution of the master planners of the attacks, such as [Khalid Sheikh Mohammed](https://en.wikipedia.org/wiki/United_States_v._Khalid_Sheikh_Mohammed). Lee passed away in 2018.*
 
