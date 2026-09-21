@@ -229,7 +229,7 @@ While Telebrands succeeded at various utility products, they dared not venture i
 
 But at the beginning of the 2010s, this author assumes their market tests and research suggested toy competence. So, backed by thirty years of sales success, their billion-dollar corporation started a gamble.
 
-In 2014, staff writer Joan Verdone of *The Record* wrote that Mr. Khubani said, "Playthings will also be on the shelves of the largest specialty retailer of toys." AJ's team rolled out the toy strategy.
+In 2014, staff writer Joan Verdon of *The Record* wrote that Mr. Khubani said, "Playthings will also be on the shelves of the largest specialty retailer of toys." AJ's team rolled out the toy strategy.
 
 "Our business model is so effective at selling innovative, interesting products, we thought we try the same business model on kids."
 
@@ -325,7 +325,7 @@ Josh followed suit with his licensee, [ZURU](https://en.wikipedia.org/wiki/Zuru_
 
 ![Court documents [reveal an exhibit](https://www.ipwatchdog.com/wp-content/uploads/2017/02/16-1410.Opinion.1-19-2017.11.pdf) of Bunch O Balloons and Balloon Bonanza.](images/85-17.jpeg)
 
-"[We are] committed to vigorously fighting knock-off companies who try to undercut inventors," said [Anna Mowbray](https://en.wikipedia.org/wiki/Anna_Mowbray), COO of Zuru Toys, reported by Joan Verdone of *The Record*.
+"[We are] committed to vigorously fighting knock-off companies who try to undercut inventors," said [Anna Mowbray](https://en.wikipedia.org/wiki/Anna_Mowbray), COO of Zuru Toys, reported by Joan Verdon of *The Record*.
 
 Both companies spent millions of dollars on several countersuits and newly filed patents, which Telebrands pushed hard to claim the novelty of their new seal technology, claiming Bunch O Balloons leaked water.
 
@@ -345,7 +345,7 @@ If Mr. Malone had gone it alone, capital from the developing sales would have dr
 
 But the victory moved Mr. Malone to millionaire status, becoming a veteran of "patent legalese" and its hard knocks.
 
-Mr. Khubani, CEO of Telebrands, was quoted during the battles written by Joan Verdone, "The bottom line is I'm a fighter. I don't give up." But Mr. Malone suspects the fights chewed through Telebrands bottom line.
+Mr. Khubani, CEO of Telebrands, was quoted during the battles written by Joan Verdon, "The bottom line is I'm a fighter. I don't give up." But Mr. Malone suspects the fights chewed through Telebrands bottom line.
 
 Then, a holding company mechanically pitched water balloons of a different kind at Mr. Malone and ZURU Toys.
 
