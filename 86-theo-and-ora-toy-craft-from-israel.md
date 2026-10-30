@@ -266,3 +266,15 @@ And the Costers forged a lasting legacy through these toy inventions.
 \* *This author did not independently verify the story.*
 
 † *Guess Who does not have patented material.*
+
+---
+
+## Social Post
+
+Here's the expanded historical story of Ora and Theo Coster, who became famous for inventing the board game Guess Who? and later Pop-It!, a silicone plaything.
+
+Their story is one of Holocaust survival, later business triumph, and the rare luck of a 50-year-old invention finally making it big globally. Their inventions are now in the hands of millions of children.
+
+A special thank you to Boaz Coster for helping me answer my questions. He recently released a book, Guess Who? Invented Pop It!
+
+https://medium.com/@solidi/theo-and-ora-toy-craft-from-israel-317112446e05
