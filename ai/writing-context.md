@@ -8,7 +8,7 @@ The base voice file. Read this first for any essay session. Route to a spoke bas
 2. Determine the subject:
    - Software, engineering, career, tools, video games, developer culture → also load [software-context.md](software-context.md).
    - American toy industry, inventors, incidents, patents, toy companies, Undercover Toy Stories entries, and national-tragedy pieces anchored on a consumer artifact → also load [toy-context.md](toy-context.md).
-   - Railroad history, regional or industrial history, on-the-ground incident archaeology that is neither software nor toy work → also load [history-context.md](history-context.md).
+   - Railroad history, regional or industrial history, on-the-ground incident archaeology that is neither software nor toy work → also load [history-context.md](history-context.md). A documented crime or a pair of crimes of the recent past, told from newspapers and court outcomes with an institutional argument (essay 114), routes here too, under the spoke's documented-crime variant; apply its sensitivity defaults for private citizens and child victims.
    - Physical-gear buying guides and hobby product reviews — optics, cameras, turntables, knives, pens, instruments, tools — where the reader is choosing what to purchase → also load [review-context.md](review-context.md). Software-tool reviews stay in the software spoke.
    - Mixed or unclear → load the applicable spokes; the dominant subject wins; note the blend to the author before drafting.
 3. Determine the form:
@@ -62,6 +62,7 @@ The base voice file. Read this first for any essay session. Route to a spoke bas
 - Provocation or allusion: "Reply All Considered Harmful", "Apps Doing Sh*t"
 - Person-name title: "Tom Osborne on Kenner's M.A.S.K."
 - Incident title: "A Tragic American Toy Story"
+- Pair-incident title: "The Double Homicides of Ridgewood Children in 1964". Count word + crime noun + place + victims + year. The count word counts incidents, so define it in the first sentence.
 - Hobby-entry guide: "How to Become a Knowledgeable [Category] Enthusiast Without [Constraint]"
 - Trait title: "Having [Quality]". A gerund-participial phrase naming a human quality the reader either carries or lacks. No question mark, no role noun. Sibling to the definitional "What is a [Role] Anyway?" family.
 - Year-prefix title: "2001: The Tale of an American Peter Rabbit". The year does the dating work so the subtitle can carry the anniversary or the angle. Mirrors the UTS chapter-by-year convention.
@@ -89,6 +90,9 @@ The base voice file. Read this first for any essay session. Route to a spoke bas
 | Regional or small-town history: mill, mine, dam, textile lineage | history |
 | Industrial infrastructure history (non-toy) | history |
 | Incident reconstruction where the author walked the site | history |
+| Documented crime or crime pair of the recent past, argued through institutional response (commitment, trial, sealed records, press) | history (documented-crime variant) |
+| Pair-of-incidents essay that tests a shared outcome against contemporaneous counter-cases | history |
+| Violent crime involving private citizens or child victims | history + sensitivity defaults (no scene of the act, no addresses) |
 | Named-crewman or named-workman portrait (engineer, conductor, foreman) | history |
 | Physical-gear buying guide: which model to buy, at what price, for what use | review |
 | Hobby-entry guide: becoming knowledgeable in a gear category on a budget | review |
@@ -111,6 +115,7 @@ Some essays sit between voices. They are allowed. Flag the blend at the top of t
 - Toy-as-career-reflection (hypothetical): toy voice dominates, but the author's first-person may surface.
 - Toy-industry incident that is also a regional infrastructure event (e.g., a factory fire in a mill town): toy voice dominates; borrow the history spoke's site-archaeology move if the author walked the site.
 - Railroad or regional-industry piece that touches a toy line (e.g., Hot Wheels Trains, Tomy Big Loader as industrial artifacts): history voice for the on-the-ground reporting; toy voice for the product history.
+- Crime history with a legal or policy thesis (e.g., 114, maternal filicide and the commit-versus-try question): history voice dominates for place, newspapers, and "this author"; borrow the toy spoke's private-citizen anonymity discipline and the 112 numbered-footnote tail for sealed or contested records. No software or toy voice.
 - Toy or consumer artifact as witness to a national tragedy (e.g., a Peter Rabbit plush aboard United 175): toy voice dominates for the artifact's provenance and IP history; the history spoke's site-and-object discipline supplies the reconstruction. The event is never the subject — the object is.
 - Gear review that runs through the manufacturing history of the category (e.g., why Chinese porro-prism production improved): review voice dominates; borrow the history spoke's mechanism-explanation discipline for the technical passage.
 - Hobby-as-career-reflection (e.g., a CQ-style piece where the gear is the vehicle for a mastery argument): software voice dominates, per essay 10; the review spoke supplies the gear vocabulary only.
@@ -129,6 +134,15 @@ Promotion rule: once a pattern appears in the Learning log three times, promote 
 ## Learning log
 
 <!-- Append dated bullets. Newest at top. Promote recurring patterns into the body above. -->
+
+- 2026-11-01: Pattern study of essay 114 ("The Double Homicides of Ridgewood Children in 1964"). Routed to the history spoke as its second exemplar and first documented-crime piece; the full analysis, transposition table, sensitivity defaults, and open-items list live in [history-context.md](history-context.md) ("Documented-crime variant (essay 114)" and its Learning log). Cross-spoke rules captured:
+  - **Pair-incident essays: test the shared outcome against counter-cases.** Two incidents with one outcome look like a rule. List contemporaneous cases with the opposite outcome (name, year, state, sentence); the pair becomes an exception and the exception carries the thesis. Portable to any spoke: two recalls, two derailments, two platform deprecations.
+  - **Dual-subject essays saturate `both`.** 114 uses `both` ten times in about 830 words, plus `was` ×12. The structure invites it. Name the pair, use "each", or split the sentence per subject; do not reach for the banned word as connective tissue.
+  - **Live-case essays take an as-of stamp.** "Today, … ended in a mistrial on [date]" dates itself. Write "As of [month year]", hedge any forecast in the same sentence, and log a revisit. Applies equally to a software deprecation, a pending recall, or a trial.
+  - **Captions are the leakiest proofing zone.** The author's `Corrections` commit on 114 fixed five typos, three of them in image captions (two possessives, one month name), and one surname that had drifted (`Hofmiester`). Run a find on every surname variant and read every caption aloud before publish.
+  - **Banners can name a phenomenon, not only a lane.** `## ON MATERNAL PSYCHOSIS-RELATED CRIMES` (114) joins `## ON THE VICTIMS OF HISTORY` (112) and `## ON SCIENCE AND INDUSTRY` (105). Use a phenomenon banner for a case study of a recurring human condition; keep a lane banner when the place or industry is the subject.
+  - **Sensitive subjects earn restraint by omission.** 114 drops the reconstructed scene, the address, the site photo, and the diagnosis, and spends its harshest vocabulary on the media rather than on the women. The toy spoke's private-citizen rule (anonymity in-scene) extends to the history spoke as a default; see the sensitivity list in the history spoke. Pending author confirmation that the omission was deliberate.
+  - **A commit that says `Corrections` is a write-back signal.** When a post-draft commit touches only typos, log the class of error here (caption, surname, month) so the next draft front-loads the check.
 
 - 2026-09-03: Pattern study of essay 113 ("Having Killer Instinct"). Software-spoke piece, and the first **trait definition** in the corpus: the "What is a … Anyway?" machinery pointed at a human quality instead of a job title. Cross-spoke rules captured:
   - **Private sources take a role noun and singular *they*; public sources take a name and a link.** 113 opens from a one-on-one — "my manager described a human trait" — and never names them. The reaction-extension family (102, 110) opens from a public post, names the author, and links it. Match the attribution to the source's exposure. A colleague who spoke in a private room is anonymized permanently, with no reveal block (the 112 anonymize-then-name move applies to reconstructions of documented events, not to workplace conversation).

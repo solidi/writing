@@ -3,7 +3,7 @@
 ## When Two Mothers Murdered Their Kids Months Apart
 #crime, #murder, #america, #newyork, #history
 
-**A RARE DOUBLE-TRAGEDY** occurred in Ridgewood, Queens, New York, in 1964. Two separate women, Doris Hofmeister and Valerie Calia, murdered their children months apart in the once-middle-class American borough.
+**A RARE DOUBLE-TRAGEDY** occurred in Ridgewood, Queens, New York, in 1964. Two separate women, Doris Hofmeister and Valerie Calia, murdered their children months apart in the once-middle-class American neighborhood.
 
 In May of 1964, Mrs. Hofmeister, mother of four, feared that two of her younger children were mentally incapable - even after the children were evaluated and deemed normal.
 
@@ -42,6 +42,7 @@ Following this, both women are believed to have lived full lives after these cat
 **DURING THE 1960s,** mothers in this timeline were actively evaluated for psychosis, and if so, there would be no criminal charges but court-appointed commitment. However, this treatment was never a precedent for default institutionalization; some mothers, although rare, were tried and convicted of first-degree murder.
 
 These cases included Maggie Young (1955) and Dorothy Mae Stephens (1958), both of whom were sentenced to life in prison. Mrs. Young shot three of her children. Mrs. Stephens drowned hers. They both attempted suicide afterward.
+
 One occurred in Georgia, and one in California (before liberalization), where both looked down upon any murder.
 
 This author suspects that regional attitudes of compassion influenced Mrs. Hofmeister and Mrs. Calia's outcomes in New York. Back then, media coverage was limited, and the proceedings moved quickly, minimizing the suffering all parties had to endure.
@@ -54,7 +55,7 @@ Mrs. Yates drowned five children. And Mrs. Clancy, in one of the most brutal cas
 
 Her youngest, Callan, survived three days before being taken off life support. Before the tragedy, Mrs. Clancy sought medical help for suicidal ideation.
 
-Andrea Yates, who attempted suicide numerous times, was convicted of capital murder in the state of Texas, one of the harshest states in which to be sentenced. However, the conviction was overturned, and she later accepted a not guilty by reason of insanity verdict.
+Andrea Yates, who attempted suicide numerous times, was convicted of capital murder in the state of Texas, one of the harshest states in which to be sentenced. However, the conviction was overturned, and she later was found not guilty by reason of insanity.
 
 Today, Lindsay Clancy's first trial ended in a mistrial on September 4, 2026. This came after Mrs. Clancy's husband actively defended her on the stand. His 911-recorded tape, also rumored to support her, was kept out of the public record.
 
