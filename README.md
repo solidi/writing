@@ -129,6 +129,7 @@ Experiences distilled through writing.
 1. [How to Become a Knowledgeable Binocular Enthusiast Without Spending a lot of Money](https://medium.com/@solidi/how-to-become-a-knowledgeable-binocular-enthusiast-without-spending-a-lot-of-money-890e42169088)
 1. [2001: The Tale of an American Peter Rabbit](https://medium.com/@solidi/2001-the-tale-of-an-american-peter-rabbit-3e9927c91b2a)
 1. [Having Killer Instinct](https://dev.to/solidi/having-killer-instinct-4fdp)
+1. [The Double Killings of Ridgewood Children in 1964](https://medium.com/@solidi/the-double-killings-of-ridgewood-children-in-1964-0f528106f4d3)
 
 ## Major Engagements
 
