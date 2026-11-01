@@ -41,9 +41,7 @@ Following this, both women are believed to have lived full lives after these cat
 
 **DURING THE 1960s,** mothers in this timeline were actively evaluated for psychosis, and if so, there would be no criminal charges but court-appointed commitment. However, this treatment was never a precedent for default institutionalization; some mothers, although rare, were tried and convicted of first-degree murder.
 
-These cases included Maggie Young (1955) and Dorothy Mae Stephens (1958), both of whom were sentenced to life in prison. Mrs. Young shot three of her children. Mrs. Stephens drowned hers. They both attempted suicide afterward.
-
-One occurred in Georgia, and one in California (before liberalization), where both looked down upon any murder.
+For instance, [Maggie Young](https://www.findagrave.com/memorial/83858499/maggie_lee-young) (1965) drowned her children. Authorities avoided a criminal trial. After her institutionalization, she escaped and committed suicide afterward.
 
 This author suspects that regional attitudes of compassion influenced Mrs. Hofmeister and Mrs. Calia's outcomes in New York. Back then, media coverage was limited, and the proceedings moved quickly, minimizing the suffering all parties had to endure.
 
