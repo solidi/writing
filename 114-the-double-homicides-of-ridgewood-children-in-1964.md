@@ -11,7 +11,7 @@ Continuing to voice active threats to others, she finally wielded a toilet brush
 
 Immediately following, she slit her wrists. In an act of desperation, she then sent her older surviving child to seek help. She said, "Call a neighbor, I've broken my wrists."
 
-![The front page of Mrs. Hofmeisters case, May, 1964. (Source: [Ridgewood Times](https://www.calameo.com/read/006530363f281c27996fd))](images/114-01.jpeg)
+![The front page of Mrs. Hofmeister's case, May, 1964. (Source: [Ridgewood Times](https://www.calameo.com/read/006530363f281c27996fd))](images/114-01.jpeg)
 
 In December of the same year and city, another mother, Mrs. Calia, took her husband's unlicensed handgun and shot both children in her home. Then, she took the gun and shot herself in the chest.
 
@@ -29,11 +29,11 @@ In the case of Valerie Calia, it was later found that her husband was charged wi
 
 Both cases have files under permanent seal and will never see the light of day.
 
-![The front page of Mrs. Calia case, December, 1964. (Source: [Ridgewood Times](https://www.calameo.com/read/006530363a4ff4d5d1dcb))](images/114-02.jpeg)
+![The front page of Mrs. Calia's case, December, 1964. (Source: [Ridgewood Times](https://www.calameo.com/read/006530363a4ff4d5d1dcb))](images/114-02.jpeg)
 
 And both women avoided a criminal trial, as they were found by court-appointed doctors to be actively psychotic and suicidal. Mrs. Hofmeister and Mrs. Calia were deemed mentally unfit to stand trial and to participate in their own defense.
 
-Following this, both women are believed to have lived full lives after these catasphories and did not commit further crimes.
+Following this, both women are believed to have lived full lives after these catastrophes and did not commit further crimes.
 
 ---
 
@@ -44,11 +44,11 @@ Following this, both women are believed to have lived full lives after these cat
 These cases included Maggie Young (1955) and Dorothy Mae Stephens (1958), both of whom were sentenced to life in prison. Mrs. Young shot three of her children. Mrs. Stephens drowned hers. They both attempted suicide afterward.
 One occurred in Georgia, and one in California (before liberalization), where both looked down upon any murder.
 
-This author suspects that regional attitudes of compassion influenced Mrs. Hofmiester and Mrs. Calia's outcomes in New York. Back then, media coverage was limited, and the proceedings moved quickly, minimizing the suffering all parties had to endure.
+This author suspects that regional attitudes of compassion influenced Mrs. Hofmeister and Mrs. Calia's outcomes in New York. Back then, media coverage was limited, and the proceedings moved quickly, minimizing the suffering all parties had to endure.
 
 Today, cases like Andrea Yates (2001) and Lindsay Clancy (2023), who murdered their own children and then hurt themselves (before or after), have turned into horrific media spectacles.
 
-![The front page of Mrs. Clancy's case, Janurary, 2023 (Source: The Boston Globe)](images/114-03.jpeg)
+![The front page of Mrs. Clancy's case, January, 2023 (Source: The Boston Globe)](images/114-03.jpeg)
 
 Mrs. Yates drowned five children. And Mrs. Clancy, in one of the most brutal cases, strangled three. Afterward, she jumped out of a window and was paralyzed.
 
