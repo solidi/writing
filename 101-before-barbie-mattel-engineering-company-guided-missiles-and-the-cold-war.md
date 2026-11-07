@@ -1,6 +1,7 @@
 ## ON TOY HISTORY
 # Before Barbie: Mattel Engineering Company, Guided Missiles, and the Cold War
 ## The Defense Industry Origins of an American Toy Giant
+#Mattel, #Toys, #Military, #History, #Business
 
 ![As seen in newspaper caricatures in the mid-to-late 1960s, the National Education Association in America [condemned](https://www.newspapers.com/image/766562973/) military-type toys.](images/101-01.jpeg)
 
@@ -68,7 +69,7 @@ Ms. Ryan, a former child [toy tester](https://www.facebook.com/share/p/1TUovzUeq
 
 Like American exposé author Jerry Oppenheimer, who wrote *Toy Monster*, Ms. Ryan was rebuffed by Mattel in February 2020 when she requested documents regarding her late father and former Mattel employee, Jack Ryan.
 
-Ms. Ryan stated in the letter, which can be [found on](https://www.facebook.com/photo.php?fbid=770713920936845) her podcast Facebook page, "I am writing a book about my father and I'd like to see what records Mattel has that you would be willing to share with me," and directed it to the current CEO, Ynon Kreiz.
+Ms. Ryan stated in the letter, which can be [found on](https://www.facebook.com/photo.php?fbid=770713920936845) her podcast Facebook page, "I am writing a book about my father and I'd like to see what records Mattel has that you would be willing to share with me," and directed it to former CEO Ynon Kreiz.
 
 ![After this author's OIP appeal, Jack Ryan's FBI records were "potentially responsive," although some had been destroyed. Portions of his dossier may be within the National Archives, with at least one file mislabeled. Jack Ryan (standing, front left) and Jim Ryan (headphones, front right) are seen in a Mattel corporate photo. (Source: FBI FOIA, November 2025).](images/101-06.jpeg)
 ![Picture of Jim and Jack Ryan](images/101-07.jpeg)
@@ -91,7 +92,7 @@ As [written in](https://www.newspapers.com/image/31914328/) *Oxnard Press-Courie
 
 To this author, the future of Mattel's past history rests with Ms. Ryan. Her stated goal is to accurately document her father's legacy, not to destabilize it. Her plan is to draw the right picture of invention for generations to enjoy alongside Barbie's legacy.
 
-Ms. Ryan is continuing her journey of writing Jack's book, partnering with prolific Barbie collectors like Bradley Justice Yarbrough. Its [working title](https://x.com/Ann_P_Ryan/status/1922423028857589827) is *Dad, Barbie, and Me: An Insider's Biography*, due out in 2026.
+Today, Ms. Ryan has finalized her journey of writing Jack's book. Partnering with prolific Barbie collector Bradley Justice Yarbrough, *Dad, Barbie, and Me: An Insider's Biography* [was released](https://www.amazon.com/Dad-Barbie-Me-Insider-Biography/dp/B0H2K1DZWN) in June 2026.
 
 ---
 
@@ -128,7 +129,7 @@ Likely, Mattel never recovered the costs of the military work through its volunt
 
 [This document](https://www.slideshare.net/slideshow/mattel-inc-military-tribunal-contract-appeal-opinion-september-1958-c673/287092370) provides the strongest evidence **against** further contemporary Mattel defense work, such as the M16. Mattel Inc. could never re-enter ordnance production because it abandoned granted work in an other-than-honorable condition. The tribunal leaders, consisting of numerous [colonels](https://tile.loc.gov/storage-services/service/ll/llmlp/67061546_CAR_1962-1963/67061546_CAR_1962-1963.pdf) who quoted Elliot's appeal, rested with, "The appellant's inactions speak louder than words."⁷
 
-![Lt. Col. Burton K. Philips (right) presided over Ruth and Elliot Handler's (left) proceedings involving terminated government contracts. Col. Philips was a part of the Judge Advocate General's Corps (JAGC). (Sources: LA Times, [Commandant's Annual Report](https://tile.loc.gov/storage-services/service/ll/llmlp/67061546_CAR_1962-1963/67061546_CAR_1962-1963.pdf), 1962–1963).](images/101-14.jpeg)
+![Lt. Col. Burton K. Philips (right) presided over Ruth and Elliot Handler's (left) proceedings involving terminated government contracts. Col. Philips served in the Judge Advocate General's Corps (JAGC). (Sources: LA Times, [Commandant's Annual Report](https://tile.loc.gov/storage-services/service/ll/llmlp/67061546_CAR_1962-1963/67061546_CAR_1962-1963.pdf), 1962–1963).](images/101-14.jpeg)
 
 Mattel went public and pivoted entirely to the consumer toy market, where Barbie and Hot Wheels became its defining legacy. MEC appeared as a wholly owned subsidiary of Mattel Inc., as reported by a *Moody's Industrial Manual* in 1963,⁸ retained for the real estate holdings described in its articles of incorporation.
 
