@@ -1,6 +1,6 @@
 # History Context — Spoke
 
-Voice guide for American history essays that are neither software nor toy-industry work. Covers regional incidents, industrial infrastructure, railroading, mining, mills, small-town lore, and the physical archaeology of recent-past America. Read [ai/writing-context.md](writing-context.md) first. Baseline exemplar: [109-the-chestuee-creek-l-n-derailment-of-1959.md](../109-the-chestuee-creek-l-n-derailment-of-1959.md). Second exemplar, documented-crime variant: [114-the-double-homicides-of-ridgewood-children-in-1964.md](../114-the-double-homicides-of-ridgewood-children-in-1964.md); see "Documented-crime variant (essay 114)" below for what transposes from 109 and what does not.
+Voice guide for American history essays that are neither software nor toy-industry work. Covers regional incidents, industrial infrastructure, railroading, mining, mills, small-town lore, and the physical archaeology of recent-past America. Read [ai/writing-context.md](writing-context.md) first. Baseline exemplar: [109-the-chestuee-creek-l-n-derailment-of-1959.md](../109-the-chestuee-creek-l-n-derailment-of-1959.md). Second exemplar, documented-crime variant: [114-the-double-homicides-of-ridgewood-children-in-1964.md](../114-the-double-homicides-of-ridgewood-children-in-1964.md); see "Documented-crime variant (essay 114)" below for what transposes from 109 and what does not. Third exemplar, visual-essay variant: [115-FDNY-heroes-critical-timestamps-in-the-naudet-9-11-film.md](../115-FDNY-heroes-critical-timestamps-in-the-naudet-9-11-film.md); see "Visual-essay variant (essay 115)".
 
 ## When to load this file
 
@@ -11,6 +11,7 @@ Voice guide for American history essays that are neither software nor toy-indust
 - Named-crew or named-workman portraits (an engineer, a conductor, a foreman, a millwright).
 - Cold War and mid-century industrial context when the primary subject is infrastructure, not toys or aerospace.
 - Documented-crime history: a crime, or a pair of crimes, of the recent past reconstructed from newspapers and court outcomes, where the argument concerns how institutions responded (commitment versus trial, sealed records, press coverage). Maternal filicide, homicide clusters, and similar subjects that involve private citizens. Essay 114 is the exemplar.
+- Annotated-footage or archive walkthrough: a film, photo set, or recording of a recent-past event presented as captioned frames with identifications, timecodes, and quotes from a primary account, usually tied to a release or an anniversary. The artifact is the subject and the essay is its finding aid. Essay 115 is the exemplar.
 
 If the subject touches the toy industry (Mattel aerospace adjacencies, Kenner incidents, inventor deaths), route to toy. If the subject is a cross-domain science-and-industry piece, promote the banner to `## ON SCIENCE AND INDUSTRY` and load toy on top. History-only work stays here.
 
@@ -46,9 +47,9 @@ Baseline is essay 109. Treat as the default skeleton; deviate with cause.
 
 There is **no book promo block**. History-spoke essays do not currently roll into an anthology and should not carry UTS scaffolding.
 
-**Which anatomy items are incident-lane-specific.** Items 5 (reconstructed scene), 7–11 (place → incident → cleanup → mechanism → legacy), 12 (dedication), and 14 (video coda) belong to the railroad and industrial incident lane. Essay 114 kept items 1–4, the ALL CAPS BOLD openers, and the Social Post expectation, and replaced the rest; see "Documented-crime variant (essay 114)".
+**Which anatomy items are incident-lane-specific.** Items 5 (reconstructed scene), 7–11 (place → incident → cleanup → mechanism → legacy), 12 (dedication), and 14 (video coda) belong to the railroad and industrial incident lane. Essay 114 kept items 1–4, the ALL CAPS BOLD openers, and the Social Post expectation, and replaced the rest; see "Documented-crime variant (essay 114)". Essay 115 kept items 1–4, the ALL CAPS BOLD lead, an inverted item 14, and item 16, and replaced items 5 and 7–13 with a captioned gallery; see "Visual-essay variant (essay 115)".
 
-Image rhythm inside the body: 8–12 images per essay, one image per 2–4 paragraphs. Mix of archival (newspapers.com clippings, museum photos, period ads), reference (Wikipedia diagrams, patent figures if applicable, Google Maps screenshots for site location), and **author-taken contemporary photos of the site** (see "Site archaeology" below). Captions carry a parenthetical source: `(Source: [Chattanooga Daily Times](url))`, `(Source: Amberg Museum)`, `(Source: [Google Maps](url))`, `(Source: Author)`.
+Image rhythm inside the body: 8–12 images per essay (the visual-essay variant runs 50–65 captioned frames), one image per 2–4 paragraphs. Mix of archival (newspapers.com clippings, museum photos, period ads), reference (Wikipedia diagrams, patent figures if applicable, Google Maps screenshots for site location), and **author-taken contemporary photos of the site** (see "Site archaeology" below). Captions carry a parenthetical source: `(Source: [Chattanooga Daily Times](url))`, `(Source: Amberg Museum)`, `(Source: [Google Maps](url))`, `(Source: Author)`.
 
 ## Opening reconstructed scene — the signature move
 
@@ -133,6 +134,107 @@ Observed in 114, aligned with the toy spoke's private-citizen rule ([toy-context
 
 Brief tier: 700–1200 words. 114 sits here. The incident lane's 1200-word floor does not apply to a case-pair brief.
 
+## Visual-essay variant (essay 115)
+
+Third history-spoke exemplar: "FDNY Heroes: Critical Timestamps in the Naudet 9/11 Film" (about 500 prose words, 62 images, about 1,770 caption words, 61 deep links into one video). Same lane as 109 and 114 — recent-past America, `## ON AMERICAN HISTORY`, "this author" — but the form differs more than the subject does. The anchor is one released artifact (the raw Naudet footage as uploaded to YouTube for the 25th anniversary), the second source is a memoir (Chief Joseph Pfeifer's *Ordinary Heroes*, quoted by page), and the essay is a finding aid: it tells the reader which frame to open, who is in it, what became of them, and what the chief wrote about that moment. The argument is small and stated once: the film should stay up. Everything else is identification.
+
+### How 109's and 114's moves transpose
+
+| 109 / 114 | 115 (visual-essay variant) |
+|---|---|
+| Opening reconstructed scene (109); bold-caps thesis lead (114) | **Bold-caps lead on the anniversary** (`**THE TWENTY-FIFTH ANNIVERSARY**`). No scene. The footage is the scene; do not reconstruct over it. A hero frame under the hashtag line sets the irony ("the Twin Towers, in their last moments of normalcy"). |
+| Site archaeology (109); archive archaeology (114) | **Footage archaeology.** The author watches the raw film end to end; the deep-linked timestamp is the access disclosure and the citation at once. |
+| Mechanism with diagram (109); legal-institutional mechanism (114) | **System frames.** The magnetic command board, the Cerberus MXL-V alarm panel, the working elevators. Each gets one caption that names the part and its job. Sourcing for these is thin in 115 (see open items). |
+| Corporate or institutional response | **Institutional memory.** One caption notes that Pfeifer "later investigated and corrected the failings of communications between NYPD and FDNY"; the FBI taking the tape is the epilogue beat. |
+| Dedication line; YouTube coda | **No dedication** (the gallery is the dedication). **Coda inverted:** another viewer's comment becomes the image caption, linked to the video. The crowd speaks last. |
+| Social Post block | Present, first-person ("I put together a short post"). No hashtag set in the block; add one. |
+
+### Anatomy of the variant
+
+1. `## ON AMERICAN HISTORY` banner.
+2. **Index-and-artifact title.** "FDNY Heroes: Critical Timestamps in the Naudet 9/11 Film". The word "Heroes" is echoed in the last caption's Pfeifer quote ("a hero is one who does ordinary things in extraordinary times"), so the title pays off on the final frame.
+3. **Subtitle as the news hook.** "A Raw Copy of the Documentary Was Released on YouTube" states the circumstance. Per the spoke's rule that the subtitle carries the thesis, a consequence form is available: "When the Raw Naudet Film Reached YouTube, Viewers Began Naming the Firefighters on Screen". Optional; the circumstance subtitle suits a news-pegged post.
+4. **Hashtag line**, comma-separated, directly under the subtitle (`#911attacks, #fdny, #newyork, #history, #terrorism`).
+5. **Hero frame.** Caption is a linked timestamp plus a viewer's remark, not the author's description.
+6. **Opening block of five paragraphs, three to four sentences each:** significance and a comparison artifact (the Zapruder film); who shot it and how (the Naudet brothers, the probie, the gas leak, the plane); what happened to the tape (the curated documentary, copyright, the 2016 acquisition); why now (the release, plus the one-sentence stance); what the community did (the clock overlay).
+7. **Key paragraph, then `---`.** Credits the overlay's author and a helper by linked handle and states the legend for the gallery: "Quotes with page numbers are from *Ordinary Heroes* by FDNY Chief Joseph Pfeifer."
+8. **Gallery.** 61 frames, chronological by runtime, no headers, no prose between frames. `---` after.
+9. **Epilogue, two paragraphs.** The FBI took the tape and returned it weeks later; the film's availability and an invitation to watch. `---` after.
+10. **Coda.** A viewer's comment as the caption, linked to the video. `---` after.
+11. `## Social Post`.
+
+### The caption is the unit
+
+Template (observed across 62 captions; median 25 words, range 7–75, about two sentences each):
+
+`![[m:ss](https://www.youtube.com/watch?v=ID&t=Ns) {Rank} {Name} ({Unit}) {what the frame shows}. {Fate.} {Pfeifer wrote, "…" p. N.}](images/115-NN.jpeg)`
+
+- **Linked timestamp first.** Label is runtime; `t=` is the same moment in seconds. Always the first element, which lets a reader scan the left edge as an index.
+- **Identification.** Rank abbreviation (Chief, Capt., Lt., FF, Commissioner), full name, unit in parentheses placed immediately after the person it belongs to. Group frames list names in a single sentence.
+- **Fate in a flat declarative.** About 22 of 62 captions carry one: "was killed", "did not survive", "Only Tardio and Pfeifer would survive", "Everybody in this huddle would be killed." The reader knows what the frame's people do not. No adjective rides on a death.
+- **The memoir quote with its page.** 22 page cites; 15 captions open the quote with "Chief Pfeifer wrote" (×9), "recalled" (×2), "reflected" (×2), or "said" (×2). Brackets for inserted names (`[Ed]`), spaced ellipses (`. . .`), page as `p. N.` after the closing mark. The quote is the interior view; the caption is the exterior.
+- **Correction of the community record.** "Hurley is often misidentified as Ronald Horenor. Ron was killed in the South Tower thirty minutes later." Name who is usually mistaken for whom and give the basis.
+- **Four frame types.** Identification (a named person, unit, fate), Decision (an order or a spoken line), Event (impact, collapse), Witness (civilians leaving, the "bangs", a sculpture in the lobby). Density follows the footage rather than the clock: about half the frames fall in the first 30 minutes of a 2:01 film, with pairs two or three seconds apart at 26:40/26:42 and 1:45:36/1:45:39 marking beats.
+
+### Two clocks
+
+Each frame carries a black box at the top with a burned-in wall-clock time (for example `08:53:09.5` on the 12:23 frame), an overlay credited to the YouTuber pre911wtc1. The caption carries the video's runtime. The essay mentions the overlay once ("placed a clock") and never explains how the two relate. Findings from spot-checks of frames 05, 13, 23, 49, 59, and 62:
+
+| Runtime | Wall clock | Offset (wall − runtime) |
+|---|---|---|
+| 5:51 | 08:46:36.7 | 8:40:45.7 |
+| 12:23 | 08:53:09.5 | 8:40:46.5 |
+| 22:04 | 09:03:00.3 | 8:40:56.3 |
+| 1:16:58 | 09:59:01.5 | 8:42:03.5 |
+| 1:45:39 | 10:28:23.5 | 8:42:44.5 |
+| 2:01:18 | 10:43:59.6 | 8:42:41.6 |
+
+The offset grows by about two minutes, so the raw tape has gaps; a one-sentence key ("the black box is wall-clock time, the link is the video's runtime") would orient the reader. The overlay is a third party's estimate: the 22:04 caption reads "United Flight 175 impacts" over a frame stamped 09:03:00.3, about eleven seconds before the commonly cited 9:03:11, and the 5:51 caption reads "Flight 11 impacts" over a frame that already shows the fire and smoke. Either label the frame ("Moments before…", "Seconds after…") or move the link to the sound of the impact. Do not crop the box from any image; it is the provenance.
+
+### Voice and restraint in the variant
+
+- **Reverent, flat, and quick.** The prose is news-feature register: short declaratives, a comparison artifact, one rhetorical aside (*Fair enough.*) after the copyright sentence, and a concession after the stance. The emotion lives in frame choice and fate lines.
+- **Ornament is rare and aimed at the event, not at people.** "Harrowing", "unflinching", "burned into the American subconscious", "unthinkable specter", "stark, monolithic", "unsettling landscape of destruction". At about one per five captions this reads as reverence; more would read as scoring.
+- **One stance, one sentence, under "this author".** "In this author's view, the source film should remain up out of respect for its historical impact - testing the ultimate fair-use challenge. And copyright protections may eventually take everything down." Do not argue fair use in the body. "This author" appears once in 500 words, below the spoke's three to six per medium piece; acceptable for the form.
+- **Name the responders; never the civilians.** Rank, name, unit, fate for every firefighter, officer, and official. Civilians, the people who fell or jumped, and victims leaving the tower stay unnamed and undescribed ("The film grimly captures 'bangs' from jumpers throughout."). Do not call the people who fell "suicides": the New York City Medical Examiner classed all deaths on 9/11, including these, as homicides. The 12:41 caption's "victim suicides" conflicts with that and with the restraint above; "people who fell or jumped" holds.
+- **Honorifics.** Rank plus surname for responders; first names only for the Naudet brothers after the first mention and for the aide Ed Fahey on first reference. "Mr. Naudet" and "Mr. Hurley" are the two exceptions; pick one rule (the 114 "Mrs." rule was deliberate; this one drifted).
+- **Memorial links.** One fallen firefighter is linked to firehero.org (Halloran, frame 02) out of about 35 named. Link each named line-of-duty death on first appearance.
+
+### Sourcing and time-bound handling
+
+- **Primary:** one video URL, deep-linked 61 times, with the overlay's author and the uploader credited. **Secondary:** *Ordinary Heroes* by Pfeifer, cited by page, never given a title link, publisher, or year. Add the full citation in the key paragraph.
+- **Unsourced at analysis:** CNN acquired the material in 2016; the Peabody and the Emmy; the Cerberus MXL-V "saved lives"; Kehoe's "worldwide fame"; "Half of the twenty-three uniformed victims were from this unit" (my recollection is that NYPD ESU lost 14 of 23; confirm against the NYPD memorial); "Around 1,400 civilians and 200 FDNY are killed" at the North Tower collapse (the figure appears to blend the tower's total and the FDNY's; confirm the basis); "There are no survivors in that building" at the South Tower collapse (public records name survivors who were inside the South Tower stairwell, so scope the claim or source it); the FBI quotation (no page cite).
+- **Time-bound.** "Until September 2026, many never watched the film end to end", "recently passed", "before it's taken off the Internet", and the Social Post's "It likely won't last long" all depend on one upload staying live. Stamp the claim ("As of November 2026, the upload remained live"), capture the video and the page with archive.org, and add a revisit to the log. The stills in the essay are the surviving record; say so.
+- **Image provenance.** The frames are stills from a copyrighted work republished without CNN's permission. The caption credit for the hero frame or the key paragraph should say "frames from the YouTube upload"; keep the credit to the uploader and the overlay author.
+
+### Length and proofing
+
+Visual-essay tier: 400–600 prose words; 50–65 frames; caption median 20–30 words, ceiling 75; about 1,500–1,800 caption words in total. Proof every caption as its own paragraph.
+
+1. **Timecode audit.** Convert each label to seconds and compare to `t=`. Zero drift. In 115, 13 of 61 links differ from their label by 1–17 seconds (1:46, 7:02, 7:11, 9:24, 11:28, 1:01:07, 1:29:52, 1:38:41, 1:43:17, 1:43:51, 1:45:36, 1:49:28, 2:01:18) and 1:45:36 shares `t=6339` with 1:45:39. A one-off check:
+
+   ```python
+   import re
+   for l in open(path):
+       m = re.match(r'!\[\[([\d:]+)\]\(.*?[?&]t=(\d+)s', l)
+       if m:
+           s = 0
+           for p in m.group(1).split(':'): s = s * 60 + int(p)
+           if s != int(m.group(2)): print(m.group(1), s, m.group(2))
+   ```
+2. **Typo and referent pass.** 115: `enterance`, `Exteremly`, `injuried`, `communcations`, `Cheif` ×2, `enroute`, `Lt Vincent` (no period), an unclosed quotation mark at 1:16:32, "Chief Orio" for Orio Palmer, and the unit parenthetical in "Capt. Dennis Tardio speaking to Pfeifer (Engine 7)" that attaches to the wrong person. Memoir quotes carry the author's own transcription typos (`Exteremly`, `injuried`); fix them. Viewer comments are verbatim: the coda's "Pfeiffer" takes `[sic]` or the surname moves outside the quote.
+3. **Banned-word pass per caption.** Count `was` once per caption. 115 has `was` ×27 across 62 captions, six with two or more (images 18, 21, 25, 30, 38, and 46), because "was killed" is the fate sentence. Flip to "died when…", "the collapse killed…".
+4. **Dash style.** Spaced hyphen throughout ( - ). 115 mixes " - " (the Capt. Patrick Brown attribution) with unspaced hyphens used as dashes ("impact-testing", "perspective-for young or old-to watch").
+5. **As-of stamps and the archive link** (above).
+
+### Open items for the author (analyzed as an untracked draft)
+
+- Mechanical: the typo list above; the unclosed quote; the 13 timecode drifts; the shared `t=6339`.
+- Facts to source or soften: the eight unsourced claims above, plus "victim suicides".
+- Structure: no hashtag set in the Social Post; subtitle is circumstance rather than consequence (optional); no two-clock key; no as-of stamp; no archive link; no full citation for *Ordinary Heroes*.
+- Prose: "Following, the original tape was turned into a curated documentary" has no agent; `many` ×3, `likely` ×2, `would`, `should`, `allow`, `continue`, `eventually`, `now`, `both` appear in narrator prose (about 500 words); "Mr. Naudet" versus "Jules".
+- Frame labels: 22:04 and 5:51 label events over frames that sit on either side of the event.
+
 ## Sources
 
 History essays lean heavier on newspapers.com and local community records than the toy spoke leans on trade press, but the shape is the same: mosaic-triangulation, cited inline.
@@ -169,10 +271,11 @@ When a mechanical failure is the pivot of the essay, the mechanism must be descr
 - **Corporate-response subtitle**: "When Coal Spilled Into a Small Tennessee River, Convincing the Company to Invest In Roller Bearings". The subtitle names the second-order consequence, not the incident itself.
 - **Place-and-object** for a company or infrastructure piece: "The Louisville & Nashville Steam Fleet of the 1950s" (hypothetical).
 - **Named-crewman** for a laborer portrait: "John Payne, L&N Engineer" (hypothetical).
+- **Index-and-artifact** for a visual essay: "FDNY Heroes: Critical Timestamps in the Naudet 9/11 Film" (115). The people honored, a colon, the finding-aid noun (timestamps, frames), the artifact. The subtitle names the news hook; the last caption should echo the title word.
 - Subtitle after a colon is the norm. One clause. No bombast.
 - **Place-victims-year** for a documented-crime pair: "The Double Homicides of Ridgewood Children in 1964" (114). A count word ("Double") counts **incidents**, not victims; 114's own tally implies more child deaths than two, so define the count in the first sentence ("A RARE DOUBLE-TRAGEDY occurred …") and keep the title a headline, not a body count.
 - **"When …" subtitle.** 109 and 114 both open the subtitle with "When". 109's names the second-order consequence; 114's ("When Two Mothers Murdered Their Kids Months Apart") restates the first-order incident and leaves the consequence to the section headers. Prefer the 109 form: the subtitle is where the thesis lives. A candidate for 114: "When Two Mothers Murdered Their Kids Months Apart, New York Chose Commitment Over Trial".
-- **Hashtag line under the subtitle** (`#crime, #murder, #america, #newyork, #history` in 114; `#CurrentEvents, #History, …` in 105). Comma-separated, directly beneath the H2, before the hero image. Investigative-lane pieces carry it; the `## Social Post` set below stays space-separated.
+- **Hashtag line under the subtitle** (`#crime, #murder, #america, #newyork, #history` in 114; `#CurrentEvents, #History, …` in 105; `#911attacks, #fdny, #newyork, #history, #terrorism` in 115). Comma-separated, directly beneath the H2, before the hero image. Investigative-lane pieces carry it; the `## Social Post` set below stays space-separated.
 
 ## Diction and signature vocabulary
 
@@ -197,6 +300,7 @@ When a mechanical failure is the pivot of the essay, the mechanism must be descr
 - Medium: 2000–3500 (109 sits here).
 - Long: 3500–6000 for a multi-incident investigation or a company history piece.
 - Brief: 700–1200 for a documented-crime case pair (114, about 800 body words). Medium in the hub's tier table, below the incident lane's Short floor.
+- Visual essay: 400–600 prose words around 50–65 captioned frames (115: about 500 prose words, 62 images, about 1,770 caption words). Measure frames and caption median, not body words.
 - Section headers are narrative and short — "The Incredible Derailment", "The Rushed Clean Up", "A Hot Box Derailment", "A Legacy of Textiles and Rails". Three to six words. Adjective + noun is the most common shape. Argument sections in the crime variant take claim headers instead.
 
 ## Do
@@ -211,7 +315,8 @@ When a mechanical failure is the pivot of the essay, the mechanism must be descr
 - Test a pair of incidents against contemporaneous counter-cases before calling the shared outcome a pattern (documented-crime variant). Verify each counter-case and link it.
 - When a claim cannot be sourced, cut it. When an example is swapped for a sourced one, re-read the header and the lead sentence against it.
 - Name the state beside every comparison case; jurisdiction is the place.
-- Close every history essay with a `## Social Post` block, including the crime variant.
+- Close every history essay with a `## Social Post` block, including the crime and visual-essay variants, and give it the hashtag set (115's block has none).
+- Visual essays: derive each caption's label from its `t=` value (or the reverse) and run the timecode audit before publish. Put a key paragraph before the gallery. Put fate in one flat declarative. Name responders, link each to a memorial page. Stamp availability with an as-of date and archive the source.
 ## Don't
 
 - Don't apply UTS scaffolding (book promo block, "researcher and citizen journalist" bio claim, Undercover Toy Stories cross-references) to a history-spoke essay. Different corpus.
@@ -222,10 +327,24 @@ When a mechanical failure is the pivot of the essay, the mechanism must be descr
 - Don't dramatize a violent act against a child, and don't supply a diagnosis the sources do not state.
 - Don't publish a home address or a site photo for a private-citizen crime.
 - Don't claim "the only" or "the first" in American history without a hedge or a source. 114's "the only incidents in American history to occur in the same city, in the same year, with similar outcomes" is an unprovable superlative.
+- Don't reconstruct a scene over footage, and don't crop the burned-in clock from a frame.
+- Don't name civilians or describe the people who fell or jumped on 9/11, and don't call them suicides.
+- Don't put a casualty count, a unit tally, or an acquisition date in a caption without a source. A caption is a claim.
 
 ## Learning log
 
 <!-- Append dated bullets. Newest at top. Promote recurring patterns into the body above. -->
+
+- 2026-11-08: Pattern study of essay 115 ("FDNY Heroes: Critical Timestamps in the Naudet 9/11 Film"), the third history-spoke essay and the first **visual essay**. Analyzed as an untracked draft (the README already lists the Medium post). Opens the **visual-essay variant** documented above. Answers the 2026-11-01 question of which 109/114 patterns generalize a second time:
+  - **Generalized (now three data points: 109, 114, 115):** the category banner (`## ON AMERICAN HISTORY`); the ALL CAPS BOLD lead phrase on the first paragraph; the hashtag line directly under the subtitle; the hero image with a caption that carries a fact; "this author" for the one interpretive stance; a closing `## Social Post` block with the Medium URL; no UTS scaffolding. Promote the ALL CAPS BOLD lead and the hashtag line into the main anatomy as universal to the spoke. The Social Post hashtag set is the one expected element 115 omits.
+  - **109/114-specific (did not carry to 115):** reconstructed scene, site archaeology, mechanism with diagram, dollar-figure response, dedication, claim-bearing or adjective-plus-noun headers (115 has none), the precedent test, "Mrs." honorific, spaced-hyphen dash (115 mixes spaced and unspaced).
+  - **New moves:** the caption as the unit; the hyperlinked timecode as the citation; fate as a flat declarative; foreknowledge as the engine; the key paragraph before the gallery; the two-clock problem; a community overlay credited by handle; a sourced correction of the community record (Hurley/Horenor); responders named, civilians never; coda inverted into a viewer's comment; as-of stamp and archive link for a vanishing source.
+  - **Banned-word scan of narrator prose (about 500 words, 12 paragraphs, Social Post included):** `many` ×3, `that` ×2, `likely` ×2, `was` ×4, `this` ×3, `it` ×4, and one each of `some`, `may`, `like`, `eventually`, `now`, `had`, `continue`, `allow`, `should`, `both`, `would`. Captions (narrator text only; memoir quotes excluded in intent but not stripped in the count): `was` ×27, `many` ×7, `that` ×7, `this` ×8, `it` ×9, `only` ×3, `other`/`others` ×9, `would` ×4, `some` ×4, `like` ×4, `around` ×2, `still` ×2, plus single `think`, `got`, `much`, `can`, `both`. The fate sentence drives `was`; the group-frame sentences drive `other`/`others` and `many`.
+  - **Paragraph discipline held.** The opening block is five paragraphs of three to four sentences each; no paragraph breaks the Medium-bound cap. Captions average about two sentences and top out at 75 words.
+  - **Proofing results (author fixes pending):** 13 of 61 timecode links drift from their labels; one pair shares a `t=`; nine caption typos and name slips (`enterance`, `Exteremly`, `injuried`, `communcations`, `Cheif` ×2, `enroute`, `Lt Vincent`, `Chief Orio`), one unclosed quote, one misplaced unit parenthetical; eight unsourced factual claims; one phrase ("victim suicides") that conflicts with the Medical Examiner's classification.
+  - **Frame spot-check:** six frames checked against the burned-in clock. The wall-clock offset grows from 8:40:46 to 8:42:45 across the film (about two minutes of gaps), and the two impact captions sit on frames that fall on either side of the commonly cited impact times. The overlay is an estimate; the essay treats it as authoritative.
+  - **Open items for the author:** see "Open items for the author (analyzed as an untracked draft)" in the variant section.
+  - **Pending write-back questions for the author** (per the hub's protocol): Is the one-sentence preservation stance deliberate and meant to stay in the history voice? Does "Heroes" in the title stand as a deliberate exception to the spoke's no-romance rule (the last caption's Pfeifer quote earns it)? Should a key paragraph and a two-clock sentence be added before the gallery? Should every named fallen firefighter link to a memorial page? Should the viewer-comment coda replace the video coda as the spoke's default closer for footage pieces?
 
 - 2026-11-01 (follow-up): Review of the author's edits to 114 after the first analysis (`2029413` "More edits plus AI context", `a75a224` "Remove unverified trials"). The author acted on the open items in the same session, which makes this the first loop where analysis output fed a revision. Captured:
   - **Fixed as flagged:** "borough" → "neighborhood"; Yates "accepted a … verdict" → "was found not guilty by reason of insanity"; the soft line break before "One occurred in Georgia" (then moot).
