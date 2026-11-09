@@ -31,11 +31,11 @@ Quotes with page numbers are from *Ordinary Heroes* by FDNY Chief Joseph Pfeifer
 
 ![[6:50](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=410s) Chief Pfeifer said, "That looked like a direct attack." "Go, go to the World Trade Center," he said to Ed Fahey. p. 12.](images/115-06.jpeg)
 
-![[7:02](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=420s) A view of the towers while the unit is enroute.](images/115-07.jpeg)
+![[7:02](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=420s) A view of the towers while the unit is en route.](images/115-07.jpeg)
 
 ![[7:11](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=429s) Another view of the damage.](images/115-08.jpeg)
 
-![[9:24](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=563s) Closest view of the North Tower before Chief Pfeifer arrives at the enterance.](images/115-09.jpeg)
+![[9:24](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=563s) Closest view of the North Tower before Chief Pfeifer arrives at the entrance.](images/115-09.jpeg)
 
 ![[9:50](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=590s) Chief Pfeifer and crew pulls up to the North Tower. He wrote, "My bunker gear was in the back of the vehicle." p. 17.](images/115-10.jpeg)
 
@@ -67,7 +67,7 @@ Quotes with page numbers are from *Ordinary Heroes* by FDNY Chief Joseph Pfeifer
 
 ![[23:46](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=1426s&pp=0gcJCTEAlc8ueATH) Chief Bill McGovern (Battalion 1) instructs Lt. Mike Warchola and the rest of Ladder 5. Everybody in this huddle would be killed.](images/115-24.jpeg)
 
-![[24:20](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=1460s) Chief Orio Palmer (Battalion 7) was instructed by Chief Hayden to ascend the South Tower. Chief Orio became Pfeifer's counterpart in the South Tower but died when it collapsed. Pfeifer reflected, "Exteremly fit, Palmer made it to the 78th floor . . . with firefighters from Ladder 15 and other units, [they] ran up three dozen flights of stairs to rescue those who were injuried and trapped. It was their last act of bravery." p. 183.](images/115-25.jpeg)
+![[24:20](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=1460s) Chief Orio Palmer (Battalion 7) was instructed by Chief Hayden to ascend the South Tower. Chief Palmer became Pfeifer's counterpart in the South Tower but died when it collapsed. Pfeifer reflected, "Extremely fit, Palmer made it to the 78th floor . . . with firefighters from Ladder 15 and other units, [they] ran up three dozen flights of stairs to rescue those who were injured and trapped. It was their last act of bravery." p. 183.](images/115-25.jpeg)
 
 ![[25:36](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=1536s) Shortly after the second plane hit, North Tower employees realize the danger and begin running out of the building.](images/115-26.jpeg)
 
@@ -85,9 +85,9 @@ Quotes with page numbers are from *Ordinary Heroes* by FDNY Chief Joseph Pfeifer
 
 ![[38:18](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=2298s) Last view of the NYPD Emergency Service Unit going up into the North Tower. Half of the twenty-three uniformed victims were from this unit. Pfeifer wrote, "Some NYPD officers from ESU came into the towers." p. 35.](images/115-33.jpeg)
 
-![[39:07](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=2347s) Lt Vincent Francis Giammona (Ladder 5) was killed on his 40th birthday.](images/115-34.jpeg)
+![[39:07](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=2347s) Lt. Vincent Francis Giammona (Ladder 5) was killed on his 40th birthday.](images/115-34.jpeg)
 
-![[40:45](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=2445s) Chief Richard Prunty (Battalion 2) initially survived the collapse of the North Tower but later succumbed to his wounds. Chief Pfeifer reflected when Cheif Prunty was trapped after the South Tower collapse, "Unable to go down, the men talked to each other . . . Richard initially answered their roll call but died from his traumatic injuries." p. 71.](images/115-35.jpeg)
+![[40:45](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=2445s) Chief Richard Prunty (Battalion 2) initially survived the collapse of the North Tower but later succumbed to his wounds. Chief Pfeifer reflected when Chief Prunty was trapped after the South Tower collapse, "Unable to go down, the men talked to each other . . . Richard initially answered their roll call but died from his traumatic injuries." p. 71.](images/115-35.jpeg)
 
 ![[41:37](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=2497s) Chief Matthew Ryan (Battalion 4) to the right of Pfeifer. He did not survive.](images/115-36.jpeg)
 
@@ -113,7 +113,7 @@ Quotes with page numbers are from *Ordinary Heroes* by FDNY Chief Joseph Pfeifer
 
 ![[1:12:35](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=4355s) "This is a dangerous way to go out . . . because people are jumping."](images/115-47.jpeg)
 
-![[1:16:32](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=4592s) Chief Pfeifer recalled, "[FF Christian] Waugh scribbled 'Tower 1' on the marble top of the fire command station. p. 45.](images/115-48.jpeg)
+![[1:16:32](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=4592s) Chief Pfeifer recalled, "[FF Christian] Waugh scribbled 'Tower 1' on the marble top of the fire command station." p. 45.](images/115-48.jpeg)
 
 ![[1:16:58](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=4618s) South Tower collapses. There are no survivors in that building. "Never in the history of the FDNY had chiefs made a decision to abandon a burning building with over a thousand people in it." p. 46.](images/115-49.jpeg)
 
@@ -123,7 +123,7 @@ Quotes with page numbers are from *Ordinary Heroes* by FDNY Chief Joseph Pfeifer
 
 ![[1:29:52](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=5380s) Pfeifer and unidentified firefighter walk past a sculpture.](images/115-52.jpeg)
 
-![[1:32:10](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=5530s) Pfeifer and other find a safe exit. Chief Pfeifer later investigated and corrected the failings of communcations between NYPD and FDNY and wrote, "For twenty-nine minutes on 9/11, I had not known a whole building had collapsed." p. 205.](images/115-53.jpeg)
+![[1:32:10](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=5530s) Pfeifer and others find a safe exit. Chief Pfeifer later investigated and corrected the failings of communications between NYPD and FDNY and wrote, "For twenty-nine minutes on 9/11, I had not known a whole building had collapsed." p. 205.](images/115-53.jpeg)
 
 ![[1:33:50](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=5630s) A stark, monolithic look at the North Tower ten minutes before its collapse. This was Chief Pfeifer's view as he exited across the street.](images/115-54.jpeg)
 
@@ -141,7 +141,7 @@ Quotes with page numbers are from *Ordinary Heroes* by FDNY Chief Joseph Pfeifer
 
 ![[2:00:10](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=7210s) "I wonder how many guys we've lost?"](images/115-61.jpeg)
 
-![[2:01:18](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=7269s) NYPD officers greet each other, knowing that they survived. In total, 2,977 victims were killed that day. Of those, 343 FDNY firefighters were lost. Jules and Chief Pfeifer survived. Cheif Pfeifer later wrote, "a hero is one who does ordinary things in extraordinary times." p. 238.](images/115-62.jpeg)
+![[2:01:18](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=7269s) NYPD officers greet each other, knowing that they survived. In total, 2,977 victims were killed that day. Of those, 343 FDNY firefighters were lost. Jules and Chief Pfeifer survived. Chief Pfeifer later wrote, "a hero is one who does ordinary things in extraordinary times." p. 238.](images/115-62.jpeg)
 
 ---
 
