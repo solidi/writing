@@ -17,7 +17,7 @@ Within hours, YouTubers captured many important timestamps from key figures. For
 
 What follows are harrowing quotes from the film, along with identifications. Special thanks to @[BrettClement-89](https://www.youtube.com/@BrettClement-89) for helping with this work. This short visual essay captures the best frames of heroes leading rescue efforts, along with poignant summaries.
 
-Quotes with page numbers are from *Ordinary Heroes* by FDNY Chief Joseph Pfeifer.
+Quotes with page numbers are from *Ordinary Heroes* by FDNY Chief Joseph Pfeifer. Caption timecodes use elapsed video runtime; the burned-in clock shows a third-party estimate of local wall-clock time.
 
 ---
 
@@ -43,9 +43,9 @@ Quotes with page numbers are from *Ordinary Heroes* by FDNY Chief Joseph Pfeifer
 
 ![[11:28](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=682s) Lloyd Thomas, Port Authority fire safety director, approaches Chief Pfeifer as he enters North Tower. Chief Pfeifer wrote, "[Lloyd said] The plane hit the top of the building. Looks like fires are somewhere above the 78th floor." p. 19.](images/115-12.jpeg)
 
-![[12:23](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=743s) In this huddle, we see Capt. Dennis Tardio speaking to Pfeifer (Engine 7). Pfeifer said, "Find me working elevators," to Capt. Tardio. p. 19. Others in the frame include FF Christopher Mozillo (Engine 55), Lt. Stephen Harrell (Ladder 10), Lt. Peter Freund (Engine 55), and Lt. Vincent Halloran (Ladder 8). Only Tardio and Pfeifer would survive.](images/115-13.jpeg)
+![[12:23](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=743s) In this huddle, we see Capt. Dennis Tardio (Engine 7) speaking to Pfeifer. Pfeifer said, "Find me working elevators," to Capt. Tardio. p. 19. Others in the frame include FF Christopher Mozillo (Engine 55), Lt. Stephen Harrell (Ladder 10), Lt. Peter Freund (Engine 55), and Lt. Vincent Halloran (Ladder 8). Only Tardio and Pfeifer would survive.](images/115-13.jpeg)
 
-![[12:41](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=761s) "They're flying out the windows. I think they're jumping out the windows." Chief Pfeifer first encounters the unthinkable specter of victim suicides.](images/115-14.jpeg)
+![[12:41](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=761s) "They're flying out the windows. I think they're jumping out the windows." Chief Pfeifer first encounters people falling or jumping from the tower.](images/115-14.jpeg)
 
 ![[16:47](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=1007s) FDNY officially establishes the magnetic command board under Chief Hayden. Pfeifer wrote, "The board design dated back to World War II; it was effective." p. 22.](images/115-15.jpeg)
 
@@ -131,7 +131,7 @@ Quotes with page numbers are from *Ordinary Heroes* by FDNY Chief Joseph Pfeifer
 
 ![[1:43:17](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=6180s) Chief Pfeifer and Hayden meet safely in the street, surveying damage.](images/115-56.jpeg)
 
-![[1:43:51](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=6225s) The last minute of the North Tower before it fell.](images/115-57.jpeg)
+![[1:43:51](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=6225s) The North Tower shortly before it fell.](images/115-57.jpeg)
 
 ![[1:45:36](https://www.youtube.com/watch?v=ZHPzeXXwkZM&t=6339s) Rescued victims from the area.](images/115-58.jpeg)
 
